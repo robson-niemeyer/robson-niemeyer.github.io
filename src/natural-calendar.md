@@ -68,7 +68,7 @@ date: "2025-04-08"
 </section>
 
 <section class="section">
-  ## 🪾 Oitavo ciclo
+  ## ⛰️ Oitavo ciclo
   *(Meio do outono – Meio da noite – Meio da senescência)*
 
   - **Data:** N → 22 de outubro a 20 de novembro | S → 20 de abril a 20 de maio
@@ -77,7 +77,7 @@ date: "2025-04-08"
 </section>
 
 <section class="section">
-  ## ⛰️ Nono ciclo
+  ## 🏔️ Nono ciclo
   *(Final do outono – Final da noite – Final da senescência)*
 
   - **Data:** N → 21 de novembro a 20 de dezembro | S → 21 de maio a 20 de junho
