@@ -1,0 +1,23 @@
+:root {
+  --background-color: lch(100% 6.25 270);
+  --background-color-secondary: lch(87.5% 6.25 270);
+  --text-color: lch(12.5% 6.25 270);
+  --text-color-secondary: lch(25% 6.25 270);
+  --font-weight: 400;
+  --font-weight-bold: 700;
+  --font-weight-medium: 500;
+  --font-weight-light: 300;
+  --font-size: 1rem;
+  --font-size-h1: 2rem;
+  --font-size-h2: 1.5rem;
+  --font-size-h3: 1.125rem;
+  --font-size-small: 0.875rem;
+  --line-height: 1.5;
+  --line-height-title: 1.25;
+  --font-family: "Inter", sans-serif;
+  --font-family-title: "Inter Tight", "Inter", sans-serif;
+  --spacing: 1rem;
+  --spacing-large: 2rem;
+  --spacing-medium: 1.5rem;
+  --spacing-small: 0.5rem;
+}

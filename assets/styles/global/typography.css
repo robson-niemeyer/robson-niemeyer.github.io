@@ -1,0 +1,109 @@
+@font-face {
+  font-family: "Inter";
+  src: local("Inter"), url("../fonts/Inter-VariableFont_opsz,wght.ttf") format("truetype-variations");
+  font-optical-sizing: auto;
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter Tight";
+  src: local("Inter Tight"), url("../fonts/InterTight-VariableFont_wght.ttf") format("truetype-variations");
+  font-optical-sizing: auto;
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: local("Inter"), url("../fonts/Inter-Italic-VariableFont_opsz,wght.ttf") format("truetype-variations");
+  font-optical-sizing: auto;
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter Tight";
+  src: local("Inter Tight"), url("../fonts/InterTight-Italic-VariableFont_wght.ttf") format("truetype-variations");
+  font-optical-sizing: auto;
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+h1 {
+  font-family: var(--font-family-title);
+  font-size: var(--font-size-h1);
+  font-weight: var(--font-weight-bold);
+  letter-spacing: 1px;
+  line-height: var(--line-height-title);
+  margin-bottom: var(--spacing-small);
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: var(--font-family-title);
+  font-size: var(--font-size-h2);
+  font-weight: var(--font-weight-bold);
+  letter-spacing: 1px;
+  line-height: var(--line-height-title);
+  margin-bottom: var(--spacing-small);
+  text-transform: uppercase;
+}
+
+h3 {
+  font-family: var(--font-family-title);
+  font-size: var(--font-size-h3);
+  font-weight: var(--font-weight-medium);
+  letter-spacing: 1px;
+  line-height: var(--line-height-title);
+}
+
+p,
+ol,
+ul {
+  margin-bottom: var(--spacing);
+}
+
+p:last-child,
+ol:last-child,
+ul:last-child {
+  margin-bottom: 0;
+}
+
+.small {
+  font-size: var(--font-size-small);
+}
+
+strong,
+.text-bold {
+  font-weight: var(--font-weight-bold);
+}
+
+em,
+.text-italic {
+  font-style: italic;
+}
+
+a {
+  font-weight: 500;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all 330ms ease-out;
+}
+
+ol,
+ul {
+  list-style: inside;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}

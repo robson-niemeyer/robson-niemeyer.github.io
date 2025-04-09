@@ -1,0 +1,4 @@
+.header {
+  background-color: var(--background-color-secondary);
+  padding: var(--spacing-large) 0;
+}
