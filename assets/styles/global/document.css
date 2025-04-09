@@ -20,5 +20,5 @@ hr {
   background-color: var(--hr-color);
   display: block;
   height: 1px;
-  margin: var(--spacing) 0;
+  margin: var(--spacing-large) 0;
 }

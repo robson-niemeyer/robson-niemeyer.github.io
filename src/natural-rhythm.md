@@ -29,9 +29,9 @@ date: "2025-04-09"
 
   <hr />
 
-  ¹ Meio-dia  
-  ² Início da noite  
-  ³ Meia-noite
+  <span class="small">¹ Meio-dia</span>  
+  <span class="small">² Início da noite</span>  
+  <span class="small">³ Meia-noite</span>
 </section>
 
 <section class="section text-center">

@@ -50,7 +50,7 @@ h2 {
   font-weight: var(--font-weight-bold);
   letter-spacing: 1px;
   line-height: var(--line-height-title);
-  margin-bottom: var(--spacing-small);
+  margin: var(--spacing-large) 0 var(--spacing-small);
   text-transform: uppercase;
 }
 
