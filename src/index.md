@@ -5,7 +5,7 @@ date: "2025-04-09"
 ---
 
 <section class="section text-center">
-  [📅 Calendário Natural](natural-calendar.html)
+  [📅 Calendário Natural](/natural-calendar.html)
 
-  [🌿 Ritmo Natural](natural-rhythm.html)
+  [🌿 Ritmo Natural](/natural-rhythm.html)
 </section>
