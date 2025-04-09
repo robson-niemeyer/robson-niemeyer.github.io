@@ -1,5 +1,5 @@
 ---
-title: "🌅 Calendário Natural"
+title: "🌞 Calendário Natural"
 description: "Este calendário integra três eixos: o curso das estações (hemisfério norte/sul), a variação do dia e a progressão da vida humana."
 date: "2025-04-08"
 ---
