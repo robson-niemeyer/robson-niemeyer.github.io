@@ -19,11 +19,11 @@ date: "2025-04-09"
 
   – **Entre o crepúsculo e o nadir³**, abre-se a janela de ouro do sono profundo. Dormir nesse intervalo restaura a vitalidade, reorganiza a memória e renova o corpo num grau que nada mais consegue alcançar.
 
-  ☀️ A luz conduz.
+  A luz conduz.
 
-  🕊 O corpo segue.
+  O corpo segue.
 
-  🌱 Quem sincroniza, floresce —
+  Quem sincroniza, floresce —
 
   **reinando sobre si mesmo.**
 
