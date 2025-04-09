@@ -1,7 +1,7 @@
 ---
 title: "📅 Calendário Natural"
 description: "Este calendário integra três eixos: o curso das estações (hemisfério norte/sul), a variação do dia e a progressão da vida humana."
-date: "8 de Abril de 2025"
+date: "2025-04-08"
 ---
 
 <section class="section">

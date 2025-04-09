@@ -1,7 +1,7 @@
 ---
 title: "🌿 Ritmo Natural"
 description: "O corpo humano floresce e frutifica quando segue a luz."
-date: "9 de Abril de 2025"
+date: "2025-04-09"
 ---
 
 <section class="section">
