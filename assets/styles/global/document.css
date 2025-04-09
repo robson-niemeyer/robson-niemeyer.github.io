@@ -17,7 +17,7 @@ body {
 }
 
 hr {
-  background-color: var(--background-color-secondary);
+  background-color: var(--hr-color);
   display: block;
   height: 1px;
   margin: var(--spacing) 0;

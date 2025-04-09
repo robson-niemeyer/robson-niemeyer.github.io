@@ -2,7 +2,7 @@
   --background-color: lch(100% 6.25 270);
   --background-color-secondary: lch(87.5% 6.25 270);
   --text-color: lch(12.5% 6.25 270);
-  --text-color-secondary: lch(25% 6.25 270);
+  --text-color-secondary: lch(50% 6.25 270);
   --font-weight: 400;
   --font-weight-bold: 700;
   --font-weight-medium: 500;
@@ -20,4 +20,5 @@
   --spacing-large: 2rem;
   --spacing-medium: 1.5rem;
   --spacing-small: 0.5rem;
+  --hr-color: lch(75% 6.25 270);
 }
