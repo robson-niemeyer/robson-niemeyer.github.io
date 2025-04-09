@@ -1,5 +1,5 @@
 ---
-title: "🌿 Ritmo Natural"
+title: "🏕️ Ritmo Natural"
 description: "O corpo humano floresce e frutifica quando segue a luz."
 date: "2025-04-09"
 ---
