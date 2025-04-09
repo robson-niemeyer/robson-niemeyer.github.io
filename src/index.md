@@ -1,6 +1,6 @@
 ---
 title: "🏋️ Rob's Webpage"
-description: "Cronobiologia, calistenia e pesos."
+description: "Biohacking, cronobiologia, calistenia e pesos."
 date: "2025-04-09"
 ---
 
