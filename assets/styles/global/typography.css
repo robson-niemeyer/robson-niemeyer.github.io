@@ -95,6 +95,10 @@ a {
   transition: all 330ms ease-out;
 }
 
+a:any-link {
+  color: var(--text-color-link);
+}
+
 ol,
 ul {
   list-style: inside;

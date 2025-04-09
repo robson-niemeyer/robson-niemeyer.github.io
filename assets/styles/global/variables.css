@@ -3,6 +3,7 @@
   --background-color-secondary: lch(87.5% 6.25 270);
   --text-color: lch(12.5% 6.25 270);
   --text-color-secondary: lch(50% 6.25 270);
+  --text-color-link: lch(50% 75 270);
   --font-weight: 400;
   --font-weight-bold: 700;
   --font-weight-medium: 500;
