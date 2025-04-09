@@ -5,7 +5,7 @@ date: "2025-04-08"
 ---
 
 <section class="section">
-  ## 🌱 Primeiro ciclo
+  ## 🌅 Primeiro ciclo
   *(Início da primavera – Início da manhã – Início do crescimento)*
 
   - **Data:** N → 20 de março a 19 de abril | S → 22 de setembro a 21 de outubro
@@ -32,7 +32,7 @@ date: "2025-04-08"
 </section>
 
 <section class="section">
-  ## ☀️ Quarto ciclo
+  ## 🏙️ Quarto ciclo
   *(Início do verão – Início da tarde – Início do maturação)*
 
   - **Data:** N → 21 de junho a 21 de julho | S → 21 de dezembro a 19 de janeiro
@@ -59,7 +59,7 @@ date: "2025-04-08"
 </section>
 
 <section class="section">
-  ## 🍂 Sétimo ciclo
+  ## 🌆 Sétimo ciclo
   *(Início do outono – Início da noite – Início da senescência)*
 
   - **Data:** N → 22 de setembro a 21 de outubro | S → 20 de março a 19 de abril
@@ -68,7 +68,7 @@ date: "2025-04-08"
 </section>
 
 <section class="section">
-  ## ⛰️ Oitavo ciclo
+  ## 🍂 Oitavo ciclo
   *(Meio do outono – Meio da noite – Meio da senescência)*
 
   - **Data:** N → 22 de outubro a 20 de novembro | S → 20 de abril a 20 de maio
@@ -77,7 +77,7 @@ date: "2025-04-08"
 </section>
 
 <section class="section">
-  ## 🏔️ Nono ciclo
+  ## ⛰️ Nono ciclo
   *(Final do outono – Final da noite – Final da senescência)*
 
   - **Data:** N → 21 de novembro a 20 de dezembro | S → 21 de maio a 20 de junho
@@ -86,7 +86,7 @@ date: "2025-04-08"
 </section>
 
 <section class="section">
-  ## ❄️ Décimo ciclo
+  ## 🌌 Décimo ciclo
   *(Início do inverno – Início da madrugada – Início da terminalidade)*
 
   - **Data:** N → 21 de dezembro a 19 de janeiro | S → 21 de junho a 21 de julho
@@ -95,7 +95,7 @@ date: "2025-04-08"
 </section>
 
 <section class="section">
-  ## ☃️ Décimo primeiro ciclo
+  ## ❄️ Décimo primeiro ciclo
   *(Meio do inverno – Meio da madrugada – Meio da terminalidade)*
 
   - **Data:** N → 20 de janeiro a 18 de fevereiro | S → 22 de julho a 21 de agosto
