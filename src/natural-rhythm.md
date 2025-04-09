@@ -15,7 +15,7 @@ date: "2025-04-09"
 
   – **Do meio da tarde ao crepúsculo vespertino²**, o corpo atinge seu pico de potência física — melhor momento para treinamentos de força, resistência ou expressão corporal intensa.
 
-  – **No crepúsculo vespertino**, a luz do céu suaviza. A mente se volta ao afeto, à escuta, ao descanso e à criatividade sensível — como conversas profundas, escrita leve ou expressão artística sem cobrança.
+  – **No crepúsculo vespertino**, a luz do céu suaviza. A mente se volta ao afeto, à escuta, ao descanso e à criatividade sensível — como conversas profundas, leitura relaxante, escrita leve ou expressão artística sem cobrança.
 
   – **Entre o crepúsculo e o nadir³**, abre-se a janela de ouro do sono profundo. Dormir nesse intervalo restaura a vitalidade, reorganiza a memória e renova o corpo num grau que nada mais consegue alcançar.
 
@@ -30,7 +30,7 @@ date: "2025-04-09"
   <hr />
 
   ¹ Meio-dia  
-  ² In&iacute;cio da noite  
+  ² Início da noite  
   ³ Meia-noite
 </section>
 
