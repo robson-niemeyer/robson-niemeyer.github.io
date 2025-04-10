@@ -7,9 +7,9 @@ date: "2025-04-09"
 ![[Fonte: ChatGPT/OpenAI]](/assets/images/natural-rhythm.webp "As quatro fases do dia")
 
 <section class="section">
-  – **No início da manhã**, quando os raios do sol tocam diretamente o chão sob seus pés, aceite o chamado e exponha-se à luz vivificante. Esse é o verdadeiro início do dia biológico. Nesse momento, o corpo desperta com vitalidade e desejo — sendo também o horário mais propício para a intimidade e o alívio natural do impulso sexual.
+  – **No início da manhã**, quando os raios do sol tocam diretamente o chão sob seus pés, aceite o chamado e exponha-se à luz vivificante. É nesse instante que o verdadeiro dia biológico começa. Nesse momento, o corpo desperta com vitalidade e desejo — sendo também o horário mais propício para a intimidade e o alívio natural do impulso sexual.
 
-  – **Do meio da manhã até o zênite solar¹**, a mente atinge seu auge de foco profundo — ideal para a resolução de problemas complexos, escrita concentrada, decisões estratégicas ou estudo exigente.
+  – **Do meio da manhã até o zênite solar¹**, a mente atinge seu auge de foco profundo — ideal para resolver problemas complexos, escrever com concentração, decidir com estratégia ou estudar com exigência.
 
   – **O zênite solar** marca a hora do almoço e do recuo — a mente começa a sair do modo focado e entra em estado contemplativo.
 
@@ -19,7 +19,7 @@ date: "2025-04-09"
 
   – **No crepúsculo vespertino**, a luz do céu suaviza. A mente se volta ao afeto, à escuta, ao descanso e à criatividade sensível — como conversas profundas, leitura relaxante, escrita leve ou expressão artística sem cobrança.
 
-  – **Entre o crepúsculo e o nadir³**, abre-se a janela de ouro do sono profundo. Dormir nesse intervalo restaura a vitalidade, reorganiza a memória e renova o corpo num grau que nada mais consegue alcançar.
+  – **Entre o crepúsculo e o nadir³**, abre-se a janela de ouro do sono profundo. Dormir nesse intervalo restaura a vitalidade, reorganiza a memória e renova o corpo como nada mais consegue.
 
   A luz conduz.
 
