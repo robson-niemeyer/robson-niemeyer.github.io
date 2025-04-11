@@ -56,6 +56,7 @@ date: 2025-04-11
 *(Tempo total: 700 min)*
 
 **10 min Checkpoint:** Encerramento metabólico e cognitivo da fase ativa.
+
 **120 min Desligamento Noturno:** Desaceleração progressiva. Atividades de baixa estimulação, luz reduzida, protocolos de higiene do sono. Serve como oposto complementar da Ativação Matinal.
 
 **570 min Descanso Profundo:** Sono profundo em ambiente escuro, silencioso e com temperatura ideal.
