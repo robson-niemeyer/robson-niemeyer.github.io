@@ -5,9 +5,11 @@ date: "2025-04-09"
 ---
 
 <section class="section text-center">
-  [✅ Protocolo de Checkpoints](/checkpoints-protocol/)
+[⏱️ Modelo de Cronograma](/schedule-template/)
 
-  [🏕️ Ritmo Natural](/natural-rhythm/)
+[✅ Protocolo de Checkpoint](/checkpoint-protocol/)
 
-  [🌞 Calendário Natural](/natural-calendar/)
+[🏕️ Ritmo Natural](/natural-rhythm/)
+
+[🌞 Calendário Natural](/natural-calendar/)
 </section>
