@@ -4,6 +4,8 @@ description: "Momentos estratégicos do dia para ler o corpo e a mente. São opo
 date: 2025-04-11
 ---
 
+![[Fonte: Sage Friedman / Unsplash]](/assets/images/sage-friedman-HS5CLnQbCOc-unsplash.jpg "Pôr do sol")
+
 <section class="section">
 **Avaliar:**
 

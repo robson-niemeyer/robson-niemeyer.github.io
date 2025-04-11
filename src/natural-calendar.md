@@ -4,6 +4,8 @@ description: "Este calendário integra três eixos: o curso das estações, a va
 date: "2025-04-08"
 ---
 
+![[Fonte: Ivana Cajina / Unsplash]](/assets/images/ivana-cajina-dQejX2ucPBs-unsplash.jpg "Pôr do sol")
+
 <section class="section">
 ## 1. Primeiro ciclo
 *(Início da primavera – Início da manhã – Início do crescimento)*

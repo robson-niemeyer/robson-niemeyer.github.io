@@ -4,6 +4,8 @@ description: "Estruturação do dia alinhada com ritmos ultradianos, exposição
 date: 2025-04-11
 ---
 
+![[Fonte: Afshin T2Y / Unsplash]](/assets/images/afshin-t2y-3_PVkGcXqgQ-unsplash.jpg "Pôr do sol")
+
 <section class="section">
 ## 06:40 – Fase 1
 *(Tempo total: 100 min)*

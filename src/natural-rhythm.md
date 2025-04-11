@@ -4,7 +4,7 @@ description: "O corpo humano floresce e frutifica quando segue a luz."
 date: "2025-04-09"
 ---
 
-![[Fonte: ChatGPT/OpenAI]](/assets/images/natural-rhythm.webp "As quatro fases do dia")
+![[Fonte: Dave Hoefler / Unsplash]](/assets/images/dave-hoefler-a3e7yEtQxJs-unsplash.jpg "Pôr do sol")
 
 <section class="section">
 **No início da manhã**, quando os raios do sol tocam diretamente o chão sob seus pés, aceite o chamado e exponha-se à luz vivificante. É nesse instante que o verdadeiro dia biológico começa. Nesse momento, o corpo desperta com vitalidade e desejo — sendo também o horário mais propício para a intimidade e o alívio natural do impulso sexual.
