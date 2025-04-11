@@ -5,7 +5,9 @@ date: "2025-04-09"
 ---
 
 <section class="section text-center">
-  [🌞 Calendário Natural](/natural-calendar/)
+  [✅ Protocolo de Checkpoints](/checkpoints-protocol/)
 
   [🏕️ Ritmo Natural](/natural-rhythm/)
+
+  [🌞 Calendário Natural](/natural-calendar/)
 </section>

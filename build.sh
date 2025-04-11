@@ -1,9 +1,33 @@
 #!/bin/sh
 
-set -- "index" "natural-calendar" "natural-rhythm"
+# Directory of markdown files without trailing slash
+DIR="src"
 
-[ ! -d "$1" ] && mkdir "$1" ; pandoc src/"$1".md -o "$1".html --template=layouts/default.html
-[ ! -d "$2" ] && mkdir "$2" ; pandoc src/"$2".md -o "$2"/index.html --template=layouts/default.html
-[ ! -d "$3" ] && mkdir "$3" ; pandoc src/"$3".md -o "$3"/index.html --template=layouts/default.html
+# If no arguments are passed
+if [ $# -eq 0 ]; then
+  # Pass all markdown files as arguments
+  set -- $(ls "$DIR" | awk -v DIR="$DIR" '{print DIR "/" $0}')
+fi
 
+for filepath in "$@"; do
+  # If the argument references an existing file
+  if [ -e "$filepath" ]; then
+    # Extract filename without extension
+    filename=$(basename "$filepath" .md)
+    # If isn't the index
+    if [ "$filename" != "index" ]; then
+      # Generate the directory for that HTML page
+      [ ! -d "$filename" ] && mkdir "$filename"
+      # Generate the HTML page inside that directory
+      pandoc "$filepath" -o "$filename"/index.html --template=layouts/default.html
+    else
+      # Generate index.html in root directory
+      pandoc "$filepath" -o index.html --template=layouts/default.html
+    fi
+  fi
+done
+
+# Generate compiled and minified CSS
 cleancss -o assets/styles/style.min.css "$(echo -n assets/styles/global/{reset,variables,typography,document}.css)" "$(echo -n assets/styles/layout/{header,section,footer}.css)" "$(echo -n assets/styles/elements/{container,images}).css"
+
+exit 1
