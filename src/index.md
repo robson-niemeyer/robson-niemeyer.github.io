@@ -1,6 +1,6 @@
 ---
 title: "🏋️ Rob's Webpage"
-description: "Biohacking e cronobiologia"
+description: "Alta performance, biohacking e cronobiologia"
 date: "2025-04-09"
 ---
 
