@@ -7,17 +7,19 @@ date: 2025-04-11
 ![[Fonte: Afshin T2Y / Unsplash]](/assets/images/afshin-t2y-3_PVkGcXqgQ-unsplash.jpg "Pôr do sol")
 
 <section class="section">
-## 06:40 – Fase 1
-*(Tempo total: 100 min)*
+## 06:40 – Fase 1: Primórdio
+*(Transição do repouso para o estado ativo com foco em clareza, energia e alinhamento – Tempo total: 80 min)*  
 
 **40 min Ativação Matinal:** Respiração consciente, mobilidade e ativação neural. Este bloco atua como rito de transição do estado de repouso para o modo ativo.
 
 **20 min Exposição Solar:** Exposição direta à luz solar quando os primeiros raios tocam o solo. Marca o início do dia circadiano e serve como tempo de referência para o restante da estrutura.
 
-**40 min Café da Manhã Low-Carb:** Refeição leve, com ênfase em lipídios e proteínas para manter estabilidade glicêmica e energética.
+**20 min Café da Manhã Low-Carb:** Refeição leve, com ênfase em lipídios e proteínas para manter estabilidade glicêmica e energética.
 
-## 08:20 – Fase 2
-*(Tempo total: 330 min)*
+## 08:00 – Fase 2: Forja Cognitiva  
+*(Alta performance cognitiva em ciclos ultradianos, guiados por checkpoints e ritmos internos – Tempo total: 340 min)*  
+
+**10 min Preparação do Ambiente:** Organização intencional do espaço físico e digital, eliminando ruídos, distrações e pendências para permitir imersão cognitiva plena.
 
 **10 min Checkpoint:** Avaliação inicial do estado físico e mental para transição segura ao modo cognitivo profundo.
 
@@ -35,8 +37,8 @@ date: 2025-04-11
 
 **20 min Modo Difuso:** Recuperação final da fase, preparando transição para a fase seguinte.
 
-## 13:50 – Fase 3
-*(Tempo total: 310 min)*
+## 13:40 – Fase 3: Expressão Vital  
+*(Criação, movimento e reconstrução metabólica como expressão plena da energia gerada – Tempo total: 310 min)*  
 
 **10 min Checkpoint:** Checando energia, clareza e motivação para as atividades de recuperação e criatividade.
 
@@ -46,20 +48,24 @@ date: 2025-04-11
 
 **40 min Pré-Treino:** Foco respiratório, mobilidade e ativação neural.
 
-**80 min Treino de Alta Intensidade** Treino estruturado com foco em força, potência e resistência, usando movimentos compostos e estímulo neuromuscular.
+**80 min Treino de Alta Intensidade:** Foco em força, potência e resistência com movimentos compostos e estímulo neuromuscular.
 
-**20 min Alongamento Corporal** Alongamento intencional para liberar tensões, restaurar mobilidade e favorecer a transição do estado ativo para o desligamento progressivo.
+**20 min Alongamento Corporal:** Alongamento intencional para liberar tensões, restaurar mobilidade e favorecer a transição do estado ativo para o desligamento progressivo.
 
 **40 min Refeição Pós-Treino:** Refeição de recuperação, priorizando proteínas e eletrólitos.
 
-## 19:00 – Fase 4
-*(Tempo total: 700 min)*
+## 18:50 – Fase 4: Retorno ao Eixo  
+*(Desaceleração gradual rumo ao repouso restaurador – Tempo total: 170 min)*  
 
 **10 min Checkpoint:** Encerramento metabólico e cognitivo da fase ativa.
 
-**120 min Desligamento Noturno:** Desaceleração progressiva. Atividades de baixa estimulação, luz reduzida, protocolos de higiene do sono. Serve como oposto complementar da Ativação Matinal.
+**160 min Desligamento Noturno:** Desaceleração progressiva. Atividades de baixa estimulação, luz reduzida, protocolos de higiene do sono. Serve como oposto complementar da Ativação Matinal.
 
-**570 min Descanso Profundo:** Sono profundo em ambiente escuro, silencioso e com temperatura ideal.
+
+## 21:40 – Margem Noturna – Sono Regenerativo  
+*(Zona fora do ciclo ativo, dedicada à restauração total – Tempo total: 540 min)*  
+
+**540 min Descanso Profundo:** Sono profundo em ambiente escuro, silencioso e com temperatura ideal.
 </section>
 
 <section class="section text-center">[🔙 Voltar](/)</section>
