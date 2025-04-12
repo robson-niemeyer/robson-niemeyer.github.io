@@ -1,7 +1,8 @@
 ---
 title: "⏱️ Modelo de Cronograma"
 description: "Estruturação do dia alinhada com ritmos ultradianos, exposição solar, checkpoints estratégicos e máxima performance cognitiva e física."
-date: 2025-04-11
+publication_date: 2025-04-11
+update_date: 2025-04-12
 ---
 
 ![[Fonte: Afshin T2Y / Unsplash]](/assets/images/afshin-t2y-3_PVkGcXqgQ-unsplash.jpg "Pôr do sol")

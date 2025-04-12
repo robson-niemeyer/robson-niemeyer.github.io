@@ -1,7 +1,8 @@
 ---
 title: "🌞 Calendário Natural"
 description: "Este calendário integra três eixos: o curso das estações, a variação do dia e a progressão da vida humana."
-date: "2025-04-08"
+publication_date: 2025-04-08
+update_date: 2025-04-12
 ---
 
 ![[Fonte: Ivana Cajina / Unsplash]](/assets/images/ivana-cajina-dQejX2ucPBs-unsplash.jpg "Pôr do sol")
@@ -10,9 +11,12 @@ date: "2025-04-08"
 ## 1. Primeiro ciclo
 *(Início da primavera – Início da manhã – Início do crescimento)*
 
-**Data:** N → 20 de março a 19 de abril | S → 22 de setembro a 21 de outubro  
+**Data:** N[^1] → 20 de março a 19 de abril | S[^2] → 22 de setembro a 21 de outubro  
 **Hora:** 06:00 às 07:59 h  
 **Idade:** 0 a 99 lunações
+
+[^1]: N: Hemisfério Norte.
+[^2]: S: Hemisfério Sul.
 
 ## 2. Segundo ciclo
 *(Meio da primavera – Meio da manhã – Meio do crescimento)*
@@ -91,10 +95,5 @@ date: "2025-04-08"
 **Hora:** 04:00 às 05:59 h  
 **Idade:** 1100 a 1199 lunações
 </section>
-
-<hr />
-
-<span class="small">N: Hemisfério Norte</span>  
-<span class="small">S: Hemisfério Sul</span>
 
 <section class="section text-center">[🔙 Voltar](/)</section>

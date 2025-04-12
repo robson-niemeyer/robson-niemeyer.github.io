@@ -1,7 +1,8 @@
 ---
 title: "✅ Protocolo de Checkpoint"
 description: "Momentos estratégicos do dia para ler o corpo e a mente. São oportunidades de ajuste fino, alinhamento e consciência."
-date: 2025-04-11
+publication_date: 2025-04-11
+update_date: 2025-04-11
 ---
 
 ![[Fonte: Sage Friedman / Unsplash]](/assets/images/sage-friedman-HS5CLnQbCOc-unsplash.jpg "Pôr do sol")

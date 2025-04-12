@@ -75,7 +75,8 @@ ul:last-child {
 }
 
 sup,
-.text-small {
+.text-small,
+li[id^="fn"] {
   font-size: var(--font-size-small);
 }
 
@@ -102,7 +103,12 @@ a:any-link {
 
 ol,
 ul {
-  list-style: inside;
+  list-style: none;
+}
+
+li {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .text-center {
