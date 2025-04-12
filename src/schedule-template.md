@@ -19,9 +19,9 @@ date: 2025-04-11
 ## 08:00 – Fase 2: Forja Cognitiva  
 *(Alta performance cognitiva em ciclos ultradianos, guiados por checkpoints e ritmos internos – Tempo total: 340 min)*  
 
-**10 min Preparação do Ambiente:** Organização intencional do espaço físico e digital, eliminando ruídos, distrações e pendências para permitir imersão cognitiva plena.
-
 **10 min Checkpoint:** Avaliação inicial do estado físico e mental para transição segura ao modo cognitivo profundo.
+
+**10 min Preparação do Ambiente:** Organização intencional do espaço físico e digital, eliminando ruídos, distrações e pendências para permitir imersão cognitiva plena.
 
 **20 min Monitoramento de Ondas:** Leitura ativa de sinais fisiológicos e mentais para iniciar o ciclo no ponto de maior prontidão.
 
