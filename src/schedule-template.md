@@ -9,64 +9,65 @@ update_date: 2025-04-12
 
 <section class="section">
 ## 06:40 – Fase 1: Primórdio
-*(Transição do repouso para o estado ativo com foco em clareza, energia e alinhamento – Tempo total: 80 min)*  
+*(Transição do estado de repouso para a prontidão física e mental – Tempo total: 90 min)*  
 
-**40 min Ativação Matinal:** Respiração consciente, mobilidade e ativação neural. Este bloco atua como rito de transição do estado de repouso para o modo ativo.
+**40 min Ativação Matinal:** Exercícios leves de respiração, alongamento e movimento para acordar o corpo e ativar o sistema nervoso.
 
-**20 min Exposição Solar:** Exposição direta à luz solar quando os primeiros raios tocam o solo. Marca o início do dia circadiano e serve como tempo de referência para o restante da estrutura.
+**20 min Exposição Solar:** Contato direto com o sol ao nível do solo, ajudando a regular o relógio biológico e marcar o início do dia.
 
-**20 min Café da Manhã Low-Carb:** Refeição leve, com ênfase em lipídios e proteínas para manter estabilidade glicêmica e energética.
+**20 min Café da Manhã Low-Carb:** Refeição leve com foco em proteínas e gorduras boas, favorecendo saciedade e energia estável.
 
-## 08:00 – Fase 2: Forja Cognitiva  
-*(Alta performance cognitiva em ciclos ultradianos, guiados por checkpoints e ritmos internos – Tempo total: 340 min)*  
+**10 min Preparação do Ambiente:** Organização do espaço físico e digital para trabalho sem distrações ou pendências.
 
-**10 min Checkpoint:** Avaliação inicial do estado físico e mental para transição segura ao modo cognitivo profundo.
+## 08:10 – Fase 2: Forja Cognitiva
+*(Ciclos de foco intenso com pausas estratégicas – Tempo total: 330 min)*  
 
-**10 min Preparação do Ambiente:** Organização intencional do espaço físico e digital, eliminando ruídos, distrações e pendências para permitir imersão cognitiva plena.
+**10 min Checkpoint:** Checagem rápida do estado físico e mental para entrar no modo de trabalho concentrado.
 
-**20 min Monitoramento de Ondas:** Leitura ativa de sinais fisiológicos e mentais para iniciar o ciclo no ponto de maior prontidão.
+**20 min Monitoramento de Ondas:** Observação atenta dos sinais internos para encontrar o melhor momento de começar o ciclo de foco.
 
-**80 min Foco Profundo:** Trabalho cognitivo de alta intensidade, em ambiente controlado e livre de distrações.
+**80 min Foco Profundo:** Tarefas complexas com atenção total, em ambiente silencioso e sem interrupções.
 
-**20 min Modo Difuso:** Descanso neural ativo. Evitar tarefas mecânicas, cognitivas ou uso de telas.
+**20 min Modo Difuso:** Caminhada leve, relaxamento em silêncio ou contemplação — sem telas nem esforço mental.
 
-**80 min Foco Profundo:** Continuação de foco intenso para resolução de problemas ou produção densa.
+**80 min Foco Profundo:** Continuação do trabalho intenso com foco em resolver problemas ou criar algo de valor.
 
-**20 min Modo Difuso:** Reestabilização fisiológica e mental para manter performance sustentável.
+**20 min Modo Difuso:** Alongamento leve, chá ou respiração lenta — ajudando o cérebro a descansar.
 
-**80 min Foco Moderado:** Atividades cognitivas intermediárias, resolução de problemas, revisões e sínteses.
+**80 min Foco Moderado:** Atividades mais leves como revisão, organização ou planejamento.
 
-**20 min Modo Difuso:** Recuperação final da fase, preparando transição para a fase seguinte.
+**20 min Modo Difuso:** Leitura leve, música suave ou pausa mental — preparando o encerramento da fase.
 
-## 13:40 – Fase 3: Expressão Vital  
-*(Criação, movimento e reconstrução metabólica como expressão plena da energia gerada – Tempo total: 310 min)*  
+## 13:40 – Fase 3: Expressão Vital
+*(Atividades criativas, físicas e de recuperação – Tempo total: 300 min)*  
 
-**10 min Checkpoint:** Checando energia, clareza e motivação para as atividades de recuperação e criatividade.
+**10 min Checkpoint:** Verificação rápida de energia e disposição para atividades criativas e físicas.
 
-**40 min Almoço Nutritivo:** Refeição densa em nutrientes, com ênfase em carboidratos complexos e fibras.
+**40 min Almoço Nutritivo:** Refeição equilibrada com carboidratos, fibras e vitaminas para repor energia após o esforço mental.
 
-**80 min Trabalho Criativo:** Geração de ideias, conexões cruzadas, exploração conceitual ou expressão construtiva.
+**80 min Trabalho Criativo:** Geração de ideias, escrita livre, experimentação ou qualquer expressão criativa produtiva.
 
-**40 min Pré-Treino:** Foco respiratório, mobilidade e ativação neural.
+**10 min Preparação do Ambiente:** Organize o espaço e materiais para minimizar distrações e otimizar o foco no treino.
 
-**80 min Treino de Alta Intensidade:** Foco em força, potência e resistência com movimentos compostos e estímulo neuromuscular.
+**20 min Pré-Treino:** Aquecimento com alongamentos, respiração e movimentos preparatórios.
 
-**20 min Alongamento Corporal:** Alongamento intencional para liberar tensões, restaurar mobilidade e favorecer a transição do estado ativo para o desligamento progressivo.
+**80 min Treino de Alta Intensidade:** Exercícios fortes, como musculação ou treino funcional, para desenvolver força e resistência.
 
-**40 min Refeição Pós-Treino:** Refeição de recuperação, priorizando proteínas e eletrólitos.
+**20 min Alongamento Corporal:** Alongamento e relaxamento muscular para soltar o corpo e iniciar a desaceleração.
 
-## 18:50 – Fase 4: Retorno ao Eixo  
-*(Desaceleração gradual rumo ao repouso restaurador – Tempo total: 170 min)*  
+**40 min Refeição Pós-Treino:** Refeição leve com proteínas, sais minerais e água para recuperar energia.
 
-**10 min Checkpoint:** Encerramento metabólico e cognitivo da fase ativa.
+## 18:40 – Fase 4: Retorno ao Eixo
+*(Desligamento gradual do corpo e da mente – Tempo total: 170 min)*  
 
-**160 min Desligamento Noturno:** Desaceleração progressiva. Atividades de baixa estimulação, luz reduzida, protocolos de higiene do sono. Serve como oposto complementar da Ativação Matinal.
+**10 min Checkpoint:** Fechamento consciente do dia ativo; início da preparação para o descanso.
 
+**160 min Desligamento Noturno:** Luz baixa, silêncio e calma. Práticas de relaxamento, leitura leve e preparação para dormir bem.
 
-## 21:40 – Margem Noturna – Sono Regenerativo  
-*(Zona fora do ciclo ativo, dedicada à restauração total – Tempo total: 540 min)*  
+## 21:30 – Margem Noturna – Sono Regenerativo
+*(Sono contínuo focado em recuperação física e mental – Tempo total: 560 min)*  
 
-**540 min Descanso Profundo:** Sono profundo em ambiente escuro, silencioso e com temperatura ideal.
+**550 min Descanso Profundo:** Sono em ambiente escuro, silencioso e fresco, favorecendo a recuperação do corpo e da mente.
 </section>
 
 <section class="section text-center">[🔙 Voltar](/)</section>

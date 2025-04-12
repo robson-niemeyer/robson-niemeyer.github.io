@@ -6,6 +6,10 @@ update_date: 2025-04-11
 ---
 
 <section class="section text-center">
+> Teu corpo é sinfonia viva,  
+> Ondas ressoam teu tempo interno —  
+> Toma tua batuta. Reina teu ritmo.
+
 [⏱️ Modelo de Cronograma](/schedule-template/)
 
 [✅ Protocolo de Checkpoint](/checkpoint-protocol/)

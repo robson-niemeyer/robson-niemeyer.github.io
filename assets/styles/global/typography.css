@@ -64,13 +64,15 @@ h3 {
 
 p,
 ol,
-ul {
+ul,
+blockquote {
   margin-bottom: var(--spacing);
 }
 
 p:last-child,
 ol:last-child,
-ul:last-child {
+ul:last-child,
+blockquote:last-child {
   margin-bottom: 0;
 }
 
@@ -109,6 +111,11 @@ ul {
 li {
   display: flex;
   flex-wrap: wrap;
+}
+
+blockquote {
+  color: var(--text-color-secondary);
+  font-style: italic;
 }
 
 .text-center {
