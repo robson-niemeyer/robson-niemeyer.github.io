@@ -65,7 +65,7 @@ update_date: 2025-04-12
 **160 min Desligamento Noturno:** Luz baixa, silêncio e calma. Práticas de relaxamento, leitura leve e preparação para dormir bem.
 
 ## 21:30 – Margem Noturna – Sono Regenerativo
-*(Sono contínuo focado em recuperação física e mental – Tempo total: 560 min)*  
+*(Sono contínuo focado em recuperação física e mental – Tempo total: 550 min)*  
 
 **550 min Descanso Profundo:** Sono em ambiente escuro, silencioso e fresco, favorecendo a recuperação do corpo e da mente.
 </section>
