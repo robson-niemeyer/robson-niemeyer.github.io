@@ -5,7 +5,7 @@ publication_date: 2025-04-08
 update_date: 2025-04-12
 ---
 
-![[Fonte: Ivana Cajina / Unsplash]](/assets/images/ivana-cajina-dQejX2ucPBs-unsplash.jpg "Pôr do sol")
+![[Fonte: Ivana Cajina / Unsplash]](/assets/images/ivana-cajina-dQejX2ucPBs-unsplash.jpg "Imagem de capa")
 
 <section class="section">
 ## 1. Primeiro ciclo

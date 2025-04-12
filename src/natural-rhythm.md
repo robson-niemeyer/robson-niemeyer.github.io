@@ -6,7 +6,7 @@ publication_date: 2025-04-09
 update_date: 2025-04-12
 ---
 
-![[Fonte: Dave Hoefler / Unsplash]](/assets/images/dave-hoefler-a3e7yEtQxJs-unsplash.jpg "Pôr do sol")
+![[Fonte: Dave Hoefler / Unsplash]](/assets/images/dave-hoefler-a3e7yEtQxJs-unsplash.jpg "Imagem de capa")
 
 <section class="section">
 Teu corpo é sinfonia viva,

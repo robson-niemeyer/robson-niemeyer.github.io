@@ -5,7 +5,7 @@ publication_date: 2025-04-11
 update_date: 2025-04-11
 ---
 
-![[Fonte: Sage Friedman / Unsplash]](/assets/images/sage-friedman-HS5CLnQbCOc-unsplash.jpg "Pôr do sol")
+![[Fonte: Sage Friedman / Unsplash]](/assets/images/sage-friedman-HS5CLnQbCOc-unsplash.jpg "Imagem de capa")
 
 <section class="section">
 A ideia aqui é manter as coisas simples.
