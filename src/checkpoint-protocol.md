@@ -12,10 +12,10 @@ A ideia aqui é manter as coisas simples.
 
 **Avalie:**
 
-* Energia física
-* Clareza mental
-* Estabilidade emocional
-* Motivação
+- • <p>Energia física</p>
+- • <p>Clareza mental</p>
+- • <p>Estabilidade emocional</p>
+- • <p>Motivação</p>
 
 Evite registros excessivos. O foco está na leitura interna e decisão prática.
 

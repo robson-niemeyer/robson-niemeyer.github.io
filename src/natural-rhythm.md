@@ -29,13 +29,10 @@ update_date: 2025-04-12
 
 [^3]: Nadir: meia-noite.
 
-A luz conduz.
-
-O corpo segue.
-
-Quem sincroniza, floresce —
-
-**reinando sobre si mesmo.**
+- <p>A luz conduz.</p>
+- <p>O corpo segue.</p>
+- <p>Quem sincroniza, floresce —</p>
+- <p>**reinando sobre si mesmo.**</p>
 </section>
 
 <section class="section text-center">[🔙 Voltar](/)</section>

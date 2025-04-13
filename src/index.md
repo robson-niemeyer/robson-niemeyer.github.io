@@ -5,16 +5,18 @@ publication_date: 2025-04-09
 update_date: 2025-04-11
 ---
 
-<section class="section text-center">
+<section class="section">
 > Teu corpo é sinfonia viva,  
 > Ondas ressoam teu tempo interno —  
 > Toma tua batuta. Reina teu ritmo.
 
-[⏱️ Modelo de Cronograma](/schedule-template/)
+<h2>Meus artigos:</h2>
 
-[✅ Protocolo de Checkpoint](/checkpoint-protocol/)
+- [⏱️ Modelo de Cronograma](/schedule-template/)
 
-[🏕️ Ritmo Natural](/natural-rhythm/)
+- [✅ Protocolo de Checkpoint](/checkpoint-protocol/)
 
-[🌞 Calendário Natural](/natural-calendar/)
+- [🏕️ Ritmo Natural](/natural-rhythm/)
+
+- [🌞 Calendário Natural](/natural-calendar/)
 </section>

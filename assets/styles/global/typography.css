@@ -64,15 +64,13 @@ h3 {
 
 p,
 ol,
-ul,
-blockquote {
+ul {
   margin-bottom: var(--spacing);
 }
 
 p:last-child,
 ol:last-child,
-ul:last-child,
-blockquote:last-child {
+ul:last-child {
   margin-bottom: 0;
 }
 
@@ -105,17 +103,27 @@ a:any-link {
 
 ol,
 ul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
   list-style: none;
 }
 
 li {
   display: flex;
   flex-wrap: wrap;
+  gap: 0.5rem;
 }
 
 blockquote {
+  background-color: var(--background-color-secondary);
+  border-left: 2px solid var(--text-color-secondary);
   color: var(--text-color-secondary);
+  display: flex;
   font-style: italic;
+  margin-bottom: var(--spacing-large);
+  padding: 0.5rem 1rem;
+  text-align: initial;
 }
 
 .text-center {
@@ -124,4 +132,8 @@ blockquote {
 
 .text-uppercase {
   text-transform: uppercase;
+}
+
+.text-secondary {
+  color: var(--text-color-secondary);
 }
