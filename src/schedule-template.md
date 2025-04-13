@@ -28,16 +28,17 @@ update_date: 2025-04-13
 - <p>• **40 min Almoço Nutritivo:** Refeição equilibrada com carboidratos, fibras e vitaminas para repor energia após o esforço mental.</p>
 
 ## 12:40 – Fase 3: Expressão Criativa
-<p class="text-small text-secondary">Imaginação direcionada, revisão e fluidez criativa – Tempo total: 230 min</p>
+<p class="text-small text-secondary">Imaginação direcionada, revisão e fluidez criativa – Tempo total: 240 min</p>
 
 - <p>• **10 min Checkpoint:** Verificação rápida do estado interno após a fase de foco profundo.</p>
+- <p>• **20 min Monitoramento de Ondas:** Observação atenta dos sinais internos para encontrar o melhor momento de começar o ciclo de foco.</p>
 - <p>• **80 min Foco Moderado:** Revisões, planejamento, escrita funcional ou ajustes estruturais.</p>
 - <p>• **20 min Modo Difuso:** Integração leve — caminhada, pausa visual ou silêncio.</p>
 - <p>• **80 min Trabalho Criativo:** Geração de ideias, escrita livre, experimentação ou qualquer expressão criativa produtiva.</p>
 - <p>• **20 min Modo Difuso:** Integração leve — caminhada, pausa visual ou silêncio.</p>
-- <p>• **20 min Lanche Leve:** Reforço nutricional para manter energia estável antes da atividade física (frutas, castanhas ou smoothie leve).</p>
+- <p>• **10 min Lanche Leve:** Reforço nutricional para manter energia estável antes da atividade física (frutas, castanhas ou smoothie leve).</p>
 
-## 16:30 – Fase 4: Potência Física
+## 16:40 – Fase 4: Potência Física
 <p class="text-small text-secondary">Atividade corporal intensa e recuperação fisiológica – Tempo total: 180 min</p>
 
 - <p>• **10 min Checkpoint:** Checagem física e mental antes da atividade física intensa.</p>
@@ -47,16 +48,16 @@ update_date: 2025-04-13
 - <p>• **20 min Alongamento Corporal:** Alongamento e relaxamento muscular para soltar o corpo e iniciar a desaceleração.</p>
 - <p>• **40 min Refeição Pós-Treino:** Refeição leve com proteínas, sais minerais e água para recuperar energia.</p>
 
-## 19:30 – Fase 5: Rampa de Desligamento
+## 19:40 – Fase 5: Rampa de Desligamento
 <p class="text-small text-secondary">Desaceleração sensorial e transição para o sono – Tempo total: 90 min</p>
 
 - <p>• **10 min Checkpoint:** Conclusão simbólica do dia ativo e entrada na transição noturna.</p>
 - <p>• **80 min Rampa de Desligamento:** Leitura leve, práticas introspectivas, respiração lenta e introspecção sem telas.</p>
 
-## 21:00 – Fase 6: Sono Regenerativo
-<p class="text-small text-secondary">Recuperação completa do sistema nervoso e muscular – Tempo total: 580 min</p>
+## 21:10 – Fase 6: Sono Regenerativo
+<p class="text-small text-secondary">Recuperação completa do sistema nervoso e muscular – Tempo total: 570 min</p>
 
-- <p>• **580 min Descanso Profundo:** Sono em ambiente escuro, silencioso e fresco, favorecendo a recuperação do corpo e da mente.</p>
+- <p>• **570 min Descanso Profundo:** Sono em ambiente escuro, silencioso e fresco, favorecendo a recuperação do corpo e da mente.</p>
 </section>
 
 <section class="section text-center">[🔙 Voltar](/)</section>
