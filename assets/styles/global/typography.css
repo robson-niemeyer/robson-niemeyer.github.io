@@ -118,8 +118,8 @@ li {
 blockquote {
   background-color: var(--background-color-secondary);
   border-left: 2px solid var(--text-color-secondary);
-  color: var(--text-color-secondary);
   display: flex;
+  font-size: var(--font-size-small);
   font-style: italic;
   margin-bottom: var(--spacing-large);
   padding: 0.5rem 1rem;
