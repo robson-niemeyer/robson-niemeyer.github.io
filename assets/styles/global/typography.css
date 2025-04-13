@@ -125,6 +125,14 @@ blockquote {
   text-align: initial;
 }
 
+label {
+  font-family: var(--font-family-title);
+  font-size: var(--font-size-small);
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
 .text-center {
   text-align: center;
 }

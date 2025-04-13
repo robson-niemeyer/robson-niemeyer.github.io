@@ -20,5 +20,5 @@
   --spacing: 1rem;
   --spacing-large: 2rem;
   --spacing-small: 0.5rem;
-  --hr-color: lch(75% 6.25 270);
+  --border-color: lch(75% 6.25 270);
 }

@@ -8,14 +8,30 @@ update_date: 2025-04-13
 ![[Fonte: Afshin T2Y / Unsplash]](/assets/images/afshin-t2y-3_PVkGcXqgQ-unsplash.jpg "Imagem de capa")
 
 <section class="section">
-## 06:40 – Fase 1: Primórdio
+## Ajuste do Momento T0
+<p class="text-small text-secondary">Definição personalizada da exposição solar para alinhar o cronograma ao ambiente real</p>
+
+::: {.card}
+<label for="start-time">Horário da exposição solar inicial (T0):</label>
+
+::: {.btn-input}
+<input type="time" id="start-time" />
+<button id="now-btn">Agora</button>
+:::
+:::
+
+<p class="text-small">T0 representa o momento em que os primeiros raios de sol tocam diretamente o solo. Esse é o ponto de referência central para sincronizar o cronograma com o ritmo solar. Ao definir o horário exato de T0 no campo abaixo, todo o cronograma será automaticamente recalculado a partir dessa base. Por padrão, a Fase 1 começa 40 minutos antes de T0, considerando o tempo necessário para ativação física e mental antes da exposição solar.</p>
+
+<p class="text-small">Se você inserir, por exemplo, 07:20 como T0, a Fase 1 será posicionada para começar às 06:40. Caso digite um horário como 06:40 e veja o título da fase marcando 06:00, isso não é um erro: é o funcionamento esperado do sistema. Essa lógica garante que o cronograma se adapte ao seu ambiente real com precisão, sem exigir ajustes manuais ou conhecimento técnico.</p>
+
+## <span class="schedule-time">06:40</span> – Fase 1: Primórdio
 <p class="text-small text-secondary">Ativação física e mental após o despertar – Tempo total: 80 min</p>
 
 - <p>• **40 min Ativação Matinal:** Exercícios leves de respiração, alongamento e movimento para acordar o corpo e ativar o sistema nervoso.</p>
-- <p>• **20 min Exposição Solar:** Contato direto com o sol ao nível do solo, ajudando a regular o relógio biológico e marcar o início do dia.</p>
+- <p>• **20 min Exposição Solar (T0):** Contato direto com o sol ao nível do solo, ajudando a regular o relógio biológico e marcar o início do dia.</p>
 - <p>• **20 min Café da Manhã Low-Carb:** Refeição leve com foco em proteínas e gorduras boas, favorecendo saciedade e energia estável.</p>
 
-## 08:00 – Fase 2: Forja Cognitiva
+## <span class="schedule-time">08:00</span> – Fase 2: Forja Cognitiva
 <p class="text-small text-secondary">Foco profundo e esforço mental estruturado – Tempo total: 280 min</p>
 
 - <p>• **10 min Checkpoint:** Checagem rápida do estado físico e mental para entrar no modo de trabalho concentrado.</p>
@@ -27,7 +43,7 @@ update_date: 2025-04-13
 - <p>• **20 min Modo Difuso:** Alongamento leve, chá ou respiração lenta — ajudando o cérebro a descansar.</p>
 - <p>• **40 min Almoço Nutritivo:** Refeição equilibrada com carboidratos, fibras e vitaminas para repor energia após o esforço mental.</p>
 
-## 12:40 – Fase 3: Expressão Criativa
+## <span class="schedule-time">12:40</span> – Fase 3: Expressão Criativa
 <p class="text-small text-secondary">Imaginação direcionada, revisão e fluidez criativa – Tempo total: 240 min</p>
 
 - <p>• **10 min Checkpoint:** Verificação rápida do estado interno após a fase de foco profundo.</p>
@@ -38,7 +54,7 @@ update_date: 2025-04-13
 - <p>• **20 min Modo Difuso:** Integração leve — caminhada, pausa visual ou silêncio.</p>
 - <p>• **10 min Lanche Leve:** Reforço nutricional para manter energia estável antes da atividade física (frutas, castanhas ou smoothie leve).</p>
 
-## 16:40 – Fase 4: Potência Física
+## <span class="schedule-time">16:40</span> – Fase 4: Potência Física
 <p class="text-small text-secondary">Atividade corporal intensa e recuperação fisiológica – Tempo total: 180 min</p>
 
 - <p>• **10 min Checkpoint:** Checagem física e mental antes da atividade física intensa.</p>
@@ -48,16 +64,12 @@ update_date: 2025-04-13
 - <p>• **20 min Alongamento Corporal:** Alongamento e relaxamento muscular para soltar o corpo e iniciar a desaceleração.</p>
 - <p>• **40 min Refeição Pós-Treino:** Refeição leve com proteínas, sais minerais e água para recuperar energia.</p>
 
-## 19:40 – Fase 5: Rampa de Desligamento
-<p class="text-small text-secondary">Desaceleração sensorial e transição para o sono – Tempo total: 90 min</p>
+## <span class="schedule-time">19:40</span> – Fase 5: Desligamento e Regeneração
+<p class="text-small text-secondary">Desaceleração sensorial e recuperação profunda do corpo e da mente – Tempo total: 660 min</p>
 
 - <p>• **10 min Checkpoint:** Conclusão simbólica do dia ativo e entrada na transição noturna.</p>
 - <p>• **80 min Rampa de Desligamento:** Leitura leve, práticas introspectivas, respiração lenta e introspecção sem telas.</p>
-
-## 21:10 – Fase 6: Sono Regenerativo
-<p class="text-small text-secondary">Recuperação completa do sistema nervoso e muscular – Tempo total: 570 min</p>
-
-- <p>• **570 min Descanso Profundo:** Sono em ambiente escuro, silencioso e fresco, favorecendo a recuperação do corpo e da mente.</p>
+- <p>• **570 min Descanso Profundo:** Sono em ambiente escuro, silencioso e fresco, favorecendo a regeneração física e neurológica.</p>
 </section>
 
 <section class="section text-center">[🔙 Voltar](/)</section>

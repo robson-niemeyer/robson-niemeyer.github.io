@@ -1,0 +1,4 @@
+button {
+  color: var(--text-color-link);
+  padding: 0.25rem 0.5rem;
+}
