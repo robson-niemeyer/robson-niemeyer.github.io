@@ -2,13 +2,7 @@ const startTimeInput = document.querySelector('#start-time');
 const nowBtn = document.querySelector('#now-btn');
 const scheduleTimes = document.querySelectorAll('.schedule-time');
 
-const schedule = [
-  [80],
-  [280],
-  [240],
-  [180],
-  [660]
-];
+const schedule = [80, 280, 240, 180, 660];
 
 function setNow() {
   const now = new Date();
