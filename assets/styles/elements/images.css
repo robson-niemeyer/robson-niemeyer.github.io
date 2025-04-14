@@ -6,7 +6,7 @@ figure {
 }
 
 figcaption {
-  color: var(--text-color-secondary);
+  color: var(--color-secondary);
   font-size: var(--font-size-small);
 }
 
