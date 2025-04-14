@@ -22,7 +22,12 @@ function getSchedule(startTime) {
 
   if (minute < 0) {
     minute = 60 + minute;
-    hour--;
+
+    if (hour != 0) {
+      hour--;
+    } else {
+      hour = 23;
+    }
   }
 
   for (const duration of schedule) {
