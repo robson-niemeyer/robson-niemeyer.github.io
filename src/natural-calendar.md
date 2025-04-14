@@ -95,6 +95,9 @@ update_date: 2025-04-12
 - • **Hora:** 04:00 às 05:59
 - • **Idade:** 1100 a 1199 lunações
 
+## Artigos relacionados
+- [⏱️ Modelo de Cronograma](/schedule-template/)
+- [🏕️ Ritmo Natural](/natural-rhythm/)
 :::
 
 ::: text-center

@@ -33,6 +33,10 @@ update_date: 2025-04-12
 - O corpo segue.
 - Quem sincroniza, floresce —
 - **reinando sobre si mesmo.**
+
+## Artigos relacionados
+- [⏱️ Modelo de Cronograma](/schedule-template/)
+- [🌞 Calendário Natural](/natural-calendar/)
 :::
 
 ::: text-center

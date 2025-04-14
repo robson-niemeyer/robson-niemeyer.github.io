@@ -70,6 +70,12 @@ update_date: 2025-04-13
 - • **[19:40 às 19:50]{.block-time-range} – Checkpoint:** Conclusão simbólica do dia ativo e entrada na transição noturna.
 - • **[19:50 às 21:10]{.block-time-range} – Rampa de Desligamento:** Leitura leve, práticas introspectivas, respiração lenta e introspecção sem telas.
 - • **[21:10 às 06:40]{.block-time-range} – Descanso Profundo:** Sono em ambiente escuro, silencioso e fresco, favorecendo a regeneração física e neurológica.
+
+## Artigos relacionados
+
+- [✅ Protocolo de Checkpoint](/checkpoint-protocol/)
+- [🏕️ Ritmo Natural](/natural-rhythm/)
+- [🌞 Calendário Natural](/natural-calendar/)
 :::
 
 ::: text-center

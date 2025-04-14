@@ -20,6 +20,9 @@ A ideia aqui é manter as coisas simples.
 Evite registros excessivos. O foco está na leitura interna e decisão prática.
 
 Se preferir, registre o veredito em uma linha: _"Apto para o foco total"_, _"Reduzir a intensidade"_, _"Prolongar o descanso"_
+
+## Artigos relacionados
+- [⏱️ Modelo de Cronograma](/schedule-template/)
 :::
 
 ::: text-center
