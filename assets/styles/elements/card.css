@@ -1,5 +1,5 @@
 .card {
   background-color: var(--background-color-secondary);
-  margin-bottom: 1rem;
-  padding: 1rem;
+  margin-bottom: var(--spacing-regular);
+  padding: var(--spacing-regular);
 }

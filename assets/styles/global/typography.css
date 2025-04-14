@@ -35,37 +35,37 @@
 }
 
 h1 {
-  font-family: var(--font-family-title);
+  font-family: var(--font-family-heading);
   font-size: var(--font-size-h1);
   font-weight: var(--font-weight-bold);
   letter-spacing: 1px;
-  line-height: var(--line-height-title);
+  line-height: var(--line-height-heading);
   margin-bottom: var(--spacing-small);
   text-transform: uppercase;
 }
 
 h2 {
-  font-family: var(--font-family-title);
+  font-family: var(--font-family-heading);
   font-size: var(--font-size-h2);
   font-weight: var(--font-weight-bold);
   letter-spacing: 1px;
-  line-height: var(--line-height-title);
+  line-height: var(--line-height-heading);
   margin: var(--spacing-large) 0 var(--spacing-small);
   text-transform: uppercase;
 }
 
 h3 {
-  font-family: var(--font-family-title);
+  font-family: var(--font-family-heading);
   font-size: var(--font-size-h3);
   font-weight: var(--font-weight-medium);
   letter-spacing: 1px;
-  line-height: var(--line-height-title);
+  line-height: var(--line-height-heading);
 }
 
 p,
 ol,
 ul {
-  margin-bottom: var(--spacing);
+  margin-bottom: var(--spacing-regular);
 }
 
 p:last-child,
@@ -91,38 +91,38 @@ em,
 }
 
 a {
-  font-weight: 500;
+  font-weight: var(--font-weight-medium);
   text-decoration: none;
   text-transform: uppercase;
-  transition: all 330ms ease-out;
+  transition: all var(--transition-duration) ease-out;
 }
 
 a:any-link {
-  color: var(--text-color-link);
+  color: var(--color-link);
 }
 
 ol,
 ul {
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
+  gap: var(--spacing-small);
   list-style: none;
 }
 
 blockquote {
   background-color: var(--background-color-secondary);
-  border-left: 2px solid var(--text-color-secondary);
+  border-left: 2px solid var(--color-secondary);
   display: flex;
   font-size: var(--font-size-small);
   margin-bottom: var(--spacing-large);
-  padding: 0.5rem 1rem;
+  padding: var(--spacing-small) var(--spacing-regular);
   text-align: initial;
 }
 
 label {
-  font-family: var(--font-family-title);
+  font-family: var(--font-family-heading);
   font-size: var(--font-size-small);
-  font-weight: 600;
+  font-weight: var(--font-weight-bolder);
   letter-spacing: 1px;
   text-transform: uppercase;
 }
@@ -136,5 +136,9 @@ label {
 }
 
 .text-secondary {
-  color: var(--text-color-secondary);
+  color: var(--color-secondary);
+}
+
+.font-monospace {
+  font-family: var(--font-family-monospace);
 }

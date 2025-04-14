@@ -1,5 +1,5 @@
 input {
-  background-color: white;
+  background-color: var(--background-color-primary);
   border: 1px solid var(--border-color);
-  padding: 0.25rem 0.5rem;
+  padding: var(--spacing-xsmall) var(--spacing-small);
 }

@@ -1,6 +1,6 @@
-// Duration of each activity block (in minutes) per phase.
-// Each inner array represents one phase composed of time blocks.
-const phaseBlocks = [
+// Duration of each activity in minutes per phase of the schedule.
+// Each inner array represents one schedule block (rendered to a .schedule-time element).
+const schedule = [
   [40, 20, 20],
   [10, 10, 20, 80, 20, 80, 20, 40],
   [10, 20, 80, 20, 80, 20, 10],
@@ -13,8 +13,7 @@ const MINUTES_IN_DAY = 1440;
 
 const startTimeInput = document.querySelector('#start-time');
 const nowBtn = document.querySelector('#now-btn');
-const phaseStartTimes = document.querySelectorAll('.phase-start-time');
-const blockTimeRanges = document.querySelectorAll('.block-time-range');
+const scheduleHeadingTimes = document.querySelectorAll('.schedule-heading-time');
 
 /**
  * Pads a number to two digits.
@@ -40,46 +39,30 @@ const parseTimeString = timeStr => {
 };
 
 /**
- * Calculates the start times (in minutes) for each phase.
+ * Returns start times (in minutes) for each schedule block.
  */
-function getPhaseStartTimes(startTimeStr) {
+function getSchedule(startTimeStr) {
   let time = parseTimeString(startTimeStr) - OFFSET_MINUTES;
   if (time < 0) time += MINUTES_IN_DAY;
 
-  return phaseBlocks.map(blocks => {
-    const phaseStart = time;
-    const total = blocks.reduce((sum, minutes) => sum + minutes, 0);
+  return schedule.map(block => {
+    const start = time;
+    const total = block.reduce((sum, minutes) => sum + minutes, 0);
     time = (time + total) % MINUTES_IN_DAY;
-    return phaseStart;
+    return start;
   });
 }
 
 /**
- * Updates both phase and block times in the DOM.
+ * Renders schedule times into the corresponding DOM elements.
  */
-function updateTimings(startTimeStr) {
+function renderSchedule(startTimeStr) {
   if (!startTimeStr) return;
 
-  const phaseStarts = getPhaseStartTimes(startTimeStr);
-  let time = phaseStarts[0];
-  let blockIndex = 0;
-
-  phaseBlocks.forEach((blocks, phaseIndex) => {
-    const phaseTime = formatMinutesAsTime(phaseStarts[phaseIndex]);
-    if (phaseStartTimes[phaseIndex]) {
-      phaseStartTimes[phaseIndex].textContent = phaseTime;
-    }
-
-    blocks.forEach(duration => {
-      const start = time;
-      const end = (start + duration) % MINUTES_IN_DAY;
-      if (blockTimeRanges[blockIndex]) {
-        blockTimeRanges[blockIndex].textContent =
-          `${formatMinutesAsTime(start)}–${formatMinutesAsTime(end)}`;
-      }
-      time = end;
-      blockIndex++;
-    });
+  const times = getSchedule(startTimeStr);
+  times.forEach((minutes, i) => {
+    const span = scheduleHeadingTimes[i];
+    if (span) span.textContent = formatMinutesAsTime(minutes);
   });
 }
 
@@ -91,13 +74,13 @@ function setNow() {
   const currentMinutes = now.getHours() * 60 + now.getMinutes();
   const nowStr = formatMinutesAsTime(currentMinutes);
   startTimeInput.value = nowStr;
-  updateTimings(nowStr);
+  renderSchedule(nowStr);
 }
 
 // Event listeners
-startTimeInput.addEventListener('change', () => updateTimings(startTimeInput.value));
+startTimeInput.addEventListener('change', () => renderSchedule(startTimeInput.value));
 nowBtn.addEventListener('click', setNow);
 
 // Initial render
 startTimeInput.value = '07:20';
-updateTimings('07:20');
+renderSchedule('07:20');
