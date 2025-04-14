@@ -7,19 +7,21 @@ update_date: 2025-04-11
 
 ![[Fonte: Sage Friedman / Unsplash]](/assets/images/sage-friedman-HS5CLnQbCOc-unsplash.jpg "Imagem de capa")
 
-<section class="section">
+::: section
 A ideia aqui é manter as coisas simples.
 
 **Avalie:**
 
-- • <p>Energia física</p>
-- • <p>Clareza mental</p>
-- • <p>Estabilidade emocional</p>
-- • <p>Motivação</p>
+- • Energia física
+- • Clareza mental
+- • Estabilidade emocional
+- • Motivação
 
 Evite registros excessivos. O foco está na leitura interna e decisão prática.
 
-Se preferir, registre o veredito em uma linha: _"Apto para o foco total"_, _"Reduzir a intensidade"_, _"Prolongar o descanso"_*
-</section>
+Se preferir, registre o veredito em uma linha: _"Apto para o foco total"_, _"Reduzir a intensidade"_, _"Prolongar o descanso"_
+:::
 
-<section class="section text-center">[🔙 Voltar](/)</section>
+::: text-center
+[🔙 Voltar](/)
+:::

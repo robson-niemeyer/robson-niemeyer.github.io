@@ -8,7 +8,7 @@ update_date: 2025-04-12
 
 ![[Fonte: Dave Hoefler / Unsplash]](/assets/images/dave-hoefler-a3e7yEtQxJs-unsplash.jpg "Imagem de capa")
 
-<section class="section">
+::: section
 **No início da manhã**, quando os raios do sol tocam diretamente o chão sob seus pés, aceite o chamado e exponha-se à luz vivificante. É nesse instante que o verdadeiro dia biológico começa. Nesse momento, o corpo desperta com vitalidade e desejo — sendo também o horário mais propício para a intimidade e o alívio natural do impulso sexual.
 
 **Do meio da manhã até o zênite solar[^1]**, a mente atinge seu auge de foco profundo — ideal para resolver problemas complexos, escrever com concentração, decidir com estratégia ou estudar com exigência.
@@ -29,10 +29,12 @@ update_date: 2025-04-12
 
 [^3]: Nadir: meia-noite.
 
-- <p>A luz conduz.</p>
-- <p>O corpo segue.</p>
-- <p>Quem sincroniza, floresce —</p>
-- <p>**reinando sobre si mesmo.**</p>
-</section>
+- A luz conduz.
+- O corpo segue.
+- Quem sincroniza, floresce —
+- **reinando sobre si mesmo.**
+:::
 
-<section class="section text-center">[🔙 Voltar](/)</section>
+::: text-center
+[🔙 Voltar](/)
+:::

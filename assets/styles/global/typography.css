@@ -109,12 +109,6 @@ ul {
   list-style: none;
 }
 
-li {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
 blockquote {
   background-color: var(--background-color-secondary);
   border-left: 2px solid var(--text-color-secondary);
