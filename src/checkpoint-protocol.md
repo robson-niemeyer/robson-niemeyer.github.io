@@ -12,17 +12,19 @@ A ideia aqui é manter as coisas simples.
 
 **Avalie:**
 
-- • Energia física
-- • Clareza mental
-- • Estabilidade emocional
-- • Motivação
+::: list-stylized
+* Energia física
+* Clareza mental
+* Estabilidade emocional
+* Motivação
+:::
 
 Evite registros excessivos. O foco está na leitura interna e decisão prática.
 
 Se preferir, registre o veredito em uma linha: _"Apto para o foco total"_, _"Reduzir a intensidade"_, _"Prolongar o descanso"_
 
 ## Artigos relacionados
-- [⏱️ Modelo de Cronograma](/schedule-template/)
+* [⏱️ Modelo de Cronograma](/schedule-template/)
 :::
 
 ::: text-center

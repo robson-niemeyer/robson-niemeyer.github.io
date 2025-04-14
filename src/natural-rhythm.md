@@ -29,14 +29,14 @@ update_date: 2025-04-12
 
 [^3]: Nadir: meia-noite.
 
-- A luz conduz.
-- O corpo segue.
-- Quem sincroniza, floresce —
-- **reinando sobre si mesmo.**
+A luz conduz.  
+O corpo segue.  
+Quem sincroniza, floresce —  
+**reinando sobre si mesmo.**
 
 ## Artigos relacionados
-- [⏱️ Modelo de Cronograma](/schedule-template/)
-- [🌞 Calendário Natural](/natural-calendar/)
+* [⏱️ Modelo de Cronograma](/schedule-template/)
+* [🌞 Calendário Natural](/natural-calendar/)
 :::
 
 ::: text-center

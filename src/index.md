@@ -12,8 +12,8 @@ update_date: 2025-04-11
 
 ## Meus artigos
 
-- [⏱️ Modelo de Cronograma](/schedule-template/)
-- [✅ Protocolo de Checkpoint](/checkpoint-protocol/)
-- [🏕️ Ritmo Natural](/natural-rhythm/)
-- [🌞 Calendário Natural](/natural-calendar/)
+* [⏱️ Modelo de Cronograma](/schedule-template/)
+* [✅ Protocolo de Checkpoint](/checkpoint-protocol/)
+* [🏕️ Ritmo Natural](/natural-rhythm/)
+* [🌞 Calendário Natural](/natural-calendar/)
 :::

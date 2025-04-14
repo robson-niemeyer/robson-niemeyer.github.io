@@ -68,9 +68,7 @@ ul {
   margin-bottom: var(--spacing-regular);
 }
 
-p:last-child,
-ol:last-child,
-ul:last-child {
+p:last-child {
   margin-bottom: 0;
 }
 
@@ -107,6 +105,10 @@ ul {
   flex-direction: column;
   gap: var(--spacing-small);
   list-style: none;
+}
+
+.list-stylized li::before {
+  content: "• ";
 }
 
 blockquote {
