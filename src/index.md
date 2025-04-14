@@ -1,6 +1,6 @@
 ---
 title: "🏋️ Rob's Webpage"
-description: "Alta performance, biohacking e cronobiologia humana."
+description: "Alta performance natural e cronobiologia humana."
 publication_date: 2025-04-09
 update_date: 2025-04-11
 ---
