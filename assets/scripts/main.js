@@ -75,7 +75,7 @@ function updateTimings(startTimeStr) {
       const end = (start + duration) % MINUTES_IN_DAY;
       if (blockTimeRanges[blockIndex]) {
         blockTimeRanges[blockIndex].textContent =
-          `${formatMinutesAsTime(start)}–${formatMinutesAsTime(end)}`;
+          `${formatMinutesAsTime(start)} às ${formatMinutesAsTime(end)}`;
       }
       time = end;
       blockIndex++;
