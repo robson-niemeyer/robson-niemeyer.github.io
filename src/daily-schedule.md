@@ -1,5 +1,5 @@
 ---
-title: "⏱️ Cronograma Cronobiológico Diário"
+title: "⏱️ Cronograma Diário"
 description: "Estruturação do dia alinhada com ritmos ultradianos, exposição solar, checkpoints estratégicos e máxima performance cognitiva e física."
 publication_date: 2025-04-11
 update_date: 2025-04-13
@@ -93,8 +93,8 @@ A implementação consistente deste cronograma, adaptada às suas necessidades i
 ## Artigos relacionados
 
 * [✅ Protocolo de Checkpoint](/checkpoint-protocol/)
-* [🏕️ Ritmo Natural](/natural-rhythm/)
-* [🌞 Calendário Natural](/natural-calendar/)
+* [🏕️ Ritmo Solar](/solar-rhythm/)
+* [🌄 Calendário Solar](/solar-calendar/)
 :::
 
 ::: text-center

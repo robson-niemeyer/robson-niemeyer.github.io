@@ -1,5 +1,5 @@
 ---
-title: "🏕️ Ritmo Natural"
+title: "🏕️ Ritmo Solar"
 description: "O corpo humano floresce e frutifica quando segue a luz."
 date: "2025-04-09"
 publication_date: 2025-04-09
@@ -38,8 +38,8 @@ Quem sincroniza, floresce —
 **reinando sobre si mesmo.**
 
 ## Artigos relacionados
-* [⏱️ Cronograma Cronobiológico Diário](/daily-chronobiological-schedule/)
-* [🌞 Calendário Natural](/natural-calendar/)
+* [⏱️ Cronograma Diário](/daily-schedule/)
+* [🌄 Calendário Solar](/solar-calendar/)
 :::
 
 ::: text-center
