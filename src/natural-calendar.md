@@ -1,5 +1,5 @@
 ---
-title: "🌞 Calendário Natural"
+title: "🌄 Calendário Natural"
 description: "Este calendário integra três eixos: o curso das estações, a variação do dia e a progressão da vida humana."
 publication_date: 2025-04-08
 update_date: 2025-04-12
@@ -120,7 +120,7 @@ update_date: 2025-04-12
 :::
 
 ## Artigos relacionados
-* [⏱️ Modelo de Cronograma](/schedule-template/)
+* [⏱️ Cronograma Cronobiológico Diário](/daily-chronobiological-schedule/)
 * [🏕️ Ritmo Natural](/natural-rhythm/)
 :::
 

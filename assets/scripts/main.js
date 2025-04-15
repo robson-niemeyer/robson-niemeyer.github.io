@@ -1,15 +1,16 @@
 // Duration of each activity block (in minutes) per phase.
 // Each inner array represents one phase composed of time blocks.
 const phaseBlocks = [
-  [40, 20, 20],
+  [40, 20, 40],
   [10, 10, 20, 80, 20, 80, 20, 40],
-  [10, 20, 80, 20, 80, 20, 10],
+  [10, 20, 80, 20, 80, 20, 20],
   [10, 10, 20, 80, 20, 40],
-  [10, 80, 570]
+  [10, 80, 540]
 ];
 
-const OFFSET_MINUTES = 40;
+const OFFSET_MINUTES = phaseBlocks[0][0];
 const MINUTES_IN_DAY = 1440;
+const INITIAL_TIME = '07:00';
 
 const startTimeInput = document.querySelector('#start-time');
 const nowBtn = document.querySelector('#now-btn');
@@ -99,5 +100,5 @@ startTimeInput.addEventListener('change', () => updateTimings(startTimeInput.val
 nowBtn.addEventListener('click', setNow);
 
 // Initial render
-startTimeInput.value = '07:20';
-updateTimings('07:20');
+startTimeInput.value = INITIAL_TIME;
+updateTimings(INITIAL_TIME);

@@ -5,6 +5,9 @@ date: "2025-04-09"
 publication_date: 2025-04-09
 update_date: 2025-04-12
 ---
+> Teu corpo é sinfonia viva,  
+> Ondas ressoam teu tempo interno —  
+> Toma tua batuta. Reina teu ritmo.
 
 ![[Fonte: Dave Hoefler / Unsplash]](/assets/images/dave-hoefler-a3e7yEtQxJs-unsplash.jpg "Imagem de capa")
 
@@ -35,7 +38,7 @@ Quem sincroniza, floresce —
 **reinando sobre si mesmo.**
 
 ## Artigos relacionados
-* [⏱️ Modelo de Cronograma](/schedule-template/)
+* [⏱️ Cronograma Cronobiológico Diário](/daily-chronobiological-schedule/)
 * [🌞 Calendário Natural](/natural-calendar/)
 :::
 
