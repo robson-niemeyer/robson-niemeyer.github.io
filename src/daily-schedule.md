@@ -17,12 +17,6 @@ Este cronograma foi projetado para alinhar com os ritmos naturais do corpo e da 
 ## Ajuste do Momento T₀
 <p class="text-small text-secondary">T₀ é o instante em que os primeiros raios solares tocam diretamente o solo — ponto de referência absoluto para alinhar o cronograma ao ciclo luz-escuridão.</p>
 
-Ao definir o horário exato de T₀, todas as fases serão recalculadas com base nessa ancoragem. Por padrão, a Fase 1 começa 40 minutos antes de T₀ para garantir ativação física e mental antes da exposição solar.
-
-Se você definir, por exemplo, 06:40 como T₀, o sistema exibirá 06:00 como início da Fase 1. Isso não é um erro: é o comportamento esperado do sistema, projetado para respeitar a lógica cronobiológica com precisão.
-
-Não é necessário nenhum ajuste manual.
-
 ::: card
 <label for="start-time">Horário da exposição solar (T₀):</label>
 
@@ -31,6 +25,12 @@ Não é necessário nenhum ajuste manual.
 <button id="now-btn">Agora</button>
 :::
 :::
+
+Ao definir o horário exato de T₀, todas as fases serão recalculadas com base nessa ancoragem. Por padrão, a fase 1 começa 40 minutos antes de T₀ para garantir ativação física e mental antes da exposição solar.
+
+Se você definir, por exemplo, 06:40 como T₀, o sistema exibirá 06:00 como início da fase 1. Isso não é um erro: é o comportamento esperado do sistema, projetado para respeitar a lógica cronobiológica com precisão.
+
+Não é necessário nenhum ajuste manual.
 
 ## [06:20]{.phase-start-time} – Primórdio
 <p class="text-small text-secondary">Ativação física e mental após o despertar — Tempo total: 1 h 40 min.</p>
