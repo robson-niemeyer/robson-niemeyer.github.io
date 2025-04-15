@@ -1,6 +1,6 @@
 ---
 title: "🏋️ Rob's Webpage"
-description: "Alta performance solar, cronobiologia e crononutrição humana."
+description: "Alta performance natural, cronobiologia e crononutrição humana."
 publication_date: 2025-04-09
 update_date: 2025-04-11
 ---
