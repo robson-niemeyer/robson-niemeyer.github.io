@@ -10,10 +10,18 @@ update_date: 2025-04-13
 
 ::: section
 ## Introdução
-Este cronograma detalha uma estrutura diária cuidadosamente elaborada para sincronizar suas atividades com os ritmos naturais do corpo e da mente, maximizando a energia, o foco e a recuperação. Ao integrar princípios da cronobiologia e crononutrição, busca-se um desempenho ótimo e sustentável ao longo do dia.
+<p class="text-small text-secondary">Estrutura diária ajustável com base solar para desempenho máximo e recuperação real.</p>
+
+Este cronograma foi projetado para alinhar com os ritmos naturais do corpo e da mente, aproveitando checkpoints de energia, janelas de foco profundo e padrões precisos de recuperação. Com base em princípios da cronobiologia e da crononutrição, oferece uma rotina enxuta, previsível e adaptável — sempre recalculada a partir do instante em que os primeiros raios de sol tocam o solo (T₀).
 
 ## Ajuste do Momento T₀
-<p class="text-small text-secondary">Definição personalizada da exposição solar para alinhar o cronograma ao ambiente real</p>
+<p class="text-small text-secondary">T₀ é o instante em que os primeiros raios solares tocam diretamente o solo — ponto de referência absoluto para alinhar o cronograma ao ciclo luz-escuridão.</p>
+
+Ao definir o horário exato de T₀, todas as fases serão recalculadas com base nessa ancoragem. Por padrão, a Fase 1 começa 40 minutos antes de T₀ para garantir ativação física e mental antes da exposição solar.
+
+Se você definir, por exemplo, 06:40 como T₀, o sistema exibirá 06:00 como início da Fase 1. Isso não é um erro: é o comportamento esperado do sistema, projetado para respeitar a lógica cronobiológica com precisão.
+
+Não é necessário nenhum ajuste manual.
 
 ::: card
 <label for="start-time">Horário da exposição solar (T₀):</label>
@@ -24,14 +32,8 @@ Este cronograma detalha uma estrutura diária cuidadosamente elaborada para sinc
 :::
 :::
 
-T₀ (Tempo Zero)[^1] representa o momento em que os primeiros raios de sol tocam diretamente o solo. Esse é o ponto de referência central para sincronizar o cronograma com o ritmo solar. Ao definir o horário exato de T₀ no campo abaixo, todo o cronograma será automaticamente recalculado a partir dessa base. Por padrão, a Fase 1 começa 40 minutos antes de T₀, considerando o tempo necessário para ativação física e mental antes da exposição solar.
-
-[^1]: T₀ (Tempo Zero): é o momento em que os primeiros raios solares tocam o solo. Na cronobiologia, esse marco é utilizado como ponto inicial do dia biológico, pois sincroniza o ritmo circadiano com o ciclo luz-escuridão. A notação T₀ é amplamente empregada em fisiologia, medicina e ciências aplicadas para indicar o início de processos naturais baseados em tempo real.
-
-Se você inserir, por exemplo, 07:20 como T₀, a Fase 1 será posicionada para começar às 06:40. Caso digite um horário como 06:40 e veja o título da fase marcando 06:00, isso não é um erro: é o funcionamento esperado do sistema. Essa lógica garante que o cronograma se adapte ao seu ambiente real com precisão, sem exigir ajustes manuais ou conhecimento técnico.
-
 ## [06:20]{.phase-start-time} – Primórdio
-<p class="text-small text-secondary">Ativação física e mental após o despertar — Tempo total: 1 h 40 min</p>
+<p class="text-small text-secondary">Ativação física e mental após o despertar — Tempo total: 1 h 40 min.</p>
 
 ::: list-stylized
 * **[06:20 às 07:00]{.block-time-range} – Ativação Matinal:** Despertar suave com movimentos como esticar, alongar, girar articulações e respirar fundo, podendo incluir um breve banho frio para estimular o corpo.
@@ -40,7 +42,7 @@ Se você inserir, por exemplo, 07:20 como T₀, a Fase 1 será posicionada para 
 :::
 
 ## [08:00]{.phase-start-time} – Foco Cognitivo {.schedule-title}
-<p class="text-small text-secondary">Foco profundo e esforço mental estruturado — Tempo total: 4 h 40 min</p>
+<p class="text-small text-secondary">Foco profundo e esforço mental estruturado — Tempo total: 4 h 40 min.</p>
 
 ::: list-stylized
 * **[08:00 às 08:10]{.block-time-range} – Checkpoint:** Checagem rápida do estado físico e mental para entrar no modo de trabalho concentrado.
@@ -54,7 +56,7 @@ Se você inserir, por exemplo, 07:20 como T₀, a Fase 1 será posicionada para 
 :::
 
 ## [12:40]{.phase-start-time} – Expressão Criativa
-<p class="text-small text-secondary">Imaginação direcionada, revisão e fluidez criativa — Tempo total: 4 h 10 min</p>
+<p class="text-small text-secondary">Imaginação direcionada, revisão e fluidez criativa — Tempo total: 4 h 10 min.</p>
 
 ::: list-stylized
 * **[12:40 às 12:50]{.block-time-range} – Checkpoint:** Verificação rápida do estado interno após a fase de foco profundo.
@@ -67,7 +69,7 @@ Se você inserir, por exemplo, 07:20 como T₀, a Fase 1 será posicionada para 
 :::
 
 ## [16:50]{.phase-start-time} – Potência Física
-<p class="text-small text-secondary">Atividade corporal intensa e recuperação fisiológica — Tempo total: 3 h</p>
+<p class="text-small text-secondary">Atividade corporal intensa e recuperação fisiológica — Tempo total: 3 h.</p>
 
 ::: list-stylized
 * **[16:40 às 16:50]{.block-time-range} – Checkpoint:** Checagem física e mental antes da atividade física intensa.
@@ -79,7 +81,7 @@ Se você inserir, por exemplo, 07:20 como T₀, a Fase 1 será posicionada para 
 :::
 
 ## [19:50]{.phase-start-time} – Desligamento e Regeneração
-<p class="text-small text-secondary">Desaceleração sensorial e recuperação profunda do corpo e da mente — Tempo total: 10:30 h</p>
+<p class="text-small text-secondary">Desaceleração sensorial e recuperação profunda do corpo e da mente — Tempo total: 10:30 h.</p>
 
 ::: list-stylized
 * **[19:40 às 19:50]{.block-time-range} – Checkpoint:** Conclusão simbólica do dia ativo e entrada na transição noturna.
@@ -88,7 +90,9 @@ Se você inserir, por exemplo, 07:20 como T₀, a Fase 1 será posicionada para 
 :::
 
 ## Conclusão
-A implementação consistente deste cronograma, adaptada às suas necessidades individuais, pode ser um poderoso catalisador para o aumento da produtividade, da criatividade e do bem-estar geral. Lembre-se que a observação atenta de suas respostas e a flexibilidade para ajustar a rotina são tão importantes quanto a estrutura proposta.
+<p class="text-small text-secondary">Consistência gera clareza. Clareza impulsiona resultados.</p>
+
+Este modelo oferece uma base sólida, mas o verdadeiro poder está na observação contínua e nos microajustes ao longo dos dias. Mantenha a estrutura, mas afine o ritmo. A repetição inteligente transforma a disciplina em liberdade e a rotina em potência.
 
 ## Artigos relacionados
 

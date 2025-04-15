@@ -8,17 +8,25 @@ update_date: 2025-04-12
 ![[Fonte: Ivana Cajina / Unsplash]](/assets/images/ivana-cajina-dQejX2ucPBs-unsplash.jpg "Imagem de capa")
 
 ::: section
+## Introdução
+<p class="text-small text-secondary">Alinhamento entre estações, ciclo diário e trajetória vital</p>
+
+Este calendário propõe uma leitura refinada da experiência humana ao integrar três ritmos essenciais: as estações do ano, as fases do dia e os ciclos da vida. Cada um dos doze blocos une uma etapa do ano solar, um intervalo do dia e uma fase existencial, permitindo uma organização sensível e coerente com nossos processos internos.
+
+A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos profundos, como o reprodutivo e o circadiano, refletindo padrões naturais de crescimento, maturação e declínio. O resultado é um sistema de orientação temporal que respeita tanto o corpo quanto o tempo do mundo — útil para reflexão, planejamento e presença.
+
 ## 1. Primeiro ciclo
 <p class="text-small text-secondary">Início da primavera — Início da manhã — Início do crescimento</p>
 
 ::: list-stylized
 * **Data:** N[^1] → 20 de março a 19 de abril / S[^2] → 22 de setembro a 21 de outubro
 * **Hora:** 06:00 às 07:59
-* **Idade:** 0 a 99 lunações
+* **Idade:** 0 a 99 lunações[^3]
 :::
 
 [^1]: N: Hemisfério Norte.
 [^2]: S: Hemisfério Sul.
+[^3]: Lunação: Uma lunação corresponde a um ciclo lunar sinódico, que é o intervalo de tempo entre duas luas novas consecutivas, com uma duração média de aproximadamente 29,5 dias terrestres.
 
 ## 2. Segundo ciclo
 <p class="text-small text-secondary">Meio da primavera — Meio da manhã — Meio do crescimento</p>
