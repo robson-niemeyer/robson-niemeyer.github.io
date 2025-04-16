@@ -2,7 +2,7 @@
 title: "🏕️ Ritmo Solar"
 description: "Teu corpo segue o sol. Tua mente floresce na luz."
 date: "2025-04-09"
-image: "dave-hoefler-a3e7yEtQxJs-unsplash.jpg"
+image_filename: "dave-hoefler-a3e7yEtQxJs-unsplash"
 image_alt: "Imagem de capa"
 image_source: "Dave Hoefler / Unsplash"
 publication_date: 2025-04-09

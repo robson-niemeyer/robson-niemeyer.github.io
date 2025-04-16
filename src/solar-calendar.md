@@ -1,7 +1,7 @@
 ---
 title: "🌄 Calendário Solar"
 description: "Dominar o tempo é forjar o destino."
-image: "ivana-cajina-dQejX2ucPBs-unsplash.jpg"
+image_filename: "ivana-cajina-dQejX2ucPBs-unsplash"
 image_alt: "Imagem de capa"
 image_source: "Ivana Cajina / Unsplash"
 publication_date: 2025-04-08

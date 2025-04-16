@@ -1,7 +1,7 @@
 ---
 title: "✅ Protocolo de Checkpoint"
 description: "Momentos estratégicos do dia para ler corpo e mente."
-image: "sage-friedman-HS5CLnQbCOc-unsplash.jpg"
+image_filename: "sage-friedman-HS5CLnQbCOc-unsplash"
 image_alt: "Imagem de capa"
 image_source: "Sage Friedman / Unsplash"
 publication_date: 2025-04-11
