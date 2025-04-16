@@ -1,0 +1,76 @@
+/**
+ * Button
+ */
+
+button {
+  background-color: var(--color-link);
+  border: 1px solid var(--color-link);
+  color: var(--background-color-primary);
+  cursor: pointer;
+  font-family: var(--font-family-heading);
+  font-weight: 500;
+  letter-spacing: 1px;
+  line-height: var(--line-height-heading);
+  padding: var(--spacing-xsmall) var(--spacing-small);
+  transition: all var(--transition-duration) ease-out;
+}
+
+button:hover {
+  opacity: 0.875;
+}
+
+/**
+ * Card
+ */
+
+.card {
+  background-color: var(--background-color-secondary);
+  margin-bottom: var(--spacing-regular);
+  padding: var(--spacing-regular);
+}
+
+/**
+ * Image
+ */
+
+figure {
+  height: 0;
+  padding-top: 75%;
+  position: relative;
+}
+
+figcaption {
+  color: var(--color-secondary);
+  font-size: var(--font-size-small);
+}
+
+img {
+  display: block;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+@media only screen and (min-width: 768px) {
+  figure {
+    padding-top: 37.5%;
+  }
+}
+
+/**
+ * Input
+ */
+
+input {
+  background-color: var(--background-color-primary);
+  border: 1px solid var(--border-color);
+  line-height: var(--line-height-heading);
+  padding: var(--spacing-xsmall) var(--spacing-small);
+}
+
+.input-group > p {
+  display: flex;
+}

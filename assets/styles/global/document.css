@@ -7,10 +7,10 @@ html {
 body {
   background-color: var(--background-color-primary);
   color: var(--color-primary);
-  font-family: var(--font-family-regular);
+  font-family: var(--font-family-body);
   font-size: var(--font-size-regular);
   font-weight: var(--font-weight-regular);
-  line-height: var(--line-height-regular);
+  line-height: var(--line-height-body);
   min-height: 100%;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;

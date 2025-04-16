@@ -9,14 +9,14 @@ update_date: 2025-04-12
 
 ::: section
 ## Introdução
-<p class="text-small text-secondary">Alinhamento entre estações, ciclo diário e trajetória vital</p>
+<p class="text-small text-secondary">Alinhamento entre estações, ciclo diário e trajetória vital.</p>
 
 Este calendário propõe uma leitura refinada da experiência humana ao integrar três ritmos essenciais: as estações do ano, as fases do dia e os ciclos da vida. Cada um dos doze blocos une uma etapa do ano solar, um intervalo do dia e uma fase existencial, permitindo uma organização sensível e coerente com nossos processos internos.
 
 A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos profundos, como o reprodutivo e o circadiano, refletindo padrões naturais de crescimento, maturação e declínio. O resultado é um sistema de orientação temporal que respeita tanto o corpo quanto o tempo do mundo — útil para reflexão, planejamento e presença.
 
 ## 1. Primeiro ciclo
-<p class="text-small text-secondary">Início da primavera — Início da manhã — Início do crescimento</p>
+<p class="text-small text-secondary">Início da primavera, da manhã e do crescimento.</p>
 
 ::: list-stylized
 * **Data:** N[^1] → 20 de março a 19 de abril / S[^2] → 22 de setembro a 21 de outubro
@@ -29,7 +29,7 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 [^3]: Lunação: Uma lunação corresponde a um ciclo lunar sinódico, que é o intervalo de tempo entre duas luas novas consecutivas, com uma duração média de aproximadamente 29,5 dias terrestres.
 
 ## 2. Segundo ciclo
-<p class="text-small text-secondary">Meio da primavera — Meio da manhã — Meio do crescimento</p>
+<p class="text-small text-secondary">Meio da primavera, da manhã e do crescimento.</p>
 
 ::: list-stylized
 * **Data:** N → 20 de abril a 20 de maio / S → 22 de outubro a 20 de novembro
@@ -38,7 +38,7 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 :::
 
 ## 3. Terceiro ciclo
-<p class="text-small text-secondary">Final da primavera — Final da manhã — Final do crescimento</p>
+<p class="text-small text-secondary">Final da primavera, da manhã e do crescimento.</p>
 
 ::: list-stylized
 * **Data:** N → 21 de maio a 20 de junho / S → 21 de novembro a 20 de dezembro
@@ -47,7 +47,7 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 :::
 
 ## 4. Quarto ciclo
-<p class="text-small text-secondary">Início do verão — Início da tarde — Início do maturação</p>
+<p class="text-small text-secondary">Início do verão, da tarde e da maturação.</p>
 
 ::: list-stylized
 * **Data:** N → 21 de junho a 21 de julho / S → 21 de dezembro a 19 de janeiro
@@ -56,7 +56,7 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 :::
 
 ## 5. Quinto ciclo
-<p class="text-small text-secondary">Meio do verão — Meio da tarde — Meio do maturação</p>
+<p class="text-small text-secondary">Meio do verão, da tarde e da maturação.</p>
 
 ::: list-stylized
 * **Data:** N → 22 de julho a 21 de agosto / S → 20 de janeiro a 18 de fevereiro
@@ -65,7 +65,7 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 :::
 
 ## 6. Sexto ciclo
-<p class="text-small text-secondary">Final do verão — Final da tarde — Final do maturação</p>
+<p class="text-small text-secondary">Final do verão, da tarde e da maturação.</p>
 
 ::: list-stylized
 * **Data:** N → 22 de agosto a 21 de setembro / S → 19 de fevereiro a 20 de março
@@ -74,7 +74,7 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 :::
 
 ## 7. Sétimo ciclo
-<p class="text-small text-secondary">Início do outono — Início da noite — Início da senescência</p>
+<p class="text-small text-secondary">Início do outono, da noite e da senescência.</p>
 
 ::: list-stylized
 * **Data:** N → 22 de setembro a 21 de outubro / S → 20 de março a 19 de abril
@@ -83,7 +83,7 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 :::
 
 ## 8. Oitavo ciclo
-<p class="text-small text-secondary">Meio do outono — Meio da noite — Meio da senescência</p>
+<p class="text-small text-secondary">Meio do outono, da noite e da senescência.</p>
 
 ::: list-stylized
 * **Data:** N → 22 de outubro a 20 de novembro / S → 20 de abril a 20 de maio
@@ -92,7 +92,7 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 :::
 
 ## 9. Nono ciclo
-<p class="text-small text-secondary">Final do outono — Final da noite — Final da senescência</p>
+<p class="text-small text-secondary">Final do outono, da noite e da senescência.</p>
 
 ::: list-stylized
 * **Data:** N → 21 de novembro a 20 de dezembro / S → 21 de maio a 20 de junho
@@ -101,7 +101,7 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 :::
 
 ## 10. Décimo ciclo
-<p class="text-small text-secondary">Início do inverno — Início da madrugada — Início da terminalidade</p>
+<p class="text-small text-secondary">Início do inverno, da madrugada e da terminalidade.</p>
 
 ::: list-stylized
 * **Data:** N → 21 de dezembro a 19 de janeiro / S → 21 de junho a 21 de julho
@@ -110,7 +110,7 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 :::
 
 ## 11. Décimo primeiro ciclo
-<p class="text-small text-secondary">Meio do inverno — Meio da madrugada — Meio da terminalidade</p>
+<p class="text-small text-secondary">Meio do inverno, da madrugada e da terminalidade.</p>
 
 ::: list-stylized
 * **Data:** N → 20 de janeiro a 18 de fevereiro / S → 22 de julho a 21 de agosto
@@ -119,7 +119,7 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 :::
 
 ## 12. Décimo segundo ciclo
-<p class="text-small text-secondary">Final do inverno — Final da madrugada — Final da terminalidade</p>
+<p class="text-small text-secondary">Final do inverno, da madrugada e da terminalidade.</p>
 
 ::: list-stylized
 * **Data:** N → 19 de fevereiro a 20 de março / S → 22 de agosto a 21 de setembro
