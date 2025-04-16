@@ -9,16 +9,10 @@ update_date: 2025-04-13
 ![[Fonte: Afshin T2Y / Unsplash]](/assets/images/afshin-t2y-3_PVkGcXqgQ-unsplash.jpg "Imagem de capa")
 
 ::: section
-## Introdução
-<p class="text-small text-secondary">Estrutura diária ajustável com base solar para desempenho máximo e recuperação real.</p>
-
-Este cronograma foi projetado para alinhar com os ritmos naturais do corpo e da mente, aproveitando checkpoints de energia, janelas de foco profundo e padrões precisos de recuperação. Com base em princípios da cronobiologia e da crononutrição, oferece uma rotina enxuta, previsível e adaptável — sempre recalculada a partir do instante em que os primeiros raios de sol tocam o solo (T₀).
-
-## Ajuste do Momento T₀
-<p class="text-small text-secondary">T₀ é o instante em que os primeiros raios solares tocam diretamente o solo — ponto de referência absoluto para alinhar o cronograma ao ciclo luz-escuridão.</p>
-
 ::: card
-<label for="start-time">Horário da exposição solar (T₀):</label>
+<label for="start-time">Horário da exposição solar – T₀[^1]:</label>
+
+[^1]: T₀ (Tempo Zero): momento em que os primeiros raios solares tocam diretamente o solo. Serve como referência para alinhar o cronograma ao ritmo circadiano real — baseado no ciclo solar local, não no relógio. Por exemplo, ao definir 06:40 como T₀, a Fase 1 começará às 05:50.
 
 ::: btn-input
 <input type="time" id="start-time" />
@@ -26,16 +20,11 @@ Este cronograma foi projetado para alinhar com os ritmos naturais do corpo e da 
 :::
 :::
 
-Ao definir o horário exato de T₀, todas as fases serão recalculadas com base nessa ancoragem. Por padrão, a fase 1 começa 40 minutos antes de T₀ para garantir ativação física e mental antes da exposição solar.
-
-Se você definir, por exemplo, 06:40 como T₀, o sistema exibirá 06:00 como início da fase 1. Isso não é um erro: é o comportamento esperado do sistema, projetado para respeitar a lógica cronobiológica com precisão.
-
-Não é necessário nenhum ajuste manual.
-
-## [06:20]{.phase-start-time} – Primórdio
-<p class="text-small text-secondary">Ativação física e mental após o despertar — Tempo total: 1 h 40 min.</p>
+## [06:10]{.phase-start-time} – Primórdio
+<p class="text-small text-secondary">Ativação física e mental após o despertar — Tempo total: 1 h 50 min.</p>
 
 ::: list-stylized
+* **[06:10 às 06:20]{.block-time-range} – Checkpoint:** Avaliação objetiva do estado interno ao despertar, alinhando corpo e mente para uma ativação estável.
 * **[06:20 às 07:00]{.block-time-range} – Ativação Matinal:** Despertar suave com movimentos como esticar, alongar, girar articulações e respirar fundo, podendo incluir um breve banho frio para estimular o corpo.
 * **[07:00 às 07:20]{.block-time-range} – Exposição Solar (T₀):** Contato direto com o sol ao nível do solo, ajudando a regular o relógio biológico e marcar o início do dia.
 * **[07:20 às 08:00]{.block-time-range} – Café da Manhã Low-Carb:** Refeição leve com foco em proteínas e gorduras boas, favorecendo saciedade e energia estável. Sugestão: incluir ovos, abacate, oleaginosas ou iogurte integral com canela — esses alimentos sustentam a energia sem picos glicêmicos, preparando o cérebro para foco prolongado. Para indivíduos com alta demanda energética matinal, incluir uma pequena porção de carboidratos complexos de baixo índice glicêmico, como uma fatia de pão integral com abacate e ovo.
@@ -81,18 +70,13 @@ Não é necessário nenhum ajuste manual.
 :::
 
 ## [19:50]{.phase-start-time} – Desligamento e Regeneração
-<p class="text-small text-secondary">Desaceleração sensorial e recuperação profunda do corpo e da mente — Tempo total: 10:30 h.</p>
+<p class="text-small text-secondary">Desaceleração sensorial e recuperação profunda do corpo e da mente — Tempo total: 10:20 h.</p>
 
 ::: list-stylized
 * **[19:40 às 19:50]{.block-time-range} – Checkpoint:** Conclusão simbólica do dia ativo e entrada na transição noturna.
 * **[19:50 às 21:10]{.block-time-range} – Rampa de Desligamento:** Relaxamento pré-sono com leitura leve, respiração profunda, meditação ou silêncio introspectivo, evitando a exposição a telas luminosas.
-* **[21:20 às 06:20]{.block-time-range} – Descanso Profundo:** Sono em ambiente escuro, silencioso e fresco, com horários regulares de deitar e despertar para otimizar a regeneração física e neurológica.
+* **[21:20 às 06:10]{.block-time-range} – Descanso Profundo:** Sono em ambiente escuro, silencioso e fresco, com horários regulares de deitar e despertar para otimizar a regeneração física e neurológica.
 :::
-
-## Conclusão
-<p class="text-small text-secondary">Consistência gera clareza. Clareza impulsiona resultados.</p>
-
-Este modelo oferece uma base sólida, mas o verdadeiro poder está na observação contínua e nos microajustes ao longo dos dias. Mantenha a estrutura, mas afine o ritmo. A repetição inteligente transforma a disciplina em liberdade e a rotina em potência.
 
 ## Artigos relacionados
 

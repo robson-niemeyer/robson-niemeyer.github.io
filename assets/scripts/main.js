@@ -1,14 +1,18 @@
 // Duration of each activity block (in minutes) per phase.
 // Each inner array represents one phase composed of time blocks.
 const phaseBlocks = [
-  [40, 20, 40],
+  [10, 40, 20, 40],
   [10, 10, 20, 80, 20, 80, 20, 40],
   [10, 20, 80, 20, 80, 20, 20],
   [10, 10, 20, 80, 20, 40],
-  [10, 80, 540]
+  [10, 80, 530]
 ];
 
-const OFFSET_MINUTES = phaseBlocks[0][0];
+const sumPhaseBlocks = phaseBlocks.flat().reduce((sum, n) => sum + n, 0);
+
+if (sumPhaseBlocks != 1440 ) throw new Error('Sum of activities doesn\'t fit');
+
+const OFFSET_MINUTES = phaseBlocks[0][0] + phaseBlocks[0][1];
 const MINUTES_IN_DAY = 1440;
 const INITIAL_TIME = '07:00';
 
