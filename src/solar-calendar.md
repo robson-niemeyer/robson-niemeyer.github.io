@@ -1,22 +1,32 @@
 ---
 title: "🌄 Calendário Solar"
-description: "Este calendário integra três eixos: o curso das estações, a variação do dia e a progressão da vida humana."
+description: "Dominar o tempo é forjar o destino."
+image: "ivana-cajina-dQejX2ucPBs-unsplash.jpg"
+image_alt: "Imagem de capa"
+image_source: "Ivana Cajina / Unsplash"
 publication_date: 2025-04-08
 update_date: 2025-04-12
 ---
 
-![[Fonte: Ivana Cajina / Unsplash]](/assets/images/ivana-cajina-dQejX2ucPBs-unsplash.jpg "Imagem de capa")
-
 ::: section
-## Introdução
-<p class="text-small text-secondary">Alinhamento entre estações, ciclo diário e trajetória vital.</p>
+::: {.subsection}
+> **Teu tempo interno espelha o céu.**  
+> O sol não mede horas — revela ciclos.  
+> Cada etapa, uma direção. Cada luz, um chamado.
+:::
+::: {.subsection}
+## Arquitetura do Tempo
+<p class="subheading">Três ciclos em um: ano solar, dia solar, vida solar.</p>
 
-Este calendário propõe uma leitura refinada da experiência humana ao integrar três ritmos essenciais: as estações do ano, as fases do dia e os ciclos da vida. Cada um dos doze blocos une uma etapa do ano solar, um intervalo do dia e uma fase existencial, permitindo uma organização sensível e coerente com nossos processos internos.
+Este calendário integra três ritmos essenciais: o ciclo das estações, as fases do dia e os estágios da vida. Cada um dos doze blocos une uma etapa do ano solar, um intervalo do dia e uma fase existencial — permitindo organizar o tempo com clareza, presença e coerência interior.
 
-A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos profundos, como o reprodutivo e o circadiano, refletindo padrões naturais de crescimento, maturação e declínio. O resultado é um sistema de orientação temporal que respeita tanto o corpo quanto o tempo do mundo — útil para reflexão, planejamento e presença.
+A divisão em doze ciclos reflete padrões biológicos profundos, como o ritmo circadiano e o ciclo lunar reprodutivo. O resultado é um mapa natural para reflexão, planejamento e enraizamento existencial — respeitando o corpo e o tempo do mundo.
+:::
+::: {.subsection}
+## Ciclos
 
-## 1. Primeiro ciclo
-<p class="text-small text-secondary">Início da primavera, da manhã e do crescimento.</p>
+### 1. Primeiro ciclo
+<p class="subheading">Início da primavera, da manhã e do crescimento.</p>
 
 ::: list-stylized
 * **Data:** N[^1] → 20 de março a 19 de abril / S[^2] → 22 de setembro a 21 de outubro
@@ -24,12 +34,12 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 * **Idade:** 0 a 99 lunações[^3]
 :::
 
-[^1]: N: Hemisfério Norte.
-[^2]: S: Hemisfério Sul.
-[^3]: Lunação: Uma lunação corresponde a um ciclo lunar sinódico, que é o intervalo de tempo entre duas luas novas consecutivas, com uma duração média de aproximadamente 29,5 dias terrestres.
+[^1]: <sup>1</sup> _N_: Hemisfério Norte.
+[^2]: <sup>2</sup> _S_: Hemisfério Sul.
+[^3]: <sup>3</sup> _Lunação_: Uma lunação corresponde a um ciclo lunar sinódico, que é o intervalo de tempo entre duas luas novas consecutivas, com uma duração média de aproximadamente 29,5 dias terrestres.
 
-## 2. Segundo ciclo
-<p class="text-small text-secondary">Meio da primavera, da manhã e do crescimento.</p>
+### 2. Segundo ciclo
+<p class="subheading">Meio da primavera, da manhã e do crescimento.</p>
 
 ::: list-stylized
 * **Data:** N → 20 de abril a 20 de maio / S → 22 de outubro a 20 de novembro
@@ -37,8 +47,8 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 * **Idade:** 100 a 199 lunações
 :::
 
-## 3. Terceiro ciclo
-<p class="text-small text-secondary">Final da primavera, da manhã e do crescimento.</p>
+### 3. Terceiro ciclo
+<p class="subheading">Final da primavera, da manhã e do crescimento.</p>
 
 ::: list-stylized
 * **Data:** N → 21 de maio a 20 de junho / S → 21 de novembro a 20 de dezembro
@@ -46,8 +56,8 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 * **Idade:** 200 a 299 lunações
 :::
 
-## 4. Quarto ciclo
-<p class="text-small text-secondary">Início do verão, da tarde e da maturação.</p>
+### 4. Quarto ciclo
+<p class="subheading">Início do verão, da tarde e da maturação.</p>
 
 ::: list-stylized
 * **Data:** N → 21 de junho a 21 de julho / S → 21 de dezembro a 19 de janeiro
@@ -55,8 +65,8 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 * **Idade:** 300 a 399 lunações
 :::
 
-## 5. Quinto ciclo
-<p class="text-small text-secondary">Meio do verão, da tarde e da maturação.</p>
+### 5. Quinto ciclo
+<p class="subheading">Meio do verão, da tarde e da maturação.</p>
 
 ::: list-stylized
 * **Data:** N → 22 de julho a 21 de agosto / S → 20 de janeiro a 18 de fevereiro
@@ -64,8 +74,8 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 * **Idade:** 400 a 499 lunações
 :::
 
-## 6. Sexto ciclo
-<p class="text-small text-secondary">Final do verão, da tarde e da maturação.</p>
+### 6. Sexto ciclo
+<p class="subheading">Final do verão, da tarde e da maturação.</p>
 
 ::: list-stylized
 * **Data:** N → 22 de agosto a 21 de setembro / S → 19 de fevereiro a 20 de março
@@ -73,8 +83,8 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 * **Idade:** 500 a 599 lunações
 :::
 
-## 7. Sétimo ciclo
-<p class="text-small text-secondary">Início do outono, da noite e da senescência.</p>
+### 7. Sétimo ciclo
+<p class="subheading">Início do outono, da noite e da senescência.</p>
 
 ::: list-stylized
 * **Data:** N → 22 de setembro a 21 de outubro / S → 20 de março a 19 de abril
@@ -82,8 +92,8 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 * **Idade:** 600 a 699 lunações
 :::
 
-## 8. Oitavo ciclo
-<p class="text-small text-secondary">Meio do outono, da noite e da senescência.</p>
+### 8. Oitavo ciclo
+<p class="subheading">Meio do outono, da noite e da senescência.</p>
 
 ::: list-stylized
 * **Data:** N → 22 de outubro a 20 de novembro / S → 20 de abril a 20 de maio
@@ -91,8 +101,8 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 * **Idade:** 700 a 799 lunações
 :::
 
-## 9. Nono ciclo
-<p class="text-small text-secondary">Final do outono, da noite e da senescência.</p>
+### 9. Nono ciclo
+<p class="subheading">Final do outono, da noite e da senescência.</p>
 
 ::: list-stylized
 * **Data:** N → 21 de novembro a 20 de dezembro / S → 21 de maio a 20 de junho
@@ -100,8 +110,8 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 * **Idade:** 800 a 899 lunações
 :::
 
-## 10. Décimo ciclo
-<p class="text-small text-secondary">Início do inverno, da madrugada e da terminalidade.</p>
+### 10. Décimo ciclo
+<p class="subheading">Início do inverno, da madrugada e da terminalidade.</p>
 
 ::: list-stylized
 * **Data:** N → 21 de dezembro a 19 de janeiro / S → 21 de junho a 21 de julho
@@ -109,8 +119,8 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 * **Idade:** 900 a 999 lunações
 :::
 
-## 11. Décimo primeiro ciclo
-<p class="text-small text-secondary">Meio do inverno, da madrugada e da terminalidade.</p>
+### 11. Décimo primeiro ciclo
+<p class="subheading">Meio do inverno, da madrugada e da terminalidade.</p>
 
 ::: list-stylized
 * **Data:** N → 20 de janeiro a 18 de fevereiro / S → 22 de julho a 21 de agosto
@@ -118,20 +128,18 @@ A divisão em doze ciclos não é simbólica, mas responde a ritmos biológicos 
 * **Idade:** 1000 a 1099 lunações
 :::
 
-## 12. Décimo segundo ciclo
-<p class="text-small text-secondary">Final do inverno, da madrugada e da terminalidade.</p>
+### 12. Décimo segundo ciclo
+<p class="subheading">Final do inverno, da madrugada e da terminalidade.</p>
 
 ::: list-stylized
 * **Data:** N → 19 de fevereiro a 20 de março / S → 22 de agosto a 21 de setembro
 * **Hora:** 04:00 às 05:59
 * **Idade:** 1100 a 1199 lunações
 :::
-
+:::
+::: {.subsection}
 ## Artigos relacionados
 * [⏱️ Cronograma Diário](/daily-schedule/)
 * [🏕️ Ritmo Solar](/solar-rhythm/)
 :::
-
-::: text-center
-[🔙 Voltar](/)
 :::

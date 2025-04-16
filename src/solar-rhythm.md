@@ -1,22 +1,28 @@
 ---
 title: "🏕️ Ritmo Solar"
-description: "O corpo humano floresce e frutifica quando segue a luz."
+description: "Teu corpo segue o sol. Tua mente floresce na luz."
 date: "2025-04-09"
+image: "dave-hoefler-a3e7yEtQxJs-unsplash.jpg"
+image_alt: "Imagem de capa"
+image_source: "Dave Hoefler / Unsplash"
 publication_date: 2025-04-09
 update_date: 2025-04-12
 ---
+::: section
+::: {.subsection}
 > Teu corpo é sinfonia viva,  
 > Ondas ressoam teu tempo interno —  
 > Toma tua batuta. Reina teu ritmo.
+:::
+::: {.subsection}
+## Ritmo Biológico por Luz Solar
+<p class="subheading">Ciclo diário da luz e suas funções no corpo e mente.</p>
 
-![[Fonte: Dave Hoefler / Unsplash]](/assets/images/dave-hoefler-a3e7yEtQxJs-unsplash.jpg "Imagem de capa")
-
-::: section
 **No início da manhã**, quando os raios do sol tocam diretamente o chão sob seus pés, aceite o chamado e exponha-se à luz vivificante. É nesse instante que o verdadeiro dia biológico começa. Nesse momento, o corpo desperta com vitalidade e desejo — sendo também o horário mais propício para a intimidade e o alívio natural do impulso sexual.
 
 **Do meio da manhã até o zênite solar[^1]**, a mente atinge seu auge de foco profundo — ideal para resolver problemas complexos, escrever com concentração, decidir com estratégia ou estudar com exigência.
 
-[^1]: Zênite solar: meio-dia.
+[^1]: <sup>1</sup> _Zênite solar_: auge do sol ao meio-dia.
 
 **O zênite solar** marca a hora do almoço e do recuo — a mente começa a sair do modo focado e entra em estado contemplativo.
 
@@ -24,24 +30,22 @@ update_date: 2025-04-12
 
 **Do meio da tarde ao crepúsculo vespertino[^2]**, o corpo atinge seu pico de potência física — melhor momento para treinamentos de força, resistência ou expressão corporal intensa.
 
-[^2]: Crepúsculo vespertino: início da noite.
+[^2]: <sup>2</sup> _Crepúsculo vespertino_: transição da tarde para noite.
 
 **No crepúsculo vespertino**, a luz do céu suaviza. A mente se volta ao afeto, à escuta, ao descanso e à criatividade sensível — como conversas profundas, leitura relaxante, escrita leve ou expressão artística sem cobrança.
 
 **Entre o crepúsculo e o nadir[^3]**, abre-se a janela de ouro do sono profundo. Dormir nesse intervalo restaura a vitalidade, reorganiza a memória e renova o corpo como nada mais consegue.
 
-[^3]: Nadir: meia-noite.
+[^3]: <sup>3</sup> _Nadir_: ponto mais escuro da noite (meia-noite solar).
 
 A luz conduz.  
 O corpo segue.  
 Quem sincroniza, floresce —  
 **reinando sobre si mesmo.**
-
+:::
+::: {.subsection}
 ## Artigos relacionados
 * [⏱️ Cronograma Diário](/daily-schedule/)
 * [🌄 Calendário Solar](/solar-calendar/)
 :::
-
-::: text-center
-[🔙 Voltar](/)
 :::

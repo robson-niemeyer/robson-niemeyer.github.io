@@ -1,32 +1,33 @@
 ---
 title: "✅ Protocolo de Checkpoint"
-description: "Momentos estratégicos do dia para ler o corpo e a mente. São oportunidades de ajuste fino, alinhamento e consciência."
+description: "Momentos estratégicos do dia para ler corpo e mente."
+image: "sage-friedman-HS5CLnQbCOc-unsplash.jpg"
+image_alt: "Imagem de capa"
+image_source: "Sage Friedman / Unsplash"
 publication_date: 2025-04-11
 update_date: 2025-04-11
 ---
-
-![[Fonte: Sage Friedman / Unsplash]](/assets/images/sage-friedman-HS5CLnQbCOc-unsplash.jpg "Imagem de capa")
-
 ::: section
-A ideia aqui é manter as coisas simples.
+::: {.subsection}
+## Checkpoints Diários
+<p class="subheading">A proposta é simples: parar, sentir e ajustar.</p>
 
-**Avalie:**
+Em cada checkpoint, observe:
 
 ::: list-stylized
 * Energia física
 * Clareza mental
 * Estabilidade emocional
-* Motivação
+* Motivação essencial
 :::
 
-Evite registros excessivos. O foco está na leitura interna e decisão prática.
+Evite registros extensos — o foco é a leitura interna seguida de ação objetiva.
 
-Se preferir, registre o veredito em uma linha: _"Apto para o foco total"_, _"Reduzir a intensidade"_, _"Prolongar o descanso"_
-
+Se quiser anotar, basta uma linha clara:  
+**“Apto para foco total”**, **“Reduzir intensidade”**, ou **“Prolongar descanso”**.
+:::
+::: {.subsection}
 ## Artigos relacionados
 * [⏱️ Cronograma Diário](/daily-schedule/)
 :::
-
-::: text-center
-[🔙 Voltar](/)
 :::

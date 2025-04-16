@@ -19,6 +19,12 @@ button:hover {
   opacity: 0.875;
 }
 
+.btn-icon {
+  align-items: center;
+  display: flex;
+  gap: var(--spacing-xsmall);
+}
+
 /**
  * Card
  */
@@ -34,7 +40,9 @@ button:hover {
  */
 
 figure {
+  background-color: var(--background-color-secondary);
   height: 0;
+  margin-bottom: var(--spacing-regular);
   padding-top: 75%;
   position: relative;
 }
@@ -42,6 +50,8 @@ figure {
 figcaption {
   color: var(--color-secondary);
   font-size: var(--font-size-small);
+  position: absolute;
+  top: 100%;
 }
 
 img {
@@ -58,6 +68,11 @@ img {
   figure {
     padding-top: 37.5%;
   }
+}
+
+svg {
+  height: var(--spacing-regular);
+  width: auto;
 }
 
 /**
