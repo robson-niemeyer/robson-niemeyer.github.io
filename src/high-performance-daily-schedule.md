@@ -20,14 +20,14 @@ update_date: 2025-04-17
 :::
 ::: {.subsection}
 ## Seu Ritmo Único
-<p class="subheading">Um guia inicial para você descobrir seu melhor fluxo diário.</p>
+<p class="subheading">Um ponto de partida sólido para identificar seu fluxo ideal.</p>
 
-Este cronograma oferece uma base sólida, alinhada com a ciência do corpo. Experimente-o. Observe sua energia ao longo do dia. Seu dia ideal é pessoal. Use isto como ponto de partida e faça os ajustes que funcionam para você. Descubra seu próprio ritmo.
+Este cronograma foi construído com base na ciência dos ritmos biológicos. Use-o como guia inicial. Experimente. Observe sua energia ao longo do dia. Ajuste conforme necessário. Seu ritmo é único — descubra-o.
 :::
 ::: {.subsection}
 ## Os Ciclos do Seu Dia
 ### 1. Inicialização Primordial
-<p class="subheading">Alinhamento circadiano e inicialização neuromotora.</p>
+<p class="subheading">Alinhamento circadiano e ativação neuromotora.</p>
 
 ::: list-stylized
 * **[06:00 às 06:15]{.block-time-range} – Checkpoint:** Avaliação objetiva do estado interno ao despertar, alinhando corpo e mente para uma ativação estável.
