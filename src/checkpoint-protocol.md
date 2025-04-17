@@ -28,6 +28,6 @@ Se quiser anotar, basta uma linha clara:
 :::
 ::: {.subsection}
 ## Artigos relacionados
-* [⏱️ Cronograma Diário](/daily-schedule/)
+* [⏱️ Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
 :::
 :::

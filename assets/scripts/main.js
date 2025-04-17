@@ -1,108 +1,145 @@
 // Duration of each activity block (in minutes) per phase.
 // Each inner array represents one phase composed of time blocks.
 const phaseBlocks = [
-  [10, 40, 20, 40],
-  [10, 10, 20, 80, 20, 80, 20, 40],
-  [10, 20, 80, 20, 80, 20, 20],
-  [10, 10, 20, 80, 20, 40],
-  [10, 80, 530]
+  [15, 45, 30, 45],
+  [15, 90, 15, 90, 15, 45],
+  [15, 90, 15, 45],
+  [15, 30, 30, 90, 30, 30, 45],
+  [15, 90]
 ];
 
-const sumPhaseBlocks = phaseBlocks.flat().reduce((sum, n) => sum + n, 0);
-
-if (sumPhaseBlocks != 1440 ) throw new Error('Sum of activities doesn\'t fit');
-
-const OFFSET_MINUTES = phaseBlocks[0][0] + phaseBlocks[0][1];
 const MINUTES_IN_DAY = 1440;
 const INITIAL_TIME = '07:00';
 
+// Defines the initial offset based on the first two blocks of the first phase
+const initialOffset = phaseBlocks[0][0] + phaseBlocks[0][1];
+
 const startTimeInput = document.querySelector('#start-time');
 const nowBtn = document.querySelector('#now-btn');
-const phaseStartTimes = document.querySelectorAll('.phase-start-time');
+const phaseDurationElements = document.querySelectorAll('.phase-duration');
 const blockTimeRanges = document.querySelectorAll('.block-time-range');
 
 /**
- * Pads a number to two digits.
+ * Formats minutes to the "XhYY" format.
+ * @param {number} minutes - Total minutes.
+ * @returns {string} - Formatted string as "XhYY".
  */
-const pad = n => String(n).padStart(2, '0');
-
-/**
- * Converts total minutes to HH:MM format.
- */
-const formatMinutesAsTime = minutes => {
-  const h = Math.floor(minutes / 60) % 24;
-  const m = minutes % 60;
-  return `${pad(h)}:${pad(m)}`;
+const formatMinutesAsOffset = (minutes) => {
+  const hours = Math.floor(minutes / 60);
+  const mins = minutes % 60;
+  return `${hours}h${String(mins).padStart(2, '0')}`;
 };
 
 /**
- * Parses a "HH:MM" string into total minutes from midnight.
+ * Calculates the start offset of each phase in minutes from T0.
+ * @param {string} startTimeStr - String representing the start time (HH:MM).
+ * @returns {number[]} - Array with the start offsets of each phase.
  */
-const parseTimeString = timeStr => {
+const getPhaseStartOffsets = (startTimeStr) => {
+  const startTime = parseTimeString(startTimeStr) - initialOffset;
+  let currentTime = startTime < 0 ? startTime + MINUTES_IN_DAY : startTime;
+  const phaseOffsets = [];
+  let durationAcc = -initialOffset;
+
+  for (const blocks of phaseBlocks) {
+    phaseOffsets.push(durationAcc);
+    durationAcc += blocks.reduce((sum, minute) => sum + minute, 0);
+  }
+
+  return phaseOffsets;
+};
+
+/**
+ * Updates the HTML elements with the start and end times of each phase.
+ * @param {string} startTimeStr - String representing the start time (HH:MM).
+ */
+const updatePhaseStartTimes = (startTimeStr) => {
+  if (!startTimeStr) return;
+
+  const phaseOffsets = getPhaseStartOffsets(startTimeStr);
+
+  phaseDurationElements.forEach((element, index) => {
+    const startOffsetMinutes = phaseOffsets[index];
+    const startTimeFormatted = startOffsetMinutes >= 0 ? `T<sub>0</sub>+${formatMinutesAsOffset(startOffsetMinutes)}` : `T<sub>0</sub>-${formatMinutesAsOffset(Math.abs(startOffsetMinutes))}`;
+
+    let endTimeFormatted;
+    if (index === phaseDurationElements.length - 1) {
+      endTimeFormatted = `T<sub>0</sub>+${formatMinutesAsOffset(MINUTES_IN_DAY)}`;
+    } else {
+      const phaseDurationMinutes = phaseBlocks[index].reduce((sum, minute) => sum + minute, 0);
+      const endOffsetMinutes = startOffsetMinutes + phaseDurationMinutes;
+      endTimeFormatted = endOffsetMinutes >= 0 ? `T<sub>0</sub>+${formatMinutesAsOffset(endOffsetMinutes)}` : `T<sub>0</sub>-${formatMinutesAsOffset(Math.abs(endOffsetMinutes))}`;
+    }
+
+    element.innerHTML = `${startTimeFormatted} até ${endTimeFormatted}`;
+  });
+};
+
+/**
+ * Formats minutes to the "HH:MM" format.
+ * @param {number} minutes - Total minutes.
+ * @returns {string} - Formatted string as "HH:MM".
+ */
+const formatMinutesAsTime = (minutes) => {
+  const hours = Math.floor(minutes / 60) % 24;
+  const mins = minutes % 60;
+  return `${String(hours).padStart(2, '0')}:${String(mins).padStart(2, '0')}`;
+};
+
+/**
+ * Converts an "HH:MM" string to total minutes since midnight.
+ * @param {string} timeStr - String representing the time (HH:MM).
+ * @returns {number} - Total minutes since midnight.
+ */
+const parseTimeString = (timeStr) => {
   const [hours, minutes] = timeStr.split(':').map(Number);
   if (isNaN(hours) || isNaN(minutes)) throw new Error(`Invalid time: "${timeStr}"`);
   return hours * 60 + minutes;
 };
 
 /**
- * Calculates the start times (in minutes) for each phase.
+ * Updates the HTML elements with the time ranges of each block.
+ * @param {string} startTimeStr - String representing the start time (HH:MM).
  */
-function getPhaseStartTimes(startTimeStr) {
-  let time = parseTimeString(startTimeStr) - OFFSET_MINUTES;
-  if (time < 0) time += MINUTES_IN_DAY;
-
-  return phaseBlocks.map(blocks => {
-    const phaseStart = time;
-    const total = blocks.reduce((sum, minutes) => sum + minutes, 0);
-    time = (time + total) % MINUTES_IN_DAY;
-    return phaseStart;
-  });
-}
-
-/**
- * Updates both phase and block times in the DOM.
- */
-function updateTimings(startTimeStr) {
+const updateBlockTimeRanges = (startTimeStr) => {
   if (!startTimeStr) return;
 
-  const phaseStarts = getPhaseStartTimes(startTimeStr);
-  let time = phaseStarts[0];
+  const scheduleStart = parseTimeString(startTimeStr) - initialOffset;
+  let currentTime = scheduleStart < 0 ? scheduleStart + MINUTES_IN_DAY : scheduleStart;
   let blockIndex = 0;
 
-  phaseBlocks.forEach((blocks, phaseIndex) => {
-    const phaseTime = formatMinutesAsTime(phaseStarts[phaseIndex]);
-    if (phaseStartTimes[phaseIndex]) {
-      phaseStartTimes[phaseIndex].textContent = phaseTime;
-    }
-
-    blocks.forEach(duration => {
-      const start = time;
-      const end = (start + duration) % MINUTES_IN_DAY;
+  for (const blocks of phaseBlocks) {
+    for (const duration of blocks) {
+      const startTime = currentTime;
+      currentTime = (currentTime + duration) % MINUTES_IN_DAY;
       if (blockTimeRanges[blockIndex]) {
-        blockTimeRanges[blockIndex].textContent =
-          `${formatMinutesAsTime(start)} às ${formatMinutesAsTime(end)}`;
+        blockTimeRanges[blockIndex].textContent = `${formatMinutesAsTime(startTime)} às ${formatMinutesAsTime(currentTime)}`;
       }
-      time = end;
       blockIndex++;
-    });
-  });
-}
+    }
+  }
+};
 
 /**
- * Sets current time in input and updates schedule.
+ * Sets the current time in the time input and updates the times on the page.
  */
-function setNow() {
+const setNow = () => {
   const now = new Date();
   const currentMinutes = now.getHours() * 60 + now.getMinutes();
   const nowStr = formatMinutesAsTime(currentMinutes);
   startTimeInput.value = nowStr;
-  updateTimings(nowStr);
-}
+  updatePhaseStartTimes(nowStr);
+  updateBlockTimeRanges(nowStr);
+};
 
-// Event listeners
-startTimeInput.addEventListener('change', () => updateTimings(startTimeInput.value));
+// Adds event listeners
+startTimeInput.addEventListener('change', () => {
+  updatePhaseStartTimes(startTimeInput.value);
+  updateBlockTimeRanges(startTimeInput.value);
+});
 nowBtn.addEventListener('click', setNow);
 
-// Initial render
+// Initializes the times with the default initial time
 startTimeInput.value = INITIAL_TIME;
-updateTimings(INITIAL_TIME);
+updatePhaseStartTimes(INITIAL_TIME);
+updateBlockTimeRanges(INITIAL_TIME);

@@ -83,6 +83,5 @@ update_date: 2025-04-13
 
 * [✅ Protocolo de Checkpoint](/checkpoint-protocol/)
 * [🏕️ Ritmo Solar](/solar-rhythm/)
-* [🌄 Calendário Solar](/solar-calendar/)
 :::
 :::

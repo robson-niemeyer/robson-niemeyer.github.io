@@ -137,9 +137,4 @@ A divisão em doze ciclos reflete padrões biológicos profundos, como o ritmo c
 * **Idade:** 1100 a 1199 lunações
 :::
 :::
-::: {.subsection}
-## Artigos relacionados
-* [⏱️ Cronograma Diário](/daily-schedule/)
-* [🏕️ Ritmo Solar](/solar-rhythm/)
-:::
 :::

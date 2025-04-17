@@ -45,7 +45,6 @@ Quem sincroniza, floresce —
 :::
 ::: {.subsection}
 ## Artigos relacionados
-* [⏱️ Cronograma Diário](/daily-schedule/)
-* [🌄 Calendário Solar](/solar-calendar/)
+* [⏱️ Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
 :::
 :::

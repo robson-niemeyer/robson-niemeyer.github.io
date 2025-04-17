@@ -95,9 +95,10 @@ li:last-child {
   margin-bottom: 0;
 }
 
+sub,
 sup,
 .text-small,
-li[id^="fn"] {
+li[id^="fn"], {
   font-size: var(--font-size-small);
 }
 
