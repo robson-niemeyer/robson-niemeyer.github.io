@@ -11,7 +11,7 @@ update_date: 2025-04-17
 ::: {.subsection .card}
 <label for="start-time">Horário da exposição solar (☀️T<sub>0</sub>[^1])</label>
 
-[^1]: <sup>1</sup> _T<sub>0</sub> (Tempo Zero)_: instante em que os primeiros raios solares tocam diretamente o solo. Alinha o cronograma ao ritmo circadiano real — baseado no ciclo solar local, não no relógio. Exemplo: se o sol nasce às 06:40, T<sub>0</sub> = 06:40, e o cronograma se ajusta a partir disso.
+[^1]: <sup>1</sup> _T<sub>0</sub> (Tempo Zero)_: instante em que os primeiros raios solares tocam diretamente o solo. Alinha o cronograma ao ritmo circadiano real — baseado no ciclo solar local, não no relógio. Exemplo: se sua exposição solar é às 08:00, T<sub>0</sub> = 08:00, e o cronograma se ajusta a partir disso.
 
 ::: input-group
 <input type="time" id="start-time" />
