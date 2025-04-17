@@ -9,7 +9,7 @@ update_date: 2025-04-17
 ---
 ::: section
 ::: {.subsection .card}
-<label for="start-time">Horário da exposição solar (☀️T<sub>0</sub>[^1])</label>
+<label for="start-time">☀️ Horário da exposição solar (T<sub>0</sub>[^1])</label>
 
 [^1]: <sup>1</sup> _T<sub>0</sub> (Tempo Zero)_: instante em que os primeiros raios solares tocam diretamente o solo. Alinha o cronograma ao ritmo circadiano real — baseado no ciclo solar local, não no relógio. Exemplo: se sua exposição solar é às 08:00, T<sub>0</sub> = 08:00, e o cronograma se ajusta a partir disso.
 
@@ -32,7 +32,7 @@ Este cronograma foi construído com base na ciência dos ritmos biológicos. Use
 ::: list-stylized
 * **[06:00 às 06:15]{.block-time-range} – Checkpoint:** Avaliação objetiva do estado interno ao despertar, alinhando corpo e mente para uma ativação estável.
 * **[06:15 às 07:00]{.block-time-range} – Ativação Física e Neural:** Despertar suave com movimentos como esticar, alongar, girar articulações e respirar fundo, podendo incluir um breve banho frio para estimular o corpo.
-* **[07:00 às 07:30]{.block-time-range} – Exposição Solar (☀️T<sub>0</sub>):** Contato direto com o sol ao nível do solo, ajudando a regular o relógio biológico e marcar o início do dia.
+* ☀️ **[07:00 às 07:30]{.block-time-range} – Exposição Solar (T<sub>0</sub>):** Contato direto com o sol ao nível do solo, ajudando a regular o relógio biológico e marcar o início do dia.
 * **[07:30 às 08:15]{.block-time-range} – Café da Manhã Low-Carb:** Refeição leve com foco em proteínas e gorduras boas, favorecendo saciedade e energia estável. Sugestão: incluir ovos, abacate, oleaginosas ou iogurte integral com canela — esses alimentos sustentam a energia sem picos glicêmicos, preparando o cérebro para foco prolongado. Para indivíduos com alta demanda energética matinal, incluir uma pequena porção de carboidratos complexos de baixo índice glicêmico, como uma fatia de pão integral com abacate e ovo.
 :::
 
