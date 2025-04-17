@@ -97,8 +97,9 @@ li:last-child {
 
 sub,
 sup,
-.text-small,
-li[id^="fn"], {
+li[id^="fn"],
+li[id^="fn"] *,
+.text-small {
   font-size: var(--font-size-small);
 }
 
