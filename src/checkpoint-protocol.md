@@ -26,8 +26,9 @@ Evite registros extensos — o foco é a leitura interna seguida de ação objet
 Se quiser anotar, basta uma linha clara:  
 **“Apto para foco total”**, **“Reduzir intensidade”**, ou **“Prolongar descanso”**.
 :::
+
 ::: {.subsection}
-## Artigos relacionados
+## Artigos Veja também
 * [⏱️ Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
 :::
 :::

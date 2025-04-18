@@ -18,15 +18,16 @@ update_date: 2025-04-17
 <button id="now-btn">Agora</button>
 :::
 :::
+
 ::: {.subsection}
-## Seu Ritmo Único
+## Introdução
 <p class="subheading">Um ponto de partida sólido para emergir seu estado de fluxo.</p>
 
 Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Use-o como um guia inicial, observe sua energia ao longo do dia e personalize-o conforme necessário. Seu ritmo é único — conheça a si mesmo.
 :::
+
 ::: {.subsection}
-## Os Ciclos do Seu Dia
-### 1. Inicialização
+## 1. Inicialização
 <p class="subheading">Sincronização circadiana e ativação da mente e do corpo.</p>
 
 ::: list-stylized
@@ -35,8 +36,10 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 * ☀️ **[07:00 às 07:30]{.block-time-range} – Exposição Solar (T<sub>0</sub>):** Contato direto com o sol ao nível do solo, ajudando a regular o relógio biológico e marcar o início do dia.
 * **[07:30 às 08:15]{.block-time-range} – Café da Manhã Low-Carb:** Refeição leve com foco em proteínas e gorduras boas, favorecendo saciedade e energia estável. Sugestão: incluir ovos, abacate, oleaginosas ou iogurte integral com canela — esses alimentos sustentam a energia sem picos glicêmicos, preparando o cérebro para foco prolongado. Para indivíduos com alta demanda energética matinal, incluir uma pequena porção de carboidratos complexos de baixo índice glicêmico, como uma fatia de pão integral com abacate e ovo.
 :::
+:::
 
-### 2. Foco Cognitivo
+::: {.subsection}
+## 2. Foco Cognitivo
 <p class="subheading">Os dois modos de pensamento: focado e difuso.</p>
 
 ::: list-stylized
@@ -47,8 +50,10 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 * **[11:45 às 12:00]{.block-time-range} – Modo Difuso:** Alongamento leve, chá ou respiração lenta — ajudando o cérebro a descansar.
 * **[12:00 às 12:45]{.block-time-range} – Almoço Nutritivo:** Refeição equilibrada com carboidratos, fibras e vitaminas para repor energia após o esforço mental. Sugestão: incluir carboidratos complexos (batata-doce, arroz integral), vegetais fibrosos e uma fonte proteica sólida (carnes, peixes ou leguminosas) — ajuda a sustentar a glicemia para a tarde criativa.
 :::
+:::
 
-### 3. Expressão Criativa
+::: {.subsection}
+## 3. Expressão Criativa
 <p class="subheading">Imaginação dirigida, revisão e fluxo criativo.</p>
 
 ::: list-stylized
@@ -57,8 +62,10 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 * **[14:30 às 14:45]{.block-time-range} – Modo Difuso:** Integração leve — caminhada, pausa visual ou silêncio.
 * **[14:45 às 15:30]{.block-time-range} – Lanche Leve:** Reforço nutricional para manter energia estável antes da atividade física (frutas, castanhas ou smoothie leve). Sugestão: evite açúcares rápidos. Prefira frutas com fibras (maçã, pera), castanhas ou smoothies com proteína vegetal e gorduras boas.
 :::
+:::
 
-### 4. Potência Física
+::: {.subsection}
+## 4. Potência Física
 <p class="subheading">Treinamento físico focado na superação de si mesmo.</p>
 
 ::: list-stylized
@@ -70,8 +77,10 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 * **[18:45 às 19:15]{.block-time-range} – Locomoção:** Volta do local de treino.
 * **[19:15 às 20:00]{.block-time-range} – Refeição Pós-Treino:** Refeição leve com proteínas, sais minerais e água para recuperar energia. Sugestão: incluir fontes proteicas de rápida absorção (whey, ovos) com carboidratos de recuperação (banana, arroz, mel em pequena dose) — otimiza o anabolismo e a restauração do glicogênio muscular.
 :::
+:::
 
-### 5. Desligamento e Reinício
+::: {.subsection}
+## 5. Desligamento e Reinício
 <p class="subheading">Desaceleração sensorial e regeneração da mente e do corpo.</p>
 
 ::: list-stylized
@@ -80,8 +89,9 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 * **[21:45 às 06:00]{.block-time-range} – Descanso Profundo:** Sono em ambiente escuro, silencioso e fresco, com horários regulares de deitar e despertar para otimizar a regeneração física e neurológica.
 :::
 :::
+
 ::: {.subsection}
-## Artigos relacionados
+## Veja também
 
 * [✅ Protocolo de Checkpoint](/checkpoint-protocol/)
 * [🏕️ Ritmo Solar](/solar-rhythm/)

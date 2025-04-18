@@ -14,6 +14,7 @@ update_date: 2025-04-12
 > Ondas ressoam teu tempo interno —  
 > Toma tua batuta. Reina teu ritmo.
 :::
+
 ::: {.subsection}
 ## Ritmo Biológico por Luz Solar
 <p class="subheading">Ciclo diário da luz e suas funções no corpo e mente.</p>
@@ -43,8 +44,9 @@ O corpo segue.
 Quem sincroniza, floresce —  
 **reinando sobre si mesmo.**
 :::
+
 ::: {.subsection}
-## Artigos relacionados
+## Veja também
 * [⏱️ Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
 :::
 :::
