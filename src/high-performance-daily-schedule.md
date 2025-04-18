@@ -20,7 +20,7 @@ update_date: 2025-04-17
 :::
 ::: {.subsection}
 ## Seu Ritmo Único
-<p class="subheading">Um ponto de partida sólido para identificar seu fluxo ideal.</p>
+<p class="subheading">Um ponto de partida sólido para emergir seu estado de fluxo.</p>
 
 Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Use-o como um guia inicial, observe sua energia ao longo do dia e personalize-o conforme necessário. Seu ritmo é único — conheça a si mesmo.
 :::
