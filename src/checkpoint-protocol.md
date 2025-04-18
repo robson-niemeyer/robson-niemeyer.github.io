@@ -28,7 +28,7 @@ Se quiser anotar, basta uma linha clara:
 :::
 
 ::: {.subsection}
-## Artigos Veja também
+## Veja também
 * [⏱️ Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
 :::
 :::
