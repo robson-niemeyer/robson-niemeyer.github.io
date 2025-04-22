@@ -51,16 +51,23 @@ const updateBlockTimings = (startTimeString) => {
   const scheduleStartMinutes = parseTimeStringToMinutes(startTimeString) - INITIAL_OFFSET_MINUTES;
   let currentMinutes = scheduleStartMinutes < 0 ? scheduleStartMinutes + MINUTES_IN_DAY : scheduleStartMinutes;
   let blockIndex = 0;
+  const allBlocks = PHASE_BLOCKS.flat(); // Combine all blocks into a single array
 
-  for (const phase of PHASE_BLOCKS) {
-    for (const duration of phase) {
-      const startTime = currentMinutes;
-      currentMinutes = (currentMinutes + duration) % MINUTES_IN_DAY;
-      if (blockTimeRanges[blockIndex]) {
-        blockTimeRanges[blockIndex].textContent = `${formatTime(startTime)} às ${formatTime(currentMinutes)}`;
-      }
-      blockIndex++;
+  // Calculate the total duration of the blocks provided in the array
+  const providedDuration = allBlocks.reduce((sum, duration) => sum + duration, 0);
+
+  // Calculate the duration of the last implicit block to fill the 24 hours
+  const lastBlockDuration = MINUTES_IN_DAY - providedDuration;
+
+  const updatedBlocks = [...allBlocks, lastBlockDuration]; // Add the implicit last block
+
+  for (const duration of updatedBlocks) {
+    const startTime = currentMinutes;
+    currentMinutes = (currentMinutes + duration) % MINUTES_IN_DAY;
+    if (blockTimeRanges[blockIndex]) {
+      blockTimeRanges[blockIndex].textContent = `${formatTime(startTime)} às ${formatTime(currentMinutes)}`;
     }
+    blockIndex++;
   }
 };
 
