@@ -34,6 +34,10 @@
   font-display: swap;
 }
 
+hgroup p {
+  margin: 0;
+}
+
 h1 {
   font-family: var(--font-family-heading);
   font-size: var(--font-size-h1);
@@ -56,6 +60,14 @@ h2 {
 h3 {
   font-family: var(--font-family-heading);
   font-size: var(--font-size-h3);
+  font-weight: var(--font-weight-bold);
+  letter-spacing: 1px;
+  line-height: var(--line-height-heading);
+  margin-top: var(--spacing-large);
+}
+
+h4 {
+  font-family: var(--font-family-heading);
   font-weight: var(--font-weight-bold);
   letter-spacing: 1px;
   line-height: var(--line-height-heading);
@@ -86,7 +98,19 @@ li {
   margin-bottom: var(--spacing-xsmall);
 }
 
-p:first-of-type {
+.list-stylized li::before {
+  content: "• ";
+}
+
+li > ul {
+  margin-left: 1rem;
+}
+
+.list-stylized li > ul li::before {
+  content: "◦ ";
+}
+
+p:first-child {
   margin-top: 0;
 }
 
@@ -122,10 +146,6 @@ a {
 
 a:any-link {
   color: var(--color-link);
-}
-
-.list-stylized li::before {
-  content: "• ";
 }
 
 blockquote {

@@ -21,7 +21,7 @@ update_date: 2025-04-17
 
 ::: {.subsection}
 ## Introdução
-<p class="subheading">Um ponto de partida sólido para emergir seu estado de fluxo.</p>
+<p class="subheading">Um ponto de partida sólido para deixar emergir seu estado de fluxo.</p>
 
 Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Use-o como um guia inicial, observe sua energia ao longo do dia e personalize-o conforme necessário. Seu ritmo é único — conheça a si mesmo.
 :::
@@ -93,6 +93,7 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 ::: {.subsection}
 ## Veja também
 
+* [🏋️ Treinamento de Calistenia para Iniciantes](/calisthenics-training-for-beginners/)
 * [✅ Protocolo de Checkpoint](/checkpoint-protocol/)
 * [🏕️ Ritmo Solar](/solar-rhythm/)
 :::

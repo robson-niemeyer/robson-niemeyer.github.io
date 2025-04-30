@@ -16,7 +16,7 @@ update_date: 2025-04-12
 :::
 
 ::: {.subsection}
-## Ritmo Biológico por Luz Solar
+## Ritmo biológico por luz solar
 <p class="subheading">Ciclo diário da luz e suas funções no corpo e mente.</p>
 
 **No início da manhã**, quando os raios do sol tocam diretamente o chão sob seus pés, aceite o chamado e exponha-se à luz vivificante. É nesse instante que o verdadeiro dia biológico começa. Nesse momento, o corpo desperta com vitalidade e desejo — sendo também o horário mais propício para a intimidade e o alívio natural do impulso sexual.
@@ -47,6 +47,7 @@ Quem sincroniza, floresce —
 
 ::: {.subsection}
 ## Veja também
+* [🏋️ Treinamento de Calistenia para Iniciantes](/calisthenics-training-for-beginners/)
 * [⏱️ Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
 :::
 :::
