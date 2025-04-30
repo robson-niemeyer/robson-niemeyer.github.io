@@ -47,7 +47,7 @@ Quem sincroniza, floresce —
 
 ::: {.subsection}
 ## Veja também
-* [🏋️ Treinamento de Calistenia para Iniciantes](/calisthenics-training-for-beginners/)
+* [🤸 Treinamento de Calistenia para Iniciantes](/calisthenics-training-for-beginners/)
 * [⏱️ Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
 :::
 :::

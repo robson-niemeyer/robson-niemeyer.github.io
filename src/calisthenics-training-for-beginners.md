@@ -1,5 +1,5 @@
 ---
-title: "🏋️ Treinamento de Calistenia para Iniciantes"
+title: "🤸 Treinamento de Calistenia para Iniciantes"
 description: "O primeiro passo para dominar os movimentos clássicos da calistenia."
 image_filename: "eduardo-madrid-j6amjHxtc1U-unsplash"
 image_alt: "Imagem de capa"
