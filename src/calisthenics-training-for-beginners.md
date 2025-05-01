@@ -1,6 +1,6 @@
 ---
 title: "🤸 Treinamento de Calistenia para Iniciantes"
-description: "O primeiro passo para dominar os movimentos clássicos da calistenia."
+description: "O primeiro passo para dominar os movimentos clássicos dos protagonistas de anime."
 image_filename: "eduardo-madrid-j6amjHxtc1U-unsplash"
 image_alt: "Imagem de capa"
 image_source: "Eduardo Madrid / Unsplash"
@@ -115,7 +115,7 @@ Realize 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos entr
 
 ::: list-stylized
 * Agachamento (Squat)
-  + _Progressão 1_: Agachamento com Salto (Jump Squat)
+  + _Progressão 1_: Agachamento com Salto (Squat Jump)
   + _Progressão 2_: Agachamento Pistola (Pistol Squat)
 * Ponte de Glúteo (Glute Bridge)
   + _Progressão 1_: Stiff Ajoelhado (Kneeling Deadlift)
@@ -152,10 +152,11 @@ Realize 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos entr
 ### Cardio Leve
 
 ::: list-stylized
-* 5 min – Caminhada
-* 30 min – Caminhada
-  + _Progressão_: 30 min – Corrida Leve
-* 5 min – Caminhada
+* 5 min – Caminhada (Walk)
+* 30 min – Caminhada (Walk)
+  + _Progressão_: 30 min – Corrida Leve (Light Jog)
+* 5 min – Caminhada (Walk)
+* 30 min – Alongamento (Stretching)
 :::
 :::
 
