@@ -23,6 +23,7 @@ Este calendário inter-relaciona três ritmos fundamentais: os ciclos das estaç
 ::: list-stylized
 * **Data inicial**: Equinócio de primavera
 * **Hora inicial**: Crepúsculo matutino
+* **Idade inicial**: Fecundação
 * **Data estimada**: N[^1] → 20 de março a 19 de abril / S[^2] → 22 de setembro a 21 de outubro
 * **Hora estimada**: 06:00 às 07:59
 * **Idade estimada**: 0 a 99 lunações[^3]
