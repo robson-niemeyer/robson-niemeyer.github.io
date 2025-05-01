@@ -64,6 +64,7 @@ Este calendário inter-relaciona três ritmos fundamentais: os ciclos das estaç
 ::: list-stylized
 * **Data inicial**: Solstício de verão
 * **Hora inicial**: Zênite solar
+* **Idade inicial**: Auge da fertilidade
 * **Data estimada**: N → 21 de junho a 21 de julho / S → 21 de dezembro a 19 de janeiro
 * **Hora estimada**: 12:00 às 13:59
 * **Idade estimada**: 300 a 399 lunações
@@ -99,6 +100,7 @@ Este calendário inter-relaciona três ritmos fundamentais: os ciclos das estaç
 ::: list-stylized
 * **Data inicial**: Equinócio de outono
 * **Hora inicial**: Crepúsculo vespertino
+* **Idade inicial**: Infertilidade
 * **Data estimada**: N → 22 de setembro a 21 de outubro / S → 20 de março a 19 de abril
 * **Hora estimada**: 18:00 às 19:59
 * **Idade estimada**: 600 a 699 lunações
