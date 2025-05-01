@@ -21,8 +21,8 @@ Este calendário inter-relaciona três ritmos fundamentais: os ciclos das estaç
 <p class="subheading">Início da primavera, da manhã e do crescimento.</p>
 
 ::: list-stylized
-* **Data real**: Equinócio de primavera
-* **Hora real**: Crepúsculo matutino
+* **Data inicial**: Equinócio de primavera
+* **Hora inicial**: Crepúsculo matutino
 * **Data estimada**: N[^1] → 20 de março a 19 de abril / S[^2] → 22 de setembro a 21 de outubro
 * **Hora estimada**: 06:00 às 07:59
 * **Idade estimada**: 0 a 99 lunações[^3]
@@ -61,8 +61,8 @@ Este calendário inter-relaciona três ritmos fundamentais: os ciclos das estaç
 <p class="subheading">Início do verão, da tarde e da maturação.</p>
 
 ::: list-stylized
-* **Data real**: Solstício de verão
-* **Hora real**: Zênite solar
+* **Data inicial**: Solstício de verão
+* **Hora inicial**: Zênite solar
 * **Data estimada**: N → 21 de junho a 21 de julho / S → 21 de dezembro a 19 de janeiro
 * **Hora estimada**: 12:00 às 13:59
 * **Idade estimada**: 300 a 399 lunações
@@ -96,8 +96,8 @@ Este calendário inter-relaciona três ritmos fundamentais: os ciclos das estaç
 <p class="subheading">Início do outono, da noite e da senescência.</p>
 
 ::: list-stylized
-* **Data real**: Equinócio de outono
-* **Hora real**: Crepúsculo vespertino
+* **Data inicial**: Equinócio de outono
+* **Hora inicial**: Crepúsculo vespertino
 * **Data estimada**: N → 22 de setembro a 21 de outubro / S → 20 de março a 19 de abril
 * **Hora estimada**: 18:00 às 19:59
 * **Idade estimada**: 600 a 699 lunações
@@ -131,8 +131,8 @@ Este calendário inter-relaciona três ritmos fundamentais: os ciclos das estaç
 <p class="subheading">Início do inverno, da madrugada e da terminalidade.</p>
 
 ::: list-stylized
-* **Data real**: Solstício de inverno
-* **Hora real**: Nadir solar
+* **Data inicial**: Solstício de inverno
+* **Hora inicial**: Nadir solar
 * **Data estimada**: N → 21 de dezembro a 19 de janeiro / S → 21 de junho a 21 de julho
 * **Hora estimada**: 00:00 às 01:59
 * **Idade estimada**: 900 a 999 lunações
