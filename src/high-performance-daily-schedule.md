@@ -20,15 +20,19 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
+<hgroup>
 ## Introdução
 <p class="subheading">Um ponto de partida sólido para deixar emergir seu estado de fluxo.</p>
+</hgroup>
 
 Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Use-o como um guia inicial, observe sua energia ao longo do dia e personalize-o conforme necessário. Seu ritmo é único — conheça a si mesmo.
 :::
 
 ::: {.subsection}
+<hgroup>
 ## 1. Inicialização
 <p class="subheading">Sincronização circadiana e ativação da mente e do corpo.</p>
+</hgroup>
 
 ::: list-stylized
 * **[06:00 às 06:15]{.block-time-range} – Checkpoint:** Avaliação objetiva do estado interno ao acordar e arrumação da cama.
@@ -39,8 +43,10 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 :::
 
 ::: {.subsection}
+<hgroup>
 ## 2. Foco Cognitivo
 <p class="subheading">Os dois modos de pensamento: focado e difuso.</p>
+</hgroup>
 
 ::: list-stylized
 * **[08:15 às 08:30]{.block-time-range} – Checkpoint:** Avaliação rápida do estado físico e mental e organização do ambiente de produção.
@@ -53,8 +59,10 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 :::
 
 ::: {.subsection}
+<hgroup>
 ## 3. Expressão Criativa
 <p class="subheading">Imaginação dirigida, revisão e fluxo criativo.</p>
+</hgroup>
 
 ::: list-stylized
 * **[12:45 às 13:00]{.block-time-range} – Checkpoint:** Avaliação rápida do estado físico e mental e organização do ambiente de produção.
@@ -65,8 +73,10 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 :::
 
 ::: {.subsection}
+<hgroup>
 ## 4. Potência Física
 <p class="subheading">Treinamento físico focado na superação de si mesmo.</p>
+</hgroup>
 
 ::: list-stylized
 * **[15:30 às 15:45]{.block-time-range} – Checkpoint:** Avaliação rápida do estado físico e mental antes da atividade física e preparação para a academia.
@@ -80,8 +90,10 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 :::
 
 ::: {.subsection}
+<hgroup>
 ## 5. Desligamento e Reinício
 <p class="subheading">Desaceleração sensorial e regeneração da mente e do corpo.</p>
+</hgroup>
 
 ::: list-stylized
 * **[20:00 às 20:15]{.block-time-range} – Checkpoint:** Conclusão simbólica do dia ativo e preparação para o sono.

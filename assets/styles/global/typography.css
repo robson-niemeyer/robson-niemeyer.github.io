@@ -57,6 +57,21 @@ h2 {
   text-transform: uppercase;
 }
 
+main hgroup {
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: var(--spacing-small);
+}
+
+main h2 {
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: var(--spacing-small);
+}
+
+main hgroup h2 {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
 h3 {
   font-family: var(--font-family-heading);
   font-size: var(--font-size-h3);
@@ -107,7 +122,7 @@ li > ul {
 }
 
 .list-stylized li > ul li::before {
-  content: "◦ ";
+  content: "↳ ";
 }
 
 p:first-child {

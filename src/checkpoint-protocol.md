@@ -9,8 +9,10 @@ update_date: 2025-04-11
 ---
 ::: section
 ::: {.subsection}
+<hgroup>
 ## Checkpoints Diários
 <p class="subheading">A proposta é simples: parar, sentir e ajustar.</p>
+</hgroup>
 
 Em cada checkpoint, observe:
 

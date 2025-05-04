@@ -13,12 +13,11 @@ update_date: 2025-04-30
 
 ### Flexão (Push-Up)
 
-Complete 60 repetições totais com forma impecável, realizando o menor número de séries possível e descansando o mínimo possível. Mantenha o corpo alinhado, o core firme e a cadência controlada. Priorize a execução precisa em todas as repetições.
-Em cada checkpoint, observe:
+Realize 60 repetições no menor número de séries possível, com mínima pausa entre elas. Mantenha o corpo alinhado, abdômen contraído e cadência controlada. Técnica vem antes de volume.
 
 ### Barra Fixa (Pull-Up)
 
-Realize 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos entre as séries. Mantenha amplitude completa, controle técnico e contração ativa em cada repetição.
+Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos entre as séries. Use amplitude completa, controle técnico e contração ativa em cada repetição.
 :::
 
 ::: {.subsection}
@@ -29,7 +28,7 @@ Realize 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos entr
 * Barras paralelas
 * Colchonete
 * Faixas de resistência
-* Chão firme e espaço livre
+* Piso firme e espaço livre
 :::
 :::
 
@@ -39,150 +38,151 @@ Realize 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos entr
 ::: list-stylized
 * Não fume
 * Não consuma álcool
-* Evite soja e derivados
+* Evite soja e seus derivados
 * Reduza açúcar refinado e farinha branca
 * Consuma diariamente 2 g de proteína por kg de peso corporal
 :::
 :::
 
 ::: {.subsection}
+<hgroup>
 ## Treino A
-<p class="subheading">Objetivo: desenvolvimento da força dos membros superiores.</p>
-
-### Ativação[^1]
-
-[^1]: <sup>1</sup> _Ativação_: 3 x 30 s – tensão máxima – pausa isométrica – 1 min descanso
-
-::: list-stylized
-* Prancha (Plank)
-* Pendurada (Dead Hang)
-:::
-
-### Potência Máxima[^2]
-
-[^2]: <sup>2</sup> _Potência Máxima_: 5 x RIR 0-1 [ ou 85-90% AMRAP ] [ ou 85-90% 1RM ] – explosivo concêntrico – controlado excêntrico – 3 min descanso
-
-::: list-stylized
-* Flexão Ajoelhado (Kneeling Push-Up)
-  + _Progressão 1_: Flexão (Push-Up)
-  + _Progressão 2_: Flexão Unilateral (Single-Arm Push-Up)
-* Barra Fixa Negativa (Negative Pull-Up)
-  + _Progressão 1_: Barra Fixa com Faixa de Resistência (Pull-Up with Resistance Band)
-  + _Progressão 2_: Barra Fixa (Pull-Up)
-:::
-
-### Assistência Muscular[^3]
-
-[^3]: <sup>3</sup> _Assistência Muscular_: 4 x RIR 1-2 – controlado concêntrico – 2 s excêntrico – 2 min descanso
-
-::: list-stylized
-* Mergulho no Banco (Bench Dip)
-  + _Progressão_: Mergulho na Paralela (Dip)
-* Remada Invertida (Inverted Row)
-  + _Progressão_: Remada Invertida Declinada (Decline Inverted Row)
-:::
-
-### Suplementar[^4]
-
-[^4]: <sup>4</sup> _Suplementar_: 4 x RIR 1-2 – controlado concêntrico – 1 s isométrico – 4 s excêntrico – 2 min descanso
-
-::: list-stylized
-* Flexão Pike (Pike Push-Up)
-  + _Progressão_: Flexão Pike Declinada (Decline Pike Push-Up)
-:::
-
-### Desafio[^5]
-
-[^5]: <sup>5</sup> _Desafio_: 3 x 15 s – tensão máxima – pausa isométrica – 1 min descanso
-
-::: list-stylized
-* Parada de Mão (Handstand)
-:::
-:::
-
-::: {.subsection}
-## Treino B
-<p class="subheading">Objetivo: desenvolvimento da força dos membros inferiores e do core.</p>
+<p class="subheading">Força de membros superiores.</p>
+</hgroup>
 
 ### Ativação
 
+_Tensão máxima – Parada isométrica – 1 min descanso_
+
 ::: list-stylized
-* Agachamento Isométrico (Wall Sit)
-* Ponte de Glúteo Isométrica (Glute Bridge Hold)
+* 3 x 30 s – Prancha (Plank)
+* 3 x 30 s – Pendurada (Dead Hang)
 :::
 
 ### Potência Máxima
 
+_Concêntrico explosivo – Excêntrico controlado – 3 min descanso_
+
 ::: list-stylized
-* Agachamento (Squat)
-  + _Progressão 1_: Agachamento com Salto (Squat Jump)
-  + _Progressão 2_: Agachamento Pistola (Pistol Squat)
-* Ponte de Glúteo (Glute Bridge)
-  + _Progressão 1_: Stiff Ajoelhado (Kneeling Deadlift)
-  + _Progressão 2_: Flexão Nórdica (Nordic Hamstring Curl)
+* 4 x Máx @ 1-2 RIR[^1] – Flexão Ajoelhado (Kneeling Push-Up)
+  + **Progressão**: 5 x Máx @ 0-1 RIR – Flexão (Push-Up)
+  + **Progressão**: 5 x Máx @ 0-1 RIR – Flexão Unilateral (Single-Arm Push-Up)
+* 4 x Máx @ 1-2 RIR – Barra Fixa Negativa (Negative Pull-Up)
+  + **Progressão**: 5 x Máx @ 0-1 RIR – Barra Fixa com Faixa de Resistência (Pull-Up with Resistance Band)
+  + **Progressão**: 5 x Máx @ 0-1 RIR – Barra Fixa (Pull-Up)
 :::
+
+[^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Encerre a série com determinada quantidade de repetições em reserva, sem atingir a falha – ou seja, quando você ainda conseguiria completar aquele número de repetições com forma perfeita. Garante estímulo eficaz com mínima fadiga, ideal para consistência e domínio técnico.
 
 ### Assistência Muscular
 
+_Concêntrico controlado – Excêntrico controlado – 2 min descanso_
+
 ::: list-stylized
-* Elevação de Panturrilha (Calf Raise)
-  + _Progressão_: Elevação de Panturrilha Unilateral (Single-Leg Calf Raise)
-* Afundo (Lunge)
-  + _Progressão_: Agachamento Búlgaro (Bulgarian Split Squat)
+* 3 x Máx @ 1-2 RIR – Mergulho no Banco (Bench Dip)
+  + **Progressão**: 4 x Máx @ 1-2 RIR – Mergulho na Paralela (Dip)
+* 3 x Máx @ 1-2 RIR – Remada Invertida (Inverted Row)
+  + **Progressão**: 4 x Máx @ 1-2 RIR – Remada Invertida Declinada (Decline Inverted Row)
 :::
 
 ### Suplementar
 
+_Concêntrico controlado – Pausa isométrica – Excêntrico lento – 2 min descanso_
+
 ::: list-stylized
-* Abdominal Invertido (Reverse Crunch)
-  + _Progressão_: Elevação de Joelho na Barra (Hanging Knee Raise)
+* 3 x Máx @ 1-2 RIR – Flexão Pike (Pike Push-Up)
+  + **Progressão**: 4 x Máx @ 1-2 RIR – Flexão Pike Declinada (Decline Pike Push-Up)
 :::
 
 ### Desafio
 
+_Tensão máxima – Parada isométrica – 1 min descanso_
+
 ::: list-stylized
-* L-Sit
+* 2 x Máx – Parada de Mão (Handstand)
 :::
 :::
 
 ::: {.subsection}
+<hgroup>
+## Treino B
+<p class="subheading">Força de membros inferiores e core.</p>
+</hgroup>
+
+### Ativação
+
+_Tensão máxima – Parada isométrica – 1 min descanso_
+
+::: list-stylized
+* 3 x 30 s – Agachamento Isométrico (Wall Sit)
+* 3 x 30 s – Ponte de Glúteo Isométrica (Glute Bridge Hold)
+:::
+
+### Potência Máxima
+
+_Concêntrico explosivo – Excêntrico controlado – 3 min descanso_
+
+::: list-stylized
+* 4 x Máx @ 1-2 RIR – Agachamento (Squat)
+  + **Progressão**: 5 x Máx @ 0-1 RIR – Agachamento com Salto (Squat Jump)
+  + **Progressão**: 5 x Máx @ 0-1 RIR – Agachamento Pistola (Pistol Squat)
+* 4 x Máx @ 1-2 RIR – Ponte de Glúteo (Glute Bridge)
+  + **Progressão**: 5 x Máx @ 0-1 RIR – Stiff Ajoelhado (Kneeling Deadlift)
+  + **Progressão**: 5 x Máx @ 0-1 RIR – Flexão Nórdica (Nordic Hamstring Curl)
+:::
+
+### Assistência Muscular
+
+_Concêntrico controlado – Excêntrico controlado – 2 min descanso_
+
+
+::: list-stylized
+* 3 x Máx @ 1-2 RIR – Elevação de Panturrilha (Calf Raise)
+  + **Progressão**: 4 x Máx @ 1-2 RIR – Elevação de Panturrilha Unilateral (Single-Leg Calf Raise)
+* 3 x Máx @ 1-2 RIR – Afundo (Lunge)
+  + **Progressão**: 4 x Máx @ 1-2 RIR – Agachamento Búlgaro (Bulgarian Split Squat)
+:::
+
+### Suplementar
+
+_Concêntrico controlado – Pausa isométrica – Excêntrico lento – 2 min descanso_
+
+::: list-stylized
+* 3 x Máx @ 1-2 RIR – Abdominal Invertido (Reverse Crunch)
+  + **Progressão**: 4 x Máx @ 1-2 RIR – Elevação de Joelho na Barra (Hanging Knee Raise)
+:::
+
+### Desafio
+
+_Tensão máxima – Parada isométrica – 1 min descanso_
+
+::: list-stylized
+* 2 x Máx – L-Sit
+:::
+:::
+
+::: {.subsection}
+<hgroup>
 ## Treino C
-<p class="subheading">Objetivo: descanso ativo para evitar sobrecarga muscular.</p>
+<p class="subheading">Descanso ativo com estímulo cardiovascular leve.</p>
+</hgroup>
 
 ### Cardio Leve
 
 ::: list-stylized
-* 5 min – Caminhada (Walk)
-* 30 min – Caminhada (Walk)
-  + _Progressão_: 30 min – Corrida Leve (Light Jog)
-* 5 min – Caminhada (Walk)
+* 5 min @ 50-60% MHR[^2] – Caminhada (Walk)
+* 30 min @ 50-60% MHR – Caminhada (Walk)
+  + **Progressão**: 30 min @ 60-70% MHR – Corrida Leve (Light Jog)
+* 5 min @ 50-60% MHR – Caminhada (Walk)
 * 30 min – Alongamento (Stretching)
 :::
-:::
 
-::: {.subsection}
-## MÉTODOS
+[^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: subtraia sua idade de 220. Define zonas de esforço em treinos cardiovasculares. Valor pode variar segundo genética, saúde e condicionamento.
 
-### 1RM (One-Rep Max)
-
-Carga máxima possível para uma única repetição com forma perfeita. Teste seu 1RM a cada dois meses, aumentando a carga gradualmente até atingir o limite. Após o teste, reduza a intensidade do treino pelo restante da semana para otimizar a recuperação. Nunca teste 1RM e AMRAP na mesma semana. O treino principal será feito com 5 séries de 4 repetições entre 85% e 90% da carga atingida no teste, com 3 a 4 minutos de descanso entre as séries.
-
-### AMRAP (As Many Reps as Possible)
-
-Execute o exercício até a falha técnica, parando apenas quando não conseguir completar mais uma repetição com forma limpa. No início de cada semana, realize um teste de AMRAP para os exercícios de peso corporal. O treino principal será feito com 5 séries entre 85% e 90% do número de repetições atingido no teste, com 3 a 4 minutos de descanso entre as séries.
-
-### GTG (Grease the Groove)
-
-Realize múltiplas séries ao longo do dia, com 50% a 60% do seu AMRAP, respeitando pelo menos 2 horas de intervalo entre elas. Cada série deve ser executada com forma impecável, evitando a falha. Essa técnica aumenta a eficiência neuromuscular sem gerar fadiga acumulada.
-
-### RIR (Reps in Reserve)
-
-Encerre a série com 1 a 2 repetições em reserva – ou seja, pare antes da falha. Você deve conseguir completar mais 1 ou 2 repetições com boa forma, mas escolhe não fazê-las. Essa abordagem garante estímulo eficaz com mínima fadiga residual, ideal para progressões consistentes e treinos técnicos.
 :::
 
 ::: {.subsection}
 ## Veja também
-* [⏱️ Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
-* [🏕️ Ritmo Solar](/solar-rhythm/)
+* [📈 Métodos Essenciais de Treinamento](/essential-training-methods/)
 :::
 :::
