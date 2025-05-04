@@ -72,7 +72,7 @@ _Concêntrico explosivo – Excêntrico controlado – 3 min descanso_
   + **Progressão**: 5 x Máx @ 0-1 RIR – Barra Fixa (Pull-Up)
 :::
 
-[^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Encerre a série com determinada quantidade de repetições em reserva, sem atingir a falha – ou seja, quando você ainda conseguiria completar aquele número de repetições com forma perfeita. Garante estímulo eficaz com mínima fadiga, ideal para consistência e domínio técnico.
+[^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Encerre a série com uma quantidade de repetições em reserva, sem atingir a falha – ou seja, quando você ainda conseguiria completar aquele número de repetições com forma perfeita. Garante estímulo eficaz com mínima fadiga, ideal para consistência e domínio técnico.
 
 ### Assistência Muscular
 
