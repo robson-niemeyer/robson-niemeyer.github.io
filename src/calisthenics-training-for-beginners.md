@@ -40,7 +40,7 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 * Não consuma álcool
 * Evite soja e seus derivados
 * Reduza açúcar refinado e farinha branca
-* Consuma diariamente 2 g de proteína por kg de peso corporal
+* Consuma diariamente 1,5-2 g de proteína por kg de peso corporal
 :::
 :::
 
@@ -52,7 +52,7 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 
 ### Ativação
 
-_Tensão máxima – Parada isométrica – 1-1.5 min descanso_
+_Tensão máxima – Parada isométrica – 1-1,5 min descanso_
 
 ::: list-stylized
 * 3 x 30 s – Prancha (Plank)
@@ -96,7 +96,7 @@ _Concêntrico controlado – Pausa isométrica – Excêntrico lento – 2-3 min
 
 ### Desafio
 
-_Tensão máxima – Parada isométrica – 1-1.5 min descanso_
+_Tensão máxima – Parada isométrica – 1-1,5 min descanso_
 
 ::: list-stylized
 * 2 x Máx – Parada de Mão (Handstand)
@@ -111,7 +111,7 @@ _Tensão máxima – Parada isométrica – 1-1.5 min descanso_
 
 ### Ativação
 
-_Tensão máxima – Parada isométrica – 1-1.5 min descanso_
+_Tensão máxima – Parada isométrica – 1-1,5 min descanso_
 
 ::: list-stylized
 * 3 x 30 s – Agachamento Isométrico (Wall Sit)
@@ -154,7 +154,7 @@ _Concêntrico controlado – Pausa isométrica – Excêntrico lento – 2-3 min
 
 ### Desafio
 
-_Tensão máxima – Parada isométrica – 1-1.5 min descanso_
+_Tensão máxima – Parada isométrica – 1-1,5 min descanso_
 
 ::: list-stylized
 * 2 x Máx – L-Sit
