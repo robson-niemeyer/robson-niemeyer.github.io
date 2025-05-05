@@ -23,7 +23,6 @@ update_date: 2025-04-17
 
 [^1]: <sup>1</sup> _N_: Hemisfério Norte.
 [^2]: <sup>2</sup> _S_: Hemisfério Sul.
-[^2]: <sup>3</sup> _Lunação_: Aproximadamente 29,5 dias.
 
 :::
 
