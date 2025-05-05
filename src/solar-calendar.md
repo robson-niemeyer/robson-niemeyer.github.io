@@ -10,7 +10,7 @@ update_date: 2025-04-17
 
 ::: section
 ::: {.subsection}
-## 1. Transformação
+## 1. Formação
 
 ::: list-stylized
 * **Fase do dia**: Nadir solar
