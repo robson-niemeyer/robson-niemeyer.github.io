@@ -11,7 +11,7 @@ update_date: 2025-04-30
 ::: {.subsection}
 ## 1RM (One-Rep Max)
 
-Carga máxima possível para uma única repetição com execução perfeita. Aumente a carga gradualmente até atingir o seu limite. Teste a cada 2 meses para os exercícios principais com peso adicional. Após o teste, reduza a intensidade pelo restante da semana. Nunca combine 1RM com AMRAP na mesma semana. Treinos principais: 5 x 3 a 85-90% 1RM, 3-4 minutos de descanso.
+Carga máxima possível para uma única repetição com execução perfeita. Aumente a carga gradualmente até atingir o seu limite. Teste a cada 2 meses para os exercícios principais com peso adicional. Após o teste, reduza a intensidade pelo restante da semana. Nunca combine 1RM com AMRAP na mesma semana. Treinos principais: 5 x 3 @ 85-90% 1RM, 3-4 minutos de descanso.
 :::
 
 ::: {.subsection}

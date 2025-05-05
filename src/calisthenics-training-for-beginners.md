@@ -52,7 +52,7 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 
 ### Ativação
 
-_Tensão máxima – Parada isométrica – 1-1,5 min descanso_
+_Tensão máxima – Parada isométrica – 1-2 min descanso_
 
 ::: list-stylized
 * 3 x 30 s – Prancha (Plank)
@@ -61,7 +61,7 @@ _Tensão máxima – Parada isométrica – 1-1,5 min descanso_
 
 ### Potência Máxima
 
-_Concêntrico explosivo – Excêntrico controlado – 3-5 min descanso_
+_Concêntrico explosivo – Excêntrico controlado – 3-4 min descanso_
 
 ::: list-stylized
 * 4 x Máx @ 1-2 RIR[^1] – Flexão Ajoelhado (Kneeling Push-Up)
@@ -96,7 +96,7 @@ _Concêntrico controlado – Pausa isométrica – Excêntrico lento – 2-3 min
 
 ### Desafio
 
-_Tensão máxima – Parada isométrica – 1-1,5 min descanso_
+_Tensão máxima – Parada isométrica – 1-2 min descanso_
 
 ::: list-stylized
 * 2 x Máx – Parada de Mão (Handstand)
@@ -111,7 +111,7 @@ _Tensão máxima – Parada isométrica – 1-1,5 min descanso_
 
 ### Ativação
 
-_Tensão máxima – Parada isométrica – 1-1,5 min descanso_
+_Tensão máxima – Parada isométrica – 1-2 min descanso_
 
 ::: list-stylized
 * 3 x 30 s – Agachamento Isométrico (Wall Sit)
@@ -120,7 +120,7 @@ _Tensão máxima – Parada isométrica – 1-1,5 min descanso_
 
 ### Potência Máxima
 
-_Concêntrico explosivo – Excêntrico controlado – 3-5 min descanso_
+_Concêntrico explosivo – Excêntrico controlado – 3-4 min descanso_
 
 ::: list-stylized
 * 4 x Máx @ 1-2 RIR – Agachamento (Squat)
@@ -154,7 +154,7 @@ _Concêntrico controlado – Pausa isométrica – Excêntrico lento – 2-3 min
 
 ### Desafio
 
-_Tensão máxima – Parada isométrica – 1-1,5 min descanso_
+_Tensão máxima – Parada isométrica – 1-2 min descanso_
 
 ::: list-stylized
 * 2 x Máx – L-Sit
