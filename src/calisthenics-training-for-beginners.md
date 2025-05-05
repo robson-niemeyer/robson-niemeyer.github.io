@@ -166,7 +166,7 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 * 30 min – Alongamento (Stretching)
 :::
 
-[^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: subtraia sua idade de 220. Define zonas de esforço em treinos cardiovasculares. Valor pode variar segundo genética, saúde e condicionamento.
+[^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Valor pode variar segundo genética, saúde e condicionamento.
 
 :::
 
