@@ -47,12 +47,11 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 ::: {.subsection}
 <hgroup>
 ## Treino A
-<p class="subheading">Força de membros superiores.</p>
+<p class="subheading">Força de membros superiores</p>
 </hgroup>
 
 ### Ativação
-
-_3 x 30 s, 1-2 min de descanso, parada isométrica, tensão máxima_
+<p class="subheading">3 x 30 s, 1-2 min de descanso, parada isométrica, tensão máxima</p>
 
 ::: list-stylized
 * Prancha (Plank)
@@ -60,8 +59,7 @@ _3 x 30 s, 1-2 min de descanso, parada isométrica, tensão máxima_
 :::
 
 ### Potência Máxima
-
-_5 x 0-1 RIR[^1], 3-4 min de descanso, concêntrico explosivo, excêntrico controlado_
+<p class="subheading">5 x 0-1 RIR[^1], 3-4 min de descanso, concêntrico explosivo, excêntrico controlado</p>
 
 [^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Encerre a série com uma quantidade de repetições em reserva, sem atingir a falha – ou seja, quando você ainda conseguiria completar aquele número de repetições com forma perfeita. Garante estímulo eficaz com mínima fadiga, ideal para consistência e domínio técnico.
 
@@ -75,8 +73,7 @@ _5 x 0-1 RIR[^1], 3-4 min de descanso, concêntrico explosivo, excêntrico contr
 :::
 
 ### Assistência Muscular
-
-_3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, excêntrico controlado_
+<p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, excêntrico controlado</p>
 
 ::: list-stylized
 * Mergulho no Banco (Bench Dip)
@@ -86,8 +83,7 @@ _3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, excêntrico controla
 :::
 
 ### Suplementar
-
-_3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, pausa isométrica, excêntrico lento_
+<p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, pausa isométrica, excêntrico lento</p>
 
 ::: list-stylized
 * Flexão Pike (Pike Push-Up)
@@ -95,8 +91,7 @@ _3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, pausa isométrica, e
 :::
 
 ### Desafio
-
-_Máximo de tempo, parada isométrica_
+<p class="subheading">Máximo de tempo, parada isométrica</p>
 
 ::: list-stylized
 * Parada de Mão (Handstand)
@@ -106,12 +101,11 @@ _Máximo de tempo, parada isométrica_
 ::: {.subsection}
 <hgroup>
 ## Treino B
-<p class="subheading">Força de membros inferiores e core.</p>
+<p class="subheading">Força de membros inferiores e core</p>
 </hgroup>
 
 ### Ativação
-
-_3 x 30 s, 1-2 min de descanso, parada isométrica, tensão máxima_
+<p class="subheading">3 x 30 s, 1-2 min de descanso, parada isométrica, tensão máxima</p>
 
 ::: list-stylized
 * Agachamento Isométrico (Wall Sit)
@@ -119,8 +113,7 @@ _3 x 30 s, 1-2 min de descanso, parada isométrica, tensão máxima_
 :::
 
 ### Potência Máxima
-
-_5 x 0-1 RIR, 3-4 min de descanso, concêntrico explosivo, excêntrico controlado_
+<p class="subheading">5 x 0-1 RIR, 3-4 min de descanso, concêntrico explosivo, excêntrico controlado</p>
 
 ::: list-stylized
 * Agachamento (Squat)
@@ -132,8 +125,7 @@ _5 x 0-1 RIR, 3-4 min de descanso, concêntrico explosivo, excêntrico controlad
 :::
 
 ### Assistência Muscular
-
-_3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, excêntrico controlado_
+<p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, excêntrico controlado</p>
 
 ::: list-stylized
 * Elevação de Panturrilha (Calf Raise)
@@ -143,8 +135,7 @@ _3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, excêntrico controla
 :::
 
 ### Suplementar
-
-_3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, pausa isométrica, excêntrico lento_
+<p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, pausa isométrica, excêntrico lento</p>
 
 ::: list-stylized
 * Abdominal Invertido (Reverse Crunch)
@@ -152,8 +143,7 @@ _3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, pausa isométrica, e
 :::
 
 ### Desafio
-
-_Máximo de tempo, parada isométrica_
+<p class="subheading">Máximo de tempo, parada isométrica</p>
 
 ::: list-stylized
 * L-Sit
@@ -163,7 +153,7 @@ _Máximo de tempo, parada isométrica_
 ::: {.subsection}
 <hgroup>
 ## Treino C
-<p class="subheading">Descanso ativo com estímulo cardiovascular leve.</p>
+<p class="subheading">Descanso ativo com estímulo cardiovascular leve</p>
 </hgroup>
 
 ### Cardio Leve
