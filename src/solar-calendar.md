@@ -53,7 +53,7 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## 4. Recolhimento
+## 4. Esvaziamento
 
 ::: list-stylized
 * **Fase do dia**: Crepúsculo vespertino
