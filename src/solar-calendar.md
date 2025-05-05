@@ -10,15 +10,19 @@ update_date: 2025-04-17
 
 ::: section
 ::: {.subsection}
-## 1. Nascimento
+## 1. Renascimento
 
 ::: list-stylized
 * **Fase do dia**: Nadir solar
 * **Fase da lua**: Lua nova
 * **Fase do ano**: Solstício de inverno
-* **Data estimada**: N → 21 de dezembro / S → 21 de junho
+* **Data estimada**: N[^1] → 21 de dezembro / S[^2] → 21 de junho
 * **Hora estimada**: 00:00
 :::
+
+[^1]: <sup>1</sup> _N_: Hemisfério Norte.
+[^2]: <sup>2</sup> _S_: Hemisfério Sul.
+
 :::
 
 ::: {.subsection}
@@ -28,13 +32,9 @@ update_date: 2025-04-17
 * **Fase do dia**: Crepúsculo matutino
 * **Fase da lua**: Quarto crescente
 * **Fase do ano**: Equinócio de primavera
-* **Data estimada**: N[^1] → 20 de março / S[^2] → 22 de setembro
+* **Data estimada**: N → 20 de março / S → 22 de setembro
 * **Hora estimada**: 06:00
 :::
-
-[^1]: <sup>1</sup> _N_: Hemisfério Norte.
-[^2]: <sup>2</sup> _S_: Hemisfério Sul.
-
 :::
 
 ::: {.subsection}
