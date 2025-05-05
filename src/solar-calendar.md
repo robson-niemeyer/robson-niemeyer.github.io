@@ -10,7 +10,7 @@ update_date: 2025-04-17
 
 ::: section
 ::: {.subsection}
-## 1. Renascimento
+## 1. Transformação
 
 ::: list-stylized
 * **Fase do dia**: Nadir solar
@@ -18,10 +18,12 @@ update_date: 2025-04-17
 * **Fase do ano**: Solstício de inverno
 * **Data estimada**: N[^1] → 21 de dezembro / S[^2] → 21 de junho
 * **Hora estimada**: 00:00
+* **Idade estimada**: 0 anos
 :::
 
 [^1]: <sup>1</sup> _N_: Hemisfério Norte.
 [^2]: <sup>2</sup> _S_: Hemisfério Sul.
+[^2]: <sup>3</sup> _Lunação_: Aproximadamente 29,5 dias.
 
 :::
 
@@ -34,11 +36,12 @@ update_date: 2025-04-17
 * **Fase do ano**: Equinócio de primavera
 * **Data estimada**: N → 20 de março / S → 22 de setembro
 * **Hora estimada**: 06:00
+* **Idade estimada**: 24 anos
 :::
 :::
 
 ::: {.subsection}
-## 3. Maturidade
+## 3. Contemplação
 
 ::: list-stylized
 * **Fase do dia**: Zênite solar
@@ -46,11 +49,12 @@ update_date: 2025-04-17
 * **Fase do ano**: Solstício de verão
 * **Data estimada**: N → 21 de junho / S → 21 de dezembro
 * **Hora estimada**: 12:00
+* **Idade estimada**: 48 anos
 :::
 :::
 
 ::: {.subsection}
-## 4. Senescência
+## 4. Recolhimento
 
 ::: list-stylized
 * **Fase do dia**: Crepúsculo vespertino
@@ -58,6 +62,7 @@ update_date: 2025-04-17
 * **Fase do ano**: Equinócio de outono
 * **Data estimada**: N → 22 de setembro / S → 20 de março
 * **Hora estimada**: 18:00
+* **Idade estimada**: 72 anos
 :::
 :::
 
