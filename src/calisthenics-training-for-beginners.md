@@ -163,7 +163,7 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 * Caminhada (Walk) – 30 min @ 50-60% MHR
   + **Progressão**: Corrida Leve (Light Jog) – 30 min @ 60-70% MHR
 * Caminhada (Walk) – 5 min @ 50-60% MHR
-* 30 min – Alongamento (Stretching)
+* Alongamento (Stretching) – 30 min
 :::
 
 [^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Valor pode variar segundo genética, saúde e condicionamento.
