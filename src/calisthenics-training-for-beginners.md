@@ -52,54 +52,54 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 
 ### Ativação
 
-_Tensão máxima – Parada isométrica – 1-2 min de descanso_
+_3 x 30 s, 1-2 min de descanso, parada isométrica, tensão máxima_
 
 ::: list-stylized
-* 3 x 30 s – Prancha (Plank)
-* 3 x 30 s – Pendurada (Dead Hang)
+* Prancha (Plank)
+* Pendurada (Dead Hang)
 :::
 
 ### Potência Máxima
 
-_Concêntrico explosivo – Excêntrico controlado – 3-4 min de descanso_
-
-::: list-stylized
-* 4 x Máx @ 1-2 RIR[^1] – Flexão Ajoelhado (Kneeling Push-Up)
-  + **Progressão**: 5 x Máx @ 0-1 RIR – Flexão (Push-Up)
-  + **Progressão**: 5 x Máx @ 0-1 RIR – Flexão Unilateral (Single-Arm Push-Up)
-* 4 x Máx @ 1-2 RIR – Barra Fixa Negativa (Negative Pull-Up)
-  + **Progressão**: 5 x Máx @ 0-1 RIR – Barra Fixa com Faixa de Resistência (Pull-Up with Resistance Band)
-  + **Progressão**: 5 x Máx @ 0-1 RIR – Barra Fixa (Pull-Up)
-:::
+_5 x 0-1 RIR[^1], 3-4 min de descanso, concêntrico explosivo, excêntrico controlado_
 
 [^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Encerre a série com uma quantidade de repetições em reserva, sem atingir a falha – ou seja, quando você ainda conseguiria completar aquele número de repetições com forma perfeita. Garante estímulo eficaz com mínima fadiga, ideal para consistência e domínio técnico.
 
+::: list-stylized
+* Flexão Ajoelhado (Kneeling Push-Up)
+  + **Progressão**: Flexão (Push-Up)
+  + **Progressão**: Flexão Unilateral (Single-Arm Push-Up)
+* Barra Fixa Negativa (Negative Pull-Up)
+  + **Progressão**: Barra Fixa com Faixa de Resistência (Pull-Up with Resistance Band)
+  + **Progressão**: Barra Fixa (Pull-Up)
+:::
+
 ### Assistência Muscular
 
-_Concêntrico controlado – Excêntrico controlado – 2-3 min de descanso_
+_3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, excêntrico controlado_
 
 ::: list-stylized
-* 3 x Máx @ 1-2 RIR – Mergulho no Banco (Bench Dip)
-  + **Progressão**: 4 x Máx @ 1-2 RIR – Mergulho na Paralela (Dip)
-* 3 x Máx @ 1-2 RIR – Remada Invertida (Inverted Row)
-  + **Progressão**: 4 x Máx @ 1-2 RIR – Remada Invertida Declinada (Decline Inverted Row)
+* Mergulho no Banco (Bench Dip)
+  + **Progressão**: Mergulho na Paralela (Dip)
+* Remada Invertida (Inverted Row)
+  + **Progressão**: Remada Invertida Declinada (Decline Inverted Row)
 :::
 
 ### Suplementar
 
-_Concêntrico controlado – Pausa isométrica – Excêntrico lento – 2-3 min de descanso_
+_3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, pausa isométrica, excêntrico lento_
 
 ::: list-stylized
-* 3 x Máx @ 1-2 RIR – Flexão Pike (Pike Push-Up)
-  + **Progressão**: 4 x Máx @ 1-2 RIR – Flexão Pike Declinada (Decline Pike Push-Up)
+* Flexão Pike (Pike Push-Up)
+  + **Progressão**: Flexão Pike Declinada (Decline Pike Push-Up)
 :::
 
 ### Desafio
 
-_Tensão máxima – Parada isométrica – 1-2 min de descanso_
+_Máximo de tempo, parada isométrica_
 
 ::: list-stylized
-* 2 x Máx – Parada de Mão (Handstand)
+* Parada de Mão (Handstand)
 :::
 :::
 
@@ -111,53 +111,52 @@ _Tensão máxima – Parada isométrica – 1-2 min de descanso_
 
 ### Ativação
 
-_Tensão máxima – Parada isométrica – 1-2 min de descanso_
+_3 x 30 s, 1-2 min de descanso, parada isométrica, tensão máxima_
 
 ::: list-stylized
-* 3 x 30 s – Agachamento Isométrico (Wall Sit)
-* 3 x 30 s – Ponte de Glúteo Isométrica (Glute Bridge Hold)
+* Agachamento Isométrico (Wall Sit)
+* Ponte de Glúteo Isométrica (Glute Bridge Hold)
 :::
 
 ### Potência Máxima
 
-_Concêntrico explosivo – Excêntrico controlado – 3-4 min de descanso_
+_5 x 0-1 RIR, 3-4 min de descanso, concêntrico explosivo, excêntrico controlado_
 
 ::: list-stylized
-* 4 x Máx @ 1-2 RIR – Agachamento (Squat)
-  + **Progressão**: 5 x Máx @ 0-1 RIR – Agachamento com Salto (Squat Jump)
-  + **Progressão**: 5 x Máx @ 0-1 RIR – Agachamento Pistola (Pistol Squat)
-* 4 x Máx @ 1-2 RIR – Ponte de Glúteo (Glute Bridge)
-  + **Progressão**: 5 x Máx @ 0-1 RIR – Stiff Ajoelhado (Kneeling Deadlift)
-  + **Progressão**: 5 x Máx @ 0-1 RIR – Flexão Nórdica (Nordic Hamstring Curl)
+* Agachamento (Squat)
+  + **Progressão**: Agachamento com Salto (Squat Jump)
+  + **Progressão**: Agachamento Pistola (Pistol Squat)
+* Ponte de Glúteo (Glute Bridge)
+  + **Progressão**: Stiff Ajoelhado (Kneeling Deadlift)
+  + **Progressão**: Flexão Nórdica (Nordic Hamstring Curl)
 :::
 
 ### Assistência Muscular
 
-_Concêntrico controlado – Excêntrico controlado – 2-3 min de descanso_
-
+_3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, excêntrico controlado_
 
 ::: list-stylized
-* 3 x Máx @ 1-2 RIR – Elevação de Panturrilha (Calf Raise)
-  + **Progressão**: 4 x Máx @ 1-2 RIR – Elevação de Panturrilha Unilateral (Single-Leg Calf Raise)
-* 3 x Máx @ 1-2 RIR – Afundo (Lunge)
-  + **Progressão**: 4 x Máx @ 1-2 RIR – Agachamento Búlgaro (Bulgarian Split Squat)
+* Elevação de Panturrilha (Calf Raise)
+  + **Progressão**: Elevação de Panturrilha Unilateral (Single-Leg Calf Raise)
+* Afundo (Lunge)
+  + **Progressão**: Agachamento Búlgaro (Bulgarian Split Squat)
 :::
 
 ### Suplementar
 
-_Concêntrico controlado – Pausa isométrica – Excêntrico lento – 2-3 min de descanso_
+_3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, pausa isométrica, excêntrico lento_
 
 ::: list-stylized
-* 3 x Máx @ 1-2 RIR – Abdominal Invertido (Reverse Crunch)
-  + **Progressão**: 4 x Máx @ 1-2 RIR – Elevação de Joelho na Barra (Hanging Knee Raise)
+* Abdominal Invertido (Reverse Crunch)
+  + **Progressão**: Elevação de Joelho na Barra (Hanging Knee Raise)
 :::
 
 ### Desafio
 
-_Tensão máxima – Parada isométrica – 1-2 min de descanso_
+_Máximo de tempo, parada isométrica_
 
 ::: list-stylized
-* 2 x Máx – L-Sit
+* L-Sit
 :::
 :::
 
@@ -170,10 +169,10 @@ _Tensão máxima – Parada isométrica – 1-2 min de descanso_
 ### Cardio Leve
 
 ::: list-stylized
-* 5 min @ 50-60% MHR[^2] – Caminhada (Walk)
-* 30 min @ 50-60% MHR – Caminhada (Walk)
-  + **Progressão**: 30 min @ 60-70% MHR – Corrida Leve (Light Jog)
-* 5 min @ 50-60% MHR – Caminhada (Walk)
+* Caminhada (Walk) – 5 min @ 50-60% MHR[^2]
+* Caminhada (Walk) – 30 min @ 50-60% MHR
+  + **Progressão**: Corrida Leve (Light Jog) – 30 min @ 60-70% MHR
+* Caminhada (Walk) – 5 min @ 50-60% MHR
 * 30 min – Alongamento (Stretching)
 :::
 
