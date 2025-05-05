@@ -23,7 +23,7 @@ Repetições máximas possíveis com execução perfeita. Teste no início de ca
 ::: {.subsection}
 ## GTG (Grease the Groove)
 
-Faça séries ao longo do dia com 50-60% do seu AMRAP, mantendo pelo menos 2 h de descanso. A técnica deve ser impecável. Evite a fadiga. O foco está na eficiência neuromuscular.
+Séries máximas ao longo do dia com 50-60% AMRAP e 2 h de descanso. A técnica deve ser impecável. Evite a fadiga. O foco está na eficiência neuromuscular.
 :::
 
 ::: {.subsection}
