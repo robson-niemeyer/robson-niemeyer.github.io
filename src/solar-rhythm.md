@@ -51,6 +51,6 @@ Quem sincroniza, floresce —
 ## Veja também
 * [🤸 Treinamento de Calistenia para Iniciantes](/calisthenics-training-for-beginners/)
 * [⏱️ Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
-* [🌄 Calendário Solar](/solar-calendar/)
+* [🌄 Calendário Solar Astronômico](/astronomical-solar-calendar/)
 :::
 :::
