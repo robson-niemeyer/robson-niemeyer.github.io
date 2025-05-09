@@ -29,7 +29,7 @@ update_date: 2025-04-17
 ## Sol Ascendente II
 
 ::: list-stylized
-* **Marco**: <sup>1</sup>/<sub>3</sub> do solstício do inverno até o meio do inverno
+* **Marco**: <sup>1</sup>/<sub>6</sub> do inverno
 * **Declinação solar**: –20.54°
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 5 de janeiro / S → 7 de julho
@@ -41,7 +41,7 @@ update_date: 2025-04-17
 ## Sol Ascendente III
 
 ::: list-stylized
-* **Marco**: <sup>2</sup>/<sub>3</sub> do solstício do inverno até o meio do inverno
+* **Marco**: <sup>2</sup>/<sub>6</sub> do inverno
 * **Declinação solar**: –17.64°
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 20 de janeiro / S → 22 de julho
@@ -65,7 +65,7 @@ update_date: 2025-04-17
 ## Sol Ascendente V
 
 ::: list-stylized
-* **Marco**: <sup>1</sup>/<sub>3</sub> do meio do inverno até o equinócio da primavera
+* **Marco**: <sup>4</sup>/<sub>6</sub> do inverno
 * **Declinação solar**: –11.83°
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 20 de fevereiro / S → 21 de agosto
@@ -77,7 +77,7 @@ update_date: 2025-04-17
 ## Sol Ascendente VI
 
 ::: list-stylized
-* **Marco**: <sup>2</sup>/<sub>3</sub> do meio do inverno até o equinócio da primavera
+* **Marco**: <sup>5</sup>/<sub>6</sub> do inverno
 * **Declinação solar**: –8.93°
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 7 de março / S → 6 de setembro
@@ -101,7 +101,7 @@ update_date: 2025-04-17
 ## Sol Ascendente VIII
 
 ::: list-stylized
-* **Marco**: <sup>1</sup>/<sub>3</sub> do equinócio da primavera até o meio da primavera
+* **Marco**: <sup>1</sup>/<sub>6</sub> da primavera
 * **Declinação solar**: +2.95°
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 7 de abril / S → 6 de outubro
@@ -113,7 +113,7 @@ update_date: 2025-04-17
 ## Sol Ascendente IX
 
 ::: list-stylized
-* **Marco**: <sup>2</sup>/<sub>3</sub> do equinócio da primavera até o meio da primavera
+* **Marco**: <sup>2</sup>/<sub>6</sub> da primavera
 * **Declinação solar**: +5.89°
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 22 de abril / S → 21 de outubro
@@ -137,7 +137,7 @@ update_date: 2025-04-17
 ## Sol Ascendente XI
 
 ::: list-stylized
-* **Marco**: <sup>1</sup>/<sub>3</sub> do meio da primavera até o solstício de verão
+* **Marco**: <sup>4</sup>/<sub>6</sub> da primavera
 * **Declinação solar**: +11.78°
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 22 de maio / S → 21 de novembro
@@ -149,7 +149,7 @@ update_date: 2025-04-17
 ## Sol Ascendente XII
 
 ::: list-stylized
-* **Marco**: <sup>2</sup>/<sub>3</sub> do meio da primavera até o solstício de verão
+* **Marco**: <sup>5</sup>/<sub>6</sub> da primavera
 * **Declinação solar**: +14.72°
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 6 de junho / S → 6 de dezembro
@@ -173,7 +173,7 @@ update_date: 2025-04-17
 ## Sol Descendente II
 
 ::: list-stylized
-* **Marco**: <sup>1</sup>/<sub>3</sub> do solstício de verão até o meio do verão
+* **Marco**: <sup>1</sup>/<sub>6</sub> do verão
 * **Declinação solar**: +20.54°
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 7 de julho / S → 5 de janeiro
@@ -185,7 +185,7 @@ update_date: 2025-04-17
 ## Sol Descendente III
 
 ::: list-stylized
-* **Marco**: <sup>2</sup>/<sub>3</sub> do solstício de verão até o meio do verão
+* **Marco**: <sup>2</sup>/<sub>6</sub> do verão
 * **Declinação solar**: +17.64°
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 22 de julho / S → 20 de janeiro
@@ -209,7 +209,7 @@ update_date: 2025-04-17
 ## Sol Descendente V
 
 ::: list-stylized
-* **Marco**: <sup>1</sup>/<sub>3</sub> do meio do verão até o equinócio do outono
+* **Marco**: <sup>4</sup>/<sub>6</sub> do verão
 * **Declinação solar**: +11.83°
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 21 de agosto / S → 20 de fevereiro
@@ -221,7 +221,7 @@ update_date: 2025-04-17
 ## Sol Descendente VI
 
 ::: list-stylized
-* **Marco**: <sup>2</sup>/<sub>3</sub> do meio do verão até o equinócio do outono
+* **Marco**: <sup>5</sup>/<sub>6</sub> do verão
 * **Declinação solar**: +8.93°
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 6 de setembro / S → 7 de março
@@ -245,7 +245,7 @@ update_date: 2025-04-17
 ## Sol Descendente VIII
 
 ::: list-stylized
-* **Marco**: <sup>1</sup>/<sub>3</sub> do equinócio do outono até o meio do outono
+* **Marco**: <sup>1</sup>/<sub>6</sub> do outono
 * **Declinação solar**: –2.95°
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 6 de outubro / S → 7 de abril
@@ -257,7 +257,7 @@ update_date: 2025-04-17
 ## Sol Descendente IX
 
 ::: list-stylized
-* **Marco**: <sup>2</sup>/<sub>3</sub> do equinócio do outono até o meio do outono
+* **Marco**: <sup>2</sup>/<sub>6</sub> do outono
 * **Declinação solar**: –5.89°
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 21 de outubro / S → 22 de abril
@@ -281,7 +281,7 @@ update_date: 2025-04-17
 ## Sol Descendente XI
 
 ::: list-stylized
-* **Marco**: <sup>1</sup>/<sub>3</sub> do meio do outono até o solstício do inverno
+* **Marco**: <sup>4</sup>/<sub>6</sub> do outono
 * **Declinação solar**: –11.78°
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 21 de novembro / S → 22 de maio
@@ -293,7 +293,7 @@ update_date: 2025-04-17
 ## Sol Descendente XII
 
 ::: list-stylized
-* **Marco**: <sup>2</sup>/<sub>3</sub> do meio do outono até o solstício do inverno
+* **Marco**: <sup>5</sup>/<sub>6</sub> do outono
 * **Declinação solar**: –14.72°
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 6 de dezembro / S → 6 de junho
