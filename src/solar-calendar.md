@@ -10,7 +10,7 @@ update_date: 2025-04-17
 
 ::: section
 ::: {.subsection}
-## 1. Regeneração
+## 1. Primeiro Ciclo
 
 ::: list-stylized
 * **Fase do dia**: Nadir solar
@@ -27,7 +27,20 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## 2. Fertilidade
+## 2. Segundo Ciclo
+
+::: list-stylized
+* **Fase do dia**: Meio da madrugada
+* **Fase da lua**: Lua crescente
+* **Fase do ano**: Meio do inverno
+* **Data estimada**: N → 4 de fevereiro / S → 6 de agosto
+* **Hora estimada**: 03:00
+* **Idade estimada**: 12 anos
+:::
+:::
+
+::: {.subsection}
+## 3. Terceiro Ciclo
 
 ::: list-stylized
 * **Fase do dia**: Crepúsculo matutino
@@ -40,7 +53,20 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## 3. Contemplação
+## 4. Quarto Ciclo
+
+::: list-stylized
+* **Fase do dia**: Meio da manhã
+* **Fase da lua**: Lua crescente convexa
+* **Fase do ano**: Meio da primavera
+* **Data estimada**: N → 5 de maio / S → 6 de novembro
+* **Hora estimada**: 09:00
+* **Idade estimada**: 36 anos
+:::
+:::
+
+::: {.subsection}
+## 5. Quinto Ciclo
 
 ::: list-stylized
 * **Fase do dia**: Zênite solar
@@ -53,7 +79,20 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## 4. Esvaziamento
+## 6. Sexto Ciclo
+
+::: list-stylized
+* **Fase do dia**: Meio da tarde
+* **Fase da lua**: Lua minguante convexa
+* **Fase do ano**: Meio do verao
+* **Data estimada**: N → 6 de agosto / S → 4 de fevereiro
+* **Hora estimada**: 15:00
+* **Idade estimada**: 60 anos
+:::
+:::
+
+::: {.subsection}
+## 7. Sétimo Ciclo
 
 ::: list-stylized
 * **Fase do dia**: Crepúsculo vespertino
@@ -62,6 +101,19 @@ update_date: 2025-04-17
 * **Data estimada**: N → 22 de setembro / S → 20 de março
 * **Hora estimada**: 18:00
 * **Idade estimada**: 72 anos
+:::
+:::
+
+::: {.subsection}
+## 8. Oitavo Ciclo
+
+::: list-stylized
+* **Fase do dia**: Meio da madrugada
+* **Fase da lua**: Lua minguante
+* **Fase do ano**: Meio do outono
+* **Data estimada**: N → 6 de novembro / S → 5 de maio
+* **Hora estimada**: 21:00
+* **Idade estimada**: 84 anos
 :::
 :::
 

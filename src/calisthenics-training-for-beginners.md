@@ -142,7 +142,7 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
   + **Progressão**: Elevação de Joelho na Barra (Hanging Knee Raise)
 :::
 
-### Desafio
+### Desafios
 <p class="subheading">Máximo de tempo, parada isométrica</p>
 
 ::: list-stylized
