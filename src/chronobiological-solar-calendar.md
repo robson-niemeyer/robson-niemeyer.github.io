@@ -91,7 +91,7 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: 0 (equinócio da primavera)
 * **Movimento solar**: Ascendente
-* **Data estimada N**: N  20 de março
+* **Data estimada N**: 20 de março
 * **Data estimada S**: 23 de setembro
 * **Hora simbólica**: 06:00
 :::
