@@ -10,11 +10,11 @@ update_date: 2025-04-17
 
 ::: section
 ::: {.subsection}
-## Sol Ascendente I
+## Período 0
 
 ::: list-stylized
 * **Marco**: Solstício do inverno
-* **Declinação solar**: –23.44°
+* **Declinação solar**:  -1 (mínima)
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N[^1] → 21 de dezembro / S[^2] → 21 de junho
 * **Hora simbólica**: 00:00
@@ -26,11 +26,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Ascendente II
+## Período 1
 
 ::: list-stylized
-* **Marco**: <sup>1</sup>/<sub>6</sub> do inverno
-* **Declinação solar**: –20.54°
+* **Declinação solar**: −<sup>5</sup>/<sub>6</sub>
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 5 de janeiro / S → 6 de julho
 * **Hora simbólica**: 01:00
@@ -38,11 +37,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Ascendente III
+## Período 2
 
 ::: list-stylized
-* **Marco**: <sup>2</sup>/<sub>6</sub> do inverno
-* **Declinação solar**: –17.64°
+* **Declinação solar**: −<sup>2</sup>/<sub>3</sub>
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 20 de janeiro / S → 22 de julho
 * **Hora simbólica**: 02:00
@@ -50,11 +48,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Ascendente IV
+## Período 3
 
 ::: list-stylized
-* **Marco**: Meio do inverno
-* **Declinação solar**: –14.74°
+* **Declinação solar**: −<sup>1</sup>/<sub>2</sub>
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 4 de fevereiro / S → 7 de agosto
 * **Hora simbólica**: 03:00
@@ -62,11 +59,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Ascendente V
+## Período 4
 
 ::: list-stylized
-* **Marco**: <sup>4</sup>/<sub>6</sub> do inverno
-* **Declinação solar**: –11.83°
+* **Declinação solar**: −<sup>1</sup>/<sub>3</sub>
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 19 de fevereiro / S → 22 de agosto
 * **Hora simbólica**: 04:00
@@ -74,11 +70,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Ascendente VI
+## Período 5
 
 ::: list-stylized
-* **Marco**: <sup>5</sup>/<sub>6</sub> do inverno
-* **Declinação solar**: –8.93°
+* **Declinação solar**: −<sup>1</sup>/<sub>6</sub>
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 5 de março / S → 7 de setembro
 * **Hora simbólica**: 05:00
@@ -86,11 +81,11 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Ascendente VII
+## Período 6
 
 ::: list-stylized
 * **Marco**: Equinócio da primavera
-* **Declinação solar**: 0.00°
+* **Declinação solar**: 0
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 20 de março / S → 23 de setembro
 * **Hora simbólica**: 06:00
@@ -98,11 +93,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Ascendente VIII
+## Período 7
 
 ::: list-stylized
-* **Marco**: <sup>1</sup>/<sub>6</sub> da primavera
-* **Declinação solar**: +2.95°
+* **Declinação solar**: <sup>1</sup>/<sub>6</sub>
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 5 de abril / S → 8 de outubro
 * **Hora simbólica**: 07:00
@@ -110,11 +104,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Ascendente IX
+## Período 8
 
 ::: list-stylized
-* **Marco**: <sup>2</sup>/<sub>6</sub> da primavera
-* **Declinação solar**: +5.89°
+* **Declinação solar**: <sup>1</sup>/<sub>3</sub>
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 20 de abril / S → 22 de outubro
 * **Hora simbólica**: 08:00
@@ -122,11 +115,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Ascendente X
+## Período 9
 
 ::: list-stylized
-* **Marco**: Meio da primavera
-* **Declinação solar**: +8.83°
+* **Declinação solar**: <sup>1</sup>/<sub>2</sub>
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 5 de maio / S → 6 de novembro
 * **Hora simbólica**: 09:00
@@ -134,11 +126,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Ascendente XI
+## Período 10
 
 ::: list-stylized
-* **Marco**: <sup>4</sup>/<sub>6</sub> da primavera
-* **Declinação solar**: +11.78°
+* **Declinação solar**: <sup>2</sup>/<sub>3</sub>
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 21 de maio / S → 21 de novembro
 * **Hora simbólica**: 10:00
@@ -146,11 +137,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Ascendente XII
+## Período 11
 
 ::: list-stylized
-* **Marco**: <sup>5</sup>/<sub>6</sub> da primavera
-* **Declinação solar**: +14.72°
+* **Declinação solar**: <sup>5</sup>/<sub>6</sub>
 * **Movimento solar**: Ascendente
 * **Data astronômica média**: N → 6 de junho / S → 6 de dezembro
 * **Hora simbólica**: 11:00
@@ -158,11 +148,11 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Descendente I
+## Período 12
 
 ::: list-stylized
 * **Marco**: Solstício de verão
-* **Declinação solar**: +23.44°
+* **Declinação solar**: 1 (máxima)
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 21 de junho / S → 21 de dezembro
 * **Hora simbólica**: 12:00
@@ -170,11 +160,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Descendente II
+## Período 13
 
 ::: list-stylized
-* **Marco**: <sup>1</sup>/<sub>6</sub> do verão
-* **Declinação solar**: +20.54°
+* **Declinação solar**: <sup>5</sup>/<sub>6</sub>
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 6 de julho / S → 5 de janeiro
 * **Hora simbólica**: 13:00
@@ -182,11 +171,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Descendente III
+## Período 14
 
 ::: list-stylized
-* **Marco**: <sup>2</sup>/<sub>6</sub> do verão
-* **Declinação solar**: +17.64°
+* **Declinação solar**: <sup>2</sup>/<sub>3</sub>
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 22 de julho / S → 20 de janeiro
 * **Hora simbólica**: 14:00
@@ -194,11 +182,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Descendente IV
+## Período 15
 
 ::: list-stylized
-* **Marco**: Meio do verão
-* **Declinação solar**: +14.74°
+* **Declinação solar**: <sup>1</sup>/<sub>2</sub>
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 7 de agosto / S → 4 de fevereiro
 * **Hora simbólica**: 15:00
@@ -206,11 +193,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Descendente V
+## Período 16
 
 ::: list-stylized
-* **Marco**: <sup>4</sup>/<sub>6</sub> do verão
-* **Declinação solar**: +11.83°
+* **Declinação solar**: <sup>1</sup>/<sub>3</sub>
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 22 de agosto / S → 19 de fevereiro
 * **Hora simbólica**: 16:00
@@ -218,11 +204,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Descendente VI
+## Período 17
 
 ::: list-stylized
-* **Marco**: <sup>5</sup>/<sub>6</sub> do verão
-* **Declinação solar**: +8.93°
+* **Declinação solar**: <sup>1</sup>/<sub>6</sub>
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 7 de setembro / S → 5 de março
 * **Hora simbólica**: 17:00
@@ -230,11 +215,11 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Descendente VII
+## Período 18
 
 ::: list-stylized
 * **Marco**: Equinócio do outono
-* **Declinação solar**: 0.00°
+* **Declinação solar**: 0
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 23 de setembro / S → 20 de março
 * **Hora simbólica**: 18:00
@@ -242,11 +227,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Descendente VIII
+## Período 19
 
 ::: list-stylized
-* **Marco**: <sup>1</sup>/<sub>6</sub> do outono
-* **Declinação solar**: –2.95°
+* **Declinação solar**: −<sup>1</sup>/<sub>6</sub>
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 8 de outubro / S → 5 de abril
 * **Hora simbólica**: 19:00
@@ -254,11 +238,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Descendente IX
+## Período 20
 
 ::: list-stylized
-* **Marco**: <sup>2</sup>/<sub>6</sub> do outono
-* **Declinação solar**: –5.89°
+* **Declinação solar**: −<sup>1</sup>/<sub>3</sub>
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 22 de outubro / S → 20 de abril
 * **Hora simbólica**: 20:00
@@ -266,11 +249,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Descendente X
+## Período 21
 
 ::: list-stylized
-* **Marco**: Meio do outono
-* **Declinação solar**: –8.83°
+* **Declinação solar**: −<sup>1</sup>/<sub>2</sub>
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 6 de novembro / S → 5 de maio
 * **Hora simbólica**: 21:00
@@ -278,11 +260,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Descendente XI
+## Período 22
 
 ::: list-stylized
-* **Marco**: <sup>4</sup>/<sub>6</sub> do outono
-* **Declinação solar**: –11.78°
+* **Declinação solar**: −<sup>2</sup>/<sub>3</sub>
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 21 de novembro / S → 21 de maio
 * **Hora simbólica**: 22:00
@@ -290,11 +271,10 @@ update_date: 2025-04-17
 :::
 
 ::: {.subsection}
-## Sol Descendente XII
+## Período 23
 
 ::: list-stylized
-* **Marco**: <sup>5</sup>/<sub>6</sub> do outono
-* **Declinação solar**: –14.72°
+* **Declinação solar**: −<sup>5</sup>/<sub>6</sub>
 * **Movimento solar**: Descendente
 * **Data astronômica média**: N → 6 de dezembro / S → 6 de junho
 * **Hora simbólica**: 23:00
