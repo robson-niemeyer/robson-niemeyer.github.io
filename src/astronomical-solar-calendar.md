@@ -32,8 +32,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: −<sup>5</sup>/<sub>6</sub>
 * **Movimento solar**: Ascendente
-* **Data astronômica média N**: 5 de janeiro
-* **Data astronômica média S**: 6 de julho
+* **Data astronômica média N**: 22 de janeiro
+* **Data astronômica média S**: 25 de julho
 * **Hora simbólica**: 01:00
 :::
 :::
@@ -44,8 +44,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: −<sup>2</sup>/<sub>3</sub>
 * **Movimento solar**: Ascendente
-* **Data astronômica média N**: 20 de janeiro
-* **Data astronômica média S**: 22 de julho
+* **Data astronômica média N**: 6 de fevereiro
+* **Data astronômica média S**: 9 de agosto
 * **Hora simbólica**: 02:00
 :::
 :::
@@ -56,8 +56,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: −<sup>1</sup>/<sub>2</sub>
 * **Movimento solar**: Ascendente
-* **Data astronômica média N**: 4 de fevereiro
-* **Data astronômica média S**: 7 de agosto
+* **Data astronômica média N**: 17 de fevereiro
+* **Data astronômica média S**: 22 de agosto
 * **Hora simbólica**: 03:00
 :::
 :::
@@ -68,8 +68,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: −<sup>1</sup>/<sub>3</sub>
 * **Movimento solar**: Ascendente
-* **Data astronômica média N**: 19 de fevereiro
-* **Data astronômica média S**: 22 de agosto
+* **Data astronômica média N**: 28 de fevereiro
+* **Data astronômica média S**: 2 de setembro
 * **Hora simbólica**: 04:00
 :::
 :::
@@ -80,8 +80,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: −<sup>1</sup>/<sub>6</sub>
 * **Movimento solar**: Ascendente
-* **Data astronômica média N**: 5 de março
-* **Data astronômica média S**: 7 de setembro
+* **Data astronômica média N**: 10 de março
+* **Data astronômica média S**: 12 de setembro
 * **Hora simbólica**: 05:00
 :::
 :::
@@ -105,8 +105,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: <sup>1</sup>/<sub>6</sub>
 * **Movimento solar**: Ascendente
-* **Data astronômica média N**: 5 de abril
-* **Data astronômica média S**: 8 de outubro
+* **Data astronômica média N**: 30 de março
+* **Data astronômica média S**: 3 de outubro
 * **Hora simbólica**: 07:00
 :::
 :::
@@ -117,8 +117,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: <sup>1</sup>/<sub>3</sub>
 * **Movimento solar**: Ascendente
-* **Data astronômica média N**: 20 de abril
-* **Data astronômica média S**: 22 de outubro
+* **Data astronômica média N**: 09 de abril
+* **Data astronômica média S**: 13 de outubro
 * **Hora simbólica**: 08:00
 :::
 :::
@@ -129,8 +129,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: <sup>1</sup>/<sub>2</sub>
 * **Movimento solar**: Ascendente
-* **Data astronômica média N**: 5 de maio
-* **Data astronômica média S**: 6 de novembro
+* **Data astronômica média N**: 20 de abril
+* **Data astronômica média S**: 24 de outubro
 * **Hora simbólica**: 09:00
 :::
 :::
@@ -141,8 +141,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: <sup>2</sup>/<sub>3</sub>
 * **Movimento solar**: Ascendente
-* **Data astronômica média N**: 21 de maio
-* **Data astronômica média S**: 21 de novembro
+* **Data astronômica média N**: 3 de maio
+* **Data astronômica média S**: 5 de novembro
 * **Hora simbólica**: 10:00
 :::
 :::
@@ -153,8 +153,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: <sup>5</sup>/<sub>6</sub>
 * **Movimento solar**: Ascendente
-* **Data astronômica média N**: 6 de junho
-* **Data astronômica média S**: 6 de dezembro
+* **Data astronômica média N**: 18 de maio
+* **Data astronômica média S**: 19 de novembro
 * **Hora simbólica**: 11:00
 :::
 :::
@@ -178,8 +178,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: <sup>5</sup>/<sub>6</sub>
 * **Movimento solar**: Descendente
-* **Data astronômica média N**: 6 de julho
-* **Data astronômica média S**: 5 de janeiro
+* **Data astronômica média N**: 25 de julho
+* **Data astronômica média S**: 22 de janeiro
 * **Hora simbólica**: 13:00
 :::
 :::
@@ -190,8 +190,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: <sup>2</sup>/<sub>3</sub>
 * **Movimento solar**: Descendente
-* **Data astronômica média N**: 22 de julho
-* **Data astronômica média S**: 20 de janeiro
+* **Data astronômica média N**: 9 de agosto
+* **Data astronômica média S**: 6 de fevereiro
 * **Hora simbólica**: 14:00
 :::
 :::
@@ -202,8 +202,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: <sup>1</sup>/<sub>2</sub>
 * **Movimento solar**: Descendente
-* **Data astronômica média N**: 7 de agosto
-* **Data astronômica média S**: 4 de fevereiro
+* **Data astronômica média N**: 22 de agosto
+* **Data astronômica média S**: 17 de fevereiro
 * **Hora simbólica**: 15:00
 :::
 :::
@@ -214,8 +214,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: <sup>1</sup>/<sub>3</sub>
 * **Movimento solar**: Descendente
-* **Data astronômica média N**: 22 de agosto
-* **Data astronômica média S**: 19 de fevereiro
+* **Data astronômica média N**: 2 de setembro
+* **Data astronômica média S**: 28 de fevereiro
 * **Hora simbólica**: 16:00
 :::
 :::
@@ -226,8 +226,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: <sup>1</sup>/<sub>6</sub>
 * **Movimento solar**: Descendente
-* **Data astronômica média N**: 7 de setembro
-* **Data astronômica média S**: 5 de março
+* **Data astronômica média N**: 12 de setembro
+* **Data astronômica média S**: 10 de março
 * **Hora simbólica**: 17:00
 :::
 :::
@@ -251,8 +251,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: −<sup>1</sup>/<sub>6</sub>
 * **Movimento solar**: Descendente
-* **Data astronômica média N**: 8 de outubro
-* **Data astronômica média S**: 5 de abril
+* **Data astronômica média N**: 3 de outubro
+* **Data astronômica média S**: 30 de março
 * **Hora simbólica**: 19:00
 :::
 :::
@@ -263,8 +263,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: −<sup>1</sup>/<sub>3</sub>
 * **Movimento solar**: Descendente
-* **Data astronômica média N**: 22 de outubro
-* **Data astronômica média S**: 20 de abril
+* **Data astronômica média N**: 13 de outubro
+* **Data astronômica média S**: 09 de abril
 * **Hora simbólica**: 20:00
 :::
 :::
@@ -275,8 +275,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: −<sup>1</sup>/<sub>2</sub>
 * **Movimento solar**: Descendente
-* **Data astronômica média N**: 6 de novembro
-* **Data astronômica média S**: 5 de maio
+* **Data astronômica média N**: 24 de outubro
+* **Data astronômica média S**: 20 de abril
 * **Hora simbólica**: 21:00
 :::
 :::
@@ -287,8 +287,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: −<sup>2</sup>/<sub>3</sub>
 * **Movimento solar**: Descendente
-* **Data astronômica média N**: 21 de novembro
-* **Data astronômica média S**: 21 de maio
+* **Data astronômica média N**: 5 de novembro
+* **Data astronômica média S**: 3 de maio
 * **Hora simbólica**: 22:00
 :::
 :::
@@ -299,8 +299,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: −<sup>5</sup>/<sub>6</sub>
 * **Movimento solar**: Descendente
-* **Data astronômica média N**: 6 de dezembro
-* **Data astronômica média S**: 6 de junho
+* **Data astronômica média N**: 19 de novembro
+* **Data astronômica média S**: 18 de maio
 * **Hora simbólica**: 23:00
 :::
 :::
