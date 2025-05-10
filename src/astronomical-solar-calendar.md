@@ -16,7 +16,7 @@ update_date: 2025-04-17
 * **Marco**: Solstício do inverno
 * **Declinação solar**: –23.44°
 * **Movimento solar**: Ascendente
-* **Data astronômica média**: N[^1] → 21 de dezembro / S[^2] → 22 de junho
+* **Data astronômica média**: N[^1] → 21 de dezembro / S[^2] → 21 de junho
 * **Hora simbólica**: 00:00
 :::
 
@@ -32,7 +32,7 @@ update_date: 2025-04-17
 * **Marco**: <sup>1</sup>/<sub>6</sub> do inverno
 * **Declinação solar**: –20.54°
 * **Movimento solar**: Ascendente
-* **Data astronômica média**: N → 5 de janeiro / S → 7 de julho
+* **Data astronômica média**: N → 5 de janeiro / S → 6 de julho
 * **Hora simbólica**: 01:00
 :::
 :::
@@ -56,7 +56,7 @@ update_date: 2025-04-17
 * **Marco**: Meio do inverno
 * **Declinação solar**: –14.74°
 * **Movimento solar**: Ascendente
-* **Data astronômica média**: N → 5 de fevereiro / S → 6 de agosto
+* **Data astronômica média**: N → 4 de fevereiro / S → 7 de agosto
 * **Hora simbólica**: 03:00
 :::
 :::
@@ -68,7 +68,7 @@ update_date: 2025-04-17
 * **Marco**: <sup>4</sup>/<sub>6</sub> do inverno
 * **Declinação solar**: –11.83°
 * **Movimento solar**: Ascendente
-* **Data astronômica média**: N → 20 de fevereiro / S → 21 de agosto
+* **Data astronômica média**: N → 19 de fevereiro / S → 22 de agosto
 * **Hora simbólica**: 04:00
 :::
 :::
@@ -80,7 +80,7 @@ update_date: 2025-04-17
 * **Marco**: <sup>5</sup>/<sub>6</sub> do inverno
 * **Declinação solar**: –8.93°
 * **Movimento solar**: Ascendente
-* **Data astronômica média**: N → 7 de março / S → 6 de setembro
+* **Data astronômica média**: N → 5 de março / S → 7 de setembro
 * **Hora simbólica**: 05:00
 :::
 :::
@@ -92,7 +92,7 @@ update_date: 2025-04-17
 * **Marco**: Equinócio da primavera
 * **Declinação solar**: 0.00°
 * **Movimento solar**: Ascendente
-* **Data astronômica média**: N → 22 de março / S → 21 de setembro
+* **Data astronômica média**: N → 20 de março / S → 23 de setembro
 * **Hora simbólica**: 06:00
 :::
 :::
@@ -104,7 +104,7 @@ update_date: 2025-04-17
 * **Marco**: <sup>1</sup>/<sub>6</sub> da primavera
 * **Declinação solar**: +2.95°
 * **Movimento solar**: Ascendente
-* **Data astronômica média**: N → 7 de abril / S → 6 de outubro
+* **Data astronômica média**: N → 5 de abril / S → 8 de outubro
 * **Hora simbólica**: 07:00
 :::
 :::
@@ -116,7 +116,7 @@ update_date: 2025-04-17
 * **Marco**: <sup>2</sup>/<sub>6</sub> da primavera
 * **Declinação solar**: +5.89°
 * **Movimento solar**: Ascendente
-* **Data astronômica média**: N → 22 de abril / S → 21 de outubro
+* **Data astronômica média**: N → 20 de abril / S → 22 de outubro
 * **Hora simbólica**: 08:00
 :::
 :::
@@ -128,7 +128,7 @@ update_date: 2025-04-17
 * **Marco**: Meio da primavera
 * **Declinação solar**: +8.83°
 * **Movimento solar**: Ascendente
-* **Data astronômica média**: N → 7 de maio / S → 6 de novembro
+* **Data astronômica média**: N → 5 de maio / S → 6 de novembro
 * **Hora simbólica**: 09:00
 :::
 :::
@@ -140,7 +140,7 @@ update_date: 2025-04-17
 * **Marco**: <sup>4</sup>/<sub>6</sub> da primavera
 * **Declinação solar**: +11.78°
 * **Movimento solar**: Ascendente
-* **Data astronômica média**: N → 22 de maio / S → 21 de novembro
+* **Data astronômica média**: N → 21 de maio / S → 21 de novembro
 * **Hora simbólica**: 10:00
 :::
 :::
@@ -164,7 +164,7 @@ update_date: 2025-04-17
 * **Marco**: Solstício de verão
 * **Declinação solar**: +23.44°
 * **Movimento solar**: Descendente
-* **Data astronômica média**: N → 22 de junho / S → 21 de dezembro
+* **Data astronômica média**: N → 21 de junho / S → 21 de dezembro
 * **Hora simbólica**: 12:00
 :::
 :::
@@ -176,7 +176,7 @@ update_date: 2025-04-17
 * **Marco**: <sup>1</sup>/<sub>6</sub> do verão
 * **Declinação solar**: +20.54°
 * **Movimento solar**: Descendente
-* **Data astronômica média**: N → 7 de julho / S → 5 de janeiro
+* **Data astronômica média**: N → 6 de julho / S → 5 de janeiro
 * **Hora simbólica**: 13:00
 :::
 :::
@@ -200,7 +200,7 @@ update_date: 2025-04-17
 * **Marco**: Meio do verão
 * **Declinação solar**: +14.74°
 * **Movimento solar**: Descendente
-* **Data astronômica média**: N → 6 de agosto / S → 5 de fevereiro
+* **Data astronômica média**: N → 7 de agosto / S → 4 de fevereiro
 * **Hora simbólica**: 15:00
 :::
 :::
@@ -212,7 +212,7 @@ update_date: 2025-04-17
 * **Marco**: <sup>4</sup>/<sub>6</sub> do verão
 * **Declinação solar**: +11.83°
 * **Movimento solar**: Descendente
-* **Data astronômica média**: N → 21 de agosto / S → 20 de fevereiro
+* **Data astronômica média**: N → 22 de agosto / S → 19 de fevereiro
 * **Hora simbólica**: 16:00
 :::
 :::
@@ -224,7 +224,7 @@ update_date: 2025-04-17
 * **Marco**: <sup>5</sup>/<sub>6</sub> do verão
 * **Declinação solar**: +8.93°
 * **Movimento solar**: Descendente
-* **Data astronômica média**: N → 6 de setembro / S → 7 de março
+* **Data astronômica média**: N → 7 de setembro / S → 5 de março
 * **Hora simbólica**: 17:00
 :::
 :::
@@ -236,7 +236,7 @@ update_date: 2025-04-17
 * **Marco**: Equinócio do outono
 * **Declinação solar**: 0.00°
 * **Movimento solar**: Descendente
-* **Data astronômica média**: N → 21 de setembro / S → 22 de março
+* **Data astronômica média**: N → 23 de setembro / S → 20 de março
 * **Hora simbólica**: 18:00
 :::
 :::
@@ -248,7 +248,7 @@ update_date: 2025-04-17
 * **Marco**: <sup>1</sup>/<sub>6</sub> do outono
 * **Declinação solar**: –2.95°
 * **Movimento solar**: Descendente
-* **Data astronômica média**: N → 6 de outubro / S → 7 de abril
+* **Data astronômica média**: N → 8 de outubro / S → 5 de abril
 * **Hora simbólica**: 19:00
 :::
 :::
@@ -260,7 +260,7 @@ update_date: 2025-04-17
 * **Marco**: <sup>2</sup>/<sub>6</sub> do outono
 * **Declinação solar**: –5.89°
 * **Movimento solar**: Descendente
-* **Data astronômica média**: N → 21 de outubro / S → 22 de abril
+* **Data astronômica média**: N → 22 de outubro / S → 20 de abril
 * **Hora simbólica**: 20:00
 :::
 :::
@@ -272,7 +272,7 @@ update_date: 2025-04-17
 * **Marco**: Meio do outono
 * **Declinação solar**: –8.83°
 * **Movimento solar**: Descendente
-* **Data astronômica média**: N → 6 de novembro / S → 7 de maio
+* **Data astronômica média**: N → 6 de novembro / S → 5 de maio
 * **Hora simbólica**: 21:00
 :::
 :::
@@ -284,7 +284,7 @@ update_date: 2025-04-17
 * **Marco**: <sup>4</sup>/<sub>6</sub> do outono
 * **Declinação solar**: –11.78°
 * **Movimento solar**: Descendente
-* **Data astronômica média**: N → 21 de novembro / S → 22 de maio
+* **Data astronômica média**: N → 21 de novembro / S → 21 de maio
 * **Hora simbólica**: 22:00
 :::
 :::
