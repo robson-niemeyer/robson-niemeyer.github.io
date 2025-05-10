@@ -13,8 +13,7 @@ update_date: 2025-04-17
 ## Período 0
 
 ::: list-stylized
-* **Marco**: Solstício do inverno
-* **Declinação solar**:  -1 (mínima)
+* **Declinação solar**:  -1 (solstício do inverno)
 * **Movimento solar**: Ascendente
 * **Data estimada N[^1]**: 21 de dezembro
 * **Data estimada S[^2]**: 21 de junho
@@ -90,8 +89,7 @@ update_date: 2025-04-17
 ## Período 6
 
 ::: list-stylized
-* **Marco**: Equinócio da primavera
-* **Declinação solar**: 0
+* **Declinação solar**: 0 (equinócio da primavera)
 * **Movimento solar**: Ascendente
 * **Data estimada N**: N  20 de março
 * **Data estimada S**: 23 de setembro
@@ -163,8 +161,7 @@ update_date: 2025-04-17
 ## Período 12
 
 ::: list-stylized
-* **Marco**: Solstício de verão
-* **Declinação solar**: 1 (máxima)
+* **Declinação solar**: 1 (solstício de verão)
 * **Movimento solar**: Descendente
 * **Data estimada N**: 21 de junho
 * **Data estimada S**: 21 de dezembro
@@ -236,8 +233,7 @@ update_date: 2025-04-17
 ## Período 18
 
 ::: list-stylized
-* **Marco**: Equinócio do outono
-* **Declinação solar**: 0
+* **Declinação solar**: 0 (equinócio do outono)
 * **Movimento solar**: Descendente
 * **Data estimada N**: 23 de setembro
 * **Data estimada S**: 20 de março
