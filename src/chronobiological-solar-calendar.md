@@ -43,8 +43,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: −<sup>2</sup>/<sub>3</sub>
 * **Movimento solar**: Ascendente
-* **Data estimada N**: 6 de fevereiro
-* **Data estimada S**: 9 de agosto
+* **Data estimada N**: 06 de fevereiro
+* **Data estimada S**: 09 de agosto
 * **Hora simbólica**: 02:00
 :::
 :::
@@ -68,7 +68,7 @@ update_date: 2025-04-17
 * **Declinação solar**: −<sup>1</sup>/<sub>3</sub>
 * **Movimento solar**: Ascendente
 * **Data estimada N**: 28 de fevereiro
-* **Data estimada S**: 2 de setembro
+* **Data estimada S**: 02 de setembro
 * **Hora simbólica**: 04:00
 :::
 :::
@@ -104,7 +104,7 @@ update_date: 2025-04-17
 * **Declinação solar**: <sup>1</sup>/<sub>6</sub>
 * **Movimento solar**: Ascendente
 * **Data estimada N**: 30 de março
-* **Data estimada S**: 3 de outubro
+* **Data estimada S**: 03 de outubro
 * **Hora simbólica**: 07:00
 :::
 :::
@@ -139,8 +139,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: <sup>2</sup>/<sub>3</sub>
 * **Movimento solar**: Ascendente
-* **Data estimada N**: 3 de maio
-* **Data estimada S**: 5 de novembro
+* **Data estimada N**: 03 de maio
+* **Data estimada S**: 05 de novembro
 * **Hora simbólica**: 10:00
 :::
 :::
@@ -187,8 +187,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: <sup>2</sup>/<sub>3</sub>
 * **Movimento solar**: Descendente
-* **Data estimada N**: 9 de agosto
-* **Data estimada S**: 6 de fevereiro
+* **Data estimada N**: 09 de agosto
+* **Data estimada S**: 06 de fevereiro
 * **Hora simbólica**: 14:00
 :::
 :::
@@ -211,7 +211,7 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: <sup>1</sup>/<sub>3</sub>
 * **Movimento solar**: Descendente
-* **Data estimada N**: 2 de setembro
+* **Data estimada N**: 02 de setembro
 * **Data estimada S**: 28 de fevereiro
 * **Hora simbólica**: 16:00
 :::
@@ -247,7 +247,7 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: −<sup>1</sup>/<sub>6</sub>
 * **Movimento solar**: Descendente
-* **Data estimada N**: 3 de outubro
+* **Data estimada N**: 03 de outubro
 * **Data estimada S**: 30 de março
 * **Hora simbólica**: 19:00
 :::
@@ -283,8 +283,8 @@ update_date: 2025-04-17
 ::: list-stylized
 * **Declinação solar**: −<sup>2</sup>/<sub>3</sub>
 * **Movimento solar**: Descendente
-* **Data estimada N**: 5 de novembro
-* **Data estimada S**: 3 de maio
+* **Data estimada N**: 05 de novembro
+* **Data estimada S**: 03 de maio
 * **Hora simbólica**: 22:00
 :::
 :::
