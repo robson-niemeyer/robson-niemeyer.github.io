@@ -69,8 +69,8 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 <p class="subheading">3 x 30 s, 1-2 min de descanso, parada isométrica, tensão máxima</p>
 
 ::: list-stylized
-* Plank
-* Dead Hang
+* _Plank_
+* _Dead Hang_
 :::
 
 ### Potência Máxima
@@ -79,38 +79,38 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 [^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Encerre a série com uma quantidade de repetições em reserva, sem atingir a falha – ou seja, quando você ainda conseguiria completar aquele número de repetições com forma perfeita. Garante estímulo eficaz com mínima fadiga, ideal para consistência e domínio técnico.
 
 ::: list-stylized
-* Kneeling Push-Up
-  + _Progressão_: Push-Up
-  + _Progressão_: Diamond Push-Up
-* Negative Pull-Up
-  + _Progressão_: Pull-Up _com Faixa de Resistência_
-  + _Progressão_: Pull-Up
+* _Kneeling Push-Up_
+  + Progressão: _Push-Up_
+  + Progressão: _Diamond Push-Up_
+* _Negative Pull-Up_
+  + Progressão: _Pull-Up com Faixa de Resistência_
+  + Progressão: _Pull-Up_
 :::
 
 ### Assistência Muscular
 <p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, excêntrico controlado</p>
 
 ::: list-stylized
-* Bench Dip
-  + _Progressão_: Ring Dip
-* Ring Row
-  + _Progressão_: Tuck Front Lever Row
+* _Bench Dip_
+  + Progressão: _Ring Dip_
+* _Ring Row_
+  + Progressão: _Tuck Front Lever Row_
 :::
 
 ### Suplementar
 <p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, pausa isométrica, excêntrico lento</p>
 
 ::: list-stylized
-* Pike Push-Up
-  + _Progressão_: Decline Pike Push-Up
-  + _Progressão_: Wall Handstand Push-Up
+* _Pike Push-Up_
+  + Progressão: _Decline Pike Push-Up_
+  + Progressão: _Wall Handstand Push-Up_
 :::
 
 ### Desafio (Opcional)
 <p class="subheading">Máximo de tempo, parada isométrica</p>
 
 ::: list-stylized
-* Handstand
+* _Handstand_
 :::
 :::
 
@@ -124,46 +124,46 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 <p class="subheading">3 x 30 s, 1-2 min de descanso, parada isométrica, tensão máxima</p>
 
 ::: list-stylized
-* Static Squat Hold
-* Glute Bridge Hold
+* _Static Squat Hold_
+* _Glute Bridge Hold_
 :::
 
 ### Potência Máxima
 <p class="subheading">5 x 0-1 RIR, 3-4 min de descanso, concêntrico explosivo, excêntrico controlado</p>
 
 ::: list-stylized
-* Squat
-  + _Progressão_: Squat Jump
-  + _Progressão_: Pistol Squat
-* Glute Bridge
-  + _Progressão_: Tall Kneeling Hip Hinge
-  + _Progressão_: Nordic Hamstring Curl
+* _Squat_
+  + Progressão: _Squat Jump_
+  + Progressão: _Pistol Squat_
+* _Glute Bridge_
+  + Progressão: _Tall Kneeling Hip Hinge_
+  + Progressão: _Nordic Hamstring Curl_
 :::
 
 ### Assistência Muscular
 <p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, excêntrico controlado</p>
 
 ::: list-stylized
-* Calf Raise
-  + _Progressão_: Squat Hold Calf Raise
-* Lunge
-  + _Progressão_: Bulgarian Split Squat
+* _Calf Raise_
+  + Progressão: _Squat Hold Calf Raise_
+* _Lunge_
+  + Progressão: _Bulgarian Split Squat_
 :::
 
 ### Suplementar
 <p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, pausa isométrica, excêntrico lento</p>
 
 ::: list-stylized
-* Reverse Crunch
-  + _Progressão_: Hanging Knee Raise
-  + _Progressão_: Toes-to-Bar
+* _Reverse Crunch_
+  + Progressão: _Hanging Knee Raise_
+  + Progressão: _Toes-to-Bar_
 :::
 
 ### Desafio (Opcional)
 <p class="subheading">Máximo de tempo, parada isométrica</p>
 
 ::: list-stylized
-* L-Sit
+* _L-Sit_
 :::
 :::
 
@@ -176,11 +176,11 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 ### Cardio Leve
 
 ::: list-stylized
-* Caminhada – 5 min @ 50-60% MHR[^2]
-* Caminhada – 30 min @ 50-60% MHR
-  + _Progressão_: Corrida Leve – 30 min @ 60-70% MHR
-* Caminhada – 5 min @ 50-60% MHR
-* Alongamento – 30 min
+* _Caminhada_ – 5 min @ 50-60% MHR[^2]
+* _Caminhada_ – 30 min @ 50-60% MHR
+  + Progressão: _Corrida Leve_ – 30 min @ 60-70% MHR
+* _Caminhada_ – 5 min @ 50-60% MHR
+* _Alongamento_ – 30 min
 :::
 
 [^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Valor pode variar segundo genética, saúde e condicionamento.
