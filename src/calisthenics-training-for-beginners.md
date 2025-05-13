@@ -21,7 +21,7 @@ Os treinos diários são divididos nas seguintes etapas:
 * **Desafio (Opcional)** – 1 exercício avançado
 :::
 
-Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome em inglês e pesquisar por imagens ou vídeos de exemplo.
+Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome e pesquisar por imagens ou vídeos de exemplo.
 :::
 ::: {.subsection}
 ## Principais Objetivos
