@@ -10,7 +10,18 @@ update_date: 2025-04-30
 ::: section
 ::: {.subsection}
 ## Introdução
-Os nomes dos exercícios são mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome em inglês e pesquisar por imagens ou vídeos.
+
+Os treinos diários são divididos nas seguintes etapas:
+
+::: list-stylized
+* **Ativação**: 2 exercícios de estimulação neuromuscular
+* **Potência Máxima**: 2 exercícios principais
+* **Assistência Muscular**: 2 exercícios de suporte
+* **Suplementar**: 1 exercício intermediário
+* **Desafio**: 1 exercício avançado
+:::
+
+Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome em inglês e pesquisar por imagens ou vídeos de exemplo.
 :::
 ::: {.subsection}
 ## Principais Objetivos
@@ -69,11 +80,11 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 
 ::: list-stylized
 * Kneeling Push-Up (Flexão Ajoelhado)
-  + **Progressão**: Push-Up (Flexão)
-  + **Progressão**: Single-Arm Push-Up (Flexão Unilateral)
+  + _Progressão_: Push-Up
+  + _Progressão_: Diamond Push-Up
 * Negative Pull-Up (Barra Fixa Negativa)
-  + **Progressão**: Pull-Up with Resistance Band (Barra Fixa com Faixa de Resistência)
-  + **Progressão**: Pull-Up (Barra Fixa)
+  + _Progressão_: Pull-Up com Faixa de Resistência
+  + _Progressão_: Pull-Up
 :::
 
 ### Assistência Muscular
@@ -81,9 +92,9 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 
 ::: list-stylized
 * Bench Dip (Mergulho no Banco)
-  + **Progressão**: Ring Dip (Mergulho na Argola)
+  + _Progressão_: Ring Dip
 * Ring Row (Remada na Argola)
-  + **Progressão**: Tuck Front Lever Row
+  + _Progressão_: Tuck Front Lever Row
 :::
 
 ### Suplementar
@@ -91,8 +102,8 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 
 ::: list-stylized
 * Pike Push-Up (Flexão Pike)
-  + **Progressão**: Decline Pike Push-Up (Flexão Pike Declinada)
-  + **Progressão**: Wall Handstand Push-Up (Flexão na Parada de Mão)
+  + _Progressão_: Decline Pike Push-Up
+  + _Progressão_: Wall Handstand Push-Up
 :::
 
 ### Desafio
@@ -122,11 +133,11 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 
 ::: list-stylized
 * Squat (Agachamento)
-  + **Progressão**: Squat Jump (Agachamento com Salto)
-  + **Progressão**: Pistol Squat (Agachamento Pistola)
+  + _Progressão_: Squat Jump
+  + _Progressão_: Pistol Squat
 * Glute Bridge (Ponte de Glúteo)
-  + **Progressão**: Kneeling Deadlift (Stiff Ajoelhado)
-  + **Progressão**: Nordic Hamstring Curl (Flexão Nórdica)
+  + _Progressão_: Tall Kneeling Hip Hinge
+  + _Progressão_: Nordic Hamstring Curl
 :::
 
 ### Assistência Muscular
@@ -134,9 +145,9 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 
 ::: list-stylized
 * Calf Raise (Elevação de Panturrilha)
-  + **Progressão**: Single-Leg Calf Raise (Elevação de Panturrilha Unilateral)
+  + _Progressão_: Squat Hold Calf Raise
 * Lunge (Afundo)
-  + **Progressão**: Bulgarian Split Squat (Agachamento Búlgaro)
+  + _Progressão_: Bulgarian Split Squat
 :::
 
 ### Suplementar
@@ -144,8 +155,8 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 
 ::: list-stylized
 * Reverse Crunch (Abdominal Invertido)
-  + **Progressão**: Hanging Knee Raise (Elevação de Joelho na Barra)
-  + **Progressão**: Toes-to-Bar
+  + _Progressão_: Hanging Knee Raise
+  + _Progressão_: Toes-to-Bar
 :::
 
 ### Desafios
@@ -165,11 +176,11 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 ### Cardio Leve
 
 ::: list-stylized
-* Walk (Caminhada) – 5 min @ 50-60% MHR[^2]
-* Walk (Caminhada) – 30 min @ 50-60% MHR
-  + **Progressão**: Light Jog (Corrida Leve) – 30 min @ 60-70% MHR
-* Walk (Caminhada) – 5 min @ 50-60% MHR
-* Stretching (Alongamento) – 30 min
+* Caminhada – 5 min @ 50-60% MHR[^2]
+* Caminhada – 30 min @ 50-60% MHR
+  + _Progressão_: Corrida Leve – 30 min @ 60-70% MHR
+* Caminhada – 5 min @ 50-60% MHR
+* Alongamento – 30 min
 :::
 
 [^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Valor pode variar segundo genética, saúde e condicionamento.
