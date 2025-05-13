@@ -106,7 +106,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 </hgroup>
 
 ### Ativação
-<p class="subheading">3 x 30 s, 1-2 min de descanso, parada isométrica, tensão máxima</p>
+<p class="subheading">3 x 30-45 s, 1-2 min de descanso, parada isométrica, tensão máxima</p>
 
 ::: list-stylized
 * _Plank_
@@ -161,7 +161,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 </hgroup>
 
 ### Ativação
-<p class="subheading">3 x 30 s, 1-2 min de descanso, parada isométrica, tensão máxima</p>
+<p class="subheading">3 x 30-45 s, 1-2 min de descanso, parada isométrica, tensão máxima</p>
 
 ::: list-stylized
 * _Static Squat Hold_
