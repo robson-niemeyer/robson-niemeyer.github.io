@@ -10,7 +10,7 @@ update_date: 2025-04-30
 ::: section
 ::: {.subsection}
 ## Introdução
-Os nomes dos exercícios são mantidos em inglês para maior clareza e padronização internacional. Para aprender sobre cada exercício, basta copiar seu nome em inglês e fazer uma busca por imagens.
+Os nomes dos exercícios são mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome em inglês e pesquisar por imagens.
 :::
 ::: {.subsection}
 ## Principais Objetivos
