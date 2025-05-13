@@ -69,8 +69,8 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 <p class="subheading">3 x 30 s, 1-2 min de descanso, parada isométrica, tensão máxima</p>
 
 ::: list-stylized
-* Plank (Prancha)
-* Dead Hang (Pendurada)
+* Plank
+* Dead Hang
 :::
 
 ### Potência Máxima
@@ -79,11 +79,11 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 [^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Encerre a série com uma quantidade de repetições em reserva, sem atingir a falha – ou seja, quando você ainda conseguiria completar aquele número de repetições com forma perfeita. Garante estímulo eficaz com mínima fadiga, ideal para consistência e domínio técnico.
 
 ::: list-stylized
-* Kneeling Push-Up (Flexão Ajoelhado)
+* Kneeling Push-Up
   + _Progressão_: Push-Up
   + _Progressão_: Diamond Push-Up
-* Negative Pull-Up (Barra Fixa Negativa)
-  + _Progressão_: Pull-Up com Faixa de Resistência
+* Negative Pull-Up
+  + _Progressão_: Pull-Up _com Faixa de Resistência_
   + _Progressão_: Pull-Up
 :::
 
@@ -91,9 +91,9 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 <p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, excêntrico controlado</p>
 
 ::: list-stylized
-* Bench Dip (Mergulho no Banco)
+* Bench Dip
   + _Progressão_: Ring Dip
-* Ring Row (Remada na Argola)
+* Ring Row
   + _Progressão_: Tuck Front Lever Row
 :::
 
@@ -101,7 +101,7 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 <p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, pausa isométrica, excêntrico lento</p>
 
 ::: list-stylized
-* Pike Push-Up (Flexão Pike)
+* Pike Push-Up
   + _Progressão_: Decline Pike Push-Up
   + _Progressão_: Wall Handstand Push-Up
 :::
@@ -110,7 +110,7 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 <p class="subheading">Máximo de tempo, parada isométrica</p>
 
 ::: list-stylized
-* Handstand (Parada de Mão)
+* Handstand
 :::
 :::
 
@@ -124,18 +124,18 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 <p class="subheading">3 x 30 s, 1-2 min de descanso, parada isométrica, tensão máxima</p>
 
 ::: list-stylized
-* Static Squat Hold (Agachamento Isométrico)
-* Glute Bridge Hold (Ponte de Glúteo Isométrica)
+* Static Squat Hold
+* Glute Bridge Hold
 :::
 
 ### Potência Máxima
 <p class="subheading">5 x 0-1 RIR, 3-4 min de descanso, concêntrico explosivo, excêntrico controlado</p>
 
 ::: list-stylized
-* Squat (Agachamento)
+* Squat
   + _Progressão_: Squat Jump
   + _Progressão_: Pistol Squat
-* Glute Bridge (Ponte de Glúteo)
+* Glute Bridge
   + _Progressão_: Tall Kneeling Hip Hinge
   + _Progressão_: Nordic Hamstring Curl
 :::
@@ -144,9 +144,9 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 <p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, excêntrico controlado</p>
 
 ::: list-stylized
-* Calf Raise (Elevação de Panturrilha)
+* Calf Raise
   + _Progressão_: Squat Hold Calf Raise
-* Lunge (Afundo)
+* Lunge
   + _Progressão_: Bulgarian Split Squat
 :::
 
@@ -154,7 +154,7 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 <p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, pausa isométrica, excêntrico lento</p>
 
 ::: list-stylized
-* Reverse Crunch (Abdominal Invertido)
+* Reverse Crunch
   + _Progressão_: Hanging Knee Raise
   + _Progressão_: Toes-to-Bar
 :::
