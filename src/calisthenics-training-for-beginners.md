@@ -1,6 +1,6 @@
 ---
 title: "🤸 Treinamento de Calistenia para Iniciantes"
-description: "O primeiro passo para dominar os movimentos clássicos dos protagonistas de anime."
+description: "O primeiro passo para dominar os movimentos dos protagonistas de anime."
 image_filename: "eduardo-madrid-j6amjHxtc1U-unsplash"
 image_alt: "Imagem de capa"
 image_source: "Eduardo Madrid / Unsplash"
