@@ -113,7 +113,7 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 <p class="subheading">3 x 30 s, 1-2 min de descanso, parada isométrica, tensão máxima</p>
 
 ::: list-stylized
-* Wall Sit (Agachamento Isométrico)
+* Static Squat Hold (Agachamento Isométrico)
 * Glute Bridge Hold (Ponte de Glúteo Isométrica)
 :::
 
