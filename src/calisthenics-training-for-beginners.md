@@ -14,11 +14,11 @@ update_date: 2025-04-30
 Os treinos diários são divididos nas seguintes etapas:
 
 ::: list-stylized
-* **Ativação**: 2 exercícios de estimulação neuromuscular
-* **Potência Máxima**: 2 exercícios principais
-* **Assistência Muscular**: 2 exercícios de suporte
-* **Suplementar**: 1 exercício intermediário
-* **Desafio**: 1 exercício avançado
+* **Ativação** – 2 exercícios de estimulação neuromuscular
+* **Potência Máxima** – 2 exercícios principais
+* **Assistência Muscular** – 2 exercícios de suporte
+* **Suplementar** – 1 exercício intermediário
+* **Desafio** – 1 exercício avançado
 :::
 
 Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome em inglês e pesquisar por imagens ou vídeos de exemplo.
