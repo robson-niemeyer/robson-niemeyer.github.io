@@ -47,7 +47,7 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
 ::: {.subsection}
 ## Instruções
 
-### Dias dos treinos
+### Dias dos Treinos
 
 Faça os treinos A, B e C na ordem correta e repita-os desde o início, cada um em seu dia. Por exemplo:
 
@@ -62,7 +62,7 @@ Faça os treinos A, B e C na ordem correta e repita-os desde o início, cada um 
 
 Se você perder um dia de treino, simplesmente continue no dia seguinte de onde parou.
 
-### Etapas dos treinos
+### Etapas dos Treinos
 
 Os treinos diários são divididos nas seguintes etapas:
 
@@ -74,7 +74,7 @@ Os treinos diários são divididos nas seguintes etapas:
 * **Desafio (Opcional)** – 1 exercício avançado
 :::
 
-### Nomes dos exercícios
+### Nomes dos Exercícios
 
 Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome e pesquisar por imagens ou vídeos de exemplo.
 :::
