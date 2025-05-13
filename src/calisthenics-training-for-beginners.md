@@ -18,7 +18,7 @@ Os treinos diários são divididos nas seguintes etapas:
 * **Potência Máxima** – 2 exercícios principais
 * **Assistência Muscular** – 2 exercícios de suporte
 * **Suplementar** – 1 exercício intermediário
-* **Desafio** – 1 exercício avançado
+* **Desafio (Opcional)** – 1 exercício avançado
 :::
 
 Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome em inglês e pesquisar por imagens ou vídeos de exemplo.
@@ -106,7 +106,7 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
   + _Progressão_: Wall Handstand Push-Up
 :::
 
-### Desafio
+### Desafio (Opcional)
 <p class="subheading">Máximo de tempo, parada isométrica</p>
 
 ::: list-stylized
@@ -159,7 +159,7 @@ Complete 5 séries de 12 repetições com forma perfeita. Descanse 3 minutos ent
   + _Progressão_: Toes-to-Bar
 :::
 
-### Desafios
+### Desafio (Opcional)
 <p class="subheading">Máximo de tempo, parada isométrica</p>
 
 ::: list-stylized
