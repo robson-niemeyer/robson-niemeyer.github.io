@@ -110,7 +110,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 
 ::: list-stylized
 * _Plank_
-* _Dead Hang_
+* _Active Hang_
 :::
 
 ### Potência Máxima
