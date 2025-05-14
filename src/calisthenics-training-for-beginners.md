@@ -172,8 +172,8 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 <p class="subheading">5 x 0-1 RIR, 3-4 min de descanso, concêntrico explosivo, excêntrico controlado</p>
 
 ::: list-stylized
-* _Squat_
-  + Progressão: _Squat Jump_
+* _Lunge_
+  + Progressão: _Bulgarian Split Squat_
   + Progressão: _Pistol Squat_
 * _Glute Bridge_
   + Progressão: _Tall Kneeling Hip Hinge_
@@ -184,10 +184,10 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 <p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, excêntrico controlado</p>
 
 ::: list-stylized
+* _Squat_
+  + Progressão: _Squat Jump_
 * _Calf Raise_
   + Progressão: _Squat Hold Calf Raise_
-* _Lunge_
-  + Progressão: _Bulgarian Split Squat_
 :::
 
 ### Suplementar
