@@ -69,7 +69,7 @@ Os treinos diários são divididos nas seguintes etapas:
 ::: list-stylized
 * **Ativação** – 2 exercícios de estimulação neuromuscular
 * **Potência Máxima** – 2 exercícios principais com progressões
-* **Assistência Muscular** – 2 exercícios de suporte com progressões
+* **Assistência de Potência** – 2 exercícios de suporte com progressões
 * **Suplementar** – 1 exercício intermediário com progressão
 * **Desafio (Opcional)** – 1 exercício avançado
 :::
@@ -127,8 +127,8 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
   + Progressão: _Pull-Up_
 :::
 
-### Assistência Muscular
-<p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico explosivo, excêntrico lento</p>
+### Assistência de Potência
+<p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico explosivo, excêntrico controlado</p>
 
 ::: list-stylized
 * _Bench Dip_
@@ -180,8 +180,8 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
   + Progressão: _Nordic Hamstring Curl_
 :::
 
-### Assistência Muscular
-<p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico explosivo, excêntrico lento</p>
+### Assistência de Potência
+<p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico explosivo, excêntrico controlado</p>
 
 ::: list-stylized
 * _Squat_
