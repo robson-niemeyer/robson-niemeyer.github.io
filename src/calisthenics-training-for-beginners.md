@@ -128,7 +128,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 :::
 
 ### Assistência Muscular
-<p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, excêntrico controlado</p>
+<p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico explosivo, excêntrico lento</p>
 
 ::: list-stylized
 * _Bench Dip_
@@ -181,7 +181,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 :::
 
 ### Assistência Muscular
-<p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico controlado, excêntrico controlado</p>
+<p class="subheading">3 x 1-2 RIR, 2-3 min de descanso, concêntrico explosivo, excêntrico lento</p>
 
 ::: list-stylized
 * _Squat_
