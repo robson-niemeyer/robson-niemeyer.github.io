@@ -56,8 +56,8 @@ Os treinos diários são divididos nas seguintes etapas:
 
 ::: list-stylized
 * **Ativação** – 2 exercícios de estimulação neuromuscular
-* **Força Máxima** – 2 exercícios principais com progressões
-* **Assistência de Força** – 2 exercícios de suporte com progressões
+* **Força Máxima** – 2 exercícios principais com progressão
+* **Assistência de Força** – 2 exercícios de suporte com progressão
 * **Suplementar** – 1 exercício intermediário com progressão
 * **Desafio (Opcional)** – 1 exercício avançado
 :::
