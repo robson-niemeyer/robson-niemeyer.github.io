@@ -34,152 +34,115 @@ update_date: 2025-04-30
 ::: {.subsection}
 ## Instruções
 
-### Dias dos Treinos
-
-Faça os treinos A, B e C na ordem correta e repita-os desde o início, cada um em seu dia. Por exemplo:
-
-::: list-stylized
-* **Domingo** – Treino A
-* **Segunda-feira** – Treino B
-* **Terça-feira** – Treino C
-* **Quarta-feira** – Treino A
-* **Quinta-feira** – Treino B
-* **Sexta-feira** – Treino C
-:::
-
-Se você perder um dia de treino, simplesmente continue no dia seguinte de onde parou.
-
-### Etapas dos Treinos
+Faça os treinos A, B, C e D na ordem correta e recomece quando terminar a sequência. Se você perder um dia de treino, simplesmente continue de onde parou no dia seguinte.
 
 Os treinos diários são divididos nas seguintes etapas:
 
 ::: list-stylized
-* **Ativação** – 2 exercícios de estimulação neuromuscular
-* **Força Máxima** – 2 exercícios principais com progressões
-* **Assistência de Força** – 2 exercícios de suporte com progressões
-* **Suplementar** – 1 exercício extra com progressão
+* Ativação – estimulação neuromuscular
+* Desenvolvimento – exercícios principais
+* Cool Down – relaxamento e recuperação
 :::
-
-### Nomes dos Exercícios
 
 Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome e pesquisar por imagens ou vídeos de exemplo.
 :::
 
 ::: {.subsection}
-<hgroup>
-## Treino A
-<p class="subheading">Descanso ativo com estímulo cardiovascular leve</p>
-</hgroup>
+## Treino A – Light Cardio
 
-### Cardio Leve
+### Ativação
 
 ::: list-stylized
-* _Caminhada_ – 5 min @ 50-60% MHR[^1]
-* _Caminhada_ – 30 min @ 50-60% MHR
-  + Progressão: _Corrida Leve_ – 30 min @ 60-70% MHR
-* _Caminhada_ – 5 min @ 50-60% MHR
-* _Alongamento_ – 30 min
+* Caminhada – 10 min @ 50-60% MHR[^1]
 :::
 
 [^1]: <sup>1</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Valor pode variar segundo genética, saúde e condicionamento.
 
+### Desenvolvimento
+
+::: list-stylized
+* Corrida Leve – 30 min @ 60-70% MHR
+:::
+
+### Cool Down
+
+::: list-stylized
+* Caminhada – 10 min @ 50-60% MHR
+:::
 :::
 
 ::: {.subsection}
-<hgroup>
-## Treino B
-<p class="subheading">Força de membros superiores</p>
-</hgroup>
+## Treino B – Upper Pull & Dip
 
 ### Ativação
-<p class="subheading">3 x 30-45 s @ isométrico tensão máxima, 1-2 min de descanso</p>
 
 ::: list-stylized
-* _Active Hang_
-* _Plank_
+* Active Hang – 3 x 30-60 s @ tensão máxima, 1-2 min de descanso
 :::
 
-### Força Máxima
-<p class="subheading">5 x 0-1 RIR[^2] @ concêntrico explosivo / excêntrico controlado, 3-4 min de descanso</p>
+### Desenvolvimento
+
+::: list-stylized
+* Pull-Up – 4 x 0-1 RIR[^2], 3-4 min de descanso
+* Dip – 4 x 0-1 RIR, 3-4 min de descanso
+* Inverted Row – 4 x 1-2 RIR, 2-3 min de descanso
+:::
 
 [^2]: <sup>2</sup> _RIR (Reps in Reserve)_: Encerre a série com uma quantidade de repetições em reserva, sem atingir a falha – ou seja, quando você ainda conseguiria completar aquele número de repetições com forma perfeita. Garante estímulo eficaz com mínima fadiga, ideal para consistência e domínio técnico.
 
-::: list-stylized
-* _Pull-Up Hold_
-  + Progressão: _Negative Pull-Up_
-  + Progressão: _Pull-Up_
-* _Ring Support Hold_
-  + Progressão: _Negative Ring Dip_
-  + Progressão: _Ring Dip_
-:::
 
-### Assistência de Força
-<p class="subheading">3 x 1-2 RIR @ concêntrico controlado / excêntrico controlado, 2-3 min de descanso</p>
+### Cool Down
 
 ::: list-stylized
-* _Ring Row_
-  + Progressão: _Decline Ring Row_
-  + Progressão: _Ring Knee Tuck Row_
-* _Kneeling Push-Up_
-  + Progressão: _Push-Up_
-  + Progressão: _Diamond Push-Up_
-:::
-
-### Suplementar
-<p class="subheading">3 x 1-2 RIR @ concêntrico controlado / excêntrico controlado, 1-2 min de descanso</p>
-
-::: list-stylized
-* _Pike Push-Up_
-  + Progressão: _Feet Elevated Pike Push-Up_
-  + Progressão: _Chest-to-Wall Handstand Push-Up_
+* Alongamento – 10 min
 :::
 :::
 
 ::: {.subsection}
-<hgroup>
-## Treino C
-<p class="subheading">Força de membros inferiores e core</p>
-</hgroup>
+## Treino C – Lower Chain
 
 ### Ativação
-<p class="subheading">3 x 30-45 s @ isométrico tensão máxima, 1-2 min de descanso</p>
 
 ::: list-stylized
-* _Static Squat Hold_
-* _Glute Bridge Hold_
+* Glute Bridge Hold – 3 x 30-60 s @ tensão máxima, 1-2 min de descanso
 :::
 
-### Força Máxima
-<p class="subheading">5 x 0-1 RIR @ concêntrico explosivo / excêntrico controlado, 3-4 min de descanso</p>
+### Desenvolvimento
 
 ::: list-stylized
-* _Bench Squat_
-  + Progressão: _Deep Squat_
-  + Progressão: _Squat Jump_
-* _Kneeling Hip Hinge_
-  + Progressão: _Tall Kneeling Hip Hinge_
-  + Progressão: _Nordic Hamstring Curl_
+* Deep Squat – 4 x 0-1 RIR, 3-4 min de descanso
+* Tall Kneeling Hip Hinge – 4 x 0-1 RIR, 3-4 min de descanso
+* Bulgarian Split Squat – 4 x 1-2 RIR, 2-3 min de descanso
 :::
 
-### Assistência de Força
-<p class="subheading">3 x 1-2 RIR @ concêntrico controlado / excêntrico controlado, 2-3 min de descanso</p>
+### Cool Down
 
 ::: list-stylized
-* _Lunge_
-  + Progressão: _Bulgarian Split Squat_
-  + Progressão: _Pistol Squat_
-* _Glute Bridge_
-  + Progressão: _Feet Elevated Glute Bridge_
-  + Progressão: _Single-Leg Foot Elevated Glute Bridge_
+* Alongamento – 10 min
+:::
 :::
 
-### Suplementar
-<p class="subheading">3 x 1-2 RIR @ concêntrico controlado / excêntrico controlado, 1-2 min de descanso</p>
+::: {.subsection}
+## Treino D – Upper Push & Core
+
+### Ativação
 
 ::: list-stylized
-* _Hanging Knee Raise_
-  + Progressão: _Hanging Leg Raise_
-  + Progressão: _Toes-to-Bar_
+* Plank – 3 x 30-60 s @ tensão máxima, 1-2 min de descanso
+:::
+
+### Desenvolvimento
+
+::: list-stylized
+* Push-Up – 4 x 0-1 RIR, 3-4 min de descanso
+* Hanging Leg Raise – 4 x 0-1 RIR, 3-4 min de descanso
+* Pike Push-Up – 4 x 1-2 RIR, 2-3 min de descanso
+:::
+
+### Cool Down
+
+::: list-stylized
+* Alongamento – 10 min
 :::
 :::
 
