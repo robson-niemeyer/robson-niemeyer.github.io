@@ -100,7 +100,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 :::
 
 ### Força Máxima
-<p class="subheading">5 x 0-1 RIR[^2], 3-4 min de descanso</p>
+<p class="subheading">5 x 0-1 RIR[^2] @ concêntrico explosivo / excêntrico controlado, 3-4 min de descanso</p>
 
 [^2]: <sup>2</sup> _RIR (Reps in Reserve)_: Encerre a série com uma quantidade de repetições em reserva, sem atingir a falha – ou seja, quando você ainda conseguiria completar aquele número de repetições com forma perfeita. Garante estímulo eficaz com mínima fadiga, ideal para consistência e domínio técnico.
 
@@ -114,7 +114,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 :::
 
 ### Assistência de Força
-<p class="subheading">3 x 1-2 RIR, 2-3 min de descanso</p>
+<p class="subheading">3 x 1-2 RIR @ concêntrico controlado / excêntrico controlado, 2-3 min de descanso</p>
 
 ::: list-stylized
 * _Ring Row_
@@ -126,7 +126,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 :::
 
 ### Suplementar
-<p class="subheading">3 x 1-2 RIR, 1-2 min de descanso</p>
+<p class="subheading">3 x 1-2 RIR @ concêntrico controlado / excêntrico controlado, 1-2 min de descanso</p>
 
 ::: list-stylized
 * _Pike Push-Up_
@@ -150,7 +150,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 :::
 
 ### Força Máxima
-<p class="subheading">5 x 0-1 RIR, 3-4 min de descanso</p>
+<p class="subheading">5 x 0-1 RIR @ concêntrico explosivo / excêntrico controlado, 3-4 min de descanso</p>
 
 ::: list-stylized
 * _Bench Squat_
@@ -162,7 +162,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 :::
 
 ### Assistência de Força
-<p class="subheading">3 x 1-2 RIR, 2-3 min de descanso</p>
+<p class="subheading">3 x 1-2 RIR @ concêntrico controlado / excêntrico controlado, 2-3 min de descanso</p>
 
 ::: list-stylized
 * _Lunge_
@@ -174,7 +174,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 :::
 
 ### Suplementar
-<p class="subheading">3 x 1-2 RIR, 1-2 min de descanso</p>
+<p class="subheading">3 x 1-2 RIR @ concêntrico controlado / excêntrico controlado, 1-2 min de descanso</p>
 
 ::: list-stylized
 * _Hanging Knee Raise_
