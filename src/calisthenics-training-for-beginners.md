@@ -106,9 +106,11 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 [^2]: <sup>2</sup> _RIR (Reps in Reserve)_: Encerre a série com uma quantidade de repetições em reserva, sem atingir a falha – ou seja, quando você ainda conseguiria completar aquele número de repetições com forma perfeita. Garante estímulo eficaz com mínima fadiga, ideal para consistência e domínio técnico.
 
 ::: list-stylized
-* _Negative Pull-Up_
+* _Pull-Up Hold_
+  + Progressão: _Negative Pull-Up_
   + Progressão: _Pull-Up_
-* _Negative Ring Dip_
+* _Ring Support Hold_
+  + Progressão: _Negative Ring Dip_
   + Progressão: _Ring Dip_
 :::
 
@@ -116,10 +118,10 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 <p class="subheading">3 x 1-2 RIR, 2-3 min de descanso</p>
 
 ::: list-stylized
-* _Negative Ring Row_
-  + Progressão: _Ring Row_
-* _Negative Push-Up_
-  + Progressão: _Push-Up_
+* _Ring Row_
+  + Progressão: _Ring Knee Tuck Row_
+* _Push-Up_
+  + Progressão: _Diamond Push-Up_
 :::
 
 ### Suplementar
