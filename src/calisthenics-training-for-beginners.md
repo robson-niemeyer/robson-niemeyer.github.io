@@ -129,7 +129,8 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 
 ::: list-stylized
 * _Pike Push-Up_
-  + _Feet Elevated Pike Push-Up_
+  + Progressão: _Feet Elevated Pike Push-Up_
+  + Progressão: _Chest-to-Wall Handstand Push-Up_
 :::
 :::
 
@@ -153,7 +154,9 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 ::: list-stylized
 * _Lunge_
   + Progressão: _Bulgarian Split Squat_
+  + Progressão: _Pistol Squat_
 * _Glute Bridge_
+  + Progressão: _Feet Elevated Glute Bridge_
   + Progressão: _Single-Leg Glute Bridge_
 :::
 
@@ -173,6 +176,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 ::: list-stylized
 * _Hanging Knee Raise_
   + Progressão: _Hanging Leg Raise_
+  + Progressão: _Toes-to-Bar_
 :::
 :::
 
