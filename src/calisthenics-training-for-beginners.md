@@ -15,7 +15,6 @@ update_date: 2025-04-30
 * Barra fixa de porta ou parede
 * Argola de suspensão olímpica
 * Colchonete para academia
-* Faixas de resistência
 * Piso firme e espaço livre
 :::
 :::
