@@ -36,7 +36,7 @@ update_date: 2025-04-30
 
 Faça os treinos A, B, C e D na ordem correta e recomece quando terminar a sequência. Se você perder um dia de treino, simplesmente continue de onde parou no dia seguinte.
 
-Os treinos diários são divididos nas seguintes etapas:
+Os treinos diários têm duração aproximada de 1 h e são divididos nas seguintes etapas:
 
 ::: list-stylized
 * Ativação – estimulação neuromuscular
