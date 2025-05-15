@@ -102,7 +102,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 :::
 
 ### Potência Máxima
-<p class="subheading">5 x 0-1 RIR[^2], 3-4 min de descanso, concêntrico explosivo, excêntrico controlado</p>
+<p class="subheading">5 x 0-1 RIR[^2], 3-4 min de descanso</p>
 
 [^2]: <sup>2</sup> _RIR (Reps in Reserve)_: Encerre a série com uma quantidade de repetições em reserva, sem atingir a falha – ou seja, quando você ainda conseguiria completar aquele número de repetições com forma perfeita. Garante estímulo eficaz com mínima fadiga, ideal para consistência e domínio técnico.
 
