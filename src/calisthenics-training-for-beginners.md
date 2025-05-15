@@ -55,10 +55,9 @@ Os treinos diários são divididos nas seguintes etapas:
 
 ::: list-stylized
 * **Ativação** – 2 exercícios de estimulação neuromuscular
-* **Força Máxima** – 2 exercícios principais com progressão
-* **Assistência de Força** – 2 exercícios de suporte com progressão
-* **Suplementar** – 1 exercício intermediário com progressão
-* **Desafio (Opcional)** – 1 exercício avançado
+* **Força Máxima** – 2 exercícios principais com progressões
+* **Assistência de Força** – 2 exercícios de suporte com progressões
+* **Suplementar** – 1 exercício extra com progressão
 :::
 
 ### Nomes dos Exercícios
@@ -93,7 +92,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 </hgroup>
 
 ### Ativação
-<p class="subheading">3 x 30-45 s @ tensão máxima, 1-2 min de descanso</p>
+<p class="subheading">3 x 30-45 s @ isométrico tensão máxima, 1-2 min de descanso</p>
 
 ::: list-stylized
 * _Active Hang_
@@ -119,8 +118,10 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 
 ::: list-stylized
 * _Ring Row_
+  + Progressão: _Decline Ring Row_
   + Progressão: _Ring Knee Tuck Row_
-* _Push-Up_
+* _Kneeling Push-Up_
+  + Progressão: _Push-Up_
   + Progressão: _Diamond Push-Up_
 :::
 
@@ -141,7 +142,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 </hgroup>
 
 ### Ativação
-<p class="subheading">3 x 30-45 s @ tensão máxima, 1-2 min de descanso</p>
+<p class="subheading">3 x 30-45 s @ isométrico tensão máxima, 1-2 min de descanso</p>
 
 ::: list-stylized
 * _Static Squat Hold_
@@ -152,22 +153,24 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 <p class="subheading">5 x 0-1 RIR, 3-4 min de descanso</p>
 
 ::: list-stylized
-* _Lunge_
-  + Progressão: _Bulgarian Split Squat_
-  + Progressão: _Pistol Squat_
-* _Glute Bridge_
-  + Progressão: _Feet Elevated Glute Bridge_
-  + Progressão: _Single-Leg Glute Bridge_
+* _Bench Squat_
+  + Progressão: _Deep Squat_
+  + Progressão: _Squat Jump_
+* _Kneeling Hip Hinge_
+  + Progressão: _Tall Kneeling Hip Hinge_
+  + Progressão: _Nordic Hamstring Curl_
 :::
 
 ### Assistência de Força
 <p class="subheading">3 x 1-2 RIR, 2-3 min de descanso</p>
 
 ::: list-stylized
-* _Squat_
-  + Progressão: _Squat Jump_
-* _Calf Raise_
-  + Progressão: _Squat Hold Calf Raise_
+* _Lunge_
+  + Progressão: _Bulgarian Split Squat_
+  + Progressão: _Pistol Squat_
+* _Glute Bridge_
+  + Progressão: _Feet Elevated Glute Bridge_
+  + Progressão: _Single-Leg Foot Elevated Glute Bridge_
 :::
 
 ### Suplementar
