@@ -48,7 +48,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 :::
 
 ::: {.subsection}
-## Treino A – Light Cardio
+## A – Light Cardio
 
 ### Ativação
 
@@ -72,7 +72,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 :::
 
 ::: {.subsection}
-## Treino B – Upper Pull & Dip
+## B – Upper Pull & Dip
 
 ### Ativação
 
@@ -99,7 +99,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 :::
 
 ::: {.subsection}
-## Treino C – Lower Chain
+## C – Lower Chain
 
 ### Ativação
 
@@ -123,7 +123,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 :::
 
 ::: {.subsection}
-## Treino D – Upper Push & Core
+## D – Upper Push & Core
 
 ### Ativação
 
