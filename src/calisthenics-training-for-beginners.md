@@ -36,7 +36,7 @@ update_date: 2025-04-30
 
 Faça os treinos A, B, C e D na ordem correta e recomece quando terminar a sequência. Se você perder um dia de treino, simplesmente continue de onde parou no dia seguinte.
 
-Os treinos diários têm duração aproximada de 1 h e são divididos nas seguintes etapas:
+As sessões diárias duram aproximadamente 1 h e são divididas nas seguintes etapas:
 
 ::: list-stylized
 * Ativação – estimulação neuromuscular
@@ -77,15 +77,15 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 ### Ativação
 
 ::: list-stylized
-* Active Hang – 3 x 30-60 s @ tensão máxima, 1-2 min de descanso
+* Active Hang – 2 x 30-60 s @ tensão máxima, 1-2 min de descanso
 :::
 
 ### Desenvolvimento
 
 ::: list-stylized
 * Pull-Up – 4 x 0-1 RIR[^2], 3-4 min de descanso
-* Dip – 4 x 0-1 RIR, 3-4 min de descanso
-* Inverted Row – 4 x 1-2 RIR, 2-3 min de descanso
+* Dip – 3 x 0-1 RIR, 3-4 min de descanso
+* Inverted Row – 3 x 1-2 RIR, 2-3 min de descanso
 :::
 
 [^2]: <sup>2</sup> _RIR (Reps in Reserve)_: Encerre a série com uma quantidade de repetições em reserva, sem atingir a falha – ou seja, quando você ainda conseguiria completar aquele número de repetições com forma perfeita. Garante estímulo eficaz com mínima fadiga, ideal para consistência e domínio técnico.
@@ -104,15 +104,15 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 ### Ativação
 
 ::: list-stylized
-* Glute Bridge Hold – 3 x 30-60 s @ tensão máxima, 1-2 min de descanso
+* Glute Bridge Hold – 2 x 30-60 s @ tensão máxima, 1-2 min de descanso
 :::
 
 ### Desenvolvimento
 
 ::: list-stylized
 * Deep Squat – 4 x 0-1 RIR, 3-4 min de descanso
-* Tall Kneeling Hip Hinge – 4 x 0-1 RIR, 3-4 min de descanso
-* Bulgarian Split Squat – 4 x 1-2 RIR, 2-3 min de descanso
+* Tall Kneeling Hip Hinge – 3 x 0-1 RIR, 3-4 min de descanso
+* Bulgarian Split Squat – 3 x 1-2 RIR, 2-3 min de descanso
 :::
 
 ### Cool Down
@@ -128,15 +128,15 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 ### Ativação
 
 ::: list-stylized
-* Plank – 3 x 30-60 s @ tensão máxima, 1-2 min de descanso
+* Plank – 2 x 30-60 s @ tensão máxima, 1-2 min de descanso
 :::
 
 ### Desenvolvimento
 
 ::: list-stylized
 * Push-Up – 4 x 0-1 RIR, 3-4 min de descanso
-* Hanging Leg Raise – 4 x 0-1 RIR, 3-4 min de descanso
-* Pike Push-Up – 4 x 1-2 RIR, 2-3 min de descanso
+* Hanging Leg Raise – 3 x 0-1 RIR, 3-4 min de descanso
+* Pike Push-Up – 3 x 1-2 RIR, 2-3 min de descanso
 :::
 
 ### Cool Down
