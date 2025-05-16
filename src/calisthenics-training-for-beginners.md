@@ -34,7 +34,7 @@ update_date: 2025-04-30
 ::: {.subsection}
 ## Instruções
 
-Faça os treinos A, B, C e D na ordem correta e recomece quando terminar a sequência. Se você perder um dia de treino, simplesmente continue de onde parou no dia seguinte.
+Faça os treinos A, B, C e D na ordem correta e recomece quando terminar a sequência. Se você perder um dia de treino, simplesmente continue de onde parou.
 
 As sessões diárias duram aproximadamente 1 h e são divididas nas seguintes etapas:
 
