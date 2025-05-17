@@ -63,8 +63,8 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 
 ::: list-stylized
 * Corrida Leve – 30 min @ 60-70% MHR
-  + _Muito difícil? Então faça_ Caminhada – 30 min @ 50-60% MHR
-  + _Muito fácil? Então faça_ Corrida Moderada – 30 min @ 70-80% MHR 
+  + _Tá muito difícil? Então faça_ Caminhada – 30 min @ 50-60% MHR
+  + _Tá muito fácil? Então faça_ Corrida Moderada – 30 min @ 70-80% MHR 
 :::
 
 ### Cool Down
@@ -91,14 +91,14 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 
 ::: list-stylized
 * Pull-Up – 4 x 0-1 RIR, 3-4 min de descanso
-  + _Muito difícil? Então faça_ Assisted Pull-Up with Resistance Band – 4 x 1-2 RIR, 4-5 min de descanso
-  + _Muito fácil? Então faça_ Plyometric Pull-Up – 5 x 0-1 RIR, 3-4 min de descanso
+  + _Tá muito difícil? Então faça_ Assisted Pull-Up with Resistance Band – 4 x 1-2 RIR, 4-5 min de descanso
+  + _Tá muito fácil? Então faça_ Plyometric Pull-Up – 5 x 0-1 RIR, 3-4 min de descanso
 * Dip – 3 x 0-1 RIR, 3-4 min de descanso
-  + _Muito difícil? Então faça_ Bent-Knee Bench Dip – 3 x 1-2 RIR, 4-5 min de descanso
-  + _Muito fácil? Então faça_ Straight Bar Dip – 4 x 0-1 RIR, 3-4 min de descanso
+  + _Tá muito difícil? Então faça_ Bent-Knee Bench Dip – 3 x 1-2 RIR, 4-5 min de descanso
+  + _Tá muito fácil? Então faça_ Straight Bar Dip – 4 x 0-1 RIR, 3-4 min de descanso
 * Inverted Row – 3 x 0-1 RIR, 3-4 min de descanso
-  + _Muito difícil? Então faça_ Bent-Knee Inverted Row – 3 x 1-2 RIR, 4-5 min de descanso
-  + _Muito fácil? Então faça_ Tuck Front Lever Row – 4 x 0-1 RIR, 3-4 min de descanso
+  + _Tá muito difícil? Então faça_ Bent-Knee Inverted Row – 3 x 1-2 RIR, 4-5 min de descanso
+  + _Tá muito fácil? Então faça_ Tuck Front Lever Row – 4 x 0-1 RIR, 3-4 min de descanso
 :::
 
 ### Cool Down
@@ -123,14 +123,14 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 
 ::: list-stylized
 * Deep Squat – 4 x 0-1 RIR, 3-4 min de descanso
-  + _Muito difícil? Então faça_ Bench Squat – 4 x 1-2 RIR, 4-5 min de descanso
-  + _Muito fácil? Então faça_ Squat Jump – 5 x 0-1 RIR, 3-4 min de descanso
+  + _Tá muito difícil? Então faça_ Bench Squat – 4 x 1-2 RIR, 4-5 min de descanso
+  + _Tá muito fácil? Então faça_ Squat Jump – 5 x 0-1 RIR, 3-4 min de descanso
 * Tall Kneeling Good Morning – 3 x 0-1 RIR, 3-4 min de descanso
-  + _Muito difícil? Então faça_ Tall Kneeling Hip Hinge – 3 x 1-2 RIR, 4-5 min de descanso
-  + _Muito fácil? Então faça_ Nordic Hamstring Curl – 4 x 0-1 RIR, 3-4 min de descanso
+  + _Tá muito difícil? Então faça_ Tall Kneeling Hip Hinge – 3 x 1-2 RIR, 4-5 min de descanso
+  + _Tá muito fácil? Então faça_ Nordic Hamstring Curl – 4 x 0-1 RIR, 3-4 min de descanso
 * Bulgarian Split Squat – 3 x 0-1 RIR, 3-4 min de descanso
-  + _Muito difícil? Então faça_ Split Squat – 3 x 1-2 RIR, 4-5 min de descanso
-  + _Muito fácil? Então faça_ Pistol Squat – 4 x 0-1 RIR, 3-4 min de descanso
+  + _Tá muito difícil? Então faça_ Split Squat – 3 x 1-2 RIR, 4-5 min de descanso
+  + _Tá muito fácil? Então faça_ Pistol Squat – 4 x 0-1 RIR, 3-4 min de descanso
 :::
 
 ### Cool Down
@@ -155,14 +155,14 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 
 ::: list-stylized
 * Push-Up – 4 x 0-1 RIR, 3-4 min de descanso
-  + _Muito difícil? Então faça_ Kneeling Push-Up – 4 x 1-2 RIR, 4-5 min de descanso
-  + _Muito fácil? Então faça_ Plyometric Push-Up – 5 x 0-1 RIR, 3-4 min de descanso
+  + _Tá muito difícil? Então faça_ Kneeling Push-Up – 4 x 1-2 RIR, 4-5 min de descanso
+  + _Tá muito fácil? Então faça_ Plyometric Push-Up – 5 x 0-1 RIR, 3-4 min de descanso
 * Hanging Leg Raise – 3 x 0-1 RIR, 3-4 min de descanso
-  + _Muito difícil? Então faça_ Hanging Knee Raise – 3 x 1-2 RIR, 4-5 min de descanso
-  + _Muito fácil? Então faça_ Toes-to-Bar – 4 x 0-1 RIR, 3-4 min de descanso
+  + _Tá muito difícil? Então faça_ Hanging Knee Raise – 3 x 1-2 RIR, 4-5 min de descanso
+  + _Tá muito fácil? Então faça_ Toes-to-Bar – 4 x 0-1 RIR, 3-4 min de descanso
 * Pike Push-Up – 3 x 0-1 RIR, 3-4 min de descanso
-  + _Muito difícil? Então faça_ Incline Pike Push-Up – 3 x 1-2 RIR, 4-5 min de descanso
-  + _Muito fácil? Então faça_ Handstand Push-Up – 4 x 0-1 RIR, 3-4 min de descanso
+  + _Tá muito difícil? Então faça_ Incline Pike Push-Up – 3 x 1-2 RIR, 4-5 min de descanso
+  + _Tá muito fácil? Então faça_ Handstand Push-Up – 4 x 0-1 RIR, 3-4 min de descanso
 :::
 
 ### Cool Down
