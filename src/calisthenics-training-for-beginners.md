@@ -12,7 +12,8 @@ update_date: 2025-04-30
 ## Equipamentos
 
 ::: list-stylized
-* Barra fixa de porta ou parede
+* Barra fixa de porta (ou de parede)
+* Faixas de resistência (se necessário)
 * Argola de suspensão olímpica
 * Colchonete para academia
 * Piso firme e espaço livre
@@ -90,7 +91,7 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 
 ::: list-stylized
 * Pull-Up – 4 x 0-1 RIR, 3-4 min de descanso
-  + _Muito difícil? Então faça_ Pull-Up com Faixa de Resistência
+  + _Muito difícil? Então faça_ Assisted Pull-Up with Resistance Band
   + _Muito fácil? Então faça_ Plyometric Pull-Up
 * Dip – 3 x 0-1 RIR, 3-4 min de descanso
   + _Muito difícil? Então faça_ Bent-Knee Bench Dip
