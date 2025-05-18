@@ -21,12 +21,6 @@ Repetições máximas possíveis com execução perfeita. Teste no início de ca
 :::
 
 ::: {.subsection}
-## GTG (Grease the Groove)
-
-Séries máximas ao longo do dia com 50-60% AMRAP, mantendo pelo menos 2 h de descanso entre elas. A técnica deve ser impecável. Evite a fadiga. O foco está na eficiência neuromuscular.
-:::
-
-::: {.subsection}
 ## PO (Progressive Overload)
 
 Aumente gradualmente a dificuldade dos exercícios – com mais carga, menor descanso, maior amplitude ou complexidade técnica – conforme sua capacidade evolui. Aplique sempre que a execução se estabilizar dentro do volume proposto.
