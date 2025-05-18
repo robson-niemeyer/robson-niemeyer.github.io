@@ -46,7 +46,7 @@ update_date: 2025-04-30
 * Suplementar – exercício de apoio
 :::
 
-3 – Execute todos os exercícios com a forma perfeita e, após atingir o limite máximo de reps para aquele exercício em 2 sessões consecutivas, aumente a dificuldade. Alguns têm até 3 opções de dificuldade:
+3 – Execute todos os exercícios com a forma perfeita e, após atingir o limite máximo de reps para aquele exercício em 2 sessões consecutivas, aumente a dificuldade. Alguns têm até 3 opções:
 
 ::: list-stylized
 * Iniciante
