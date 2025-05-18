@@ -37,7 +37,7 @@ update_date: 2025-04-30
 
 1 – Faça os treinos dos dias A, B e C na ordem correta, tire um dia de descanso/recuperação ativa e, em seguida, reinicie a sequência. Se perder um dia de treino, simplesmente continue de onde parou.
 
-2 – As sessões diárias de calistenia duram 45-60 min e são divididas em 4 fases: ativação neuromuscular, força máxima, assistência de força e suplementar.
+2 – As sessões diárias de calistenia duram 45-60 min e são divididas em 4 fases: ativação neuromuscular, força máxima, assistência de força e estabilidade adicional.
 
 3 – Execute todos os exercícios com a forma perfeita, mantendo escápulas ativas, core contraído e cadência controlada. Após atingir o limite máximo de reps para aquele exercício em 2 sessões consecutivas, aumente a dificuldade (alguns oferecem níveis iniciante, intermediário e avançado).
 
@@ -49,8 +49,8 @@ update_date: 2025-04-30
 
 ::: list-stylized
 * Força Máxima – reduza de 3 x 3-5 reps para 2 x 3-4 reps
-* Assistência – reduza de 2 x 6-8 reps para 2 x 5-6 reps
-* Suplementar – reduza número máximo de reps em <sup>1</sup>/<sub>3</sub>
+* Assistência de Força – reduza de 2 x 6-8 reps para 2 x 5-6 reps
+* Estabilidade Adicional – reduza número máximo de reps em <sup>1</sup>/<sub>3</sub>
 :::
 
 Após a semana de deload, continue com a carga normal.
@@ -87,7 +87,7 @@ Após a semana de deload, continue com a carga normal.
   + _Avançado_: Tuck Front Lever Row
 :::
 
-### Suplementar
+### Estabilidade Adicional
 
 ::: list-stylized
 * Inverted Scapular Row – 1 x máximo de reps @ 1-2 RIR, 1 min de descanso
@@ -123,7 +123,7 @@ Após a semana de deload, continue com a carga normal.
   + _Avançado_: Squat Jump
 :::
 
-### Suplementar
+### Estabilidade Adicional
 
 ::: list-stylized
 * Donkey Calf Raise – 1 x máximo de reps @ 1-2 RIR, 1 min de descanso
@@ -159,7 +159,7 @@ Após a semana de deload, continue com a carga normal.
   + _Avançado_: Plyometric Push-Up
 :::
 
-### Suplementar
+### Estabilidade Adicional
 
 ::: list-stylized
 * Elevated Pike Shoulder Shrug – 1 x máximo de reps @ 1-2 RIR, 1 min de descanso
@@ -183,7 +183,7 @@ Após a semana de deload, continue com a carga normal.
 *  Corrida Leve – 20 min @ 60-70% MHR
 :::
 
-### Transição
+### Transição de Ritmo
 
 ::: list-stylized
 * Caminhada – 5 min @ 50-60% MHR
