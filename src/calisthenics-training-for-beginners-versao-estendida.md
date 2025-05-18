@@ -51,12 +51,14 @@ update_date: 2025-04-30
 ::: {.subsection}
 ## Dia A – Upper Pull
 
-### Desafio GtG do Dia – Isométrico
+### Desafio GtG[^1] do Dia – Isométrico
 ::: list-stylized
 * Inverted Hang
   + _Intermediário_: Tuck Front Lever
   + _Avançado_: Front Lever
 :::
+
+[^1]: <sup>1</sup> _GtG (Grease the Groove)_: faça o número máximo de séries ao longo do dia com técnica impecável, terminando cada série com uma margem generosa antes de atingir a falha, mantendo pelo menos 2 horas de descanso entre elas para evitar o acúmulo de fadiga. O foco é a eficiência neuromuscular.
 
 ### Ativação Neuromuscular – Isométrico
 
@@ -67,10 +69,12 @@ update_date: 2025-04-30
 ### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 ::: list-stylized
-* Assisted Pull-Up with Resistance Band – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
+* Assisted Pull-Up with Resistance Band – 3 x máximo de reps @ 0-1 RIR[^2], 3 min de descanso
   + _Intermediário_: Pull-Up
   + _Avançado_: Plyometric Pull-Up
 :::
+
+[^2]: <sup>2</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 1-2 RIR significa terminar a série com 1 ou 2 reps de reserva antes da falha. Isso garante uma estimulação eficaz com fadiga mínima, promovendo consistência e domínio técnico.
 
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
@@ -159,14 +163,12 @@ update_date: 2025-04-30
 ::: {.subsection}
 ## Dia D – Upper Push
 
-### Desafio GtG[^1] do Dia – Isométrico
+### Desafio GtG do Dia – Isométrico
 ::: list-stylized
 * Crow Pose
   + _Intermediário_: Tuck Handstand
   + _Avançado_: Handstand
 :::
-
-[^1]: <sup>1</sup> _GtG (Grease the Groove)_: faça o número máximo de séries ao longo do dia com técnica impecável, terminando cada série com uma margem generosa antes de atingir a falha, mantendo pelo menos 2 horas de descanso entre elas para evitar o acúmulo de fadiga. O foco é a eficiência neuromuscular.
 
 ### Ativação Neuromuscular – Isométrico
 
@@ -177,12 +179,10 @@ update_date: 2025-04-30
 ### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 ::: list-stylized
-* Kneeling Push-Up – 3 x máximo de reps @ 0-1 RIR[^2], 3 min de descanso
+* Kneeling Push-Up – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Push-Up
   + _Avançado_: Plyometric Push-Up
 :::
-
-[^2]: <sup>2</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 1-2 RIR significa terminar a série com 1 ou 2 reps de reserva antes da falha. Isso garante uma estimulação eficaz com fadiga mínima, promovendo consistência e domínio técnico.
 
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
