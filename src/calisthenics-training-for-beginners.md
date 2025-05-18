@@ -21,7 +21,7 @@ update_date: 2025-04-30
 :::
 
 ::: {.subsection}
-## Nutrição
+## Dicas de Alta Performance
 
 ::: list-stylized
 * Não fume
