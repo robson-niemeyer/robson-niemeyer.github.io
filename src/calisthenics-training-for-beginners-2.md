@@ -1,9 +1,9 @@
 ---
-title: "🤸 Treinamento de Calistenia para Iniciantes (Versão 2)"
+title: "🤸 Treinamento de Calistenia para Iniciantes (Versão Elite)"
 description: "O primeiro passo para dominar os movimentos dos protagonistas de anime."
-image_filename: "eduardo-madrid-j6amjHxtc1U-unsplash"
+image_filename: "majestic-lukas-1XBMr_vUwdU-unsplash"
 image_alt: "Imagem de capa"
-image_source: "Eduardo Madrid / Unsplash"
+image_source: "Majestic Lukas / Unsplash"
 publication_date: 2025-04-30
 update_date: 2025-04-30
 ---
