@@ -35,7 +35,7 @@ update_date: 2025-04-30
 ::: {.subsection}
 ## Instruções
 
-1 – Faça os treinos dos dias A, B e C na ordem correta, tire um dia de descanso/recuperação ativa e, em seguida, reinicie a sequência. Se perder um dia de treino, simplesmente continue de onde parou.
+1 – Faça os treinos dos dias A, B, C, D e E na ordem correta, tire um dia de descanso/recuperação ativa e, em seguida, reinicie a sequência. Se perder um dia de treino, simplesmente continue de onde parou.
 
 2 – As sessões diárias de calistenia duram 30-45 min e são divididas em um desafio bônus para praticar ao longo do dia e mais 4 fases: Desafio GtG do Dia, Ativação Neuromuscular, Potência Máxima, Assistência de Força e Estabilidade Adicional.
 
