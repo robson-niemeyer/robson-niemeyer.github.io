@@ -208,6 +208,7 @@ update_date: 2025-04-30
 
 ::: {.subsection}
 ## Veja também
+* [💪 Treinamento de Calistenia para Iniciantes (Versão Estendida)](/calisthenics-training-for-beginners-versao-estendida/)
 * [📈 Métodos Essenciais de Treinamento](/essential-training-methods/)
 :::
 :::

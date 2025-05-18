@@ -1,5 +1,5 @@
 ---
-title: "🤸 Treinamento de Calistenia para Iniciantes (Versão Estendida)"
+title: "💪 Treinamento de Calistenia para Iniciantes (Versão Estendida)"
 description: "O primeiro passo para dominar os movimentos dos protagonistas de anime."
 image_filename: "majestic-lukas-1XBMr_vUwdU-unsplash"
 image_alt: "Imagem de capa"
@@ -246,6 +246,7 @@ update_date: 2025-04-30
 
 ::: {.subsection}
 ## Veja também
+* [🤸 Treinamento de Calistenia para Iniciantes](/calisthenics-training-for-beginners/)
 * [📈 Métodos Essenciais de Treinamento](/essential-training-methods/)
 :::
 :::

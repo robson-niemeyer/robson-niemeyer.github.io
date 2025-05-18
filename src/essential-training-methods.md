@@ -28,6 +28,7 @@ Aumente gradualmente a dificuldade dos exercícios – com mais carga, menor des
 
 ::: {.subsection}
 ## Veja também
+* [💪 Treinamento de Calistenia para Iniciantes (Versão Estendida)](/calisthenics-training-for-beginners-versao-estendida/)
 * [🤸 Treinamento de Calistenia para Iniciantes](/calisthenics-training-for-beginners/)
 :::
 :::
