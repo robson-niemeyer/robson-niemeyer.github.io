@@ -48,9 +48,9 @@ update_date: 2025-04-30
 6 – A cada 3 semanas de treino ininterrupto, reserve a semana seguinte para fazer deload e evitar fadiga excessiva:
 
 ::: list-stylized
-* Força Máxima – reduza para 2 x 3-4 reps
-* Assistência – reduza para 5-6 reps
-* Suplementar – reduza reps em <sup>1</sup>/<sub>3</sub>
+* Força Máxima – reduza de 3 x 3-5 reps para 2 x 3-4 reps
+* Assistência – reduza de 2 x 6-8 reps para 2 x 5-6 reps
+* Suplementar – reduza número máximo de reps em <sup>1</sup>/<sub>3</sub>
 :::
 
 Após a semana de deload, continue com a carga normal.
