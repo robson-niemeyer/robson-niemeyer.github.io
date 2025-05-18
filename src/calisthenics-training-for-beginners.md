@@ -39,7 +39,7 @@ update_date: 2025-04-30
 
 2 – As sessões diárias de calistenia duram 45-60 min e são divididas em 4 fases: ativação neuromuscular, força máxima, assistência de força e suplementar.
 
-3 – Execute todos os exercícios com a forma perfeita, mantendo escápulas ativas, core contraído e cadência conttrolada. Após atingir o limite máximo de reps para aquele exercício em 2 sessões consecutivas, aumente a dificuldade (alguns oferecem níveis iniciante, intermediário e avançado).
+3 – Execute todos os exercícios com a forma perfeita, mantendo escápulas ativas, core contraído e cadência controlada. Após atingir o limite máximo de reps para aquele exercício em 2 sessões consecutivas, aumente a dificuldade (alguns oferecem níveis iniciante, intermediário e avançado).
 
 4 – Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome e pesquisar por imagens ou vídeos de exemplo.
 
