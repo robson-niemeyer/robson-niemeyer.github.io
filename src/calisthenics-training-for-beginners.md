@@ -37,9 +37,9 @@ update_date: 2025-04-30
 
 1 – Faça os treinos dos dias A, B e C na ordem correta, tire um dia de descanso/recuperação ativa e, em seguida, reinicie a sequência. Se perder um dia de treino, simplesmente continue de onde parou.
 
-2 – As sessões diárias de calistenia duram 30-45 min e são divididas em 4 fases: ativação neuromuscular, potência máxima, assistência de força e estabilidade adicional.
+2 – As sessões diárias de calistenia duram 30-45 min e são divididas em 4 fases: Desafio GtG do Dia, Ativação Neuromuscular, Potência Máxima, Assistência de Força e Estabilidade Adicional.
 
-3 – Execute todos os exercícios com a forma perfeita, mantendo escápulas ativas e core contraído. Alguns exercícios oferecem níveis iniciante, intermediário e avançado. Ao atingir 6 reps para aquele exercício em 2 sessões consecutivas, aumente a dificuldade.
+3 – Execute todos os exercícios com a forma perfeita, mantendo escápulas ativas e core contraído. Alguns exercícios oferecem níveis iniciante, intermediário e avançado. Ao atingir 6 reps ou 15 s isométrico para aquele exercício em 2 sessões consecutivas, aumente a dificuldade.
 
 4 – Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome e pesquisar por imagens ou vídeos de exemplo.
 
@@ -51,6 +51,15 @@ update_date: 2025-04-30
 ::: {.subsection}
 ## Dia A – Upper Pull & Core
 
+### Desafio GtG[^1] do Dia – Isométrico
+::: list-stylized
+* Inverted Hang
+  + _Intermediário_: Tuck Front Lever
+  + _Avançado_: Front Lever
+:::
+
+[^1]: <sup>1</sup> _GtG (Grease the Groove)_: número máximo de séries ao longo do dia com técnica impecável, terminando cada série com uma margem generosa antes de atingir a falha, mantendo pelo menos 2 horas de descanso entre elas para evitar o acúmulo de fadiga. O foco é a eficiência neuromuscular.
+
 ### Ativação Neuromuscular – Isométrico
 
 ::: list-stylized
@@ -61,12 +70,12 @@ update_date: 2025-04-30
 ### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 ::: list-stylized
-* Assisted Pull-Up with Resistance Band – 3 x máximo de reps @ 0-1 RIR[^1], 3 min de descanso
+* Assisted Pull-Up with Resistance Band – 3 x máximo de reps @ 0-1 RIR[^2], 3 min de descanso
   + _Intermediário_: Pull-Up
   + _Avançado_: Plyometric Pull-Up
 :::
 
-[^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 0-1 RIR significa terminar a série com 0 ou 1 reps de reserva antes da falha. Isso garante uma estimulação eficaz com fadiga mínima, promovendo consistência e domínio técnico.
+[^2]: <sup>2</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 0-1 RIR significa terminar a série com 0 ou 1 reps de reserva antes da falha. Isso garante uma estimulação eficaz com fadiga mínima, promovendo consistência e domínio técnico.
 
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
@@ -88,6 +97,13 @@ update_date: 2025-04-30
 
 ::: {.subsection}
 ## Dia B – Lower Chain
+
+### Desafio GtG do Dia – Isométrico
+::: list-stylized
+* German Hang
+  + _Intermediário_: Tuck Back Lever
+  + _Avançado_: Back Lever
+:::
 
 ### Ativação Neuromuscular – Isométrico
 
@@ -124,6 +140,13 @@ update_date: 2025-04-30
 
 ::: {.subsection}
 ## Dia C – Upper Push & Dip
+
+### Desafio GtG do Dia – Isométrico
+::: list-stylized
+* Crow Pose
+  + _Intermediário_: Tuck Handstand
+  + _Avançado_: Handstand
+:::
 
 ### Ativação Neuromuscular – Isométrico
 
@@ -164,10 +187,10 @@ update_date: 2025-04-30
 ### Aquecimento
 
 ::: list-stylized
-* Caminhada – 5 min @ 50-60% MHR[^2]
+* Caminhada – 5 min @ 50-60% MHR[^3]
 :::
 
-[^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
+[^3]: <sup>3</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
 
 ### Cardio
 
