@@ -58,7 +58,7 @@ update_date: 2025-04-30
   + _Avançado_: Front Lever
 :::
 
-[^1]: <sup>1</sup> _GtG (Grease the Groove)_: número máximo de séries ao longo do dia com técnica impecável, terminando cada série com uma margem generosa antes de atingir a falha, mantendo pelo menos 2 horas de descanso entre elas para evitar o acúmulo de fadiga. O foco é a eficiência neuromuscular.
+[^1]: <sup>1</sup> _GtG (Grease the Groove)_: faça o número máximo de séries ao longo do dia com técnica impecável, terminando cada série com uma margem generosa antes de atingir a falha, mantendo pelo menos 2 horas de descanso entre elas para evitar o acúmulo de fadiga. O foco é a eficiência neuromuscular.
 
 ### Ativação Neuromuscular – Isométrico
 
