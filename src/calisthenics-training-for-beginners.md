@@ -46,15 +46,13 @@ update_date: 2025-04-30
 * Suplementar – exercício de apoio
 :::
 
-3 – Alguns exercícios têm até 3 opções de dificuldade:
+3 – Execute todos os exercícios com a forma perfeita e, após atingir o limite máximo de reps para aquele exercício em 2 sessões consecutivas, aumente a dificuldade. Alguns têm até 3 opções de dificuldade:
 
 ::: list-stylized
 * Iniciante
   + Intermediário
   + Avançado
 :::
-
-Aumente a dificuldade após atingir o limite máximo de reps com boa forma para o exercício em 2 sessões consecutivas, ou seja, 5 reps para os exercícios de força máxima e 8 reps para os de assistência e suplementares.
 
 4 – Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome e pesquisar por imagens ou vídeos de exemplo.
 
