@@ -75,7 +75,7 @@ update_date: 2025-04-30
   + _Avançado_: Plyometric Pull-Up
 :::
 
-[^2]: <sup>2</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 0-1 RIR significa terminar a série com 0 ou 1 reps de reserva antes da falha. Isso garante uma estimulação eficaz com fadiga mínima, promovendo consistência e domínio técnico.
+[^2]: <sup>2</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 1-2 RIR significa terminar a série com 1 ou 2 reps de reserva antes da falha. Isso garante uma estimulação eficaz com fadiga mínima, promovendo consistência e domínio técnico.
 
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
