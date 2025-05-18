@@ -66,15 +66,15 @@ update_date: 2025-04-30
   + _Avançado_: Plyometric Pull-Up
 :::
 
-[^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Encerre a série com uma quantidade de repetições em reserva, sem atingir a falha – ou seja, quando você ainda conseguiria completar aquele número de repetições com forma perfeita. Garante estímulo eficaz com mínima fadiga, ideal para consistência e domínio técnico.
+[^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 0-1 RIR significa terminar a série com 0 ou 1 reps de reserva antes da falha. Isso garante uma estimulação eficaz com fadiga mínima, promovendo consistência e domínio técnico.
 
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Hanging Knee Raise – 2 x máximo de reps @ 0-1 RIR, 3 min de descanso
+* Hanging Knee Raise – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
   + _Intermediário_: Hanging Leg Raise
   + _Avançado_: Toes-to-Bar
-* Bent-Knee Inverted Row – 2 x máximo de reps @ 0-1 RIR, 3 min de descanso
+* Bent-Knee Inverted Row – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
   + _Intermediário_: Inverted Row
   + _Avançado_: Tuck Front Lever Row
 :::
@@ -107,10 +107,10 @@ update_date: 2025-04-30
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Tall Kneeling Hip Hinge – 2 x máximo de reps @ 0-1 RIR, 3 min de descanso
+* Tall Kneeling Hip Hinge – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
   + _Intermediário_: Tall Kneeling Good Morning
   + _Avançado_: Nordic Hamstring Curl
-* Split Squat – 2 x máximo de reps @ 0-1 RIR, 3 min de descanso
+* Split Squat – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
   + _Intermediário_: Bulgarian Split Squat
   + _Avançado_: Pistol Squat
 :::
@@ -143,10 +143,10 @@ update_date: 2025-04-30
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Bent-Knee Bench Dip – 2 x máximo de reps @ 0-1 RIR, 3 min de descanso
+* Bent-Knee Bench Dip – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
   + _Intermediário_: Dip
   + _Avançado_: Straight Bar Dip
-* Incline Pike Push-Up – 2 x máximo de reps @ 0-1 RIR, 3 min de descanso
+* Incline Pike Push-Up – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
   + _Intermediário_: Pike Push-Up
   + _Avançado_: Handstand Push-Up
 :::
@@ -167,7 +167,7 @@ update_date: 2025-04-30
 * Caminhada – 5 min @ 50-60% MHR[^2]
 :::
 
-[^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares.
+[^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
 
 ### Cardio
 
