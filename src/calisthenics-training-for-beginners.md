@@ -37,22 +37,9 @@ update_date: 2025-04-30
 
 1 – Faça os treinos dos dias A, B e C na ordem correta, tire um dia de descanso/recuperação ativa e, em seguida, reinicie a sequência. Se perder um dia de treino, simplesmente continue de onde parou.
 
-2 – As sessões diárias de calistenia duram 45-60 min e são divididas em 3 etapas:
+2 – As sessões diárias de calistenia duram 45-60 min e são divididas em 4 fases: ativação neuromuscular, força máxima, assistência de força e suplementar.
 
-::: list-stylized
-* Ativação – estimulação neuromuscular
-* Força Máxima – exercícios principais
-* Assistência – exercício secundário
-* Suplementar – exercício de apoio
-:::
-
-3 – Execute todos os exercícios com a forma perfeita e, após atingir o limite máximo de reps para aquele exercício em 2 sessões consecutivas, aumente a dificuldade. Alguns têm até 3 opções:
-
-::: list-stylized
-* Iniciante
-  + Intermediário
-  + Avançado
-:::
+3 – Execute todos os exercícios com a forma perfeita, mantendo escápulas ativas, core contraído e cadência conttrolada. Após atingir o limite máximo de reps para aquele exercício em 2 sessões consecutivas, aumente a dificuldade (alguns oferecem níveis iniciante, intermediário e avançado).
 
 4 – Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome e pesquisar por imagens ou vídeos de exemplo.
 
@@ -72,7 +59,7 @@ Após a semana de deload, continue com a carga normal.
 ::: {.subsection}
 ## Dia A – Upper Pull & Core
 
-### Ativação
+### Ativação Neuromuscular
 
 ::: list-stylized
 * Hollow Body Hold – 1 x 30 s @ máxima contração, 1 min de descanso
@@ -92,7 +79,7 @@ Após a semana de deload, continue com a carga normal.
   + _Avançado_: Toes-to-Bar
 :::
 
-### Assistência
+### Assistência de Força
 
 ::: list-stylized
 * Bent-Knee Inverted Row – 2 x 6-8 reps @ 1-2 RIR, 1 min de descanso
@@ -110,7 +97,7 @@ Após a semana de deload, continue com a carga normal.
 ::: {.subsection}
 ## Dia B – Lower Chain
 
-### Ativação
+### Ativação Neuromuscular
 
 ::: list-stylized
 * Wall Sit – 1 x 30 s @ máxima contração, 1 min de descanso
@@ -128,7 +115,7 @@ Após a semana de deload, continue com a carga normal.
   + _Avançado_: Nordic Hamstring Curl
 :::
 
-### Assistência
+### Assistência de Força
 
 ::: list-stylized
 * Bench Squat – 2 x 6-8 reps @ 1-2 RIR, 1 min de descanso
@@ -146,7 +133,7 @@ Após a semana de deload, continue com a carga normal.
 ::: {.subsection}
 ## Dia C – Upper Push & Dip
 
-### Ativação
+### Ativação Neuromuscular
 
 ::: list-stylized
 * Support Hold – 1 x 30 s @ máxima contração, 1 min de descanso
@@ -164,7 +151,7 @@ Após a semana de deload, continue com a carga normal.
   + _Avançado_: Straight Bar Dip
 :::
 
-### Assistência
+### Assistência de Força
 
 ::: list-stylized
 * Kneeling Push-Up – 2 x 6-8 reps @ 1-2 RIR, 1 min de descanso
@@ -182,7 +169,7 @@ Após a semana de deload, continue com a carga normal.
 ::: {.subsection}
 ## Recuperação Ativa
 
-### Ativação
+### Ativação Neuromuscular
 
 ::: list-stylized
 * Caminhada – 5 min @ 50-60% MHR[^2]
