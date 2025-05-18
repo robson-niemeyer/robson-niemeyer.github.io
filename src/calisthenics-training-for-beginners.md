@@ -49,9 +49,9 @@ update_date: 2025-04-30
 3 – Alguns exercícios têm até 3 opções de dificuldade:
 
 ::: list-stylized
-* Beginner
-  + Intermediate
-  + Advanced
+* Iniciante
+  + Intermediário
+  + Avançado
 :::
 
 Aumente a dificuldade após atingir o limite máximo de reps com boa forma para o exercício em 2 sessões consecutivas, ou seja, 5 reps para os exercícios de força máxima e 8 reps para os de assistência e suplementares.
@@ -74,134 +74,134 @@ Após a semana de deload, continue com a carga normal.
 ::: {.subsection}
 ## Dia A – Upper Pull & Dip
 
-### Ativação – 1 x 30 s @ máxima contração, 1 min de descanso
+### Ativação
 
 ::: list-stylized
-* Active Hang
-* Support Hold
+* Active Hang – 1 x 30 s @ máxima contração, 1 min de descanso
+* Support Hold – 1 x 30 s @ máxima contração, 1 min de descanso
 :::
 
-### Força Máxima – 3 x 3-5 reps @ 0-1 RIR[^1], 3 min de descanso
+### Força Máxima
 
 [^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Encerre a série com uma quantidade de repetições em reserva, sem atingir a falha – ou seja, quando você ainda conseguiria completar aquele número de repetições com forma perfeita. Garante estímulo eficaz com mínima fadiga, ideal para consistência e domínio técnico.
 
 ::: list-stylized
-* Assisted Pull-Up with Resistance Band
-  + _Intermediate_: Pull-Up
-  + _Advanced_: Plyometric Pull-Up
-* Bent-Knee Bench Dip
-  + _Intermediate_: Dip
-  + _Advanced_: Straight Bar Dip
+* Assisted Pull-Up with Resistance Band – 3 x 3-5 reps @ 0-1 RIR[^1], 3 min de descanso
+  + _Intermediário_: Pull-Up
+  + _Avançado_: Plyometric Pull-Up
+* Bent-Knee Bench Dip – 3 x 3-5 reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Dip
+  + _Avançado_: Straight Bar Dip
 :::
 
-### Assistência – 2 x 6-8 reps @ 1-2 RIR, 1 min de descanso
+### Assistência
 
 ::: list-stylized
-* Bent-Knee Inverted Row
-  + _Intermediate_: Inverted Row
-  + _Advanced_: Tuck Front Lever Row
+* Bent-Knee Inverted Row – 2 x 6-8 reps @ 1-2 RIR, 1 min de descanso
+  + _Intermediário_: Inverted Row
+  + _Avançado_: Tuck Front Lever Row
 :::
 
-### Suplementar – 1 x máximo de reps @ 1-2 RIR, 1 min de descanso
+### Suplementar
 
 ::: list-stylized
-* Inverted Scapular Row
+* Inverted Scapular Row – 1 x máximo de reps @ 1-2 RIR, 1 min de descanso
 :::
 :::
 
 ::: {.subsection}
 ## Dia B – Lower Chain
 
-### Ativação – 1 x 30 s @ máxima contração, 1 min de descanso
+### Ativação
 
 ::: list-stylized
-* Wall Sit
-* Glute Bridge Hold
+* Wall Sit – 1 x 30 s @ máxima contração, 1 min de descanso
+* Glute Bridge Hold – 1 x 30 s @ máxima contração, 1 min de descanso
 :::
 
-###  Força Máxima – 3 x 3-5 reps @ 0-1 RIR, 3 min de descanso
+###  Força Máxima
 
 ::: list-stylized
-* Split Squat
-  + _Intermediate_: Bulgarian Split Squat
-  + _Advanced_: Pistol Squat
-* Tall Kneeling Hip Hinge
-  + _Intermediate_: Tall Kneeling Good Morning
-  + _Advanced_: Nordic Hamstring Curl
+* Split Squat – 3 x 3-5 reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Bulgarian Split Squat
+  + _Avançado_: Pistol Squat
+* Tall Kneeling Hip Hinge – 3 x 3-5 reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Tall Kneeling Good Morning
+  + _Avançado_: Nordic Hamstring Curl
 :::
 
-### Assistência – 2 x 6-8 reps @ 1-2 RIR, 1 min de descanso
+### Assistência
 
 ::: list-stylized
-* Bench Squat
-  + _Intermediate_: Deep Squat
-  + _Advanced_: Squat Jump
+* Bench Squat – 2 x 6-8 reps @ 1-2 RIR, 1 min de descanso
+  + _Intermediário_: Deep Squat
+  + _Avançado_: Squat Jump
 :::
 
-### Suplementar – 1 x máximo de reps @ 1-2 RIR, 1 min de descanso
+### Suplementar
 
 ::: list-stylized
-* Donkey Calf Raise
+* Donkey Calf Raise – 1 x máximo de reps @ 1-2 RIR, 1 min de descanso
 :::
 :::
 
 ::: {.subsection}
 ## Dia C – Upper Push & Core
 
-### Ativação – 1 x 30 s @ máxima contração, 1 min de descanso
+### Ativação
 
 ::: list-stylized
-* Planche Lean
-* Hollow Body Hold
+* Planche Lean – 1 x 30 s @ máxima contração, 1 min de descanso
+* Hollow Body Hold – 1 x 30 s @ máxima contração, 1 min de descanso
 :::
 
-### Força Máxima – 3 x 3-5 reps @ 0-1 RIR, 3 min de descanso
+### Força Máxima
 
 ::: list-stylized
-* Incline Pike Push-Up
-  + _Intermediate_: Pike Push-Up
-  + _Advanced_: Handstand Push-Up
-* Hanging Knee Raise
-  + _Intermediate_: Hanging Leg Raise
-  + _Advanced_: Toes-to-Bar
+* Incline Pike Push-Up – 3 x 3-5 reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Pike Push-Up
+  + _Avançado_: Handstand Push-Up
+* Hanging Knee Raise – 3 x 3-5 reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Hanging Leg Raise
+  + _Avançado_: Toes-to-Bar
 :::
 
-### Assistência – 2 x 6-8 reps @ 1-2 RIR, 1 min de descanso
+### Assistência
 
 ::: list-stylized
-* Kneeling Push-Up
-  + _Intermediate_: Push-Up
-  + _Advanced_: Plyometric Push-Up
+* Kneeling Push-Up – 2 x 6-8 reps @ 1-2 RIR, 1 min de descanso
+  + _Intermediário_: Push-Up
+  + _Avançado_: Plyometric Push-Up
 :::
 
-### Suplementar – 1 x máximo de reps @ 1-2 RIR, 1 min de descanso
+### Suplementar
 
 ::: list-stylized
-* Elevated Pike Shoulder Shrug
+* Elevated Pike Shoulder Shrug – 1 x máximo de reps @ 1-2 RIR, 1 min de descanso
 :::
 :::
 
 ::: {.subsection}
 ## Recuperação Ativa
 
-### Ativação – 5 min @ 50-60% MHR[^2]
+### Ativação
+
+::: list-stylized
+* Caminhada – 5 min @ 50-60% MHR[^2]
+:::
 
 [^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares.
 
+### Cardio
+
 ::: list-stylized
-* Walk
+*  Corrida Leve – 20 min @ 60-70% MHR
 :::
 
-### Cardio – 20 min @ 60-70% MHR
+### Transição
 
 ::: list-stylized
-* Light Jog
-:::
-
-### Transição – 5 min @ 50-60% MHR
-
-::: list-stylized
-* Walk
+* Caminhada – 5 min @ 50-60% MHR
 :::
 :::
 
