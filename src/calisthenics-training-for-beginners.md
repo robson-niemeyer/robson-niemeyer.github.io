@@ -12,7 +12,7 @@ update_date: 2025-04-30
 ## Equipamentos
 
 ::: list-stylized
-* Barra fixa de porta (ou de parede)
+* Barra fixa
 * Faixas de resistência (se necessário)
 * Argola de suspensão olímpica
 * Colchonete para academia
@@ -70,13 +70,13 @@ Após a semana de deload, continue com a carga normal.
 :::
 
 ::: {.subsection}
-## Dia A – Upper Pull & Dip
+## Dia A – Upper Pull & Core
 
 ### Ativação
 
 ::: list-stylized
+* Hollow Body Hold – 1 x 30 s @ máxima contração, 1 min de descanso
 * Active Hang – 1 x 30 s @ máxima contração, 1 min de descanso
-* Support Hold – 1 x 30 s @ máxima contração, 1 min de descanso
 :::
 
 ### Força Máxima
@@ -87,9 +87,9 @@ Após a semana de deload, continue com a carga normal.
 * Assisted Pull-Up with Resistance Band – 3 x 3-5 reps @ 0-1 RIR[^1], 3 min de descanso
   + _Intermediário_: Pull-Up
   + _Avançado_: Plyometric Pull-Up
-* Bent-Knee Bench Dip – 3 x 3-5 reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Dip
-  + _Avançado_: Straight Bar Dip
+* Hanging Knee Raise – 3 x 3-5 reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Hanging Leg Raise
+  + _Avançado_: Toes-to-Bar
 :::
 
 ### Assistência
@@ -144,13 +144,13 @@ Após a semana de deload, continue com a carga normal.
 :::
 
 ::: {.subsection}
-## Dia C – Upper Push & Core
+## Dia C – Upper Push & Dip
 
 ### Ativação
 
 ::: list-stylized
+* Support Hold – 1 x 30 s @ máxima contração, 1 min de descanso
 * Planche Lean – 1 x 30 s @ máxima contração, 1 min de descanso
-* Hollow Body Hold – 1 x 30 s @ máxima contração, 1 min de descanso
 :::
 
 ### Força Máxima
@@ -159,9 +159,9 @@ Após a semana de deload, continue com a carga normal.
 * Incline Pike Push-Up – 3 x 3-5 reps @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Pike Push-Up
   + _Avançado_: Handstand Push-Up
-* Hanging Knee Raise – 3 x 3-5 reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Hanging Leg Raise
-  + _Avançado_: Toes-to-Bar
+* Bent-Knee Bench Dip – 3 x 3-5 reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Dip
+  + _Avançado_: Straight Bar Dip
 :::
 
 ### Assistência
