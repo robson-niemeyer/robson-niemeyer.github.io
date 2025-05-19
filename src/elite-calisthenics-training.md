@@ -35,9 +35,9 @@ update_date: 2025-04-30
 ::: {.subsection}
 ## Instruções
 
-1 – Faça os treinos dos dias A, B, C, D e E na ordem correta, tire um dia de descanso/recuperação ativa e, em seguida, reinicie a sequência. Se perder um dia de treino, simplesmente continue de onde parou.
+1 – Faça os treinos dos dias A, B, C, D e E na ordem correta, tire um dia de descanso ou recuperação ativa e, em seguida, reinicie a sequência. Se perder um dia de treino, simplesmente continue de onde parou.
 
-2 – As sessões diárias de calistenia duram 30-45 min e são divididas em um desafio bônus para praticar ao longo do dia e mais 4 fases: Desafio GtG do Dia, Ativação Neuromuscular, Potência Máxima, Assistência de Força e Estabilidade Adicional.
+2 – As sessões diárias de calistenia duram 45-60 min e são divididas em um desafio bônus para praticar ao longo do dia e mais 4 fases: Desafio GtG do Dia, Ativação Neuromuscular, Potência Máxima, Assistência de Força e Estabilidade Adicional.
 
 3 – Execute todos os exercícios com a forma perfeita, mantendo escápulas ativas e core contraído. Alguns exercícios oferecem níveis iniciante, intermediário e avançado. Ao atingir 6 reps ou 15 s isométrico para aquele exercício em 2 sessões consecutivas, aumente a dificuldade.
 
@@ -69,10 +69,10 @@ update_date: 2025-04-30
 ### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 ::: list-stylized
-* Assisted Pull-Up with Resistance Band – 3 x máximo de reps @ 0-1 RIR[^2], 3 min de descanso
+* Assisted Pull-Up with Resistance Band – 4 x máximo de reps @ 0-1 RIR[^2], 3 min de descanso
   + _Intermediário_: Pull-Up
   + _Avançado_: Plyometric Pull-Up
-* Bent-Knee Inverted Row – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
+* Bent-Knee Inverted Row – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Inverted Row
   + _Avançado_: Tuck Front Lever Row
 :::
@@ -82,7 +82,7 @@ update_date: 2025-04-30
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Assisted Chin-Up with Resistance Band – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
+* Assisted Chin-Up with Resistance Band – 3 x máximo de reps @ 1-2 RIR, 2 min de descanso
   + _Intermediário_: Chin-Up
   + _Avançado_: Towel Chin-Up
 :::
@@ -90,7 +90,7 @@ update_date: 2025-04-30
 ### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
 
 ::: list-stylized
-* Inverted Scapular Row – 1 x máximo de reps @ 1-2 RIR, 1 min de descanso
+* Inverted Scapular Row – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
 :::
 :::
 
@@ -113,10 +113,10 @@ update_date: 2025-04-30
 ### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 ::: list-stylized
-* Hanging Knee Raise – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
+* Hanging Knee Raise – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Hanging Leg Raise
   + _Avançado_: Toes-to-Bar
-* Bent-Knee Bench Dip – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
+* Bent-Knee Bench Dip – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Dip
   + _Avançado_: Straight Bar Dip
 :::
@@ -124,7 +124,7 @@ update_date: 2025-04-30
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Incline Mountain Climber – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
+* Incline Mountain Climber – 3 x máximo de reps @ 1-2 RIR, 2 min de descanso
   + _Intermediário_: Mountain Climber
   + _Avançado_: Cross‑Body Mountain Climber
 :::
@@ -132,7 +132,7 @@ update_date: 2025-04-30
 ### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
 
 ::: list-stylized
-* Sit-Up – 1 x máximo de reps @ 1-2 RIR, 1 min de descanso
+* Sit-Up – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
 :::
 :::
 
@@ -179,10 +179,10 @@ update_date: 2025-04-30
 ### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 ::: list-stylized
-* Kneeling Push-Up – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
+* Kneeling Push-Up – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Push-Up
   + _Avançado_: Plyometric Push-Up
-* Incline Pike Push-Up – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
+* Incline Pike Push-Up – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Pike Push-Up
   + _Avançado_: Handstand Push-Up
 :::
@@ -190,7 +190,7 @@ update_date: 2025-04-30
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Incline Reverse‑Grip Push‑Up – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
+* Incline Reverse‑Grip Push‑Up – 3 x máximo de reps @ 1-2 RIR, 2 min de descanso
   + _Intermediário_: Reverse-Grip Push‑Up
   + _Avançado_: Pseudo Planche Push‑Up
 :::
@@ -198,7 +198,7 @@ update_date: 2025-04-30
 ### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
 
 ::: list-stylized
-* Elevated Pike Shoulder Shrug – 1 x máximo de reps @ 1-2 RIR, 1 min de descanso
+* Elevated Pike Shoulder Shrug – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
 :::
 :::
 
@@ -221,10 +221,10 @@ update_date: 2025-04-30
 ###  Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 ::: list-stylized
-* Bench Squat – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
+* Bench Squat – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Deep Squat
   + _Avançado_: Squat Jump
-* Tall Kneeling Hip Hinge – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
+* Tall Kneeling Hip Hinge – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Tall Kneeling Good Morning
   + _Avançado_: Nordic Hamstring Curl
 :::
@@ -232,7 +232,7 @@ update_date: 2025-04-30
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Split Squat – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
+* Split Squat – 3 x máximo de reps @ 1-2 RIR, 2 min de descanso
   + _Intermediário_: Bulgarian Split Squat
   + _Avançado_: Pistol Squat
 :::
@@ -240,7 +240,7 @@ update_date: 2025-04-30
 ### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
 
 ::: list-stylized
-* Donkey Calf Raise – 1 x máximo de reps @ 1-2 RIR, 1 min de descanso
+* Donkey Calf Raise – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
 :::
 :::
 
