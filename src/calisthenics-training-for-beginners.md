@@ -69,7 +69,7 @@ update_date: 2025-04-30
 ### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 ::: list-stylized
-* Negative Pull-Up – 3 x máximo de reps @ 0-1 RIR[^2], 3 min de descanso
+* Negative Chin-Up – 3 x máximo de reps @ 0-1 RIR[^2], 3 min de descanso
   + _Intermediário_: Pull-Up
   + _Avançado_: Plyometric Pull-Up
 * Hanging Knee Raise – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
