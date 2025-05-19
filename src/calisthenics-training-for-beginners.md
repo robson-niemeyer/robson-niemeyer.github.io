@@ -37,7 +37,7 @@ update_date: 2025-04-30
 
 1 – Faça os treinos dos dias A, B e C na ordem correta, tire um dia de descanso ou recuperação ativa e, em seguida, reinicie a sequência. Se perder um dia de treino, simplesmente continue de onde parou.
 
-2 – As sessões diárias de calistenia duram 30-45 min e são divididas em um desafio bônus para praticar ao longo do dia e mais 4 fases: Desafio GtG do Dia, Ativação Neuromuscular, Potência Máxima, Assistência de Força e Estabilidade Adicional.
+2 – As sessões diárias de calistenia duram 40-50 min e são divididas em um desafio bônus para praticar ao longo do dia e mais 4 fases: Desafio GtG do Dia, Ativação Neuromuscular, Potência Máxima, Assistência de Força e Estabilidade Adicional.
 
 3 – Execute todos os exercícios com a forma perfeita, mantendo escápulas ativas e core contraído. Alguns exercícios oferecem níveis iniciante, intermediário e avançado. Ao atingir 6 reps ou 15 s isométrico para aquele exercício em 2 sessões consecutivas, aumente a dificuldade.
 
@@ -63,8 +63,7 @@ update_date: 2025-04-30
 ### Ativação Neuromuscular – Isométrico
 
 ::: list-stylized
-* Hollow Body Hold – 1 x 30 s @ máxima contração, 1 min de descanso
-* Active Hang – 1 x 30 s @ máxima contração, 1 min de descanso
+* Active Hang – 2 x 30 s @ máxima contração, 1 min de descanso
 :::
 
 ### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
@@ -91,7 +90,7 @@ update_date: 2025-04-30
 ### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
 
 ::: list-stylized
-* Inverted Scapular Row – 1 x máximo de reps @ 1-2 RIR, 1 min de descanso
+* Inverted Scapular Row – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
 :::
 :::
 
@@ -108,8 +107,7 @@ update_date: 2025-04-30
 ### Ativação Neuromuscular – Isométrico
 
 ::: list-stylized
-* Wall Sit – 1 x 30 s @ máxima contração, 1 min de descanso
-* Glute Bridge Hold – 1 x 30 s @ máxima contração, 1 min de descanso
+* Static Squat Hold – 2 x 30 s @ máxima contração, 1 min de descanso
 :::
 
 ###  Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
@@ -134,7 +132,7 @@ update_date: 2025-04-30
 ### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
 
 ::: list-stylized
-* Donkey Calf Raise – 1 x máximo de reps @ 1-2 RIR, 1 min de descanso
+* Donkey Calf Raise – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
 :::
 :::
 
@@ -151,8 +149,7 @@ update_date: 2025-04-30
 ### Ativação Neuromuscular – Isométrico
 
 ::: list-stylized
-* Support Hold – 1 x 30 s @ máxima contração, 1 min de descanso
-* Planche Lean – 1 x 30 s @ máxima contração, 1 min de descanso
+* Planche Lean – 2 x 30 s @ máxima contração, 1 min de descanso
 :::
 
 ### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
@@ -177,7 +174,7 @@ update_date: 2025-04-30
 ### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
 
 ::: list-stylized
-* Elevated Pike Shoulder Shrug – 1 x máximo de reps @ 1-2 RIR, 1 min de descanso
+* Elevated Pike Shoulder Shrug – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
 :::
 :::
 

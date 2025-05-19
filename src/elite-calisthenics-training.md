@@ -1,6 +1,6 @@
 ---
 title: "💪 Treinamento de Calistenia de Elite"
-description: "Aprenda calistenia do nível iniciante ao mutante."
+description: "Treinamento de alta intensidade para níveis intermediário e avançado."
 image_filename: "majestic-lukas-1XBMr_vUwdU-unsplash"
 image_alt: "Imagem de capa"
 image_source: "Majestic Lukas / Unsplash"
@@ -13,7 +13,6 @@ update_date: 2025-04-30
 
 ::: list-stylized
 * Barra fixa
-* Faixas de resistência (se necessário)
 * Argola de suspensão olímpica
 * Colchonete para academia
 * Piso firme e espaço livre
@@ -37,9 +36,9 @@ update_date: 2025-04-30
 
 1 – Faça os treinos dos dias A, B, C, D e E na ordem correta, tire um dia de descanso ou recuperação ativa e, em seguida, reinicie a sequência. Se perder um dia de treino, simplesmente continue de onde parou.
 
-2 – As sessões diárias de calistenia duram 45-60 min e são divididas em um desafio bônus para praticar ao longo do dia e mais 4 fases: Desafio GtG do Dia, Ativação Neuromuscular, Potência Máxima, Assistência de Força e Estabilidade Adicional.
+2 – As sessões diárias de calistenia duram 60-80 min e são divididas em um desafio bônus para praticar ao longo do dia e mais 4 fases: Desafio GtG do Dia, Ativação Neuromuscular, Potência Máxima, Assistência de Força e Estabilidade Adicional.
 
-3 – Execute todos os exercícios com a forma perfeita, mantendo escápulas ativas e core contraído. Alguns exercícios oferecem níveis iniciante, intermediário e avançado. Ao atingir 6 reps ou 15 s isométrico para aquele exercício em 2 sessões consecutivas, aumente a dificuldade.
+3 – Execute todos os exercícios com a forma perfeita, mantendo escápulas ativas e core contraído. Alguns exercícios oferecem níveis intermediário e avançado. Ao atingir 6 reps ou 15 s isométrico para aquele exercício em 2 sessões consecutivas, aumente a dificuldade.
 
 4 – Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome e pesquisar por imagens ou vídeos de exemplo.
 
@@ -53,8 +52,7 @@ update_date: 2025-04-30
 
 ### Desafio GtG[^1] do Dia – Isométrico
 ::: list-stylized
-* Inverted Hang
-  + _Intermediário_: Tuck Front Lever
+* Tuck Front Lever
   + _Avançado_: Front Lever
 :::
 
@@ -69,11 +67,9 @@ update_date: 2025-04-30
 ### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 ::: list-stylized
-* Assisted Pull-Up with Resistance Band – 4 x máximo de reps @ 0-1 RIR[^2], 3 min de descanso
-  + _Intermediário_: Pull-Up
+* Pull-Up – 4 x máximo de reps @ 0-1 RIR[^2], 3 min de descanso
   + _Avançado_: Plyometric Pull-Up
-* Bent-Knee Inverted Row – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Inverted Row
+* Inverted Row – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Avançado_: Tuck Front Lever Row
 :::
 
@@ -82,9 +78,10 @@ update_date: 2025-04-30
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Assisted Chin-Up with Resistance Band – 3 x máximo de reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Chin-Up
+* Chin-Up – 3 x máximo de reps @ 1-2 RIR, 2 min de descanso
   + _Avançado_: Towel Chin-Up
+* Inverted Deadlift – 3 x max reps @ 1-2 RIR, 2 min rest
+  + _Avançado_: Tuck Front Lever Raise
 :::
 
 ### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
@@ -99,8 +96,7 @@ update_date: 2025-04-30
 
 ### Desafio GtG do Dia – Isométrico
 ::: list-stylized
-* Support Hold
-  + _Intermediário_: Tuck L-Sit
+* Tuck L-Sit
   + _Avançado_: L-Sit
 :::
 
@@ -113,20 +109,19 @@ update_date: 2025-04-30
 ### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 ::: list-stylized
-* Hanging Knee Raise – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Hanging Leg Raise
+* Hanging Leg Raise – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Avançado_: Toes-to-Bar
-* Bent-Knee Bench Dip – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Dip
+* Dip – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Avançado_: Straight Bar Dip
 :::
 
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Incline Mountain Climber – 3 x máximo de reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Mountain Climber
+* Mountain Climber – 3 x máximo de reps @ 1-2 RIR, 2 min de descanso
   + _Avançado_: Cross‑Body Mountain Climber
+* Tuck Dragon Flag – 3 x max reps @ 1-2 RIR, 2 min rest
+  + _Avançado_: Dragon Flag
 :::
 
 ### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
@@ -165,8 +160,7 @@ update_date: 2025-04-30
 
 ### Desafio GtG do Dia – Isométrico
 ::: list-stylized
-* Crow Pose
-  + _Intermediário_: Tuck Handstand
+* Tuck Handstand
   + _Avançado_: Handstand
 :::
 
@@ -179,20 +173,19 @@ update_date: 2025-04-30
 ### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 ::: list-stylized
-* Kneeling Push-Up – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Push-Up
+* Push-Up – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Avançado_: Plyometric Push-Up
-* Incline Pike Push-Up – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Pike Push-Up
+* Pike Push-Up – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Avançado_: Handstand Push-Up
 :::
 
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Incline Reverse‑Grip Push‑Up – 3 x máximo de reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Reverse-Grip Push‑Up
+* Reverse-Grip Push‑Up – 3 x máximo de reps @ 1-2 RIR, 2 min de descanso
   + _Avançado_: Pseudo Planche Push‑Up
+* Archer Push-Up – 3 x max reps @ 1-2 RIR, 2 min rest
+  + _Avançado_: One-Arm Push-Up
 :::
 
 ### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
@@ -207,8 +200,7 @@ update_date: 2025-04-30
 
 ### Desafio GtG do Dia – Isométrico
 ::: list-stylized
-* German Hang
-  + _Intermediário_: Tuck Back Lever
+* Tuck Back Lever
   + _Avançado_: Back Lever
 :::
 
@@ -221,20 +213,19 @@ update_date: 2025-04-30
 ###  Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 ::: list-stylized
-* Bench Squat – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Deep Squat
+* Deep Squat – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Avançado_: Squat Jump
-* Tall Kneeling Hip Hinge – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Tall Kneeling Good Morning
+* Tall Kneeling Good Morning – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Avançado_: Nordic Hamstring Curl
 :::
 
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Split Squat – 3 x máximo de reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Bulgarian Split Squat
+* Bulgarian Split Squat – 3 x máximo de reps @ 1-2 RIR, 2 min de descanso
   + _Avançado_: Pistol Squat
+* Glute Bridge – 3 x max reps @ 1-2 RIR, 2 min rest
+  + _Avançado_: Feet-Elevated Glute Bridge
 :::
 
 ### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
