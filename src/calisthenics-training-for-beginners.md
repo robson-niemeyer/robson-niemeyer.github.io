@@ -208,7 +208,7 @@ update_date: 2025-04-30
 
 ::: {.subsection}
 ## Veja também
+* [📈 Métodos de Treinamento Avançado](/advanced-training-methods/)
 * [💪 Treinamento de Calistenia de Elite](/elite-calisthenics-training/)
-* [📈 Métodos Essenciais de Treinamento](/essential-training-methods/)
 :::
 :::

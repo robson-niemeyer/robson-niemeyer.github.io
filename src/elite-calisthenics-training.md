@@ -246,7 +246,7 @@ update_date: 2025-04-30
 
 ::: {.subsection}
 ## Veja também
+* [📈 Métodos de Treinamento Avançado](/advanced-training-methods/)
 * [🤸 Treinamento de Calistenia para Iniciantes](/calisthenics-training-for-beginners/)
-* [📈 Métodos Essenciais de Treinamento](/essential-training-methods/)
 :::
 :::

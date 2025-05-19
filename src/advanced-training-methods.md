@@ -1,6 +1,6 @@
 ---
-title: "📈 Métodos Essenciais de Treinamento"
-description: "Obtenha seus resultados com maior inteligência e precisão."
+title: "📈 Métodos de Treinamento Avançado"
+description: "Obtenha seus resultados com mais inteligência e precisão."
 image_filename: "victor-freitas-KIzBvHNe7hY-unsplash"
 image_alt: "Imagem de capa"
 image_source: "Victor Freitas / Unsplash"
