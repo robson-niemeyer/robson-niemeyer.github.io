@@ -34,9 +34,9 @@ update_date: 2025-04-30
 ::: {.subsection}
 ## Instruções
 
-1 – Faça os treinos dos dias A, B, C, D e E na ordem correta, tire um dia de descanso ou recuperação ativa e, em seguida, reinicie a sequência. Se perder um dia de treino, simplesmente continue de onde parou.
+1 – Faça os treinos dos dias A, B, C, D, E, F na ordem correta, tire um dia de descanso ou recuperação ativa e, em seguida, reinicie a sequência. Se perder um dia de treino, simplesmente continue de onde parou.
 
-2 – As sessões diárias de calistenia duram 60-80 min e são divididas em 1 desafio bônus para praticar ao longo do dia e mais 4 fases: Desafio GtG do Dia, Ativação Neuromuscular, Potência Máxima, Assistência de Força e Estabilidade Adicional.
+2 – As sessões diárias de calistenia duram 60-80 min e são divididas em 1 desafio bônus para praticar ao longo do dia mais 4 fases: Desafio GtG do Dia, Ativação Neuromuscular, Potência Máxima, Assistência de Força e Estabilidade Adicional.
 
 3 – Execute todos os exercícios com a forma perfeita, mantendo escápulas ativas e core contraído. Alguns exercícios oferecem níveis intermediário e avançado. Ao atingir 6 reps ou 15 s isométrico para aquele exercício em 2 sessões consecutivas, aumente a dificuldade.
 
@@ -48,15 +48,40 @@ update_date: 2025-04-30
 :::
 
 ::: {.subsection}
-## Dia A – Upper Pull
+## Dia A – HIIT
 
-### Desafio GtG[^1] do Dia – Isométrico
+### Aquecimento
+
+::: list-stylized
+* Corrida Leve – 5 min @ 50-60% MHR[^1]
+:::
+
+[^1]: <sup>1</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
+
+### Cardio x 6
+
+::: list-stylized
+* Corrida Intensa – 30 s @ 85-95% MHR
+* Corrida Leve – 60 s @ 60-70% MHR
+:::
+
+### Transição
+
+::: list-stylized
+* Corrida Leve – 5 min @ 50-60% MHR
+:::
+:::
+
+::: {.subsection}
+## Dia B – Upper Pull
+
+### Desafio GtG[^2] do Dia – Isométrico
 ::: list-stylized
 * Tuck Front Lever
   + _Avançado_: Front Lever
 :::
 
-[^1]: <sup>1</sup> _GtG (Grease the Groove)_: faça o número máximo de séries ao longo do dia com técnica impecável, terminando cada série com uma margem generosa antes de atingir a falha, mantendo pelo menos 2 horas de descanso entre elas para evitar o acúmulo de fadiga. O foco é a eficiência neuromuscular.
+[^2]: <sup>2</sup> _GtG (Grease the Groove)_: faça o número máximo de séries ao longo do dia com técnica impecável, terminando cada série com uma margem generosa antes de atingir a falha, mantendo pelo menos 2 horas de descanso entre elas para evitar o acúmulo de fadiga. O foco é a eficiência neuromuscular.
 
 ### Ativação Neuromuscular – Isométrico
 
@@ -67,13 +92,13 @@ update_date: 2025-04-30
 ### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 ::: list-stylized
-* Pull-Up – 4 x máximo de reps @ 0-1 RIR[^2], 3 min de descanso
+* Pull-Up – 4 x máximo de reps @ 0-1 RIR[^3], 3 min de descanso
   + _Avançado_: Plyometric Pull-Up
 * Inverted Row – 4 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Avançado_: Tuck Front Lever Row
 :::
 
-[^2]: <sup>2</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 1-2 RIR significa terminar a série com 1 ou 2 reps de reserva antes da falha. Isso garante uma estimulação eficaz com fadiga mínima, promovendo consistência e domínio técnico.
+[^3]: <sup>3</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 1-2 RIR significa terminar a série com 1 ou 2 reps de reserva antes da falha. Isso garante uma estimulação eficaz com fadiga mínima, promovendo consistência e domínio técnico.
 
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
@@ -92,7 +117,7 @@ update_date: 2025-04-30
 :::
 
 ::: {.subsection}
-## Dia B – Core & Dip
+## Dia C – Core & Dip
 
 ### Desafio GtG do Dia – Isométrico
 ::: list-stylized
@@ -132,20 +157,19 @@ update_date: 2025-04-30
 :::
 
 ::: {.subsection}
-## Dia C – Recuperação Ativa
+## Dia D – Threshold Run
 
 ### Aquecimento
 
 ::: list-stylized
-* Caminhada – 5 min @ 50-60% MHR[^3]
+* Corrida Leve – 5 min @ 50-60% MHR
 :::
 
-[^3]: <sup>3</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
-
-### Cardio
+### Cardio x 4
 
 ::: list-stylized
-*  Corrida Leve – 20 min @ 60-70% MHR
+* Corrida de Limiar – 5 min @ 85-90% MHR
+* Caminhada – 2 min @ 50-60% MHR
 :::
 
 ### Transição
@@ -156,7 +180,7 @@ update_date: 2025-04-30
 :::
 
 ::: {.subsection}
-## Dia D – Upper Push
+## Dia E – Upper Push
 
 ### Desafio GtG do Dia – Isométrico
 ::: list-stylized
@@ -196,7 +220,7 @@ update_date: 2025-04-30
 :::
 
 ::: {.subsection}
-## Dia E – Lower Chain
+## Dia F – Lower Chain
 
 ### Desafio GtG do Dia – Isométrico
 ::: list-stylized
