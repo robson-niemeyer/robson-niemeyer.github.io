@@ -73,6 +73,9 @@ update_date: 2025-04-30
 * Assisted Pull-Up with Resistance Band – 3 x máximo de reps @ 0-1 RIR[^2], 3 min de descanso
   + _Intermediário_: Pull-Up
   + _Avançado_: Plyometric Pull-Up
+* Hanging Knee Raise – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Hanging Leg Raise
+  + _Avançado_: Toes-to-Bar
 :::
 
 [^2]: <sup>2</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 1-2 RIR significa terminar a série com 1 ou 2 reps de reserva antes da falha. Isso garante uma estimulação eficaz com fadiga mínima, promovendo consistência e domínio técnico.
@@ -80,9 +83,6 @@ update_date: 2025-04-30
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Hanging Knee Raise – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Hanging Leg Raise
-  + _Avançado_: Toes-to-Bar
 * Bent-Knee Inverted Row – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
   + _Intermediário_: Inverted Row
   + _Avançado_: Tuck Front Lever Row
@@ -118,14 +118,14 @@ update_date: 2025-04-30
 * Bench Squat – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Deep Squat
   + _Avançado_: Squat Jump
+* Tall Kneeling Hip Hinge – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Tall Kneeling Good Morning
+  + _Avançado_: Nordic Hamstring Curl
 :::
 
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Tall Kneeling Hip Hinge – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Tall Kneeling Good Morning
-  + _Avançado_: Nordic Hamstring Curl
 * Split Squat – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
   + _Intermediário_: Bulgarian Split Squat
   + _Avançado_: Pistol Squat
@@ -161,14 +161,14 @@ update_date: 2025-04-30
 * Kneeling Push-Up – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Push-Up
   + _Avançado_: Plyometric Push-Up
+* Bent-Knee Bench Dip – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Dip
+  + _Avançado_: Straight Bar Dip
 :::
 
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Bent-Knee Bench Dip – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Dip
-  + _Avançado_: Straight Bar Dip
 * Incline Pike Push-Up – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
   + _Intermediário_: Pike Push-Up
   + _Avançado_: Handstand Push-Up
