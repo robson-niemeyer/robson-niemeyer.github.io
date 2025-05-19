@@ -58,7 +58,7 @@ update_date: 2025-04-30
 
 [^1]: <sup>1</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
 
-### Cardio x 6
+### Cardio – 6 Rounds
 
 ::: list-stylized
 * Corrida Intensa – 30 s @ 85-95% MHR
@@ -165,7 +165,7 @@ update_date: 2025-04-30
 * Corrida Leve – 5 min @ 50-60% MHR
 :::
 
-### Cardio x 4
+### Cardio – 4 Rounds
 
 ::: list-stylized
 * Corrida de Limiar – 5 min @ 85-90% MHR
