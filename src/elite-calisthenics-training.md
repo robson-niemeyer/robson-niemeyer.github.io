@@ -1,6 +1,6 @@
 ---
-title: "💪 Treinamento de Calistenia para Iniciantes (Versão Estendida)"
-description: "O primeiro passo para dominar os movimentos dos protagonistas de anime."
+title: "💪 Treinamento de Calistenia de Elite"
+description: "Aprenda calistenia do nível iniciante ao mutante."
 image_filename: "majestic-lukas-1XBMr_vUwdU-unsplash"
 image_alt: "Imagem de capa"
 image_source: "Majestic Lukas / Unsplash"
