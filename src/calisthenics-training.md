@@ -1,6 +1,6 @@
 ---
 title: "💪 Treinamento de Calistenia"
-description: "Domine os movimentos dos protagonistas de anime, do nível iniciante ao avançado."
+description: "Programa de treino de 3 dias por semana com progressões de exercícios do nível iniciante ao avançado."
 image_filename: "majestic-lukas-1XBMr_vUwdU-unsplash"
 image_alt: "Imagem de capa"
 image_source: "Majestic Lukas / Unsplash"
