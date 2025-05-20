@@ -69,10 +69,10 @@ update_date: 2025-04-30
 ### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 ::: list-stylized
-* Negative Chin-Up – 3 x máximo de reps @ 0-1 RIR[^2], 3 min de descanso
+* Negative Chin-Up – 3 x 1-5 reps @ 0-1 RIR[^2], 3 min de descanso
   + _Intermediário_: Pull-Up
-  + _Avançado_: Plyometric Pull-Up
-* Hanging Knee Raise – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
+  + _Avançado_: Hollow Body Pull-Up
+* Hanging Knee Raise – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Hanging Leg Raise
   + _Avançado_: Toes-to-Bar
 :::
@@ -82,8 +82,8 @@ update_date: 2025-04-30
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Bent-Knee Inverted Row – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Inverted Row
+* Ring Bent‑Knee Inverted Row – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
+  + _Intermediário_: Ring Inverted Row
   + _Avançado_: Tuck Front Lever Row
 :::
 
@@ -113,10 +113,10 @@ update_date: 2025-04-30
 ###  Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 ::: list-stylized
-* Bench Squat – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
+* Bench Squat – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Deep Squat
-  + _Avançado_: Squat Jump
-* Tall Kneeling Hip Hinge – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
+  + _Avançado_: Pistol Squat
+* Tall Kneeling Hip Hinge – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Tall Kneeling Good Morning
   + _Avançado_: Nordic Hamstring Curl
 :::
@@ -124,9 +124,9 @@ update_date: 2025-04-30
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Split Squat – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Bulgarian Split Squat
-  + _Avançado_: Pistol Squat
+* Assisted Sissy Squat – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
+  + _Intermediário_: Sissy Squat
+  + _Avançado_: Reverse Nordic Curl
 :::
 
 ### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
@@ -155,18 +155,18 @@ update_date: 2025-04-30
 ### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 ::: list-stylized
-* Kneeling Push-Up – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
+* Kneeling Push-Up – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Push-Up
-  + _Avançado_: Plyometric Push-Up
-* Bent-Knee Bench Dip – 3 x máximo de reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Dip
+  + _Avançado_: Diamond Push-Up
+* Bent-Knee Bench Dip – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Ring Dip
   + _Avançado_: Straight Bar Dip
 :::
 
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Incline Pike Push-Up – 2 x máximo de reps @ 1-2 RIR, 2 min de descanso
+* Incline Pike Push-Up – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
   + _Intermediário_: Pike Push-Up
   + _Avançado_: Handstand Push-Up
 :::
@@ -206,6 +206,5 @@ update_date: 2025-04-30
 ::: {.subsection}
 ## Veja também
 * [📈 Métodos de Treinamento Avançado](/advanced-training-methods/)
-* [💪 Treinamento de Calistenia de Elite](/elite-calisthenics-training/)
 :::
 :::

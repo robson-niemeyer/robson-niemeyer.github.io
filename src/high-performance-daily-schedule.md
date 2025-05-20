@@ -105,7 +105,6 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 ::: {.subsection}
 ## Veja também
 
-* [💪 Treinamento de Calistenia de Elite](/elite-calisthenics-training/)
 * [🤸 Treinamento de Calistenia para Iniciantes](/calisthenics-training-for-beginners/)
 * [✅ Protocolo de Checkpoint](/checkpoint-protocol/)
 * [🏕️ Ritmo Solar](/solar-rhythm/)
