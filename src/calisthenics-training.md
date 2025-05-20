@@ -63,7 +63,7 @@ update_date: 2025-04-30
 * Negative Chin-Up – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Pull-Up
   + _Avançado_: Chest-to-Bar Pull-Up
-* Plank Knee‑to‑Elbow – 2 x 1-5 @ 1-2 RIR, 2 min de descanso
+* Plank Knee‑to‑Elbow – 3 x 1-5 @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Mountain Climber
   + _Avançado_: Cross‑Body Mountain Climber
 :::
@@ -74,7 +74,7 @@ update_date: 2025-04-30
 * Ring Bent‑Knee Inverted Row – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
   + _Intermediário_: Ring Inverted Row
   + _Avançado_: Tuck Front Lever Row
-* Hanging Knee Raise – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
+* Hanging Knee Raise – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
   + _Intermediário_: Hanging Leg Raise
   + _Avançado_: Toes-to-Bar
 :::
@@ -165,7 +165,7 @@ update_date: 2025-04-30
 :::
 
 ::: {.subsection}
-## Dia D – Recuperação Ativa
+## Recuperação Ativa
 
 ### Aquecimento
 
