@@ -37,7 +37,7 @@ update_date: 2025-04-30
 
 1 – Faça os treinos na ordem correta, tire um dia de descanso ou recuperação ativa e, em seguida, reinicie a sequência. Se perder um dia de treino, simplesmente continue de onde parou.
 
-2 – As sessões diárias de calistenia duram 45-60 min e são divididas em 1 desafio bônus para praticar ao longo do dia mais 4 fases.
+2 – As sessões diárias de calistenia duram 45-60 min e são divididas em 4 fases.
 
 3 – Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome e pesquisar por imagens ou vídeos de exemplo.
 
