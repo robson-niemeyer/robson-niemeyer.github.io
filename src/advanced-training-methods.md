@@ -28,7 +28,6 @@ Aumente gradualmente a dificuldade dos exercícios – com mais carga, menor des
 
 ::: {.subsection}
 ## Veja também
-* [💪 Treinamento de Calistenia de Elite](/elite-calisthenics-training/)
-* [🤸 Treinamento de Calistenia para Iniciantes](/calisthenics-training-for-beginners/)
+* [💪 Treinamento de Calistenia](/calisthenics-training/)
 :::
 :::
