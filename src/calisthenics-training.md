@@ -152,9 +152,9 @@ update_date: 2025-04-30
 * Incline Pike Push-Up – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
   + _Intermediário_: Pike Push-Up
   + _Avançado_: Handstand Push-Up
-* One-Arm Knee Push-Up – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
-  + Intermediário: Archer Push-Up
-  + Avançado: One-Arm Push-Up
+* Incline Reverse-Grip Push‑Up – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
+  + _Intermediário_: Reverse-Grip Push‑Up
+  + _Avançado_: Pseudo Planche Push‑Up
 :::
 
 ### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
