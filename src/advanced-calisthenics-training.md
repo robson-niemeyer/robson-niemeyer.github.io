@@ -35,6 +35,7 @@ update_date: 2025-04-30
 ::: {.subsection}
 ## Instruções
 
+
 1 – Faça os treinos na ordem correta, tire um dia de descanso ou recuperação ativa e, em seguida, reinicie a sequência. Se perder um dia de treino, simplesmente continue de onde parou.
 
 2 – As sessões diárias de calistenia duram 45-60 min e são divididas em 1 desafio bônus para praticar ao longo do dia mais 4 fases.
@@ -48,46 +49,76 @@ update_date: 2025-04-30
 6 – A cada 3 semanas de treino ininterrupto, reserve a semana 4 para reduzir o número de repetições em <sup>1</sup>/<sub>3</sub> e evitar fadiga excessiva.
 :::
 
+## Dia A – HIIT
+
+### Aquecimento
+
+- Corrida Leve – 5 min @ 50-60% MHR[^1]
+
+### Cardio – 6 Rodadas
+
+* Corrida Intensa – 30 s @ 85-95% MHR
+* Corrida Leve – 60 s @ 60-70% MHR
+
+### Transição
+
+* Corrida Leve – 5 min @ 50-60% MHR
 ::: {.subsection}
-## Dia A – Upper Pull & Core
+
+::: {.subsection}
+## Dia B – Upper Push & Dip
+
+### Desafio GtG do Dia – Isométrico
+::: list-stylized
+* Frog Stand
+  + _Intermediário_: Tuck Handstand
+  + _Avançado_: Handstand
+:::
 
 ### Ativação Neuromuscular – Isométrico
 
 ::: list-stylized
-* Active Hang – 2 x 30 s @ máxima contração, 1 min de descanso
+* Planche Lean – 2 x 30 s @ máxima contração, 1 min de descanso
 :::
 
 ### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 ::: list-stylized
-* Negative Chin-Up – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Pull-Up
-  + _Avançado_: Chest-to-Bar Pull-Up
-* Plank Knee‑to‑Elbow – 2 x 1-5 @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Mountain Climber
-  + _Avançado_: Cross‑Body Mountain Climber
+* Push-Up – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Plyometric Push-Up
+  + _Avançado_: Diamond Push-Up
+* Ring Push-Up – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Ring Dip
+  + _Avançado_: Straight Bar Dip
 :::
 
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
 ::: list-stylized
-* Ring Bent‑Knee Inverted Row – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Ring Inverted Row
-  + _Avançado_: Tuck Front Lever Row
-* Hanging Knee Raise – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Hanging Leg Raise
-  + _Avançado_: Toes-to-Bar
+* Incline Pike Push-Up – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
+  + _Intermediário_: Pike Push-Up
+  + _Avançado_: Handstand Push-Up
+* One-Arm Knee Push-Up – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
+  + Intermediário: Archer Push-Up
+  + Avançado: One-Arm Push-Up
 :::
 
 ### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
 
 ::: list-stylized
-* Scapular Pull-Up – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
+* Elevated Pike Shoulder Shrug – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
 :::
 :::
 
 ::: {.subsection}
-## Dia B – Lower Chain
+## Dia C – Core
+
+### Desafio GtG do Dia – Isométrico
+::: list-stylized
+* German Hang
+  + _Intermediário_: Tuck Back Lever
+  + _Avançado_: Back Lever
+:::
 
 ### Ativação Neuromuscular – Isométrico
 
@@ -125,53 +156,15 @@ update_date: 2025-04-30
 :::
 
 ::: {.subsection}
-## Dia C – Upper Push & Dip
-
-### Ativação Neuromuscular – Isométrico
-
-::: list-stylized
-* Planche Lean – 2 x 30 s @ máxima contração, 1 min de descanso
-:::
-
-### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
-
-::: list-stylized
-* Push-Up – 3 x 1-5 reps @ 0-1 RIR[^2], 3 min de descanso
-  + _Intermediário_: Plyometric Push-Up
-  + _Avançado_: Diamond Push-Up
-* Ring Push-Up – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Ring Dip
-  + _Avançado_: Straight Bar Dip
-:::
-
-[^2]: <sup>2</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 1-2 RIR significa terminar a série com 1 ou 2 reps de reserva antes da falha. Isso garante uma estimulação eficaz com fadiga mínima, promovendo consistência e domínio técnico.
-
-### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
-
-::: list-stylized
-* Incline Pike Push-Up – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Pike Push-Up
-  + _Avançado_: Handstand Push-Up
-* One-Arm Knee Push-Up – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
-  + Intermediário: Archer Push-Up
-  + Avançado: One-Arm Push-Up
-:::
-
-### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
-
-::: list-stylized
-* Elevated Pike Shoulder Shrug – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
-:::
-:::
-
-::: {.subsection}
 ## Dia D – Recuperação Ativa
 
 ### Aquecimento
 
 ::: list-stylized
-* Caminhada – 5 min @ 50-60% MHR
+* Caminhada – 5 min @ 50-60% MHR[^3]
 :::
+
+[^3]: <sup>3</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
 
 ### Cardio
 
@@ -183,6 +176,99 @@ update_date: 2025-04-30
 
 ::: list-stylized
 * Caminhada – 5 min @ 50-60% MHR
+:::
+:::
+
+## Dia E – Upper Pull
+
+### Desafio GtG[^1] do Dia – Isométrico
+::: list-stylized
+* Inverted Hang
+  + _Intermediário_: Tuck Front Lever
+  + _Avançado_: Front Lever
+:::
+
+[^1]: <sup>1</sup> _GtG (Grease the Groove)_: faça o número máximo de séries ao longo do dia com técnica impecável, terminando cada série com uma margem generosa antes de atingir a falha, mantendo pelo menos 2 horas de descanso entre elas para evitar o acúmulo de fadiga. O foco é a eficiência neuromuscular.
+
+### Ativação Neuromuscular – Isométrico
+
+::: list-stylized
+* Active Hang – 2 x 30 s @ máxima contração, 1 min de descanso
+:::
+
+### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
+
+::: list-stylized
+* Negative Chin-Up – 3 x 1-5 reps @ 0-1 RIR[^2], 3 min de descanso
+  + _Intermediário_: Pull-Up
+  + _Avançado_: Chest-to-Bar Pull-Up
+* Plank Knee‑to‑Elbow – 2 x 1-5 @ 1-2 RIR, 2 min de descanso
+  + _Intermediário_: Mountain Climber
+  + _Avançado_: Cross‑Body Mountain Climber
+:::
+
+[^2]: <sup>2</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 1-2 RIR significa terminar a série com 1 ou 2 reps de reserva antes da falha. Isso garante uma estimulação eficaz com fadiga mínima, promovendo consistência e domínio técnico.
+
+### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
+
+::: list-stylized
+* Ring Bent‑Knee Inverted Row – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
+  + _Intermediário_: Ring Inverted Row
+  + _Avançado_: Tuck Front Lever Row
+* Hanging Knee Raise – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Hanging Leg Raise
+  + _Avançado_: Toes-to-Bar
+:::
+
+### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
+
+::: list-stylized
+* Scapular Pull-Up – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
+:::
+:::
+
+::: {.subsection}
+## Dia F – Lower Chain
+
+### Desafio GtG do Dia – Isométrico
+::: list-stylized
+* German Hang
+  + _Intermediário_: Tuck Back Lever
+  + _Avançado_: Back Lever
+:::
+
+### Ativação Neuromuscular – Isométrico
+
+::: list-stylized
+* Static Squat Hold – 2 x 30 s @ máxima contração, 1 min de descanso
+:::
+
+###  Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
+
+::: list-stylized
+* Squat – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Jump Squat
+  + _Avançado_: Pistol Squat
+* Tall Kneeling Hip Hinge – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Tall Kneeling Good Morning
+  + _Avançado_: Nordic Hamstring Curl
+:::
+
+### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
+
+::: list-stylized
+* Assisted Sissy Squat – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
+  + _Intermediário_: Sissy Squat
+  + _Avançado_: Reverse Nordic Curl
+* Lunge – 2 x 1-5 @ 1-2 RIR, 2 min de descanso
+  + _Intermediário_: Bulgarian Split Squat
+  + _Avançado_: Shrimp Squat
+:::
+
+### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
+
+::: list-stylized
+* Donkey Calf Raise – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
 :::
 :::
 
