@@ -18,7 +18,7 @@ update_date: 2025-04-30
 * [Instruções](#instruções)
 * [Segunda-Feira: Lower Chain](#segunda-feira-lower-chain)
 * [Terça-Feira: Upper Pull & Core](#terça-feira-upper-pull-core)
-* [Quarta-Feira: Upper Push & Dip](#quarta-feira-upper-push-dip)
+* [Quarta-Feira: Upper Push](#quarta-feira-upper-push)
 * [Quinta-Feira: Active Recovery](#quinta-feira-active-recovery)
 * [Sexta-Feira: Skill & Conditioning](#sexta-feira-skill-conditioning)
 * [Sábado e Domingo: Deep Rest](#sábado-e-domingo-deep-rest)
@@ -153,7 +153,7 @@ update_date: 2025-04-30
 
 ::: {.subsection}
 <hgroup>
-## Quarta-Feira: Upper Push & Dip [↩︎](#índice)
+## Quarta-Feira: Upper Push [↩︎](#índice)
 
 <p class="subheading">Força de empurrão de membros superiores</p>
 </hgroup>
