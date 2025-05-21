@@ -238,7 +238,7 @@ update_date: 2025-04-30
 ### Domínio Técnico
 
 ::: list-stylized
-- Exemplos: Muscle-Up, Handstand, Front Lever, L-Sit, Dragon Flag, Human Flag, etc
+- Exemplos: Muscle-Up, Handstand, Front Lever, L-Sit, Dragon Flag, Human Flag, GtG, etc
 :::
 
 ### Condicionamento
