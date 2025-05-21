@@ -98,17 +98,17 @@ _Força de tração de membros superiores com core integrado_
 
 ### Ativação Neuromuscular – Isométrico
 
-- Active Hang – 1 x 30 s @ máxima contração, 1 min de descanso
 - Hollow Body Hold – 1 x 30 s isometric @ max tension, 1 min rest
+- Active Hang – 1 x 30 s @ máxima contração, 1 min de descanso
 
 ### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
 
 - Negative Pull-Up – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
   + Intermediário: Pull-Up
   + Avançado: Chest-to-Bar Pull-Up
-- Plank Knee‑to‑Elbow – 3 x 1-5 @ 0-1 RIR, 3 min de descanso
-  + Intermediário: Mountain Climber
-  + Avançado: Cross‑Body Mountain Climber
+- Ring Kneeling Ab Rollout – 2 x 1-5 @ 1-2 RIR, 2 min rest
+  + Intermediário: Ring Ab Rollout
+  + Avançado: Standing Ab Rollout
 
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 

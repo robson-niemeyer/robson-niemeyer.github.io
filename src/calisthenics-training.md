@@ -128,9 +128,9 @@ update_date: 2025-04-30
 * Negative Pull-Up – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
   + _Intermediário_: Pull-Up
   + _Avançado_: Chest-to-Bar Pull-Up
-* Plank Knee‑to‑Elbow – 3 x 1-5 @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Mountain Climber
-  + _Avançado_: Cross‑Body Mountain Climber
+* Ring Kneeling Ab Rollout – 3 x 1-5 @ 0-1 RIR, 3 min rest
+  + Intermediário: Ring Ab Rollout
+  + Avançado: Standing Ab Rollout
 :::
 
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
