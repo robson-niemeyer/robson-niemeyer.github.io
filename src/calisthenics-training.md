@@ -1,6 +1,6 @@
 ---
 title: "💪 Treinamento de Calistenia"
-description: "Programa de treino de 3 dias por semana com progressões de exercícios do nível iniciante ao avançado."
+description: "Programa de treinamento semanal com progressões de exercícios do nível iniciante ao avançado."
 image_filename: "majestic-lukas-1XBMr_vUwdU-unsplash"
 image_alt: "Imagem de capa"
 image_source: "Majestic Lukas / Unsplash"
@@ -8,8 +8,23 @@ publication_date: 2025-04-30
 update_date: 2025-04-30
 ---
 ::: section
+
 ::: {.subsection}
-## Equipamentos
+:::
+## Índice
+
+* [Equipamentos](#equipamentos)
+* [Dicas de Alta Performance](#dicas-de-alta-performance)
+* [Instruções](#instruções)
+* [Segunda-Feira: Lower Chain](#segunda-feira-lower-chain)
+* [Terça-Feira: Upper Pull & Core](#quarta-feira-upper-pull-core)
+* [Quarta-Feira: Upper Push & Dip](#terça-feira-upper-push-dip)
+* [Quinta-Feira: Active Recovery](#quinta-feira-active-recovery)
+* [Sexta-Feira: Skill & Conditioning](#sexta-feira-skill-conditioning)
+* [Sábado e Domingo: Deep Rest](#sábado-e-domingo-deep-rest)
+
+::: {.subsection}
+## Equipamentos [↩︎](#índice)
 
 ::: list-stylized
 * Barra fixa
@@ -21,7 +36,7 @@ update_date: 2025-04-30
 :::
 
 ::: {.subsection}
-## Dicas de Alta Performance
+## Dicas de Alta Performance [↩︎](#índice)
 
 ::: list-stylized
 * Não fume
@@ -33,9 +48,9 @@ update_date: 2025-04-30
 :::
 
 ::: {.subsection}
-## Instruções
+## Instruções [↩︎](#índice)
 
-1 – Faça os treinos na ordem correta e reinicie a sequência na semana seguinte. Se perder um dia de treino, continue de onde parou. Recomenda-se tirar um dia de descanso completo entre o fim de uma semana e o início de outra.
+1 – Faça os treinos na ordem correta e reinicie a sequência na semana seguinte. Se perder um dia de treino, continue de onde parou. Recomenda-se tirar pelo menos 1 dia de descanso completo no fim da semana.
 
 2 – As sessões diárias de calistenia duram aproximadamente 45 min e são divididas em 4 fases.
 
@@ -45,11 +60,15 @@ update_date: 2025-04-30
 
 5 – Recomenda-se fazer pelo menos 5 minutos de alongamento ao final de cada sessão para ajudar no relaxamento e na recuperação muscular.
 
-6 – A cada 3 semanas de treino ininterrupto, reserve a semana 4 para reduzir o número de repetições em <sup>1</sup>/<sub>3</sub> e evitar fadiga excessiva.
+6 – Para evitar o acúmulo de fadiga neural, a cada 3 semanas de treino ininterrupto reserve a semana 4 para reduzir em 50% o número de séries para todos os exercícios, mantendo todas as reps em RIR 1-2 e excluindo a sessão de Skill Mastery na sexta-feira. Você pode usar esse período para focar em técnica, mobilidade articular, padrões respiratórios ou alongamentos profundos, promovendo recuperação completa sem interromper o estímulo neuromuscular.
 :::
 
 ::: {.subsection}
-## Segunda-Feira – Lower Chain
+<hgroup>
+## Segunda-Feira: Lower Chain [↩︎](#índice)
+
+<p class="subheading">Força e equilíbrio de membros inferiores</p>
+</hgroup>
 
 ### Ativação Neuromuscular – Isométrico
 
@@ -69,7 +88,7 @@ update_date: 2025-04-30
   + _Avançado_: Nordic Hamstring Curl
 :::
 
-[^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 1-2 RIR significa terminar a série com 1 ou 2 reps de reserva antes da falha. Isso garante uma estimulação eficaz com fadiga mínima, promovendo consistência e domínio técnico.
+[^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 1-2 RIR significa terminar a série com 1 ou 2 reps de reserva antes da falha. Isso garante uma estimulação eficaz com fadiga mínima, promovendo consistência e domínio técnico. Mantenha 0-1 RIR apenas para movimentos com alto domínio técnico e baixa chance de colapso postural.
 
 ### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
 
@@ -85,51 +104,16 @@ update_date: 2025-04-30
 ### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
 
 ::: list-stylized
-* Donkey Calf Raise – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
+* Squat Hold Calf Raise – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
 :::
 :::
 
 ::: {.subsection}
-## Terça-Feira – Upper Push & Dip
+<hgroup>
+## Terça-Feira: Upper Pull & Core [↩︎](#índice)
 
-### Ativação Neuromuscular – Isométrico
-
-::: list-stylized
-* Planche Lean – 1 x 30 s @ máxima contração, 1 min de descanso
-* Support Hold – 1 x 30 s isometric @ max tension, 1 min rest
-:::
-
-### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
-
-::: list-stylized
-* Push-Up – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Plyometric Push-Up
-  + _Avançado_: Diamond Push-Up
-* Ring Push-Up – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Ring Dip
-  + _Avançado_: Straight Bar Dip
-:::
-
-### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
-
-::: list-stylized
-* Incline Pike Push-Up – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Pike Push-Up
-  + _Avançado_: Handstand Push-Up
-* Incline Reverse-Grip Push‑Up – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Reverse-Grip Push‑Up
-  + _Avançado_: Pseudo Planche Push‑Up
-:::
-
-### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
-
-::: list-stylized
-* Elevated Pike Shoulder Shrug – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
-:::
-:::
-
-::: {.subsection}
-## Quarta-Feira – Upper Pull & Core
+<p class="subheading">Força de tração de membros superiores com core integrado</p>
+</hgroup>
 
 ### Ativação Neuromuscular – Isométrico
 
@@ -168,7 +152,54 @@ update_date: 2025-04-30
 :::
 
 ::: {.subsection}
-## Quinta-Feira – Active Recovery
+<hgroup>
+## Quarta-Feira: Upper Push & Dip [↩︎](#índice)
+
+<p class="subheading">Força de empurrão de membros superiores</p>
+</hgroup>
+
+### Ativação Neuromuscular – Isométrico
+
+::: list-stylized
+* Planche Lean – 1 x 30 s @ máxima contração, 1 min de descanso
+* Support Hold – 1 x 30 s isometric @ max tension, 1 min rest
+:::
+
+### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
+
+::: list-stylized
+* Push-Up – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Plyometric Push-Up
+  + _Avançado_: Diamond Push-Up
+* Ring Push-Up – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
+  + _Intermediário_: Ring Dip
+  + _Avançado_: Straight Bar Dip
+:::
+
+### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
+
+::: list-stylized
+* Incline Pike Push-Up – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
+  + _Intermediário_: Pike Push-Up
+  + _Avançado_: Handstand Push-Up
+* Ring Triceps Extension – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
+  + _Intermediário_: Reverse-Grip Push‑Up
+  + _Avançado_: Pseudo Planche Push‑Up
+:::
+
+### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
+
+::: list-stylized
+* Elevated Pike Shoulder Shrug – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
+:::
+:::
+
+::: {.subsection}
+<hgroup>
+## Quinta-Feira: Active Recovery [↩︎](#índice)
+
+<p class="subheading">Regeneração sistêmica</p>
+</hgroup>
 
 ### Aquecimento
 
@@ -192,25 +223,41 @@ update_date: 2025-04-30
 :::
 
 ::: {.subsection}
-## Sexta-Feira – Skill Mastery
+<hgroup>
+## Sexta-Feira: Skill & Conditioning [↩︎](#índice)
+
+<p class="subheading">Aplicação, lacunas, explosão, desafio</p>
+</hgroup>
 
 ### Aquecimento
 
 ::: list-stylized
-* Mobilidade – 5 min
+* Mobilidade Técnica – 5 min
 :::
 
 ### Domínio Técnico
 
 ::: list-stylized
-* Treino Livre – 40 min
+* Habilidade Técnica (ex: handstand, lever, muscle-up, corrida técnica)
+* Condicionamento (Jump Rope, Battle Rope, Climber, sprints, etc.)
+* Core Integrado (anti-rotação, anti-extensão)
 :::
 
 ### Transição
 
 ::: list-stylized
-* Alongamento – 10 min
+* Alongamento Ativo – 10 min
 :::
+:::
+
+::: {.subsection}
+<hgroup>
+## Sábado e Domingo: Deep Rest [↩︎](#índice)
+
+<p class="subheading">Recuperação neuromuscular profunda</p>
+</hgroup>
+
+Dias para atividades relaxantes livres.
 :::
 
 ::: {.subsection}
