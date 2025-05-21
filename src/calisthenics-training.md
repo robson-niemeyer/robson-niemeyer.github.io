@@ -238,9 +238,13 @@ update_date: 2025-04-30
 ### Domínio Técnico
 
 ::: list-stylized
-* Habilidade Técnica (ex: handstand, lever, muscle-up, corrida técnica)
-* Condicionamento (Jump Rope, Battle Rope, Climber, sprints, etc.)
-* Core Integrado (anti-rotação, anti-extensão)
+- Exemplos: Muscle-Up, Handstand, Front Lever, L-Sit, Dragon Flag, Human Flag, etc
+:::
+
+### Condicionamento
+
+::: list-stylized
+- Exemplos: Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, AMRAP Test, etc
 :::
 
 ### Transição

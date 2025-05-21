@@ -159,7 +159,7 @@ _Aplicação, lacunas, explosão, desafio_
 
 ### Condicionamento
 
-- Exemplos: Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc
+- Exemplos: Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, AMRAP Test, etc
 
 ### Transição
 
