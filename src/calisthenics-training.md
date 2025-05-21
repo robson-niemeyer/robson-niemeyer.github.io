@@ -238,13 +238,13 @@ update_date: 2025-04-30
 ### Domínio Técnico
 
 ::: list-stylized
-- Exemplos: Muscle-Up, Handstand, Front Lever, L-Sit, Dragon Flag, Human Flag, GtG, etc
+- Exemplos: Muscle-Up, Handstand, Front Lever, L-Sit, Dragon Flag, Human Flag, AMRAP Test, GtG, etc
 :::
 
 ### Condicionamento
 
 ::: list-stylized
-- Exemplos: Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, AMRAP Test, etc
+- Exemplos: Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc
 :::
 
 ### Transição
