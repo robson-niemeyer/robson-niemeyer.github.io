@@ -33,12 +33,22 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer potênci
 ::: {.subsection}
 ## Equipamento [↩︎](#index) {#equipment}
 
+### Necessário
+
 ::: list-stylized
 - Barra fixa
-- Argola de suspensão olímpica
-- Colchonete para academia
+- Argolas de suspensão olímpicas
+- Colchonete de ginástica
 - Faixas de resistência
 - Piso firme e espaço livre
+:::
+
+### Opcional
+
+::: list-stylized
+- Corda de pular
+- Corda de batalha
+- Tênis de corrida
 :::
 :::
 
@@ -172,7 +182,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer potênci
 ### Força Máxima: 3-5 reps @ 0-1 RIR, 3 min de descanso
 
 ::: list-stylized
-- 3 x Pull-Up Negative / Pull-Up / Archer Pull-Up / Towel Assisted One-Arm Chin-Up / One-Arm Chin-Up
+- 3 x Pull-Up Negative / Pull-Up / Archer Pull-Up / Uneven Pull-Up / One-Arm Pull-Up
 - 3 x Kneeling Ab Ring Rollout Negative / Ab Ring Rollout / Band Assisted Standing Ab Ring Rollout / Standing Ab Ring Rollout
 :::
 
