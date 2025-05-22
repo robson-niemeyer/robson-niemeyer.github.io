@@ -88,7 +88,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 - 5 min – Mobilidade Articular
 :::
 
-### Prehab (12 reps com 2 s de isometria, 1 min de descanso)
+### Prehab (12 reps com 2 s de isometria; 1 min de descanso)
 
 ::: list-stylized
 - 2 x Band Pull-Apart
@@ -96,7 +96,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 - 2 x Band External Rotation
 :::
 
-### Potência AMRAP[^2] (máximo de reps, 5 min de descanso)
+### Potência AMRAP[^2] (máximo de reps; 5 min de descanso)
 
 ::: list-stylized
 - 1 x Deep Squat → Squat Jump
@@ -138,28 +138,28 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 <p class="subheading">Força e equilíbrio de membros inferiores</p>
 </hgroup>
 
-### Ativação (30 s de isometria com máxima contração, 1 min de descanso)
+### Ativação (30 s de isometria com máxima contração; 1 min de descanso)
 
 ::: list-stylized
 - 1 x Wall Sit → Static Squat Hold
 - 1 x Glute Bridge Hold → Feet Elevated Glute Bridge Hold
 :::
 
-### Força Máxima (3-5 reps com 0-1 RIR, 3 min de descanso)
+### Força Máxima (3-5 reps com 0-1 RIR; 3 min de descanso)
 
 ::: list-stylized
-- 3 x Air Squat → Deep Squat → Cossack Squat → Assisted Pistol Squat → Pistol Squat
+- 3 x Air Squat → Deep Squat → Cossack Squat → Box Pistol Squat → Pistol Squat
 - 3 x Tall Kneeling Hip Hinge → Tall Kneeling Good Morning → Band Assisted Nordic Hamstring Curl → Nordic Hamstring Curl
 :::
 
-### Assistência de Força (3-5 reps com 1-2 RIR, 2 min de descanso)
+### Assistência de Força (3-5 reps com 1-2 RIR; 2 min de descanso)
 
 ::: list-stylized
 - 2 x Assisted Sissy Squat → Sissy Squat → Reverse Nordic Curl
 - 2 x Lunge → Bulgarian Split Squat → Shrimp Squat
 :::
 
-### Finalizador Opcional (máximo de reps com 1-2 RIR, 1 min de descanso)
+### Finalizador Opcional (máximo de reps com 1-2 RIR; 1 min de descanso)
 
 ::: list-stylized
 - 2 x Squat Hold Calf Raise
@@ -172,28 +172,28 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 <p class="subheading">Força de tração de membros superiores com core integrado</p>
 </hgroup>
 
-### Ativação (30 s de isometria com máxima contração, 1 min de descanso)
+### Ativação (30 s de isometria com máxima contração; 1 min de descanso)
 
 ::: list-stylized
 - 1 x Active Hang → Arched Hang
 - 1 x Boat Hold → Hollow Body Hold
 :::
 
-### Força Máxima (3-5 reps com 0-1 RIR, 3 min de descanso)
+### Força Máxima (3-5 reps com 0-1 RIR; 3 min de descanso)
 
 ::: list-stylized
 - 3 x Pull-Up Negative → Pull-Up → Archer Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
 - 3 x Kneeling Ab Ring Rollout Negative → Ab Ring Rollout → Band Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout
 :::
 
-### Assistência de Força (3-5 reps com 1-2 RIR, 2 min de descanso)
+### Assistência de Força (3-5 reps com 1-2 RIR; 2 min de descanso)
 
 ::: list-stylized
 - 2 x Bent‑Knee Ring Inverted Row → Ring Inverted Row → Decline Ring Inverted Row
 - 2 x Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar
 :::
 
-### Finalizador Opcional (máximo de reps com 1-2 RIR, 1 min de descanso)
+### Finalizador Opcional (máximo de reps com 1-2 RIR; 1 min de descanso)
 
 ::: list-stylized
 - 2 x Scapular Pull-Up
@@ -207,28 +207,28 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 <p class="subheading">Força de empurrão de membros superiores</p>
 </hgroup>
 
-### Ativação (30 s de isometria com máxima contração, 1 min de descanso)
+### Ativação (30 s de isometria com máxima contração; 1 min de descanso)
 
 ::: list-stylized
 - 1 x Straight-Arm Plank → Planche Lean
 - 1 x Feet Assisted Ring Support Hold → Ring Support Hold
 :::
 
-### Força Máxima (3-5 reps com 0-1 RIR, 3 min de descanso)
+### Força Máxima (3-5 reps com 0-1 RIR; 3 min de descanso)
 
 ::: list-stylized
 - 3 x Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up
-- 3 x Bent‑Knee Bench Dip → Ring Push-Up → Ring Dip → Straight Bar Dip
+- 3 x Bent‑Knee Bench Dip → Feet Supported Ring Dip → Ring Dip → Straight Bar Dip
 :::
 
-### Assistência de Força (3-5 reps com 1-2 RIR, 2 min de descanso)
+### Assistência de Força (3-5 reps com 1-2 RIR; 2 min de descanso)
 
 ::: list-stylized
 - 2 x Incline Pike Push-Up → Pike Push-Up → Deficit Pike Push-Up
 - 2 x Ring Triceps Extension → Reverse-Grip Push‑Up → Pseudo Planche Push‑Up
 :::
 
-### Finalizador Opcional (máximo de reps com 1-2 RIR, 1 min de descanso)
+### Finalizador Opcional (máximo de reps com 1-2 RIR; 1 min de descanso)
 
 ::: list-stylized
 - 2 x Elevated Pike Shoulder Shrug
