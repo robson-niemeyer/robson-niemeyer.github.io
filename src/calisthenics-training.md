@@ -113,7 +113,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 ### Metcon[^3]
 
 ::: list-stylized
-- 20-25 min – _Exemplos_: Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc
+- 20-25 min – _Exemplos_: Beat Swing, Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc
 :::
 :::
 
@@ -175,7 +175,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 ### Ativação (30 s de isometria com máxima contração; 1 min de descanso)
 
 ::: list-stylized
-- 1 x Active Hang → Arched Hang
+- 1 x Passive Hang → Active Hang
 - 1 x Boat Hold → Hollow Body Hold
 :::
 
