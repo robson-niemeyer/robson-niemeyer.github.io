@@ -209,9 +209,9 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 [^3]: <sup>3</sup> _AMRAP (As Many Reps as Possible)_: Máximo de reps possíveis com execução perfeita para medir seu progresso.
 
 ::: list-stylized
+* 1 x Squat Jump
 * 1 x Chest-to-Bar Pull-Up
 * 1 x Plyometric Push-Up
-* 1 x Squat Jump
 :::
 
 ### Domínio Técnico: 10 min
