@@ -10,9 +10,9 @@ update_date: 2025-04-30
 ::: section
 
 ::: {.subsection}
-:::
 ## Índice
 
+* [Introdução](#introdução)
 * [Equipamentos](#equipamentos)
 * [Dicas de Alta Performance](#dicas-de-alta-performance)
 * [Instruções](#instruções)
@@ -22,6 +22,16 @@ update_date: 2025-04-30
 * [Quinta-Feira: Active Recovery](#quinta-feira-active-recovery)
 * [Sexta-Feira: Skill & Conditioning](#sexta-feira-skill-conditioning)
 * [Sábado e Domingo: Deep Rest](#sábado-e-domingo-deep-rest)
+:::
+
+::: {.subsection}
+## Introdução [↩︎](#índice)
+Você não quer ficar só postando selfies em frente ao espelho da academia como um hamster em uma gaiola.
+
+Você deseja desbloquear habilidades físicas com alto potencial para aplicação no mundo real, treinando por si mesmo e em qualquer lugar.
+
+Vou mostrar tudo que você precisa para progredir do nível iniciante ao impressionante!
+:::
 
 ::: {.subsection}
 ## Equipamentos [↩︎](#índice)
@@ -50,102 +60,82 @@ update_date: 2025-04-30
 ::: {.subsection}
 ## Instruções [↩︎](#índice)
 
-1 – Faça os treinos na ordem correta e reinicie a sequência na semana seguinte. Se perder um dia de treino, continue de onde parou. Recomenda-se tirar pelo menos 1 dia de descanso completo no fim da semana.
+As sessões diárias de calistenia duram aproximadamente 45 min. Faça os treinos na ordem correta e , se você faltar um dia, continue de onde parou. Recomenda-se tirar pelo menos 1 dia de descanso completo no fim da semana. Recomenda-se fazer pelo menos 5 minutos de alongamento ao final de cada sessão para ajudar no relaxamento e na recuperação muscular.
 
-2 – As sessões diárias de calistenia duram aproximadamente 45 min e são divididas em 4 fases.
+Alguns exercícios possuem níveis de progressão, como: Nível 0 / Nível 1 / Nível 2 / Etc. Se você fizer mais de 5 reps ou mais de 30 s isométrico em todas as séries de um exercício em 2 sessões consecutivas, progrida. Se você fizer menos de 3 reps ou menos de 15 s isométrico em alguma série de um exercício, regrida. Execute todos os exercícios com a forma perfeita, mantendo as escápulas ativas e o core contraído.
 
-3 – Execute todos os exercícios com a forma perfeita, mantendo escápulas ativas e core contraído. Ao atingir 6 reps ou 40 s isométrico para aquele exercício em 2 sessões consecutivas, aumente a dificuldade.
+Para evitar o acúmulo de fadiga neural, a cada 3 semanas de treino ininterrupto reserve a semana 4 para reduzir em 1 o número de séries para todos os exercícios de _Força Máxima_ e _Assistência de Força_, mantendo todas as reps em 1-2 RIR[^1] e excluindo a sessão de _Skill & Conditioning_ na sexta-feira. Você pode usar esse período para focar em técnica leve, mobilidade articular, padrões respiratórios ou alongamentos profundos, promovendo recuperação completa sem interromper o estímulo neuromuscular.
 
-4 – Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome e pesquisar por imagens ou vídeos de exemplo.
+[^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 1-2 RIR significa terminar a série com 1 ou 2 reps de reserva antes da falha. Isso garante uma estimulação eficaz com fadiga mínima, promovendo consistência e domínio técnico. Mantenha 0-1 RIR apenas para movimentos com alto domínio técnico e baixa chance de colapso postural.
 
-5 – Recomenda-se fazer pelo menos 5 minutos de alongamento ao final de cada sessão para ajudar no relaxamento e na recuperação muscular.
-
-6 – Para evitar o acúmulo de fadiga neural, a cada 3 semanas de treino ininterrupto reserve a semana 4 para reduzir em 50% o número de séries para todos os exercícios, mantendo todas as reps em RIR 1-2 e excluindo a sessão de Skill Mastery na sexta-feira. Você pode usar esse período para focar em técnica, mobilidade articular, padrões respiratórios ou alongamentos profundos, promovendo recuperação completa sem interromper o estímulo neuromuscular.
+Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome e pesquisar por imagens ou vídeos de exemplo.
 :::
 
 ::: {.subsection}
 <hgroup>
 ## Segunda-Feira: Lower Chain [↩︎](#índice)
-
 <p class="subheading">Força e equilíbrio de membros inferiores</p>
 </hgroup>
 
-### Ativação – Isométrico
+### Ativação: 30 s isométrico @ máxima contração, 1 min de descanso
 
 ::: list-stylized
-* 1 x 30 s @ máxima contração, 1 min de descanso:
-  + _Progressões_: Wall Sit → Static Squat Hold
-* 1 x 30 s @ máxima contração, 1 min de descanso:
-  + _Progressões_: Glute Bridge Hold → Feet Elevated Glute Bridge Hold
+* 1 x Wall Sit / Static Squat Hold
+* 1 x Glute Bridge Hold / Feet Elevated Glute Bridge Hold
 :::
 
-### Força Máxima
+### Força Máxima: 3-5 reps @ 0-1 RIR, 3 min de descanso
 
 ::: list-stylized
-* 3 x 1-5 reps @ 0-1 RIR[^1], 3 min de descanso:
-  + _Progressões_: Air Squat → Deep Squat → Cossack Squat → Assisted Pistol Squat → Pistol Squat
-* 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso:
-  + _Progressões_: Tall Kneeling Hip Hinge → Tall Kneeling Good Morning → Band Assisted Nordic Hamstring Curl → Nordic Hamstring Curl
+* 3 x Air Squat / Deep Squat / Cossack Squat / Assisted Pistol Squat / Pistol Squat
+* 3 x Tall Kneeling Hip Hinge / Tall Kneeling Good Morning / Band Assisted Nordic Hamstring Curl / Nordic Hamstring Curl
 :::
 
-[^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 1-2 RIR significa terminar a série com 1 ou 2 reps de reserva antes da falha. Isso garante uma estimulação eficaz com fadiga mínima, promovendo consistência e domínio técnico. Mantenha 0-1 RIR apenas para movimentos com alto domínio técnico e baixa chance de colapso postural.
-
-### Assistência de Força
+### Assistência de Força: 3-5 reps @ 1-2 RIR, 2 min de descanso
 
 ::: list-stylized
-* 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso:
-  + _Progressões_: Assisted Sissy Squat → Sissy Squat → Reverse Nordic Curl
-* 2 x 1-5 @ 1-2 RIR, 2 min de descanso:
-  + _Progressões_: Lunge → Bulgarian Split Squat → Shrimp Squat
+* 2 x Assisted Sissy Squat / Sissy Squat / Reverse Nordic Curl
+* 2 x Lunge / Bulgarian Split Squat / Shrimp Squat
 :::
 
-### Finalização (Opcional)
+### Finalizador Opcional: máximo de reps @ 1-2 RIR, 1 min de descanso
 
 ::: list-stylized
-* 2 x máximo de reps @ 1-2 RIR, 1 min de descanso:
-  + Squat Hold Calf Raise
+* 2 x Squat Hold Calf Raise
 :::
 :::
 
 ::: {.subsection}
 <hgroup>
 ## Terça-Feira: Upper Pull & Core [↩︎](#índice)
-
 <p class="subheading">Força de tração de membros superiores com core integrado</p>
 </hgroup>
 
-### Ativação – Isométrico
+### Ativação: 30 s isométrico @ máxima contração, 1 min de descanso
 
 ::: list-stylized
-* 1 x 30 s @ máxima contração, 1 min de descanso:
-  + _Progressões_: Active Hang → Arched Hang
-* 1 x 30 s @ máxima contração, 1 min de descanso:
-  + _Progressões_: Boat Hold → Hollow Body Hold
+* 1 x Active Hang / Arched Hang
+* 1 x Boat Hold / Hollow Body Hold
 :::
 
-### Força Máxima
+### Força Máxima: 3-5 reps @ 0-1 RIR, 3 min de descanso
 
 ::: list-stylized
-* 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso:
-  + _Progressões_: Pull-Up Negative → Pull-Up → Archer Pull-Up → Towel Assisted One-Arm Chin-Up → One-Arm Chin-Up
-* 3 x 1-5 @ 0-1 RIR, 3 min de descanso:
-  + _Progressões_: Kneeling Ab Ring Rollout Negative → Ab Ring Rollout → Band Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout
+* 3 x Pull-Up Negative / Pull-Up / Archer Pull-Up / Towel Assisted One-Arm Chin-Up / One-Arm Chin-Up
+* 3 x Kneeling Ab Ring Rollout Negative / Ab Ring Rollout / Band Assisted Standing Ab Ring Rollout / Standing Ab Ring Rollout
 :::
 
-### Assistência de Força
+### Assistência de Força: 3-5 reps @ 1-2 RIR, 2 min de descanso
 
 ::: list-stylized
-* 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso:
-  + _Progressões_: Bent‑Knee Ring Inverted Row → Ring Inverted Row → Decline Ring Inverted Row
-* 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso:
-  + _Progressões_: Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar
+* 2 x Bent‑Knee Ring Inverted Row / Ring Inverted Row / Decline Ring Inverted Row
+* 2 x Hanging Knee Raise / Hanging Leg Raise / Toes-to-Bar
 :::
 
-### Finalização (Opcional)
+### Finalizador Opcional: máximo de reps @ 1-2 RIR, 1 min de descanso
 
 ::: list-stylized
-* 2 x máximo de reps @ 1-2 RIR, 1 min de descanso:
-  + Scapular Pull-Up
+* 2 x Scapular Pull-Up
 :::
 :::
 
@@ -156,57 +146,46 @@ update_date: 2025-04-30
 <p class="subheading">Força de empurrão de membros superiores</p>
 </hgroup>
 
-### Ativação – Isométrico
+### Ativação: 1 x 30 s isométrico @ máxima contração, 1 min de descanso
 
 ::: list-stylized
-* 1 x 30 s @ máxima contração, 1 min de descanso:
-  + _Progressões_: Straight-Arm Plank → Planche Lean
-* 1 x 30 s @ máxima contração, 1 min de descanso:
-  + _Progressões_: Feet Assisted Ring Support Hold → Ring Support Hold
+* Straight-Arm Plank / Planche Lean
+* Feet Assisted Ring Support Hold / Ring Support Hold
 :::
 
-### Força Máxima
+### Força Máxima: 3-5 reps @ 0-1 RIR, 3 min de descanso
 
 ::: list-stylized
-* 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso:
-  + _Progressões_: Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up
-* 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso:
-  + _Progressões_: Bent‑Knee Bench Dip → Ring Push-Up → Ring Dip → Straight Bar Dip
+* 3 x Kneeling Push-Up / Push-Up / Archer Push-Up / Assisted One-Arm Push-Up / One-Arm Push-Up
+* 3 x Bent‑Knee Bench Dip / Ring Push-Up / Ring Dip / Straight Bar Dip
 :::
 
-### Assistência de Força
+### Assistência de Força: 3-5 reps @ 1-2 RIR, 2 min de descanso
 
 ::: list-stylized
-* 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso:
-  + _Progressões_: Incline Pike Push-Up → Pike Push-Up → Deficit Pike Push-Up
-* 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso:
-  + _Progressões_: Ring Triceps Extension → Reverse-Grip Push‑Up → Pseudo Planche Push‑Up
+* 2 x Incline Pike Push-Up / Pike Push-Up / Deficit Pike Push-Up
+* 2 x Ring Triceps Extension / Reverse-Grip Push‑Up / Pseudo Planche Push‑Up
 :::
 
-### Finalização (Opcional)
+### Finalizador Opcional: Máximo de reps @ 1-2 RIR, 1 min de descanso
 
 ::: list-stylized
-* 2 x máximo de reps @ 1-2 RIR, 1 min de descanso:
-  + Elevated Pike Shoulder Shrug
+* 2 x Elevated Pike Shoulder Shrug
 :::
 :::
 
 ::: {.subsection}
 <hgroup>
 ## Quinta-Feira: Active Recovery [↩︎](#índice)
-
 <p class="subheading">Regeneração sistêmica</p>
 </hgroup>
 
 ### Cardio Leve
 
 ::: list-stylized
-* 5 min @ 50-60% MHR[^2]:
-  + Caminhada
-* 20 min @ 60-70% MHR:
-  + _Progressões_: Caminhada → Corrida Leve
-* 5 min @ 50-60% MHR:
-  + Caminhada
+* 5 min @ 50-60% MHR[^2] – Caminhada
+* 20 min @ 60-70% MHR – Caminhada / Corrida Leve
+* 5 min @ 50-60% MHR – Caminhada
 :::
 
 [^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
@@ -216,26 +195,41 @@ update_date: 2025-04-30
 ::: {.subsection}
 <hgroup>
 ## Sexta-Feira: Skill & Conditioning [↩︎](#índice)
-
 <p class="subheading">Aplicação, lacunas, explosão, desafio</p>
 </hgroup>
 
-### Funcional de Alta Intensidade
+### Aquecimento: 5 min
 
 ::: list-stylized
-* 5 min:
-  + Mobilidade Técnica
-* 20 min @ domínio técnico:
-  + _Exemplos_: Muscle-Up, Handstand, Front Lever, L-Sit, Dragon Flag, Human Flag, AMRAP Test, GtG, etc
-* 20 min @ condicionamento:
-  + _Exemplos_: Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc
+* Mobilidade Técnica
+:::
+
+### Potência AMRAP[^3]: Máximo de reps, 5 min de descanso
+
+[^3]: <sup>3</sup> _AMRAP (As Many Reps as Possible)_: Máximo de reps possíveis com execução perfeita para medir seu progresso.
+
+::: list-stylized
+* 1 x Chest-to-Bar Pull-Up
+* 1 x Plyometric Push-Up
+* 1 x Squat Jump
+:::
+
+### Domínio Técnico: 10 min
+
+::: list-stylized
+* _Exemplos_: Pull-Up, Ring Dip, Muscle-Up, L-Sit, Handstand, Levers, Flags, etc
+:::
+
+### Condicionamento: 20 min
+
+::: list-stylized
+* _Exemplos_: Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc
 :::
 :::
 
 ::: {.subsection}
 <hgroup>
 ## Sábado e Domingo: Deep Rest [↩︎](#índice)
-
 <p class="subheading">Recuperação neuromuscular profunda</p>
 </hgroup>
 
