@@ -49,24 +49,24 @@ Vou mostrar tudo que você precisa para progredir do nível iniciante ao impress
 ## Dicas de Alta Performance [↩︎](#índice)
 
 ::: list-stylized
-- Não fume
-- Não consuma álcool
-- Evite soja e seus derivados
-- Reduza açúcar refinado e farinha branca
 - Consuma diariamente 1,5-2 g de proteína por kg de peso corporal
+- Reduza açúcar refinado, farinha branca, soja e seus derivados
+- Não fume nem beba álcool
 :::
 :::
 
 ::: {.subsection}
 ## Instruções [↩︎](#índice)
 
-As sessões diárias de calistenia duram aproximadamente 45 min. Faça os treinos na ordem correta e , se você faltar um dia, continue de onde parou. Recomenda-se tirar pelo menos 1 dia de descanso completo no fim da semana. Recomenda-se fazer pelo menos 5 minutos de alongamento ao final de cada sessão para ajudar no relaxamento e na recuperação muscular.
+**As sessões diárias duram aproximadamente 45 min** e é recomendado que você realize pelo menos 5 min adicionais de alongamento no final para ajudar no relaxamento e na recuperação muscular.
 
-Alguns exercícios possuem níveis de progressão, como: Nível 0 / Nível 1 / Nível 2 / Etc. Se você fizer mais de 5 reps ou mais de 30 s isométrico em todas as séries de um exercício em 2 sessões consecutivas, progrida. Se você fizer menos de 3 reps ou menos de 15 s isométrico em alguma série de um exercício, regrida. Execute todos os exercícios com a forma perfeita, mantendo as escápulas ativas e o core contraído.
+**Realize os treinos na ordem apresentada**. Se você perder 1 dia, não pule o dia perdido, mas continue de onde parou. Se você perder 2 dias, remova o treino de _Skill & Conditioning_ daquela semana.
 
-Para evitar o acúmulo de fadiga neural, a cada 3 semanas de treino ininterrupto reserve a semana 4 para reduzir em 1 o número de séries para todos os exercícios de _Força Máxima_ e _Assistência de Força_, mantendo todas as reps em 1-2 RIR[^1] e excluindo da sessão de sexta todos os exercícios de _Potência AMRAP_ e _Condicionamento_. Você pode usar esse período para focar em mobilidade articular, técnica, padrões respiratórios ou alongamentos profundos, promovendo recuperação completa sem interromper o estímulo neuromuscular.
+**Escolha seu nível para os exercícios** (Nível 0 / Nível 1 / Etc). Se, em um exercício, você tiver realizado todas as séries com mais de 5 reps ou mais de 40 s de isometria (quando aplicável) por 2 sessões consecutivas, avance para o próximo nível. No entanto, se, em qualquer série, você tiver realizado menos de 3 reps ou menos de 20 s de isometria, retorne ao nível anterior. Execute todos os exercícios com cadência controlada e forma perfeita – escápulas ativas, core contraído, sem colapso postural.
 
-Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome e pesquisar por imagens ou vídeos de exemplo.
+**Para evitar o acúmulo de fadiga neural**, a cada 3 semanas de treino ininterrupto reserve a semana 4 para reduzir o número de séries para todos os exercícios de _Força Máxima_ de 3 para 2 e de _Assistência de Força_ de 2 para 1, mantendo todas as reps em 1-2 RIR[^1] e excluindo todos os exercícios de _Potência AMRAP_ e _Condicionamento_ da sessão de _Skill & Conditioning_. Use esse período para se concentrar na mobilidade articular, no domínio técnico, nos padrões respiratórios ou em alongamentos profundos para promover a recuperação completa sem interromper a estimulação neuromuscular.
+
+**Os nomes dos exercícios estão em inglês** por motivos de padronização internacional. Dessa forma, você pode aprender mais sobre cada exercício copiando seu nome e pesquisando por imagens ou vídeos de exemplo.
 :::
 
 ::: {.subsection}
@@ -218,13 +218,13 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 ### Domínio Técnico
 
 ::: list-stylized
-- 10 min – _Exemplos_: L-Sit, Handstand, Levers, Flags, etc
+- 5-10 min – _Exemplos_: L-Sit, Handstand, Levers, Flags, etc
 :::
 
 ### Metcon[^4]
 
 ::: list-stylized
-- 20 min – _Exemplos_: Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc
+- 20-25 min – _Exemplos_: Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc
 :::
 :::
 
@@ -249,6 +249,6 @@ Os nomes dos exercícios foram mantidos em inglês por motivos de padronização
 
 [^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Máxima frequência cardíaca estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
 
-[^3]: <sup>3</sup> _AMRAP (As Many Reps as Possible)_: Faça o máximo de reps com a forma perfeita dentro de um intervalo de tempo ou até falha técnica. Mensura capacidade de trabalho, resiliência muscular e eficiência sob fadiga.
+[^3]: <sup>3</sup> _AMRAP (As Many Reps as Possible)_: Realize o máximo de reps com a forma perfeita dentro de um intervalo de tempo ou até falha técnica. Mensura capacidade de trabalho, resiliência muscular e eficiência sob fadiga.
 
 [^4]: <sup>4</sup> _Metcon (Metabolic Conditioning)_: Método de condicionamento metabólico que combina movimentos multiarticulares de alta demanda em blocos de máxima intensidade, mínima pausa e alta densidade de trabalho. Desenvolve simultaneamente capacidade cardiorrespiratória, resistência muscular local, potência, tolerância ao lactato e recuperação acelerada. Expande os limites da sua capacidade física e resiliência sob estresse fisiológico extremo.
