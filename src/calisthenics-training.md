@@ -8,7 +8,6 @@ publication_date: 2025-04-30
 update_date: 2025-04-30
 ---
 ::: section
-
 ::: {.subsection}
 ## Índice
 
@@ -227,6 +226,7 @@ update_date: 2025-04-30
 
 ::: list-stylized
 - Dias para atividades relaxantes livres.
+:::
 :::
 :::
 
