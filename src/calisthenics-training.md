@@ -230,12 +230,6 @@ update_date: 2025-04-30
 :::
 :::
 
-::: {.subsection}
-## Veja também
-- [📈 Métodos de Treinamento Avançado](/advanced-training-methods/)
-:::
-:::
-
 [^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes da falha técnica – ou seja, como se você estivesse guardando o número de repetições que ainda conseguiria realizar com a forma perfeita se continuasse, para a próxima série. Por exemplo, 1-2 RIR significa encerrar a série com 1 ou 2 reps de reserva antes da falha. Mantenha 0-1 RIR apenas para movimentos com alto domínio técnico e baixa chance de colapso postural. Isso garante uma estimulação eficaz com mínima fadiga, promovendo consistência e domínio técnico.
 
 [^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Máxima frequência cardíaca estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
