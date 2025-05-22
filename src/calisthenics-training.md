@@ -30,7 +30,7 @@ update_date: 2025-04-30
 * Barra fixa
 * Argola de suspensão olímpica
 * Colchonete para academia
-* Faixas de resistência (opcional)
+* Faixas de resistência
 * Piso firme e espaço livre
 :::
 :::
