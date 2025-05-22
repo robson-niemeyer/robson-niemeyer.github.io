@@ -69,7 +69,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 
 **Realize os treinos na ordem apresentada**. Se você perder 1 dia, pule o dia perdido e continue adiante.
 
-**Escolha seu nível para os exercícios** (Nível 0 / Nível 1 / Etc). Se, em um exercício, você tiver realizado todas as séries com mais de 5 reps ou mais de 40 s de isometria (quando aplicável) por 2 sessões consecutivas, avance para o próximo nível. No entanto, se, em qualquer série, você tiver realizado menos de 3 reps ou menos de 20 s de isometria, retorne ao nível anterior. Execute todos os exercícios com cadência controlada e forma perfeita – escápulas ativas, core contraído, sem colapso postural.
+**Escolha seu nível para os exercícios** (Nível 0 → Nível 1 → Etc). Se, em um exercício, você tiver realizado todas as séries com mais de 5 reps ou mais de 40 s de isometria (quando aplicável) por 2 sessões consecutivas, avance para o próximo nível. No entanto, se, em qualquer série, você tiver realizado menos de 3 reps ou menos de 20 s de isometria, retorne ao nível anterior. Execute todos os exercícios com cadência controlada e forma perfeita – escápulas ativas, core contraído, sem colapso postural.
 
 **Para evitar o acúmulo de fadiga neural**, a cada 3 semanas de treinamento ininterrupto, reserve a semana 4 para o deloading. Na segunda-feira, pule as fases de _Potência AMRAP_ e _Condicionamento_. Nos outros dias, reduza o número de séries de todos os exercícios de _Força Máxima_ de 3 para 2 e de _Assistência de Força_ de 2 para 1. Mude todos os exercícios para 1-2 RIR[^1]. Use esse período para se concentrar na mobilidade articular, no domínio técnico, nos padrões respiratórios ou em alongamentos profundos para promover a recuperação completa sem interromper a estimulação neuromuscular.
 
@@ -99,9 +99,9 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 ### Potência AMRAP[^2]: Máximo de reps, 5 min de descanso
 
 ::: list-stylized
-- 1 x Deep Squat / Squat Jump
-- 1 x Pull-Up / Chest-to-Bar Pull-Up / Muscle-Up
-- 1 x Push-Up / Plyometric Push-Up
+- 1 x Deep Squat → Squat Jump
+- 1 x Pull-Up → Chest-to-Bar Pull-Up → Muscle-Up
+- 1 x Push-Up → Plyometric Push-Up
 :::
 
 ### Domínio Técnico
@@ -127,7 +127,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 
 ::: list-stylized
 - 5 min @ 50-60% MHR[^4] – Caminhada
-- 20 min @ 60-70% MHR – Caminhada / Corrida Leve
+- 20 min @ 60-70% MHR – Caminhada → Corrida Leve
 - 5 min @ 50-60% MHR – Caminhada
 :::
 :::
@@ -141,22 +141,22 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 ### Ativação: 30 s isométrico @ máxima contração, 1 min de descanso
 
 ::: list-stylized
-- 1 x Wall Sit / Static Squat Hold
-- 1 x Glute Bridge Hold / Feet Elevated Glute Bridge Hold
+- 1 x Wall Sit → Static Squat Hold
+- 1 x Glute Bridge Hold → Feet Elevated Glute Bridge Hold
 :::
 
 ### Força Máxima: 3-5 reps @ 0-1 RIR, 3 min de descanso
 
 ::: list-stylized
-- 3 x Air Squat / Deep Squat / Cossack Squat / Assisted Pistol Squat / Pistol Squat
-- 3 x Tall Kneeling Hip Hinge / Tall Kneeling Good Morning / Band Assisted Nordic Hamstring Curl / Nordic Hamstring Curl
+- 3 x Air Squat → Deep Squat → Cossack Squat → Assisted Pistol Squat → Pistol Squat
+- 3 x Tall Kneeling Hip Hinge → Tall Kneeling Good Morning → Band Assisted Nordic Hamstring Curl → Nordic Hamstring Curl
 :::
 
 ### Assistência de Força: 3-5 reps @ 1-2 RIR, 2 min de descanso
 
 ::: list-stylized
-- 2 x Assisted Sissy Squat / Sissy Squat / Reverse Nordic Curl
-- 2 x Lunge / Bulgarian Split Squat / Shrimp Squat
+- 2 x Assisted Sissy Squat → Sissy Squat → Reverse Nordic Curl
+- 2 x Lunge → Bulgarian Split Squat → Shrimp Squat
 :::
 
 ### Finalizador Opcional: máximo de reps @ 1-2 RIR, 1 min de descanso
@@ -175,22 +175,22 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 ### Ativação: 30 s isométrico @ máxima contração, 1 min de descanso
 
 ::: list-stylized
-- 1 x Active Hang / Arched Hang
-- 1 x Boat Hold / Hollow Body Hold
+- 1 x Active Hang → Arched Hang
+- 1 x Boat Hold → Hollow Body Hold
 :::
 
 ### Força Máxima: 3-5 reps @ 0-1 RIR, 3 min de descanso
 
 ::: list-stylized
-- 3 x Pull-Up Negative / Pull-Up / Archer Pull-Up / Uneven Pull-Up / One-Arm Pull-Up
-- 3 x Kneeling Ab Ring Rollout Negative / Ab Ring Rollout / Band Assisted Standing Ab Ring Rollout / Standing Ab Ring Rollout
+- 3 x Pull-Up Negative → Pull-Up → Archer Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
+- 3 x Kneeling Ab Ring Rollout Negative → Ab Ring Rollout → Band Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout
 :::
 
 ### Assistência de Força: 3-5 reps @ 1-2 RIR, 2 min de descanso
 
 ::: list-stylized
-- 2 x Bent‑Knee Ring Inverted Row / Ring Inverted Row / Decline Ring Inverted Row
-- 2 x Hanging Knee Raise / Hanging Leg Raise / Toes-to-Bar
+- 2 x Bent‑Knee Ring Inverted Row → Ring Inverted Row → Decline Ring Inverted Row
+- 2 x Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar
 :::
 
 ### Finalizador Opcional: máximo de reps @ 1-2 RIR, 1 min de descanso
@@ -210,22 +210,22 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 ### Ativação: 1 x 30 s isométrico @ máxima contração, 1 min de descanso
 
 ::: list-stylized
-- Straight-Arm Plank / Planche Lean
-- Feet Assisted Ring Support Hold / Ring Support Hold
+- Straight-Arm Plank → Planche Lean
+- Feet Assisted Ring Support Hold → Ring Support Hold
 :::
 
 ### Força Máxima: 3-5 reps @ 0-1 RIR, 3 min de descanso
 
 ::: list-stylized
-- 3 x Kneeling Push-Up / Push-Up / Archer Push-Up / Assisted One-Arm Push-Up / One-Arm Push-Up
-- 3 x Bent‑Knee Bench Dip / Ring Push-Up / Ring Dip / Straight Bar Dip
+- 3 x Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up
+- 3 x Bent‑Knee Bench Dip → Ring Push-Up → Ring Dip → Straight Bar Dip
 :::
 
 ### Assistência de Força: 3-5 reps @ 1-2 RIR, 2 min de descanso
 
 ::: list-stylized
-- 2 x Incline Pike Push-Up / Pike Push-Up / Deficit Pike Push-Up
-- 2 x Ring Triceps Extension / Reverse-Grip Push‑Up / Pseudo Planche Push‑Up
+- 2 x Incline Pike Push-Up → Pike Push-Up → Deficit Pike Push-Up
+- 2 x Ring Triceps Extension → Reverse-Grip Push‑Up → Pseudo Planche Push‑Up
 :::
 
 ### Finalizador Opcional: Máximo de reps @ 1-2 RIR, 1 min de descanso
