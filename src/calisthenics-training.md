@@ -54,9 +54,9 @@ update_date: 2025-04-30
 
 2 – As sessões diárias de calistenia duram aproximadamente 45 min e são divididas em 4 fases.
 
-3 – Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome e pesquisar por imagens ou vídeos de exemplo.
+3 – Execute todos os exercícios com a forma perfeita, mantendo escápulas ativas e core contraído. Ao atingir 6 reps ou 40 s isométrico para aquele exercício em 2 sessões consecutivas, aumente a dificuldade.
 
-4 – Execute todos os exercícios com a forma perfeita, mantendo escápulas ativas e core contraído. Alguns exercícios oferecem níveis iniciante, intermediário e avançado. Ao atingir 6 reps ou 15 s isométrico para aquele exercício em 2 sessões consecutivas, aumente a dificuldade.
+4 – Os nomes dos exercícios foram mantidos em inglês por motivos de padronização internacional. Para saber mais sobre cada exercício, basta copiar o nome e pesquisar por imagens ou vídeos de exemplo.
 
 5 – Recomenda-se fazer pelo menos 5 minutos de alongamento ao final de cada sessão para ajudar no relaxamento e na recuperação muscular.
 
@@ -70,41 +70,40 @@ update_date: 2025-04-30
 <p class="subheading">Força e equilíbrio de membros inferiores</p>
 </hgroup>
 
-### Ativação Neuromuscular – Isométrico
+### Ativação – Isométrico
 
 ::: list-stylized
-* Static Squat Hold – 1 x 30 s @ máxima contração, 1 min de descanso
-* Glute Bridge Hold – 1 x 30 s isometric @ max tension, 1 min rest
+* 1 x 30 s @ máxima contração, 1 min de descanso:
+  + _Progressões_: Wall Sit → Static Squat Hold
+* 1 x 30 s @ máxima contração, 1 min de descanso:
+  + _Progressões_: Glute Bridge Hold → Feet Elevated Glute Bridge Hold
 :::
 
-###  Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
+### Força Máxima
 
 ::: list-stylized
-* Squat – 3 x 1-5 reps @ 0-1 RIR[^1], 3 min de descanso
-  + _Intermediário_: Jump Squat
-  + _Avançado_: Pistol Squat
-* Tall Kneeling Hip Hinge – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Tall Kneeling Good Morning
-  + _Avançado_: Nordic Hamstring Curl
+* 3 x 1-5 reps @ 0-1 RIR[^1], 3 min de descanso:
+  + _Progressões_: Air Squat → Deep Squat → Cossack Squat → Assisted Pistol Squat → Pistol Squat
+* 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso:
+  + _Progressões_: Tall Kneeling Hip Hinge → Tall Kneeling Good Morning → Band Assisted Nordic Hamstring Curl → Nordic Hamstring Curl
 :::
 
 [^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 1-2 RIR significa terminar a série com 1 ou 2 reps de reserva antes da falha. Isso garante uma estimulação eficaz com fadiga mínima, promovendo consistência e domínio técnico. Mantenha 0-1 RIR apenas para movimentos com alto domínio técnico e baixa chance de colapso postural.
 
-### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
+### Assistência de Força
 
 ::: list-stylized
-* Assisted Sissy Squat – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Sissy Squat
-  + _Avançado_: Reverse Nordic Curl
-* Lunge – 2 x 1-5 @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Bulgarian Split Squat
-  + _Avançado_: Shrimp Squat
+* 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso:
+  + _Progressões_: Assisted Sissy Squat → Sissy Squat → Reverse Nordic Curl
+* 2 x 1-5 @ 1-2 RIR, 2 min de descanso:
+  + _Progressões_: Lunge → Bulgarian Split Squat → Shrimp Squat
 :::
 
-### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
+### Finalização (Opcional)
 
 ::: list-stylized
-* Squat Hold Calf Raise – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
+* 2 x máximo de reps @ 1-2 RIR, 1 min de descanso:
+  + Squat Hold Calf Raise
 :::
 :::
 
@@ -115,39 +114,38 @@ update_date: 2025-04-30
 <p class="subheading">Força de tração de membros superiores com core integrado</p>
 </hgroup>
 
-### Ativação Neuromuscular – Isométrico
+### Ativação – Isométrico
 
 ::: list-stylized
-* Active Hang – 1 x 30 s @ máxima contração, 1 min de descanso
-* Hollow Body Hold – 1 x 30 s isometric @ max tension, 1 min rest
+* 1 x 30 s @ máxima contração, 1 min de descanso:
+  + _Progressões_: Active Hang → Arched Hang
+* 1 x 30 s @ máxima contração, 1 min de descanso:
+  + _Progressões_: Boat Hold → Hollow Body Hold
 :::
 
-### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
+### Força Máxima
 
 ::: list-stylized
-* Negative Pull-Up – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Pull-Up
-  + _Avançado_: Chest-to-Bar Pull-Up
-* Ring Kneeling Ab Rollout – 3 x 1-5 @ 0-1 RIR, 3 min rest
-  + Intermediário: Ring Ab Rollout
-  + Avançado: Standing Ab Rollout
+* 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso:
+  + _Progressões_: Pull-Up Negative → Pull-Up → Archer Pull-Up → Towel Assisted One-Arm Chin-Up → One-Arm Chin-Up
+* 3 x 1-5 @ 0-1 RIR, 3 min de descanso:
+  + _Progressões_: Kneeling Ab Ring Rollout Negative → Ab Ring Rollout → Band Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout
 :::
 
-### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
+### Assistência de Força
 
 ::: list-stylized
-* Ring Bent‑Knee Inverted Row – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Ring Inverted Row
-  + _Avançado_: Tuck Front Lever Row
-* Hanging Knee Raise – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Hanging Leg Raise
-  + _Avançado_: Toes-to-Bar
+* 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso:
+  + _Progressões_: Bent‑Knee Ring Inverted Row → Ring Inverted Row → Decline Ring Inverted Row
+* 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso:
+  + _Progressões_: Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar
 :::
 
-### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
+### Finalização (Opcional)
 
 ::: list-stylized
-* Scapular Pull-Up – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
+* 2 x máximo de reps @ 1-2 RIR, 1 min de descanso:
+  + Scapular Pull-Up
 :::
 :::
 
@@ -158,39 +156,38 @@ update_date: 2025-04-30
 <p class="subheading">Força de empurrão de membros superiores</p>
 </hgroup>
 
-### Ativação Neuromuscular – Isométrico
+### Ativação – Isométrico
 
 ::: list-stylized
-* Planche Lean – 1 x 30 s @ máxima contração, 1 min de descanso
-* Support Hold – 1 x 30 s isometric @ max tension, 1 min rest
+* 1 x 30 s @ máxima contração, 1 min de descanso:
+  + _Progressões_: Straight-Arm Plank → Planche Lean
+* 1 x 30 s @ máxima contração, 1 min de descanso:
+  + _Progressões_: Feet Assisted Ring Support Hold → Ring Support Hold
 :::
 
-### Potência Máxima – Concêntrico Explosivo, Excêntrico Controlado
+### Força Máxima
 
 ::: list-stylized
-* Push-Up – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Plyometric Push-Up
-  + _Avançado_: Diamond Push-Up
-* Ring Push-Up – 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso
-  + _Intermediário_: Ring Dip
-  + _Avançado_: Straight Bar Dip
+* 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso:
+  + _Progressões_: Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up
+* 3 x 1-5 reps @ 0-1 RIR, 3 min de descanso:
+  + _Progressões_: Bent‑Knee Bench Dip → Ring Push-Up → Ring Dip → Straight Bar Dip
 :::
 
-### Assistência de Força – Concêntrico Controlado, Excêntrico Controlado
+### Assistência de Força
 
 ::: list-stylized
-* Incline Pike Push-Up – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Pike Push-Up
-  + _Avançado_: Handstand Push-Up
-* Ring Triceps Extension – 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso
-  + _Intermediário_: Reverse-Grip Push‑Up
-  + _Avançado_: Pseudo Planche Push‑Up
+* 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso:
+  + _Progressões_: Incline Pike Push-Up → Pike Push-Up → Deficit Pike Push-Up
+* 2 x 1-5 reps @ 1-2 RIR, 2 min de descanso:
+  + _Progressões_: Ring Triceps Extension → Reverse-Grip Push‑Up → Pseudo Planche Push‑Up
 :::
 
-### Estabilidade Adicional – Concêntrico Controlado, Excêntrico Lento
+### Finalização (Opcional)
 
 ::: list-stylized
-* Elevated Pike Shoulder Shrug – 2 x máximo de reps @ 1-2 RIR, 1 min de descanso
+* 2 x máximo de reps @ 1-2 RIR, 1 min de descanso:
+  + Elevated Pike Shoulder Shrug
 :::
 :::
 
@@ -201,25 +198,19 @@ update_date: 2025-04-30
 <p class="subheading">Regeneração sistêmica</p>
 </hgroup>
 
-### Aquecimento
+### Cardio Leve
 
 ::: list-stylized
-* Caminhada – 5 min @ 50-60% MHR[^2]
+* 5 min @ 50-60% MHR[^2]:
+  + Caminhada
+* 20 min @ 60-70% MHR:
+  + _Progressões_: Caminhada → Corrida Leve
+* 5 min @ 50-60% MHR:
+  + Caminhada
 :::
 
 [^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Frequência cardíaca máxima estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
 
-### Cardio
-
-::: list-stylized
-*  Corrida Leve – 20 min @ 60-70% MHR
-:::
-
-### Transição
-
-::: list-stylized
-* Caminhada – 5 min @ 50-60% MHR
-:::
 :::
 
 ::: {.subsection}
@@ -229,28 +220,15 @@ update_date: 2025-04-30
 <p class="subheading">Aplicação, lacunas, explosão, desafio</p>
 </hgroup>
 
-### Aquecimento
+### Funcional de Alta Intensidade
 
 ::: list-stylized
-* Mobilidade Técnica – 5 min
-:::
-
-### Domínio Técnico
-
-::: list-stylized
-- Exemplos: Muscle-Up, Handstand, Front Lever, L-Sit, Dragon Flag, Human Flag, AMRAP Test, GtG, etc
-:::
-
-### Condicionamento
-
-::: list-stylized
-- Exemplos: Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc
-:::
-
-### Transição
-
-::: list-stylized
-* Alongamento Ativo – 10 min
+* 5 min:
+  + Mobilidade Técnica
+* 20 min @ domínio técnico:
+  + _Exemplos_: Muscle-Up, Handstand, Front Lever, L-Sit, Dragon Flag, Human Flag, AMRAP Test, GtG, etc
+* 20 min @ condicionamento:
+  + _Exemplos_: Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc
 :::
 :::
 
@@ -261,7 +239,9 @@ update_date: 2025-04-30
 <p class="subheading">Recuperação neuromuscular profunda</p>
 </hgroup>
 
-Dias para atividades relaxantes livres.
+::: list-stylized
+* Dias para atividades relaxantes livres.
+:::
 :::
 
 ::: {.subsection}

@@ -155,11 +155,11 @@ _Aplicação, lacunas, explosão, desafio_
 
 ### Domínio Técnico
 
-- Exemplos: Muscle-Up, Handstand, Front Lever
+- Exemplos: Muscle-Up, Handstand, Front Lever, L-Sit, Dragon Flag, Human Flag, AMRAP Test, GtG, etc
 
 ### Condicionamento
 
-- Exemplos: Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, AMRAP Test, etc
+- Exemplos: Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc
 
 ### Transição
 
