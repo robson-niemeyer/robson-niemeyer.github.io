@@ -1,6 +1,6 @@
 ---
 title: "💪 Treinamento de Calistenia"
-description: "Programa de treinamento semanal com progressões de exercícios do nível iniciante ao avançado."
+description: "Programa de treinamento com progressões do nível iniciante ao avançado."
 image_filename: "majestic-lukas-1XBMr_vUwdU-unsplash"
 image_alt: "Imagem de capa"
 image_source: "Majestic Lukas / Unsplash"
@@ -12,29 +12,20 @@ update_date: 2025-04-30
 ::: {.subsection}
 ## Índice
 
-- [Introdução](#introdução)
-- [Equipamentos](#equipamentos)
-- [Dicas de Alta Performance](#dicas-de-alta-performance)
-- [Instruções](#instruções)
+- [Equipamento: Você Precisará Disso](#equipamento-você-precisará-disso)
+- [Alto Desempenho: Dicas Essenciais](#alto-desempenho-dicas-essenciais)
+- [Instruções: Treinando Corretamente](#instruções-treinando-corretamente)
 - [Segunda-Feira: Lower Chain](#segunda-feira-lower-chain)
 - [Terça-Feira: Upper Pull & Core](#terça-feira-upper-pull-core)
 - [Quarta-Feira: Upper Push](#quarta-feira-upper-push)
 - [Quinta-Feira: Active Recovery](#quinta-feira-active-recovery)
 - [Sexta-Feira: Skill & Conditioning](#sexta-feira-skill-conditioning)
 - [Sábado e Domingo: Deep Rest](#sábado-e-domingo-deep-rest)
+- [Notas de Rodapé](#footnotes)
 :::
 
 ::: {.subsection}
-## Introdução [↩︎](#índice)
-Você não quer ficar só postando selfies em frente ao espelho da academia como um hamster em uma gaiola.
-
-Você deseja desbloquear habilidades físicas com alto potencial para aplicação no mundo real, treinando por si mesmo e em qualquer lugar.
-
-Vou mostrar tudo que você precisa para progredir do nível iniciante ao impressionante!
-:::
-
-::: {.subsection}
-## Equipamentos [↩︎](#índice)
+## Equipamento: Você Precisará Disso [↩︎](#índice)
 
 ::: list-stylized
 - Barra fixa
@@ -46,7 +37,7 @@ Vou mostrar tudo que você precisa para progredir do nível iniciante ao impress
 :::
 
 ::: {.subsection}
-## Dicas de Alta Performance [↩︎](#índice)
+## Alto Desempenho: Dicas Essenciais [↩︎](#índice)
 
 ::: list-stylized
 - Consuma diariamente 1,5-2 g de proteína por kg de peso corporal
@@ -56,7 +47,7 @@ Vou mostrar tudo que você precisa para progredir do nível iniciante ao impress
 :::
 
 ::: {.subsection}
-## Instruções [↩︎](#índice)
+## Instruções: Treinando Corretamente [↩︎](#índice)
 
 **As sessões diárias duram aproximadamente 45 min** e é recomendado que você realize pelo menos 5 min adicionais de alongamento no final para ajudar no relaxamento e na recuperação muscular.
 
@@ -245,7 +236,7 @@ Vou mostrar tudo que você precisa para progredir do nível iniciante ao impress
 :::
 :::
 
-[^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes de atingir a falha – ou seja, como se você estivesse guardando para a próxima série aquele número de reps que ainda conseguiria realizar com a forma perfeita caso continuasse. Por exemplo, 1-2 RIR significa terminar a série com 1 ou 2 reps de reserva antes da falha. Isso garante uma estimulação eficaz com mínima fadiga, promovendo consistência e domínio técnico. Mantenha 0-1 RIR apenas para movimentos com alto domínio técnico e baixa chance de colapso postural.
+[^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes da falha técnica – ou seja, como se você estivesse guardando o número de repetições que ainda conseguiria realizar com a forma perfeita se continuasse, para a próxima série. Por exemplo, 1-2 RIR significa encerrar a série com 1 ou 2 reps de reserva antes da falha. Mantenha 0-1 RIR apenas para movimentos com alto domínio técnico e baixa chance de colapso postural. Isso garante uma estimulação eficaz com mínima fadiga, promovendo consistência e domínio técnico.
 
 [^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Máxima frequência cardíaca estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
 
