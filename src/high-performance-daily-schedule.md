@@ -8,20 +8,21 @@ publication_date: 2025-04-11
 update_date: 2025-04-17
 ---
 ::: section
-::: {.subsection .card}
-<label for="start-time">☀️ Horário da exposição solar (T<sub>0</sub>[^1])</label>
+::: {.subsection}
+## Sumário {#summary}
 
-[^1]: <sup>1</sup> _T<sub>0</sub> (Tempo Zero)_: instante em que os primeiros raios solares tocam diretamente o solo. Alinha o cronograma ao ritmo circadiano real — baseado no ciclo solar local, não no relógio. Exemplo: se sua exposição solar é às 08:00, T<sub>0</sub> = 08:00, e o cronograma se ajusta a partir disso.
-
-::: input-group
-<input type="time" id="start-time" />
-<button id="now-btn">Agora</button>
-:::
+- [Introdução](#introduction)
+- [Inicialização](#initialization)
+- [Foco Cognitivo](#cognitive-focus)
+- [Expressão Criativa](#creative-expression)
+- [Potência Física](#physical-power)
+- [Desligamento & Reinício](#shutdown-and-restart)
+- [Checkpoint](#checkpoint)
 :::
 
 ::: {.subsection}
 <hgroup>
-## Introdução
+## Introdução [↩︎](#summary) {#introduction}
 <p class="subheading">Um ponto de partida sólido para deixar emergir seu estado de fluxo.</p>
 </hgroup>
 
@@ -30,9 +31,20 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 
 ::: {.subsection}
 <hgroup>
-## 1. Inicialização
+## Inicialização [↩︎](#summary) {#initialization}
 <p class="subheading">Sincronização circadiana e ativação da mente e do corpo.</p>
 </hgroup>
+
+::: {.card}
+<label for="start-time">☀️ Selecione o horário da exposição solar para ajustar o cronograma (T<sub>0</sub>[^1]):</label>
+
+[^1]: <sup>1</sup> _T<sub>0</sub> (Tempo Zero)_: instante em que os primeiros raios solares tocam diretamente o solo. Alinha o cronograma ao ritmo circadiano real — baseado no ciclo solar local, não no relógio. Exemplo: se sua exposição solar é às 08:00, T<sub>0</sub> = 08:00, e o cronograma se ajusta a partir disso.
+
+::: input-group
+<input type="time" id="start-time" />
+<button id="now-btn">Agora</button>
+:::
+:::
 
 ::: list-stylized
 * **[06:00 às 06:15]{.block-time-range} – Checkpoint:** Avaliação objetiva do estado interno ao acordar e arrumação da cama.
@@ -44,7 +56,7 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 
 ::: {.subsection}
 <hgroup>
-## 2. Foco Cognitivo
+## Foco Cognitivo [↩︎](#summary) {#cognitive-focus}
 <p class="subheading">Os dois modos de pensamento: focado e difuso.</p>
 </hgroup>
 
@@ -60,7 +72,7 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 
 ::: {.subsection}
 <hgroup>
-## 3. Expressão Criativa
+## Expressão Criativa [↩︎](#summary) {#creative-expression}
 <p class="subheading">Imaginação dirigida, revisão e fluxo criativo.</p>
 </hgroup>
 
@@ -74,7 +86,7 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 
 ::: {.subsection}
 <hgroup>
-## 4. Potência Física
+## Potência Física [↩︎](#summary) {#physical-power}
 <p class="subheading">Treinamento físico focado na superação de si mesmo.</p>
 </hgroup>
 
@@ -91,7 +103,7 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 
 ::: {.subsection}
 <hgroup>
-## 5. Desligamento e Reinício
+## Desligamento & Reinício [↩︎](#summary) {#shutdown-and-restart}
 <p class="subheading">Desaceleração sensorial e regeneração da mente e do corpo.</p>
 </hgroup>
 
@@ -103,10 +115,31 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 :::
 
 ::: {.subsection}
+<hgroup>
+## Checkpoint {#checkpoint}
+<p class="subheading">Momentos estratégicos do dia para parar, sentir e ajustar corpo e mente.</p>
+</hgroup>
+
+Em cada checkpoint, observe:
+
+::: list-stylized
+* Energia física
+* Clareza mental
+* Estabilidade emocional
+* Motivação essencial
+:::
+
+Evite registros extensos — o foco é a leitura interna seguida de ação objetiva.
+
+Se quiser anotar, basta uma linha clara:
+
+**“Apto para foco total”**, **“Reduzir intensidade”**, ou **“Prolongar descanso”**.
+:::
+
+::: {.subsection}
 ## Veja também
 
 * [💪 Treinamento de Calistenia](/calisthenics-training/)
-* [✅ Protocolo de Checkpoint](/checkpoint-protocol/)
 * [🏕️ Ritmo Solar](/solar-rhythm/)
 :::
 :::

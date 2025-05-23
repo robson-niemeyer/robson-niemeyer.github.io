@@ -9,12 +9,11 @@ update_date: 2025-04-30
 ---
 ::: section
 ::: {.subsection}
-## Índice {#index}
+## Sumário {#summary}
 
 - [Introdução](#introduction)
 - [Equipamento](#equipment)
-- [Alto Desempenho](#high-performance)
-- [Instruções](#instructions)
+- [Instrução](#instruction)
 - [Segunda-Feira: Skill & Conditioning](#skill-and-conditioning)
 - [Terça-Feira: Active Recovery](#active-recovery)
 - [Quarta-Feira: Lower Chain](#lower-chain)
@@ -25,13 +24,13 @@ update_date: 2025-04-30
 :::
 
 ::: {.subsection}
-## Introdução [↩︎](#index) {#introduction}
+## Introdução [↩︎](#summary) {#introduction}
 
 Você não nasceu pra ser um hamster na esteira da academia. Você quer **potência, domínio físico e liberdade** — treinando sozinho, em qualquer lugar. Este é o método que te leva do zero ao nível elite!
 :::
 
 ::: {.subsection}
-## Equipamento [↩︎](#index) {#equipment}
+## Equipamento [↩︎](#summary) {#equipment}
 
 ### Necessário
 
@@ -53,17 +52,11 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 :::
 
 ::: {.subsection}
-## Alto Desempenho [↩︎](#index) {#high-performance}
+## Instrução [↩︎](#summary) {#instruction}
 
-::: list-stylized
-- Consuma diariamente **1,5-2 g de proteína por kg** de peso corporal
-- Reduza açúcar refinado, farinha branca, soja e seus derivados
-- Não fume nem beba álcool
-:::
-:::
-
-::: {.subsection}
-## Instruções [↩︎](#index) {#instructions}
+> Consuma diariamente **1,5-2 g de proteína por kg** de peso corporal  
+> Reduza açúcar refinado, farinha branca, soja e seus derivados  
+> Não fume nem beba álcool
 
 **As sessões diárias duram aproximadamente 45 min** e é recomendado que você faça pelo menos 15 min adicionais de alongamento no final para ajudar na recuperação muscular e aumentar sua flexibilidade.
 
@@ -78,7 +71,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 
 ::: {.subsection}
 <hgroup>
-## Segunda-Feira: Skill & Conditioning [↩︎](#index) {#skill-and-conditioning}
+## Segunda-Feira: Skill & Conditioning [↩︎](#summary) {#skill-and-conditioning}
 <p class="subheading">Aplicação, lacunas, explosão, desafio</p>
 </hgroup>
 
@@ -119,7 +112,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 
 ::: {.subsection}
 <hgroup>
-## Terça-Feira: Active Recovery [↩︎](#index) {#active-recovery}
+## Terça-Feira: Active Recovery [↩︎](#summary) {#active-recovery}
 <p class="subheading">Regeneração sistêmica</p>
 </hgroup>
 
@@ -127,14 +120,14 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 
 ::: list-stylized
 - 5 min com 50-60% MHR[^4] – Caminhada
-- 20 min com 60-70% MHR – Caminhada → Corrida Leve
+- 20-25 min com 60-70% MHR – Caminhada → Corrida Leve
 - 5 min com 50-60% MHR – Caminhada
 :::
 :::
 
 ::: {.subsection}
 <hgroup>
-## Quarta-Feira: Lower Chain [↩︎](#index) {#lower-chain}
+## Quarta-Feira: Lower Chain [↩︎](#summary) {#lower-chain}
 <p class="subheading">Força e equilíbrio de membros inferiores</p>
 </hgroup>
 
@@ -168,7 +161,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 
 ::: {.subsection}
 <hgroup>
-## Quinta-Feira: Upper Pull & Core [↩︎](#index) {#upper-pull-and-core}
+## Quinta-Feira: Upper Pull & Core [↩︎](#summary) {#upper-pull-and-core}
 <p class="subheading">Força de tração de membros superiores com core integrado</p>
 </hgroup>
 
@@ -202,7 +195,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 
 ::: {.subsection}
 <hgroup>
-## Sexta-Feira: Upper Push [↩︎](#index) {#upper-push}
+## Sexta-Feira: Upper Push [↩︎](#summary) {#upper-push}
 
 <p class="subheading">Força de empurrão de membros superiores</p>
 </hgroup>
@@ -237,7 +230,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 
 ::: {.subsection}
 <hgroup>
-## Sábado e Domingo: Deep Rest [↩︎](#index) {#deep-rest}
+## Sábado e Domingo: Deep Rest [↩︎](#summary) {#deep-rest}
 <p class="subheading">Recuperação neuromuscular profunda</p>
 </hgroup>
 
