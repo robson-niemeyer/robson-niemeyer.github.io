@@ -27,7 +27,7 @@ update_date: 2025-04-30
 ::: {.subsection}
 ## Introdução [↩︎](#index) {#introduction}
 
-Você não nasceu pra ser um hamster na esteira da academia. Você quer **potência, domínio físico e liberdade** — treinando sozinho, em qualquer lugar. Este é o método que te leva do zero a atleta de elite!
+Você não nasceu pra ser um hamster na esteira da academia. Você quer **potência, domínio físico e liberdade** — treinando sozinho, em qualquer lugar. Este é o método que te leva do zero ao nível elite!
 :::
 
 ::: {.subsection}
