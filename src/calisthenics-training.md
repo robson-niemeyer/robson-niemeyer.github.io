@@ -67,7 +67,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 
 **As sessões diárias duram aproximadamente 45 min** e é recomendado que você faça pelo menos 15 min adicionais de alongamento no final para ajudar na recuperação muscular e aumentar sua flexibilidade.
 
-**Realize os treinos na ordem apresentada**. Você pode adiantar todas as suas sessões em 1 dia, treinando de domingo a quinta-feira. Se perder 1 dia, você pode compensar reservando apenas 1 dia de descanso profundo no fim de semana. Se perder 2 ou mais dias, pule os dias perdidos e continue adiante.
+**Realize os treinos na ordem apresentada**. Se desejar, você pode adiantar todas as suas sessões em 1 dia, treinando de domingo a quinta-feira. Se perder 1 dia, você pode compensar reservando apenas 1 dia de descanso profundo no fim de semana. Se perder 2 ou mais dias, pule os dias perdidos e continue adiante.
 
 **Escolha seu nível para os exercícios** (Nível 0 → Nível 1 → Etc). Se, em um exercício, você tiver realizado todas as séries com mais de 5 reps ou mais de 30 s de isometria (quando aplicável) por 2 sessões consecutivas, avance para o próximo nível. No entanto, se, em qualquer série, você tiver realizado menos de 3 reps ou menos de 15 s de isometria, retorne ao nível anterior. Execute todos os exercícios com cadência controlada e forma perfeita – escápulas ativas, core contraído, sem colapso postural.
 
