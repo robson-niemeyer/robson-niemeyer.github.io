@@ -89,7 +89,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 - 2 x Band External Rotation
 :::
 
-### AMRAP[^1] (máximo de reps com máxima potência; 5 min de descanso)
+### AMRAP[^1] (máximo de reps com máxima potência; 4+ min de descanso)
 
 ::: list-stylized
 - 1 x Deep Squat → Squat Jump
