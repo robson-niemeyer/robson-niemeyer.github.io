@@ -24,6 +24,7 @@ update_date: 2025-04-17
 - [Décimo Mês](#month-10)
 - [Décimo Primeiro Mês](#month-11)
 - [Décimo Segundo Mês](#month-12)
+- [Notas de Rodapé](#footnotes)
 :::
 
 ::: {.subsection}
@@ -176,7 +177,8 @@ update_date: 2025-04-17
 
 ::: {.subsection}
 ## Veja também
+* [💪 Treinamento de Calistenia](/calisthenics-training/)
 * [⏱️ Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
-* [🏕️ Ritmo Solar](/solar-rhythm/)
+* [🏕️ Poesia do Ritmo Solar](/poetry-of-solar-rhythm/)
 :::
 :::

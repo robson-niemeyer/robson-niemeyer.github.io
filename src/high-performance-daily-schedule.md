@@ -140,6 +140,7 @@ Se quiser anotar, basta uma linha clara:
 ## Veja também
 
 * [💪 Treinamento de Calistenia](/calisthenics-training/)
-* [🏕️ Ritmo Solar](/solar-rhythm/)
+* [🏕️ Poesia do Ritmo Solar](/poetry-of-solar-rhythm/)
+* [🌄 Calendário Solar Cronobiológico](/chronobiological-solar-calendar/)
 :::
 :::

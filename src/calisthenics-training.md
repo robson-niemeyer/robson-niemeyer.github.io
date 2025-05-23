@@ -240,6 +240,14 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 :::
 :::
 
+::: {.subsection}
+## Veja também
+
+* [⏱️ Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
+- [🏕️ Poesia do Ritmo Solar](/poetry-of-solar-rhythm/)
+* [🌄 Calendário Solar Cronobiológico](/chronobiological-solar-calendar/)
+:::
+
 [^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes da falha técnica – ou seja, como se você estivesse guardando o número de repetições que ainda conseguiria realizar com a forma perfeita se continuasse, para a próxima série. Por exemplo, 1-2 RIR significa encerrar a série com 1 ou 2 reps de reserva antes da falha. Mantenha 0-1 RIR apenas para movimentos com alto domínio técnico e baixa chance de colapso postural. Isso garante uma estimulação eficaz com mínima fadiga, promovendo consistência e domínio técnico.
 
 [^2]: <sup>2</sup> _AMRAP (As Many Reps as Possible)_: Realize o máximo de reps com a forma perfeita dentro de um intervalo de tempo ou até falha técnica. Mensura capacidade de trabalho, resiliência muscular e eficiência sob fadiga.
