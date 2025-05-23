@@ -38,8 +38,8 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 ::: list-stylized
 - Barra fixa \([Comprar](https://amzn.to/4duZjsI){target=\_blank}\)
 - Argolas de suspensão olímpicas \([Comprar](https://amzn.to/43nnOn7){target=\_blank}\)
-- Colchonete de ginástica \([Comprar](https://amzn.to/43tWnbi){target=\_blank}\)
-- Faixas de resistência
+- Colchonete de ginástica \([Comprar](https://amzn.to/4jlNfvs){target=\_blank}\)
+- Faixas de resistência \([Comprar](https://amzn.to/4kwoNs2){target=\_blank}\)
 - Piso firme e espaço livre
 :::
 
