@@ -36,9 +36,9 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 ### Necessário
 
 ::: list-stylized
-- Barra fixa
-- Argolas de suspensão olímpicas
-- Colchonete de ginástica
+- Barra fixa \([Comprar](https://amzn.to/4duZjsI){target=\_blank}\)
+- Argolas de suspensão olímpicas \([Comprar](https://amzn.to/43nnOn7){target=\_blank}\)
+- Colchonete de ginástica \([Comprar](https://amzn.to/43tWnbi){target=\_blank}\)
 - Faixas de resistência
 - Piso firme e espaço livre
 :::
@@ -46,8 +46,8 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 ### Opcional
 
 ::: list-stylized
-- Corda de pular
-- Corda de batalha
+- Corda de pular \([Comprar](https://amzn.to/44QnEXP){target=\_blank}\)
+- Corda de batalha \([Comprar](https://amzn.to/4k5MFCZ){target=\_blank}\)
 - Tênis de corrida
 :::
 :::
