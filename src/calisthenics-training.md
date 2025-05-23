@@ -58,7 +58,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 > Reduza açúcar refinado, farinha branca, soja e seus derivados  
 > Não fume nem beba álcool
 
-**As sessões diárias duram aproximadamente 45 min** e é recomendado que você faça pelo menos 15 min adicionais de alongamento no final para ajudar na recuperação muscular e aumentar sua flexibilidade.
+**As sessões diárias duram 45-60 min** e é recomendado que você faça pelo menos 15 min adicionais de alongamento no final para ajudar na recuperação muscular e aumentar sua flexibilidade.
 
 **Realize os treinos na ordem apresentada**. Se desejar, você pode adiantar todas as suas sessões em 1 dia, treinando de domingo a quinta-feira. Se perder 1 dia, você pode compensar reservando apenas 1 dia de descanso profundo no fim de semana. Se perder 2 ou mais dias, pule os dias perdidos e continue adiante.
 
@@ -131,7 +131,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 <p class="subheading">Força e equilíbrio de membros inferiores</p>
 </hgroup>
 
-### Ativação (30 s de isometria com máxima contração; 1 min de descanso)
+### Ativação (30 s de isometria com máxima contração; 30 s de descanso)
 
 ::: list-stylized
 - 1 x Wall Sit → Static Squat Hold
@@ -165,7 +165,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 <p class="subheading">Força de tração de membros superiores com core integrado</p>
 </hgroup>
 
-### Ativação (30 s de isometria com máxima contração; 1 min de descanso)
+### Ativação (30 s de isometria com máxima contração; 30 s de descanso)
 
 ::: list-stylized
 - 1 x Passive Hang → Active Hang
@@ -200,7 +200,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 <p class="subheading">Força de empurrão de membros superiores</p>
 </hgroup>
 
-### Ativação (30 s de isometria com máxima contração; 1 min de descanso)
+### Ativação (30 s de isometria com máxima contração; 30 s de descanso)
 
 ::: list-stylized
 - 1 x Straight-Arm Plank → Planche Lean
