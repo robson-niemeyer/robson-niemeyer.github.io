@@ -18,6 +18,7 @@ update_date: 2025-04-17
 - [Potência Física](#physical-power)
 - [Desligamento & Reinício](#shutdown-and-restart)
 - [Checkpoint](#checkpoint)
+- [Notas de Rodapé](#footnotes)
 :::
 
 ::: {.subsection}
