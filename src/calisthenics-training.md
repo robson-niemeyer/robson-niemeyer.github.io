@@ -65,11 +65,11 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 ::: {.subsection}
 ## Instruções [↩︎](#index) {#instructions}
 
-**As sessões diárias duram aproximadamente 45 min** e é recomendado que você realize pelo menos 5 min adicionais de alongamento no final para ajudar no relaxamento e na recuperação muscular.
+**As sessões diárias duram aproximadamente 45 min** e é recomendado que você faça pelo menos 15 min adicionais de alongamento no final para ajudar na recuperação muscular e aumentar sua flexibilidade.
 
-**Realize os treinos na ordem apresentada**. Se você perder 1 dia, pule o dia perdido e continue adiante.
+**Realize os treinos na ordem apresentada**. Você pode adiantar todas as suas sessões em 1 dia, treinando de domingo a quinta-feira. Se perder 1 dia, você pode compensar reservando apenas 1 dia de descanso profundo no fim de semana. Se perder 2 ou mais dias, pule os dias perdidos e continue adiante.
 
-**Escolha seu nível para os exercícios** (Nível 0 → Nível 1 → Etc). Se, em um exercício, você tiver realizado todas as séries com mais de 5 reps ou mais de 40 s de isometria (quando aplicável) por 2 sessões consecutivas, avance para o próximo nível. No entanto, se, em qualquer série, você tiver realizado menos de 3 reps ou menos de 20 s de isometria, retorne ao nível anterior. Execute todos os exercícios com cadência controlada e forma perfeita – escápulas ativas, core contraído, sem colapso postural.
+**Escolha seu nível para os exercícios** (Nível 0 → Nível 1 → Etc). Se, em um exercício, você tiver realizado todas as séries com mais de 5 reps ou mais de 30 s de isometria (quando aplicável) por 2 sessões consecutivas, avance para o próximo nível. No entanto, se, em qualquer série, você tiver realizado menos de 3 reps ou menos de 15 s de isometria, retorne ao nível anterior. Execute todos os exercícios com cadência controlada e forma perfeita – escápulas ativas, core contraído, sem colapso postural.
 
 **Para evitar o acúmulo de fadiga neural**, a cada 3 semanas de treinamento ininterrupto, reserve a semana 4 para o deloading. Na segunda-feira, pule as fases de _Potência AMRAP_ e _Condicionamento_. Nos outros dias, reduza o número de séries de todos os exercícios de _Força Máxima_ de 3 para 2 e de _Assistência de Força_ de 2 para 1. Mude todos os exercícios para 1-2 RIR[^1]. Use esse período para se concentrar na mobilidade articular, no domínio técnico, nos padrões respiratórios ou em alongamentos profundos para promover a recuperação completa sem interromper a estimulação neuromuscular.
 
@@ -100,7 +100,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 
 ::: list-stylized
 - 1 x Deep Squat → Squat Jump
-- 1 x Pull-Up → Chest-to-Bar Pull-Up → Muscle-Up
+- 1 x Pull-Up → Chest-to-Bar Pull-Up → Bar Pullover → Muscle-Up
 - 1 x Push-Up → Plyometric Push-Up
 :::
 
