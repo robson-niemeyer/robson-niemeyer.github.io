@@ -153,10 +153,7 @@ em,
 }
 
 a {
-  align-items: center;
-  display: inline-flex;
   font-weight: 500;
-  gap: 0.25rem;
   text-decoration: none;
   transition: all var(--transition-duration) ease-out;
 }
@@ -183,8 +180,14 @@ label {
   text-transform: uppercase;
 }
 
-.text-center {
+.text-center-h {
   text-align: center;
+}
+
+.text-center-v {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.25rem;
 }
 
 .text-uppercase {
