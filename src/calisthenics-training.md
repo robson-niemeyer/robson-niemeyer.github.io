@@ -28,7 +28,7 @@ update_date: 2025-04-30
 
 <p>Você não nasceu pra ser um hamster na esteira da academia. Você quer **potência, domínio físico e liberdade** — treinando sozinho, em qualquer lugar. Este é o método que te leva do zero ao nível elite!</p>
 
-<p>Este é um sistema de **treinamento de alto desempenho** baseado em calistenia pura, sem depender de cargas externas. Combina força máxima, habilidades de ginástica e condicionamento metabólico em um modelo de progressão preciso, seguro e eficiente. Nenhum movimento é aleatório. Cada sessão expande seus limites físicos, sua inteligência motora e sua resiliência fisiológica. Força, habilidade e potência integradas – para o máximo domínio do seu corpo.</p>
+<p>Este é um sistema de **treinamento de alto desempenho** baseado em calistenia pura, sem depender de cargas externas. Combina força máxima, habilidades de ginástica e condicionamento metabólico em um modelo de progressão preciso, seguro e eficiente. Nenhum movimento é aleatório. Cada sessão expande seus limites físicos, sua inteligência motora e sua resiliência fisiológica. Força, habilidade e potência integradas – para a máxima liberdade do seu corpo.</p>
 </section>
 
 
