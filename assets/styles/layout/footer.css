@@ -9,6 +9,7 @@
 
 #footer a:any-link {
   color: var(--color-secondary);
+  font-weight: 600;
 }
 
 #footer a:hover {

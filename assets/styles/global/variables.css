@@ -22,12 +22,6 @@
 
   --font-family-monospace: monospace;
 
-  --font-weight-bold: 700;
-  --font-weight-bolder: 600;
-  --font-weight-medium: 500;
-  --font-weight-regular: 400;
-  --font-weight-light: 300;
-
   --border-color: lch(75% 6.25 270);
 
   --transition-duration: 330ms;

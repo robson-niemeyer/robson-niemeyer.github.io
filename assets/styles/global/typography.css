@@ -41,7 +41,7 @@ hgroup p {
 h1 {
   font-family: var(--font-family-heading);
   font-size: var(--font-size-h1);
-  font-weight: var(--font-weight-bold);
+  font-weight: 700;
   letter-spacing: 1px;
   line-height: var(--line-height-heading);
   margin-bottom: 0.5rem;
@@ -51,7 +51,7 @@ h1 {
 h2 {
   font-family: var(--font-family-heading);
   font-size: var(--font-size-h2);
-  font-weight: var(--font-weight-bold);
+  font-weight: 700;
   letter-spacing: 1px;
   line-height: var(--line-height-heading);
   text-transform: uppercase;
@@ -75,7 +75,7 @@ main hgroup h2 {
 h3 {
   font-family: var(--font-family-heading);
   font-size: var(--font-size-h3);
-  font-weight: var(--font-weight-bold);
+  font-weight: 700;
   letter-spacing: 1px;
   line-height: var(--line-height-heading);
   margin-top: 2rem;
@@ -83,7 +83,7 @@ h3 {
 
 h4 {
   font-family: var(--font-family-heading);
-  font-weight: var(--font-weight-bold);
+  font-weight: 700;
   letter-spacing: 1px;
   line-height: var(--line-height-heading);
   margin-top: 2rem;
@@ -144,7 +144,7 @@ li[id^="fn"] *,
 
 strong,
 .text-bold {
-  font-weight: var(--font-weight-bold);
+  font-weight: 700;
 }
 
 em,
@@ -155,7 +155,7 @@ em,
 a {
   align-items: center;
   display: inline-flex;
-  font-weight: var(--font-weight-medium);
+  font-weight: 500;
   gap: 0.25rem;
   text-decoration: none;
   transition: all var(--transition-duration) ease-out;
@@ -178,7 +178,7 @@ blockquote {
 label {
   font-family: var(--font-family-heading);
   font-size: var(--font-size-small);
-  font-weight: var(--font-weight-bolder);
+  font-weight: 600;
   letter-spacing: 1px;
   text-transform: uppercase;
 }

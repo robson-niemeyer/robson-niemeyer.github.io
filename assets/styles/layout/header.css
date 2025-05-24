@@ -1,3 +1,17 @@
 #header {
   padding: 2rem 0 0;
 }
+
+#navbar {
+  background-color: var(--background-color-secondary);
+  text-transform: uppercase;
+}
+
+#navbar a:any-link {
+  color: var(--color-secondary);
+  font-weight: 600;
+}
+
+#navbar a:hover {
+  color: var(--color-primary);
+}

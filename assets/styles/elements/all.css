@@ -1,21 +1,4 @@
 /**
- * nav
- */
-
-#navbar {
-  background-color: var(--background-color-secondary);
-  text-transform: uppercase;
-}
-
-#navbar a:any-link {
-  color: var(--color-secondary);
-}
-
-#navbar a:hover {
-  color: var(--color-primary);
-}
-
-/**
  * button
  */
 
