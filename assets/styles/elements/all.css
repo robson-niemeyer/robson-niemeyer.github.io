@@ -1,5 +1,14 @@
 /**
- * Button
+ * nav
+ */
+
+#navbar {
+  background-color: var(--background-color-secondary);
+  text-transform: uppercase;
+}
+
+/**
+ * button
  */
 
 button {
@@ -26,7 +35,7 @@ button:hover {
 }
 
 /**
- * Card
+ * card
  */
 
 .card {
@@ -36,7 +45,7 @@ button:hover {
 }
 
 /**
- * Image
+ * image
  */
 
 figure {
@@ -76,7 +85,7 @@ svg {
 }
 
 /**
- * Input
+ * input
  */
 
 input {

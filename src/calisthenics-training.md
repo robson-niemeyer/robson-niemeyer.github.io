@@ -1,5 +1,5 @@
 ---
-title: "💪 Treinamento de Calistenia"
+title: "Treinamento de Calistenia"
 description: "Programa de treinamento com progressões do nível iniciante ao avançado."
 image_filename: "majestic-lukas-1XBMr_vUwdU-unsplash"
 image_alt: "Imagem de capa"

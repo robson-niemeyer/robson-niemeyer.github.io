@@ -1,5 +1,5 @@
 ---
-title: "⏱️ Cronograma Diário de Alta Performance"
+title: "Cronograma Diário de Alta Performance"
 description: "Rotina diária sincronizada com ritmos circadianos, ritmos ultradianos e checkpoints estratégicos."
 image_filename: "afshin-t2y-3_PVkGcXqgQ-unsplash"
 image_alt: "Imagem de capa"

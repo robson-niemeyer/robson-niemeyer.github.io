@@ -1,5 +1,5 @@
 ---
-title: "🏕️ Poesia do Ritmo Solar"
+title: "Poesia do Ritmo Solar"
 description: "Teu corpo segue o sol. Tua mente floresce na luz."
 date: "2025-04-09"
 image_filename: "dave-hoefler-a3e7yEtQxJs-unsplash"

@@ -1,5 +1,5 @@
 ---
-title: "🌄 Calendário Solar Cronobiológico"
+title: "Calendário Solar Cronobiológico"
 description: "Dominar o tempo é forjar o destino."
 image_filename: "ivana-cajina-dQejX2ucPBs-unsplash"
 image_alt: "Imagem de capa"
