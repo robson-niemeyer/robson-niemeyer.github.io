@@ -7,8 +7,8 @@ image_source: "Afshin T2Y / Unsplash"
 publication_date: 2025-04-11
 update_date: 2025-04-17
 ---
-::: section
-::: {.subsection}
+
+::: {.section}
 ## Sumário {#summary}
 
 - [Introdução](#introduction)
@@ -21,7 +21,7 @@ update_date: 2025-04-17
 - [Notas de Rodapé](#footnotes)
 :::
 
-::: {.subsection}
+::: {.section}
 <hgroup>
 ## Introdução [↩︎](#summary) {#introduction}
 <p class="subheading">Um ponto de partida sólido para deixar emergir seu estado de fluxo.</p>
@@ -30,7 +30,7 @@ update_date: 2025-04-17
 Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Use-o como um guia inicial, observe sua energia ao longo do dia e personalize-o conforme necessário. Seu ritmo é único — conheça a si mesmo.
 :::
 
-::: {.subsection}
+::: {.section}
 <hgroup>
 ## Inicialização [↩︎](#summary) {#initialization}
 <p class="subheading">Sincronização circadiana e ativação da mente e do corpo.</p>
@@ -55,7 +55,7 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 :::
 :::
 
-::: {.subsection}
+::: {.section}
 <hgroup>
 ## Foco Cognitivo [↩︎](#summary) {#cognitive-focus}
 <p class="subheading">Os dois modos de pensamento: focado e difuso.</p>
@@ -71,7 +71,7 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 :::
 :::
 
-::: {.subsection}
+::: {.section}
 <hgroup>
 ## Expressão Criativa [↩︎](#summary) {#creative-expression}
 <p class="subheading">Imaginação dirigida, revisão e fluxo criativo.</p>
@@ -85,7 +85,7 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 :::
 :::
 
-::: {.subsection}
+::: {.section}
 <hgroup>
 ## Potência Física [↩︎](#summary) {#physical-power}
 <p class="subheading">Treinamento físico focado na superação de si mesmo.</p>
@@ -102,7 +102,7 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 :::
 :::
 
-::: {.subsection}
+::: {.section}
 <hgroup>
 ## Desligamento & Reinício [↩︎](#summary) {#shutdown-and-restart}
 <p class="subheading">Desaceleração sensorial e regeneração da mente e do corpo.</p>
@@ -115,7 +115,7 @@ Este cronograma foi desenvolvido com base na ciência dos ritmos biológicos. Us
 :::
 :::
 
-::: {.subsection}
+::: {.section}
 <hgroup>
 ## Checkpoint {#checkpoint}
 <p class="subheading">Momentos estratégicos do dia para parar, sentir e ajustar corpo e mente.</p>
@@ -137,11 +137,10 @@ Se quiser anotar, basta uma linha clara:
 **“Apto para foco total”**, **“Reduzir intensidade”**, ou **“Prolongar descanso”**.
 :::
 
-::: {.subsection}
+::: {.section}
 ## Veja também
 
 * [💪 Treinamento de Calistenia](/calisthenics-training/)
 * [🏕️ Poesia do Ritmo Solar](/poetry-of-solar-rhythm/)
 * [🌄 Calendário Solar Cronobiológico](/chronobiological-solar-calendar/)
-:::
 :::

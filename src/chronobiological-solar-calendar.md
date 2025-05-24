@@ -8,8 +8,7 @@ publication_date: 2025-04-08
 update_date: 2025-04-17
 ---
 
-::: section
-::: {.subsection}
+::: {.section}
 ## Sumário {#summary}
 
 - [Primeiro Mês](#month-1)
@@ -27,7 +26,7 @@ update_date: 2025-04-17
 - [Notas de Rodapé](#footnotes)
 :::
 
-::: {.subsection}
+::: {.section}
 ## Primeiro Mês [↩︎](#summary) {#month-1}
 
 ::: list-stylized
@@ -43,7 +42,7 @@ update_date: 2025-04-17
 
 :::
 
-::: {.subsection}
+::: {.section}
 ## Segundo Mês [↩︎](#summary) {#month-2}
 
 ::: list-stylized
@@ -55,7 +54,7 @@ update_date: 2025-04-17
 :::
 :::
 
-::: {.subsection}
+::: {.section}
 ## Terceiro Mês [↩︎](#summary) {#month-3}
 
 ::: list-stylized
@@ -67,7 +66,7 @@ update_date: 2025-04-17
 :::
 :::
 
-::: {.subsection}
+::: {.section}
 ## Quarto Mês [↩︎](#summary) {#month-4}
 
 ::: list-stylized
@@ -79,7 +78,7 @@ update_date: 2025-04-17
 :::
 :::
 
-::: {.subsection}
+::: {.section}
 ## Quinto Mês [↩︎](#summary) {#month-5}
 
 ::: list-stylized
@@ -91,7 +90,7 @@ update_date: 2025-04-17
 :::
 :::
 
-::: {.subsection}
+::: {.section}
 ## Sexto Mês [↩︎](#summary) {#month-6}
 
 ::: list-stylized
@@ -103,7 +102,7 @@ update_date: 2025-04-17
 :::
 :::
 
-::: {.subsection}
+::: {.section}
 ## Sétimo Mês [↩︎](#summary) {#month-7}
 
 ::: list-stylized
@@ -115,7 +114,7 @@ update_date: 2025-04-17
 :::
 :::
 
-::: {.subsection}
+::: {.section}
 ## Oitavo Mês [↩︎](#summary) {#month-8}
 
 ::: list-stylized
@@ -127,7 +126,7 @@ update_date: 2025-04-17
 :::
 :::
 
-::: {.subsection}
+::: {.section}
 ## Nono Mês [↩︎](#summary) {#month-9}
 
 ::: list-stylized
@@ -139,7 +138,7 @@ update_date: 2025-04-17
 :::
 :::
 
-::: {.subsection}
+::: {.section}
 ## Décimo Mês [↩︎](#summary) {#month-10}
 
 ::: list-stylized
@@ -151,7 +150,7 @@ update_date: 2025-04-17
 :::
 :::
 
-::: {.subsection}
+::: {.section}
 ## Décimo Primeiro Mês [↩︎](#summary) {#month-11}
 
 ::: list-stylized
@@ -163,7 +162,7 @@ update_date: 2025-04-17
 :::
 :::
 
-::: {.subsection}
+::: {.section}
 ## Décimo Segundo Mês [↩︎](#summary) {#month-12}
 
 ::: list-stylized
@@ -175,10 +174,9 @@ update_date: 2025-04-17
 :::
 :::
 
-::: {.subsection}
+::: {.section}
 ## Veja também
 * [💪 Treinamento de Calistenia](/calisthenics-training/)
 * [⏱️ Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
 * [🏕️ Poesia do Ritmo Solar](/poetry-of-solar-rhythm/)
-:::
 :::

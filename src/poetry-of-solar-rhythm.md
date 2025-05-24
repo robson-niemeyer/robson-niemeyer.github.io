@@ -8,15 +8,14 @@ image_source: "Dave Hoefler / Unsplash"
 publication_date: 2025-04-09
 update_date: 2025-04-12
 ---
-::: section
-::: {.subsection}
+::: {.section}
 ## Sumário
 
 - [Ritmo Biológico por Luz Solar](#main)
 - [Notas de Rodapé](#footnotes)
 :::
 
-::: {.subsection}
+::: {.section}
 <hgroup>
 ## Ritmo Biológico por Luz Solar {#main}
 <p class="subheading">Ciclo diário da luz e suas funções no corpo e mente.</p>
@@ -52,10 +51,9 @@ Quem sincroniza, floresce —
 **reinando sobre si mesmo.**
 :::
 
-::: {.subsection}
+::: {.section}
 ## Veja também
 * [💪 Treinamento de Calistenia](/calisthenics-training/)
 * [⏱️ Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
 * [🌄 Calendário Solar Cronobiológico](/chronobiological-solar-calendar/)
-:::
 :::
