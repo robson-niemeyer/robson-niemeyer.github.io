@@ -242,9 +242,9 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 <section>
 ## Veja também
 
-* [⏱️ Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
-- [🏕️ Poesia do Ritmo Solar](/poetry-of-solar-rhythm/)
-* [🌄 Calendário Solar Cronobiológico](/chronobiological-solar-calendar/)
+- [Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
+- [Poesia do Ritmo Solar](/poetry-of-solar-rhythm/)
+- [Calendário Solar Cronobiológico](/chronobiological-solar-calendar/)
 </section>
 
 [^1]: <sup>1</sup> _Prehab (Preventive Rehabilitation)_: Exercícios terapêuticos focados na preparação de tecidos, articulações e cadeias musculares para demandas intensas. Fortalece estruturas frágeis, corrige desequilíbrios, aumenta a estabilidade articular e melhora a propriocepção. É a linha de defesa contra lesões crônicas ou agudas, mantendo a integridade estrutural e a eficiência neuromuscular ao longo de ciclos de treinamento intensos. Não é opcional — é seguro, eficiente e essencial para a longevidade atlética.
