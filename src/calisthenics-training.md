@@ -62,7 +62,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 
 **Realize os treinos na ordem apresentada**. Se desejar, você pode adiantar todas as suas sessões em 1 dia, treinando de domingo a quinta-feira. Se perder 1 dia, você pode compensar reservando apenas 1 dia de descanso profundo no fim de semana. Se perder 2 ou mais dias, pule os dias perdidos e continue adiante.
 
-**Escolha seu nível para os exercícios** (Nível 0 → Nível 1 → Etc). Execute todos os exercícios com cadência controlada e forma perfeita – escápulas ativas, core contraído, sem colapso postural. Se, em um exercício, você tiver realizado qualquer série com mais de 5 reps ou mais de 30 s de isometria (quando aplicável) por 2 sessões consecutivas, avance para o próximo nível. No entanto, se você tiver realizado menos de 3 reps ou menos de 18 s de isometria, retorne ao nível anterior.
+**Escolha seu nível para os exercícios** (Nível 0 → Nível 1 → Etc). Execute todos os exercícios com cadência controlada e forma perfeita — escápulas ativas, core contraído, sem colapso postural. Se, em um exercício, você tiver realizado qualquer série com mais de 5 reps ou mais de 30 s de isometria (quando aplicável) por 2 sessões consecutivas, avance para o próximo nível. No entanto, se você tiver realizado menos de 3 reps ou menos de 18 s de isometria, retorne ao nível anterior.
 
 **Para evitar o acúmulo de fadiga neural**, a cada 3 semanas de treinamento ininterrupto, reserve a semana 4 para o deloading. Na segunda-feira, pule as fases de _AMRAP_ e _Metcon_. Nos outros dias, reduza o número de séries de todos os exercícios de _Força Máxima_ de 3 para 2 e de _Assistência de Força_ de 2 para 1. Mude todos os exercícios para 1-2 RIR. Use esse período para se concentrar na mobilidade articular, no domínio técnico, nos padrões respiratórios ou em alongamentos profundos para promover a recuperação completa sem interromper a estimulação neuromuscular.
 
@@ -81,7 +81,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 - 5 min – Mobilidade Articular
 :::
 
-### Prehab (12 reps com 2 s de isometria; 1 min de descanso)
+### Prehab[^1] (12 reps com 2 s de isometria; 1 min de descanso)
 
 ::: list-stylized
 - 2 x Band Pull-Apart
@@ -89,7 +89,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 - 2 x Band External Rotation
 :::
 
-### AMRAP[^1] (máximo de reps com máxima potência; 4+ min de descanso)
+### AMRAP[^2] (máximo de reps com máxima potência; 4+ min de descanso)
 
 ::: list-stylized
 - 1 x Deep Squat → Squat Jump
@@ -100,10 +100,10 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 ### Domínio Técnico
 
 ::: list-stylized
-- 5-10 min – _Exemplos_: L-Sit, Handstand, Levers, Flags, etc
+- 5-10 min – _Exemplos_: Crow Pose, Elbow Lever, L-Sit, Handstand, Dragon Flag, Back Lever, Front Lever, Human Flag, Planche, etc
 :::
 
-### Metcon[^2]
+### Metcon[^3]
 
 ::: list-stylized
 - 20-25 min – _Exemplos_: Beat Swing, Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc
@@ -119,7 +119,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 ### Cardio Leve
 
 ::: list-stylized
-- 5 min com 50-60% MHR[^3] – Caminhada
+- 5 min com 50-60% MHR[^4] – Caminhada
 - 20-25 min com 60-70% MHR – Caminhada → Corrida Leve
 - 5 min com 50-60% MHR – Caminhada
 :::
@@ -138,7 +138,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 - 1 x Glute Bridge Hold → Feet Elevated Glute Bridge Hold
 :::
 
-### Força Máxima (3-5 reps com 0-1 RIR[^4]; 3 min de descanso)
+### Força Máxima (3-5 reps com 0-1 RIR[^5]; 3 min de descanso)
 
 ::: list-stylized
 - 3 x Air Squat → Deep Squat → Cossack Squat → Box Pistol Squat → Pistol Squat
@@ -248,10 +248,12 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 * [🌄 Calendário Solar Cronobiológico](/chronobiological-solar-calendar/)
 :::
 
-[^1]: <sup>1</sup> _AMRAP (As Many Reps as Possible)_: Realize o máximo de reps com a forma perfeita dentro de um intervalo de tempo ou até falha técnica. Mensura capacidade de trabalho, resiliência muscular e eficiência sob fadiga.
+[^1]: <sup>1</sup> _Prehab (Preventive Rehabilitation)_: Exercícios terapêuticos focados na preparação de tecidos, articulações e cadeias musculares para demandas intensas. Fortalece estruturas frágeis, corrige desequilíbrios, aumenta a estabilidade articular e melhora a propriocepção. É a linha de defesa contra lesões crônicas ou agudas, mantendo a integridade estrutural e a eficiência neuromuscular ao longo de ciclos de treinamento intensos. Não é opcional — é seguro, eficiente e essencial para a longevidade atlética.
 
-[^2]: <sup>2</sup> _Metcon (Metabolic Conditioning)_: Método de condicionamento metabólico que combina movimentos multiarticulares de alta demanda em blocos de máxima intensidade, mínima pausa e alta densidade de trabalho. Desenvolve simultaneamente capacidade cardiorrespiratória, resistência muscular local, potência, tolerância ao lactato e recuperação acelerada. Expande os limites da sua capacidade física e resiliência sob estresse fisiológico extremo.
+[^2]: <sup>2</sup> _AMRAP (As Many Reps as Possible)_: Realize o máximo de reps com a forma perfeita dentro de um intervalo de tempo ou até falha técnica. Mensura capacidade de trabalho, resiliência muscular e eficiência sob fadiga.
 
-[^3]: <sup>3</sup> _MHR (Maximum Heart Rate)_: Máxima frequência cardíaca estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
+[^3]: <sup>3</sup> _Metcon (Metabolic Conditioning)_: Método de condicionamento metabólico que combina movimentos multiarticulares de alta demanda em blocos de máxima intensidade, mínima pausa e alta densidade de trabalho. Desenvolve simultaneamente capacidade cardiorrespiratória, resistência muscular local, potência, tolerância ao lactato e recuperação acelerada. Expande os limites da sua capacidade física e resiliência sob estresse fisiológico extremo.
 
-[^4]: <sup>4</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes da falha técnica – ou seja, como se você estivesse guardando o número de repetições que ainda conseguiria realizar com a forma perfeita se continuasse, para a próxima série. Por exemplo, 1-2 RIR significa encerrar a série com 1 ou 2 reps de reserva antes da falha. Mantenha 0-1 RIR apenas para movimentos com alto domínio técnico e baixa chance de colapso postural. Isso garante uma estimulação eficaz com mínima fadiga, promovendo consistência e domínio técnico.
+[^4]: <sup>4</sup> _MHR (Maximum Heart Rate)_: Máxima frequência cardíaca estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
+
+[^5]: <sup>5</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes da falha técnica — ou seja, como se você estivesse guardando o número de repetições que ainda conseguiria realizar com a forma perfeita se continuasse, para a próxima série. Por exemplo, 1-2 RIR significa encerrar a série com 1 ou 2 reps de reserva antes da falha. Mantenha 0-1 RIR apenas para movimentos com alto domínio técnico e baixa chance de colapso postural. Isso garante uma estimulação eficaz com mínima fadiga, promovendo consistência e domínio técnico.
