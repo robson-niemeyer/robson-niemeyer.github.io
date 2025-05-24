@@ -28,6 +28,6 @@ for filepath in "$@"; do
 done
 
 # Generate compiled and minified CSS
-cleancss -o assets/styles/style.min.css $(echo -n assets/styles/global/{reset,variables,typography,document}.css) $(echo -n assets/styles/layout/{header,section,footer,container}.css) assets/styles/elements/all.css
+cleancss -o assets/styles/style.min.css $(echo -n assets/styles/{reset,variables,typography,layout,elements}.css)
 
 exit 1

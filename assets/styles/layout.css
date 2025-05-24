@@ -1,0 +1,78 @@
+html {
+  font-size: 16px;
+  height: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background-color-primary);
+  color: var(--color-primary);
+  font-family: var(--font-family-body);
+  font-size: var(--font-size-regular);
+  font-weight: 400;
+  line-height: var(--line-height-body);
+  min-height: 100%;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+/**
+ * header
+ */
+
+#header {
+  padding: 1rem 0;
+}
+
+/**
+ * container
+ */
+
+.container {
+  margin: 0 auto;
+  max-width: var(--container-width);
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/**
+* section
+*/
+
+section:not(#footnotes) {
+  padding: 1rem 0;
+}
+
+/**
+ * hr
+ */
+
+hr {
+  background-color: var(--border-color);
+  display: block;
+  height: 1px;
+  margin: 2rem 0;
+}
+
+/**
+ * footer
+ */
+
+#footer {
+  background-color: var(--background-color-secondary);
+  margin-top: 1rem;
+  padding: 2rem 0;
+}
+
+#footer h2 {
+  margin-top: 0;
+}
+
+#footer a:any-link {
+  color: var(--color-secondary);
+  font-weight: 600;
+}
+
+#footer a:hover {
+  color: var(--color-primary);
+}
