@@ -8,7 +8,7 @@ publication_date: 2025-04-08
 update_date: 2025-04-17
 ---
 
-::: {.section}
+<section>
 ## Sumário {#summary}
 
 - [Primeiro Mês](#month-1)
@@ -24,9 +24,9 @@ update_date: 2025-04-17
 - [Décimo Primeiro Mês](#month-11)
 - [Décimo Segundo Mês](#month-12)
 - [Notas de Rodapé](#footnotes)
-:::
+</section>
 
-::: {.section}
+<section>
 ## Primeiro Mês [↩︎](#summary) {#month-1}
 
 ::: list-stylized
@@ -36,13 +36,9 @@ update_date: 2025-04-17
 - **Data estimada S[^2]**: 21 de junho
 - **Hora simbólica**: 00:00
 :::
+</section>
 
-[^1]: <sup>1</sup> _N_: Hemisfério Norte.
-[^2]: <sup>2</sup> _S_: Hemisfério Sul.
-
-:::
-
-::: {.section}
+<section>
 ## Segundo Mês [↩︎](#summary) {#month-2}
 
 ::: list-stylized
@@ -52,9 +48,9 @@ update_date: 2025-04-17
 - **Data estimada S**: 09 de agosto
 - **Hora simbólica**: 02:00
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 ## Terceiro Mês [↩︎](#summary) {#month-3}
 
 ::: list-stylized
@@ -64,9 +60,9 @@ update_date: 2025-04-17
 - **Data estimada S**: 02 de setembro
 - **Hora simbólica**: 04:00
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 ## Quarto Mês [↩︎](#summary) {#month-4}
 
 ::: list-stylized
@@ -76,9 +72,9 @@ update_date: 2025-04-17
 - **Data estimada S**: 23 de setembro
 - **Hora simbólica**: 06:00
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 ## Quinto Mês [↩︎](#summary) {#month-5}
 
 ::: list-stylized
@@ -88,9 +84,9 @@ update_date: 2025-04-17
 - **Data estimada S**: 13 de outubro
 - **Hora simbólica**: 08:00
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 ## Sexto Mês [↩︎](#summary) {#month-6}
 
 ::: list-stylized
@@ -100,9 +96,9 @@ update_date: 2025-04-17
 - **Data estimada S**: 05 de novembro
 - **Hora simbólica**: 10:00
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 ## Sétimo Mês [↩︎](#summary) {#month-7}
 
 ::: list-stylized
@@ -112,9 +108,9 @@ update_date: 2025-04-17
 - **Data estimada S**: 21 de dezembro
 - **Hora simbólica**: 12:00
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 ## Oitavo Mês [↩︎](#summary) {#month-8}
 
 ::: list-stylized
@@ -124,9 +120,9 @@ update_date: 2025-04-17
 - **Data estimada S**: 06 de fevereiro
 - **Hora simbólica**: 14:00
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 ## Nono Mês [↩︎](#summary) {#month-9}
 
 ::: list-stylized
@@ -136,9 +132,9 @@ update_date: 2025-04-17
 - **Data estimada S**: 28 de fevereiro
 - **Hora simbólica**: 16:00
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 ## Décimo Mês [↩︎](#summary) {#month-10}
 
 ::: list-stylized
@@ -148,9 +144,9 @@ update_date: 2025-04-17
 - **Data estimada S**: 20 de março
 - **Hora simbólica**: 18:00
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 ## Décimo Primeiro Mês [↩︎](#summary) {#month-11}
 
 ::: list-stylized
@@ -160,9 +156,9 @@ update_date: 2025-04-17
 - **Data estimada S**: 09 de abril
 - **Hora simbólica**: 20:00
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 ## Décimo Segundo Mês [↩︎](#summary) {#month-12}
 
 ::: list-stylized
@@ -172,11 +168,15 @@ update_date: 2025-04-17
 - **Data estimada S**: 03 de maio
 - **Hora simbólica**: 22:00
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 ## Veja também
 - [Treinamento de Calistenia](/calisthenics-training/)
 - [Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
 - [Poesia do Ritmo Solar](/poetry-of-solar-rhythm/)
-:::
+</section>
+
+[^1]: <sup>1</sup> _N_: Hemisfério Norte.
+
+[^2]: <sup>2</sup> _S_: Hemisfério Sul.

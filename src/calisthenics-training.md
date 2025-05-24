@@ -26,8 +26,9 @@ update_date: 2025-04-30
 <section>
 ## Introdução [↩︎](#summary) {#introduction}
 
-Você não nasceu pra ser um hamster na esteira da academia. Você quer **potência, domínio físico e liberdade** — treinando sozinho, em qualquer lugar. Este é o método que te leva do zero ao nível elite!
-:::
+<p>Você não nasceu pra ser um hamster na esteira da academia. Você quer **potência, domínio físico e liberdade** — treinando sozinho, em qualquer lugar. Este é o método que te leva do zero ao nível elite!</p>
+</section>
+
 
 <section>
 ## Equipamento [↩︎](#summary) {#equipment}
@@ -234,9 +235,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 <p class="subheading">Recuperação neuromuscular profunda</p>
 </hgroup>
 
-::: list-stylized
-- Dias para atividades relaxantes livres.
-:::
+<p>Dias para atividades relaxantes livres.</p>
 </section>
 
 <section>

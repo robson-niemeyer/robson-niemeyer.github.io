@@ -65,7 +65,7 @@ const updateBlockTimings = (startTimeString) => {
     const startTime = currentMinutes;
     currentMinutes = (currentMinutes + duration) % MINUTES_IN_DAY;
     if (blockTimeRanges[blockIndex]) {
-      blockTimeRanges[blockIndex].textContent = `${formatTime(startTime)} às ${formatTime(currentMinutes)}`;
+      blockTimeRanges[blockIndex].textContent = `${formatTime(startTime)}–${formatTime(currentMinutes)}`;
     }
     blockIndex++;
   }
