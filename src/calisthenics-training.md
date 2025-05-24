@@ -120,7 +120,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 
 ::: list-stylized
 - 5 min com 50–60% MHR[^4] – Caminhada
-- 20-25 min com 60–70% MHR – Caminhada → Corrida Leve
+- 20–25 min com 60–70% MHR – Caminhada → Corrida Leve
 - 5 min com 50–60% MHR – Caminhada
 :::
 :::
@@ -138,7 +138,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 - 1 x Glute Bridge Hold → Feet Elevated Glute Bridge Hold
 :::
 
-### Força Máxima (3–5 reps com 0-1 RIR[^5]; 3 min de descanso)
+### Força Máxima (3–5 reps com 0–1 RIR[^5]; 3 min de descanso)
 
 ::: list-stylized
 - 3 x Air Squat → Deep Squat → Cossack Squat → Box Pistol Squat → Pistol Squat
@@ -172,7 +172,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 - 1 x Boat Hold → Hollow Body Hold
 :::
 
-### Força Máxima (3–5 reps com 0-1 RIR; 3 min de descanso)
+### Força Máxima (3–5 reps com 0–1 RIR; 3 min de descanso)
 
 ::: list-stylized
 - 3 x Pull-Up Negative → Pull-Up → Archer Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
@@ -207,7 +207,7 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 - 1 x Feet Assisted Ring Support Hold → Ring Support Hold
 :::
 
-### Força Máxima (3–5 reps com 0-1 RIR; 3 min de descanso)
+### Força Máxima (3–5 reps com 0–1 RIR; 3 min de descanso)
 
 ::: list-stylized
 - 3 x Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up
@@ -256,4 +256,4 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 
 [^4]: <sup>4</sup> _MHR (Maximum Heart Rate)_: Máxima frequência cardíaca estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
 
-[^5]: <sup>5</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes da falha técnica — ou seja, como se você estivesse guardando o número de repetições que ainda conseguiria realizar com a forma perfeita se continuasse, para a próxima série. Por exemplo, 1–2 RIR significa encerrar a série com 1 ou 2 reps de reserva antes da falha. Mantenha 0-1 RIR apenas para movimentos com alto domínio técnico e baixa chance de colapso postural. Isso garante uma estimulação eficaz com mínima fadiga, promovendo consistência e domínio técnico.
+[^5]: <sup>5</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes da falha técnica — ou seja, como se você estivesse guardando o número de repetições que ainda conseguiria realizar com a forma perfeita se continuasse, para a próxima série. Por exemplo, 1–2 RIR significa encerrar a série com 1 ou 2 reps de reserva antes da falha. Mantenha 0–1 RIR apenas para movimentos com alto domínio técnico e baixa chance de colapso postural. Isso garante uma estimulação eficaz com mínima fadiga, promovendo consistência e domínio técnico.
