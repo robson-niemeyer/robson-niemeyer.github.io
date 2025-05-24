@@ -7,6 +7,14 @@
   text-transform: uppercase;
 }
 
+#navbar a:any-link {
+  color: var(--color-secondary);
+}
+
+#navbar a:hover {
+  color: var(--color-primary);
+}
+
 /**
  * button
  */
@@ -20,7 +28,7 @@ button {
   font-weight: 500;
   letter-spacing: 1px;
   line-height: var(--line-height-heading);
-  padding: var(--spacing-xsmall) var(--spacing-small);
+  padding: 0.25rem 0.5rem;
   transition: all var(--transition-duration) ease-out;
 }
 
@@ -31,7 +39,7 @@ button:hover {
 .btn-icon {
   align-items: center;
   display: flex;
-  gap: var(--spacing-xsmall);
+  gap: 0.25rem;
 }
 
 /**
@@ -40,8 +48,8 @@ button:hover {
 
 .card {
   background-color: var(--background-color-secondary);
-  margin-bottom: var(--spacing-regular);
-  padding: var(--spacing-regular);
+  margin-bottom: 1rem;
+  padding: 1rem;
 }
 
 /**
@@ -51,7 +59,7 @@ button:hover {
 figure {
   background-color: var(--background-color-secondary);
   height: 0;
-  margin-bottom: var(--spacing-regular);
+  margin-bottom: 1rem;
   padding-top: 75%;
   position: relative;
 }
@@ -73,15 +81,16 @@ img {
   width: 100%;
 }
 
+svg {
+  fill: currentColor;
+  height: var(--font-size-small);
+  width: auto;
+}
+
 @media only screen and (min-width: 768px) {
   figure {
     padding-top: 37.5%;
   }
-}
-
-svg {
-  height: var(--spacing-regular);
-  width: auto;
 }
 
 /**
@@ -92,7 +101,7 @@ input {
   background-color: var(--background-color-primary);
   border: 1px solid var(--border-color);
   line-height: var(--line-height-heading);
-  padding: var(--spacing-xsmall) var(--spacing-small);
+  padding: 0.25rem 0.5rem;
 }
 
 .input-group > p {

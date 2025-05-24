@@ -1,8 +1,16 @@
 #footer {
   background-color: var(--background-color-secondary);
-  padding: var(--spacing-large) 0;
+  padding: 2rem 0;
 }
 
 #footer h2 {
   margin-top: 0;
+}
+
+#footer a:any-link {
+  color: var(--color-secondary);
+}
+
+#footer a:hover {
+  color: var(--color-primary);
 }

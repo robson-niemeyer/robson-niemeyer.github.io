@@ -44,7 +44,7 @@ h1 {
   font-weight: var(--font-weight-bold);
   letter-spacing: 1px;
   line-height: var(--line-height-heading);
-  margin-bottom: var(--spacing-small);
+  margin-bottom: 0.5rem;
   text-transform: uppercase;
 }
 
@@ -59,12 +59,12 @@ h2 {
 
 main hgroup {
   border-bottom: 1px solid var(--border-color);
-  padding-bottom: var(--spacing-small);
+  padding-bottom: 0.5rem;
 }
 
 main h2 {
   border-bottom: 1px solid var(--border-color);
-  padding-bottom: var(--spacing-small);
+  padding-bottom: 0.5rem;
 }
 
 main hgroup h2 {
@@ -78,7 +78,7 @@ h3 {
   font-weight: var(--font-weight-bold);
   letter-spacing: 1px;
   line-height: var(--line-height-heading);
-  margin-top: var(--spacing-large);
+  margin-top: 2rem;
 }
 
 h4 {
@@ -86,31 +86,31 @@ h4 {
   font-weight: var(--font-weight-bold);
   letter-spacing: 1px;
   line-height: var(--line-height-heading);
-  margin-top: var(--spacing-large);
+  margin-top: 2rem;
 }
 
 .subheading {
   color: var(--color-secondary);
   font-size: var(--font-size-small);
-  margin-top: var(--spacing-xsmall);
+  margin-top: 0.25rem;
 }
 
 p,
 ol,
 ul {
-  margin: var(--spacing-regular) 0;
+  margin: 1rem 0;
 }
 
 ol,
 ul {
   display: flex;
   flex-direction: column;
-  gap: var(--spacing-small);
+  gap: 0.5rem;
   list-style: none;
 }
 
 li {
-  margin-bottom: var(--spacing-xsmall);
+  margin-bottom: 0.25rem;
 }
 
 .list-stylized li::before {
@@ -153,7 +153,10 @@ em,
 }
 
 a {
+  align-items: center;
+  display: inline-flex;
   font-weight: var(--font-weight-medium);
+  gap: 0.25rem;
   text-decoration: none;
   transition: all var(--transition-duration) ease-out;
 }
@@ -168,7 +171,7 @@ blockquote {
   display: flex;
   font-size: var(--font-size-small);
   font-style: italic;
-  padding: var(--spacing-small) var(--spacing-regular);
+  padding: 0.5rem 1rem;
   text-align: initial;
 }
 
