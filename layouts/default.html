@@ -28,13 +28,16 @@
         </hgroup>
       </div>
     </header>
-    <main class="section">
-      <div class="container">
+    <main class="container">
+      <section>
         <figure>
-          <img src="/assets/images/$image_filename$.webp" alt="$image_alt$" />
+          <div class="image-frame">
+            <img src="/assets/images/$image_filename$.webp" alt="$image_alt$" />
+          </div>
           <figcaption>[ Fonte: $image_source$ ]</figcaption>
-        </figure>        
-        $body$
+        </figure>
+      </section>
+      $body$
       </div>
       <section class="section">
         <div class="container text-center">

@@ -8,7 +8,7 @@ publication_date: 2025-04-30
 update_date: 2025-04-30
 ---
 
-::: {.section}
+<section>
 ## Sumário {#summary}
 
 - [Introdução](#introduction)
@@ -21,15 +21,15 @@ update_date: 2025-04-30
 - [Sexta-Feira: Upper Push](#upper-push)
 - [Sábado e Domingo: Deep Rest](#deep-rest)
 - [Notas de Rodapé](#footnotes)
-:::
+</section>
 
-::: {.section}
+<section>
 ## Introdução [↩︎](#summary) {#introduction}
 
 Você não nasceu pra ser um hamster na esteira da academia. Você quer **potência, domínio físico e liberdade** — treinando sozinho, em qualquer lugar. Este é o método que te leva do zero ao nível elite!
 :::
 
-::: {.section}
+<section>
 ## Equipamento [↩︎](#summary) {#equipment}
 
 ### Necessário
@@ -49,9 +49,9 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 - Corda de batalha \([Comprar](https://amzn.to/4k5MFCZ){target=\_blank}\)
 - Tênis de corrida
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 ## Instrução [↩︎](#summary) {#instruction}
 
 > Consuma diariamente **1,5–2 g de proteína por kg** de peso corporal  
@@ -67,9 +67,9 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 **Para evitar o acúmulo de fadiga neural**, a cada 3 semanas de treinamento ininterrupto, reserve a semana 4 para o deloading. Na segunda-feira, pule as fases de _AMRAP_ e _Metcon_. Nos outros dias, reduza o número de séries de todos os exercícios de _Força Máxima_ de 3 para 2 e de _Assistência de Força_ de 2 para 1. Mude todos os exercícios para 1–2 RIR. Use esse período para se concentrar na mobilidade articular, no domínio técnico, nos padrões respiratórios ou em alongamentos profundos para promover a recuperação completa sem interromper a estimulação neuromuscular.
 
 **Os nomes dos exercícios estão em inglês** por motivos de padronização internacional. Dessa forma, você pode aprender mais sobre cada exercício copiando seu nome e pesquisando por imagens ou vídeos de exemplo.
-:::
+</section>
 
-::: {.section}
+<section>
 <hgroup>
 ## Segunda-Feira: Skill & Conditioning [↩︎](#summary) {#skill-and-conditioning}
 <p class="subheading">Aplicação, lacunas, explosão, desafio</p>
@@ -108,9 +108,9 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 ::: list-stylized
 - 20–25 min – _Exemplos_: Beat Swing, Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 <hgroup>
 ## Terça-Feira: Active Recovery [↩︎](#summary) {#active-recovery}
 <p class="subheading">Regeneração sistêmica</p>
@@ -123,9 +123,9 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 - 20–25 min com 60–70% MHR – Caminhada → Corrida Leve
 - 5 min com 50–60% MHR – Caminhada
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 <hgroup>
 ## Quarta-Feira: Lower Chain [↩︎](#summary) {#lower-chain}
 <p class="subheading">Força e equilíbrio de membros inferiores</p>
@@ -157,9 +157,9 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 ::: list-stylized
 - 2 x Squat Hold Calf Raise
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 <hgroup>
 ## Quinta-Feira: Upper Pull & Core [↩︎](#summary) {#upper-pull-and-core}
 <p class="subheading">Força de tração de membros superiores com core integrado</p>
@@ -191,9 +191,9 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 ::: list-stylized
 - 2 x Scapular Pull-Up
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 <hgroup>
 ## Sexta-Feira: Upper Push [↩︎](#summary) {#upper-push}
 
@@ -226,9 +226,9 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 ::: list-stylized
 - 2 x Elevated Pike Shoulder Shrug
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 <hgroup>
 ## Sábado e Domingo: Deep Rest [↩︎](#summary) {#deep-rest}
 <p class="subheading">Recuperação neuromuscular profunda</p>
@@ -237,15 +237,15 @@ Você não nasceu pra ser um hamster na esteira da academia. Você quer **potên
 ::: list-stylized
 - Dias para atividades relaxantes livres.
 :::
-:::
+</section>
 
-::: {.section}
+<section>
 ## Veja também
 
 * [⏱️ Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
 - [🏕️ Poesia do Ritmo Solar](/poetry-of-solar-rhythm/)
 * [🌄 Calendário Solar Cronobiológico](/chronobiological-solar-calendar/)
-:::
+</section>
 
 [^1]: <sup>1</sup> _Prehab (Preventive Rehabilitation)_: Exercícios terapêuticos focados na preparação de tecidos, articulações e cadeias musculares para demandas intensas. Fortalece estruturas frágeis, corrige desequilíbrios, aumenta a estabilidade articular e melhora a propriocepção. É a linha de defesa contra lesões crônicas ou agudas, mantendo a integridade estrutural e a eficiência neuromuscular ao longo de ciclos de treinamento intensos. Não é opcional — é seguro, eficiente e essencial para a longevidade atlética.
 

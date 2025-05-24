@@ -1,4 +1,24 @@
 /**
+ * navbar
+ */
+
+#navbar {
+  background-color: var(--background-color-secondary);
+  margin-bottom: 1rem;
+  padding: 2rem 0;
+  text-transform: uppercase;
+}
+
+#navbar a:any-link {
+  color: var(--color-secondary);
+  font-weight: 600;
+}
+
+#navbar a:hover {
+  color: var(--color-primary);
+}
+
+/**
  * button
  */
 
@@ -39,19 +59,11 @@ button:hover {
  * image
  */
 
-figure {
+.image-frame {
   background-color: var(--background-color-secondary);
   height: 0;
-  margin-bottom: 1rem;
   padding-top: 75%;
   position: relative;
-}
-
-figcaption {
-  color: var(--color-secondary);
-  font-size: var(--font-size-small);
-  position: absolute;
-  top: 100%;
 }
 
 img {
@@ -64,6 +76,11 @@ img {
   width: 100%;
 }
 
+figcaption {
+  color: var(--color-secondary);
+  font-size: var(--font-size-small);
+}
+
 svg {
   fill: currentColor;
   height: var(--font-size-small);
@@ -71,7 +88,7 @@ svg {
 }
 
 @media only screen and (min-width: 768px) {
-  figure {
+  .image-frame {
     padding-top: 37.5%;
   }
 }
