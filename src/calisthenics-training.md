@@ -241,7 +241,7 @@ update_date: 2025-04-30
 ### Prática Técnica (10–15 min)
 
 ::: list-stylized
-- _Exemplos_: Straight-Arm Plank Variations, Ring Support Hold, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche.
+- _Exemplos_: Straight-Arm Plank Variations, Ring Support Hold, Frog Stand, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche.
 :::
 </section>
 
