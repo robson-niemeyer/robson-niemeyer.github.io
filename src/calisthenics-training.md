@@ -14,7 +14,7 @@ update_date: 2025-04-30
 - [Introdução](#introduction)
 - [Equipamento](#equipment)
 - [Instrução](#instruction)
-- [Segunda-Feira: Skill & Conditioning](#skill-and-conditioning)
+- [Segunda-Feira: Benchmark & Conditioning](#benchmark-and-conditioning)
 - [Terça-Feira: Active Recovery](#active-recovery)
 - [Quarta-Feira: Lower Chain](#lower-chain)
 - [Quinta-Feira: Upper Pull & Core](#upper-pull-and-core)
@@ -76,14 +76,14 @@ update_date: 2025-04-30
 
 <section>
 <hgroup>
-## Segunda-Feira: Skill & Conditioning [↩︎](#summary) {#skill-and-conditioning}
-<p class="subheading">Aplicação, lacunas, explosão, desafio</p>
+## Segunda-Feira: Benchmark & Conditioning [↩︎](#summary) {#benchmark-and-conditioning}
+<p class="subheading">Medição e condicionamento físico de alta intensidade</p>
 </hgroup>
 
-### Aquecimento
+### Aquecimento (5 min)
 
 ::: list-stylized
-- 5 min — Mobilidade Articular
+- Mobilidade Articular
 :::
 
 ### Prehab[^4] (12 reps com 2 s de isometria; 1 min de descanso)
@@ -102,16 +102,10 @@ update_date: 2025-04-30
 - 1 x — Push-Up → Plyometric Push-Up
 :::
 
-### Domínio Técnico
+### Metcon (20–25 min)
 
 ::: list-stylized
-- 5–10 min — _Exemplos_: Crow Pose, Elbow Lever, L-Sit, Handstand, Dragon Flag, Back Lever, Front Lever, Human Flag, Planche, etc
-:::
-
-### Metcon
-
-::: list-stylized
-- 20–25 min — _Exemplos_: Beat Swing, Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc
+- _Exemplos_: Beat Swing, Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc.
 :::
 </section>
 
@@ -162,6 +156,12 @@ update_date: 2025-04-30
 ::: list-stylized
 - 2 x — Squat Hold Calf Raise
 :::
+
+### Prática Técnica (10–15 min)
+
+::: list-stylized
+- _Exemplos_: Rolls, Drop Landings, Precision Landing, Broad Jumps, Plyometric Jumps, Tic Tac, Wall Runs, Cat Leap, Vaults, Depth Jumps, Acrobatic Flips.
+:::
 </section>
 
 <section>
@@ -195,6 +195,12 @@ update_date: 2025-04-30
 
 ::: list-stylized
 - 2 x — Scapular Pull-Up
+:::
+
+### Prática Técnica (10–15 min)
+
+::: list-stylized
+- _Exemplos_: Hanging L-Sit, Hanging Leg Raise Variations, Skin the Cat, Ice Cream Maker, Core Levers, Dragon Flag, Back Lever, Front Lever, Human Flag, Muscle-Up.
 :::
 </section>
 
@@ -230,6 +236,12 @@ update_date: 2025-04-30
 
 ::: list-stylized
 - 2 x — Elevated Pike Shoulder Shrug
+:::
+
+### Prática Técnica (10–15 min)
+
+::: list-stylized
+- _Exemplos_: Straight-Arm Plank Variations, Ring Support Hold, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche.
 :::
 </section>
 
