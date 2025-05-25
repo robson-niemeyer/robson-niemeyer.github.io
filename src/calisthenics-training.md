@@ -83,35 +83,35 @@ update_date: 2025-04-30
 ### Aquecimento
 
 ::: list-stylized
-- 5 min – Mobilidade Articular
+- 5 min — Mobilidade Articular
 :::
 
 ### Prehab[^4] (12 reps com 2 s de isometria; 1 min de descanso)
 
 ::: list-stylized
-- 2 x Band Pull-Apart
-- 2 x Band Face Pull
-- 2 x Band External Rotation
+- 2 x — Band Pull-Apart
+- 2 x — Band Face Pull
+- 2 x — Band External Rotation
 :::
 
 ### AMRAP (máximo de reps com máxima potência; 4+ min de descanso)
 
 ::: list-stylized
-- 1 x Deep Squat → Squat Jump
-- 1 x Pull-Up → Chest-to-Bar Pull-Up → Bar Pullover → Muscle-Up
-- 1 x Push-Up → Plyometric Push-Up
+- 1 x — Deep Squat → Squat Jump
+- 1 x — Pull-Up → Chest-to-Bar Pull-Up → Bar Pullover → Muscle-Up
+- 1 x — Push-Up → Plyometric Push-Up
 :::
 
 ### Domínio Técnico
 
 ::: list-stylized
-- 5–10 min – _Exemplos_: Crow Pose, Elbow Lever, L-Sit, Handstand, Dragon Flag, Back Lever, Front Lever, Human Flag, Planche, etc
+- 5–10 min — _Exemplos_: Crow Pose, Elbow Lever, L-Sit, Handstand, Dragon Flag, Back Lever, Front Lever, Human Flag, Planche, etc
 :::
 
 ### Metcon
 
 ::: list-stylized
-- 20–25 min – _Exemplos_: Beat Swing, Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc
+- 20–25 min — _Exemplos_: Beat Swing, Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc
 :::
 </section>
 
@@ -124,9 +124,9 @@ update_date: 2025-04-30
 ### Cardio Leve
 
 ::: list-stylized
-- 5 min com 50–60% MHR[^5] – Caminhada
-- 20–25 min com 60–70% MHR – Caminhada → Corrida Leve
-- 5 min com 50–60% MHR – Caminhada
+- 5 min com 50–60% MHR[^5] — Caminhada
+- 20–25 min com 60–70% MHR — Caminhada → Corrida Leve
+- 5 min com 50–60% MHR — Caminhada
 :::
 </section>
 
@@ -139,28 +139,28 @@ update_date: 2025-04-30
 ### Ativação (30 s de isometria com máxima contração; 30 s de descanso)
 
 ::: list-stylized
-- 1 x Wall Sit → Static Squat Hold
-- 1 x Glute Bridge Hold → Feet Elevated Glute Bridge Hold
+- 2 x — Wall Sit → Static Squat Hold
+- 2 x — Glute Bridge Hold → Feet Elevated Glute Bridge Hold
 :::
 
 ### Força Máxima (3–5 reps com 0–1 RIR; 3 min de descanso)
 
 ::: list-stylized
-- 3 x Air Squat → Deep Squat → Cossack Squat → Box Pistol Squat → Pistol Squat
-- 3 x Tall Kneeling Hip Hinge → Tall Kneeling Good Morning → Band Assisted Nordic Hamstring Curl → Nordic Hamstring Curl
+- 3 x — Air Squat → Deep Squat → Cossack Squat → Box Pistol Squat → Pistol Squat
+- 3 x — Tall Kneeling Hip Hinge → Tall Kneeling Good Morning → Band Assisted Nordic Hamstring Curl → Nordic Hamstring Curl
 :::
 
 ### Assistência de Força (3–5 reps com 1–2 RIR; 2 min de descanso)
 
 ::: list-stylized
-- 2 x Assisted Sissy Squat → Sissy Squat → Reverse Nordic Curl
-- 2 x Lunge → Bulgarian Split Squat → Shrimp Squat
+- 2 x — Assisted Sissy Squat → Sissy Squat → Reverse Nordic Curl
+- 2 x — Lunge → Bulgarian Split Squat → Shrimp Squat
 :::
 
 ### Finalizador Opcional (máximo de reps com 1–2 RIR; 1 min de descanso)
 
 ::: list-stylized
-- 2 x Squat Hold Calf Raise
+- 2 x — Squat Hold Calf Raise
 :::
 </section>
 
@@ -173,28 +173,28 @@ update_date: 2025-04-30
 ### Ativação (30 s de isometria com máxima contração; 30 s de descanso)
 
 ::: list-stylized
-- 1 x Passive Hang → Active Hang
-- 1 x Boat Hold → Hollow Body Hold
+- 2 x — Passive Hang → Active Hang
+- 2 x — Boat Hold → Hollow Body Hold
 :::
 
 ### Força Máxima (3–5 reps com 0–1 RIR; 3 min de descanso)
 
 ::: list-stylized
-- 3 x Pull-Up Negative → Pull-Up → Archer Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
-- 3 x Kneeling Ab Ring Rollout Negative → Ab Ring Rollout → Band Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout
+- 3 x — Pull-Up Negative → Pull-Up → Archer Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
+- 3 x — Kneeling Ab Ring Rollout Negative → Ab Ring Rollout → Band Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout
 :::
 
 ### Assistência de Força (3–5 reps com 1–2 RIR; 2 min de descanso)
 
 ::: list-stylized
-- 2 x Bent‑Knee Ring Inverted Row → Ring Inverted Row → Decline Ring Inverted Row
-- 2 x Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar
+- 2 x — Bent‑Knee Ring Inverted Row → Ring Inverted Row → Decline Ring Inverted Row
+- 2 x — Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar
 :::
 
 ### Finalizador Opcional (máximo de reps com 1–2 RIR; 1 min de descanso)
 
 ::: list-stylized
-- 2 x Scapular Pull-Up
+- 2 x — Scapular Pull-Up
 :::
 </section>
 
@@ -208,28 +208,28 @@ update_date: 2025-04-30
 ### Ativação (30 s de isometria com máxima contração; 30 s de descanso)
 
 ::: list-stylized
-- 1 x Straight-Arm Plank → Planche Lean
-- 1 x Feet Assisted Ring Support Hold → Ring Support Hold
+- 2 x — Straight-Arm Plank → Planche Lean
+- 2 x — Feet Assisted Ring Support Hold → Ring Support Hold
 :::
 
 ### Força Máxima (3–5 reps com 0–1 RIR; 3 min de descanso)
 
 ::: list-stylized
-- 3 x Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up
-- 3 x Bent‑Knee Bench Dip → Feet Supported Ring Dip → Ring Dip → Straight Bar Dip
+- 3 x — Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up
+- 3 x — Bent‑Knee Bench Dip → Feet Supported Ring Dip → Ring Dip → Straight Bar Dip
 :::
 
 ### Assistência de Força (3–5 reps com 1–2 RIR; 2 min de descanso)
 
 ::: list-stylized
-- 2 x Incline Pike Push-Up → Pike Push-Up → Deficit Pike Push-Up
-- 2 x Ring Triceps Extension → Reverse-Grip Push‑Up → Pseudo Planche Push‑Up
+- 2 x — Incline Pike Push-Up → Pike Push-Up → Deficit Pike Push-Up
+- 2 x — Ring Triceps Extension → Reverse-Grip Push‑Up → Pseudo Planche Push‑Up
 :::
 
 ### Finalizador Opcional (máximo de reps com 1–2 RIR; 1 min de descanso)
 
 ::: list-stylized
-- 2 x Elevated Pike Shoulder Shrug
+- 2 x — Elevated Pike Shoulder Shrug
 :::
 </section>
 
