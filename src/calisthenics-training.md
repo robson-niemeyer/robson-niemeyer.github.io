@@ -63,7 +63,7 @@ update_date: 2025-04-30
 > Reduza açúcar refinado, farinha branca, soja e seus derivados  
 > Não fume nem beba álcool
 
-**As sessões diárias duram 45–60 min** e é recomendado que você faça pelo menos 15 min adicionais de alongamento no final para ajudar na recuperação muscular e aumentar sua flexibilidade.
+**As sessões diárias duram ~60 min** e é recomendado que você faça pelo menos 15 min adicionais de alongamento no final para ajudar na recuperação muscular e aumentar sua flexibilidade.
 
 **Realize os treinos na ordem apresentada**. Se desejar, você pode adiantar todas as suas sessões em 1 dia, treinando de domingo a quinta-feira. Se perder 1 dia, você pode compensar reservando apenas 1 dia de descanso profundo no fim de semana. Se perder 2 ou mais dias, pule os dias perdidos e continue adiante.
 
