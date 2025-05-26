@@ -84,7 +84,7 @@ update_date: 2025-04-30
 <section>
 ## Semana de Deload [↩︎](#summary) {#deload-week}
 
-<p>**A cada 3 semanas de treinamento contínuo, a quarta semana é de deload**. No domingo, elimine as fases de AMRAP e Metcon. De terça-feira a quinta-feira, reduza as séries de <em>Max Strength</em> de 3 para 2 e de <em>Strength Assist</em> de 2 para 1, ajustando a intensidade para RIR[^2] 1–2. Foco absoluto em mobilidade, domínio técnico, padrões respiratórios e alongamentos profundos — mantendo a estimulação neuromuscular, acelerando a recuperação tecidual e prevenindo fadiga neural crônica.</p>
+<p>**A cada 3 semanas de treinamento contínuo, a quarta semana é de deload**. No domingo, elimine as fases de AMRAP e Metcon. De terça-feira a quinta-feira, reduza as séries de <em>Max Strength</em> de 3 para 2 e de <em>Strength Assist</em> de 2 para 1, ajustando a intensidade para RIR[^1] 1–2. Foco absoluto em mobilidade, domínio técnico, padrões respiratórios e alongamentos profundos — mantendo a estimulação neuromuscular, acelerando a recuperação tecidual e prevenindo fadiga neural crônica.</p>
 </section>
 
 <section>
@@ -122,7 +122,7 @@ update_date: 2025-04-30
 ## Segunda-Feira: Active Recovery [↩︎](#summary) {#active-recovery}
 
 ### LISS (Low-Intensity Steady State)
-<p class="subheading">Caminhada e corrida leve, com controle rigoroso de frequência cardíaca (50–70% MHR[^1]). Otimiza circulação, remove resíduos metabólicos, acelera reparação tecidual e mantém o metabolismo ativado sem acumular fadiga adicional.</p>
+<p class="subheading">Caminhada e corrida leve, com controle rigoroso de frequência cardíaca (50–70% MHR[^2]). Otimiza circulação, remove resíduos metabólicos, acelera reparação tecidual e mantém o metabolismo ativado sem acumular fadiga adicional.</p>
 
 ::: list-stylized
 - 10 min com 50–60% MHR — Caminhada
@@ -272,6 +272,7 @@ update_date: 2025-04-30
 - [Calendário Solar Cronobiológico](/chronobiological-solar-calendar/)
 </section>
 
-[^1]: <sup>1</sup> _MHR (Maximum Heart Rate)_: Máxima frequência cardíaca estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
 
-[^2]: <sup>2</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes da falha técnica — ou seja, como se você estivesse guardando o número de repetições que ainda conseguiria realizar com a forma perfeita se continuasse, para a próxima série. Por exemplo, RIR 1–2 significa encerrar a série com 1 ou 2 reps de reserva antes da falha. Mantenha RIR 0–1 apenas para movimentos com alto domínio técnico e baixa chance de colapso postural. Isso garante uma estimulação eficaz com mínima fadiga, promovendo consistência e domínio técnico.
+[^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes da falha técnica — ou seja, como se você estivesse guardando o número de repetições que ainda conseguiria realizar com a forma perfeita se continuasse, para a próxima série. Por exemplo, RIR 1–2 significa encerrar a série com 1 ou 2 reps de reserva antes da falha. Mantenha RIR 0–1 apenas para movimentos com alto domínio técnico e baixa chance de colapso postural. Isso garante uma estimulação eficaz com mínima fadiga, promovendo consistência e domínio técnico.
+
+[^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Máxima frequência cardíaca estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
