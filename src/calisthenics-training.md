@@ -13,13 +13,15 @@ update_date: 2025-04-30
 
 - [Introdução](#introduction)
 - [Equipamento](#equipment)
-- [Instrução](#instruction)
-- [Segunda-Feira: Benchmark & Conditioning](#benchmark-and-conditioning)
-- [Terça-Feira: Active Recovery](#active-recovery)
-- [Quarta-Feira: Lower Chain](#lower-chain)
-- [Quinta-Feira: Upper Pull & Core](#upper-pull-and-core)
-- [Sexta-Feira: Upper Push](#upper-push)
-- [Sábado e Domingo: Deep Rest](#deep-rest)
+- [Cronograma de Treino](#training-schedule)
+- [Progressões Técnicas](#technical-progressions)
+- [Semana de Deload](#deload-week)
+- [Domingo: Benchmark & Conditioning](#benchmark-and-conditioning)
+- [Segunda-Feira: Active Recovery](#active-recovery)
+- [Terça-Feira: Lower Chain](#lower-chain)
+- [Quarta-Feira: Upper Pull & Core](#upper-pull-and-core)
+- [Quinta-Feira: Upper Push](#upper-push)
+- [Sexta-Feira e Sábado: Deep Rest](#deep-rest)
 - [Notas de Rodapé](#footnotes)
 </section>
 
@@ -57,36 +59,40 @@ update_date: 2025-04-30
 </section>
 
 <section>
-## Instrução [↩︎](#summary) {#instruction}
+## Cronograma de Treino [↩︎](#summary) {#training-schedule}
 
-> Consuma diariamente **1,5–2 g de proteína por kg** de peso corporal  
-> Reduza açúcar refinado, farinha branca, soja e seus derivados  
-> Não fume nem beba álcool
+> Este programa exige **comprometimento absoluto e constância inegociável**.  
+> Se você não está disposto a sustentar isso, não continue.
 
-**As sessões diárias duram ~60 min** e é recomendado que você faça pelo menos 15 min adicionais de alongamento no final para ajudar na recuperação muscular e aumentar sua flexibilidade.
+<p>**As sessões diárias duram de 45 a 60 minutos**. Sempre que possível, inclua de 10 a 15 minutos de mobilidade articular no início para ativação neuromuscular, lubrificação articular e prevenção de lesões; e de 10 a 15 minutos de alongamento no final para recuperação tecidual, alívio muscular e desenvolvimento de flexibilidade.</p>
 
-**Realize os treinos na ordem apresentada**. Se desejar, você pode adiantar todas as suas sessões em 1 dia, treinando de domingo a quinta-feira. Se perder 1 dia, você pode compensar reservando apenas 1 dia de descanso profundo no fim de semana. Se perder 2 ou mais dias, pule os dias perdidos e continue adiante.
-
-**Escolha seu nível para os exercícios** (Nível 0 → Nível 1 → Etc). Execute todos os exercícios com cadência controlada e forma perfeita — escápulas ativas, core contraído, sem colapso postural. Se, em um exercício, você tiver realizado qualquer série com mais de 5 reps ou mais de 30 s de isometria (quando aplicável) por 2 sessões consecutivas, avance para o próximo nível. No entanto, se você tiver realizado menos de 3 reps ou menos de 18 s de isometria, retorne ao nível anterior.
-
-**Para evitar o acúmulo de fadiga neural**, a cada 3 semanas de treinamento ininterrupto, reserve a semana 4 para o deloading. Na segunda-feira, pule as fases de _AMRAP_[^1] e _Metcon_[^2]. Nos outros dias, reduza o número de séries de todos os exercícios de _Força Máxima_ de 3 para 2 e de _Assistência de Força_ de 2 para 1. Mude todos os exercícios para 1–2 RIR[^3]. Use esse período para se concentrar na mobilidade articular, no domínio técnico, nos padrões respiratórios ou em alongamentos profundos para promover a recuperação completa sem interromper a estimulação neuromuscular.
-
-**Os nomes dos exercícios estão em inglês** por motivos de padronização internacional. Dessa forma, você pode aprender mais sobre cada exercício copiando seu nome e pesquisando por imagens ou vídeos de exemplo.
+<p>**Realize as sessões na ordem proposta — domingo a quinta-feira**. Se preferir, reorganize para segunda-feira a sexta-feira, mantendo a sequência. Perdendo 1 dia, compense sacrificando 1 dia de descanso no fim de semana; perdendo 2 ou mais, pule os dias perdidos e siga adiante.</p>
 </section>
 
 <section>
-<hgroup>
-## Segunda-Feira: Benchmark & Conditioning [↩︎](#summary) {#benchmark-and-conditioning}
-<p class="subheading">Medição e condicionamento físico de alta intensidade</p>
-</hgroup>
+## Progressões Técnicas [↩︎](#summary) {#technical-progressions}
 
-### Aquecimento (5 min)
+> Consuma diariamente **1,5 a 2 g de proteína por kg** de peso corporal.  
+> Reduza açúcar refinado, farinha branca, soja e derivados.  
+> Não fume. Não beba álcool.
 
-::: list-stylized
-- Mobilidade Articular
-:::
+<p>**Escolha seu nível para cada exercício (Nível 0 → Nível 1 → etc)**. Execute sempre com cadência controlada e forma perfeita — escápulas ativas, core rígido, alinhamento absoluto, sem colapso postural. Mais de 5 repetições ou mais de 30 segundos de isometria por 2 sessões consecutivas, avance para o próximo nível; menos de 3 repetições ou menos de 18 segundos de isometria, retroceda um nível.</p>
 
-### Prehab[^4] (12 reps com 2 s de isometria; 1 min de descanso)
+<p>**Os nomes dos exercícios estão em inglês por padronização internacional**. Isso permite que você encontre referências, imagens e vídeos com facilidade.</p>
+</section>
+
+<section>
+## Semana de Deload [↩︎](#summary) {#deload-week}
+
+<p>**A cada 3 semanas de treinamento contínuo, a quarta semana é de deload**. No domingo, elimine as fases de AMRAP e Metcon. De terça-feira a quinta-feira, reduza as séries de <em>Max Strength</em> de 3 para 2 e de <em>Strength Assist</em> de 2 para 1, ajustando a intensidade para RIR[^2] 1–2. Foco absoluto em mobilidade, domínio técnico, padrões respiratórios e alongamentos profundos — mantendo a estimulação neuromuscular, acelerando a recuperação tecidual e prevenindo fadiga neural crônica.</p>
+</section>
+
+<section>
+## Domingo: Benchmark & Conditioning [↩︎](#summary) {#benchmark-and-conditioning}
+
+### Prehab (Preventive Rehabilitation) — 12 reps com 2 s de isometria; 1 min de descanso
+
+<p class="subheading">Sequência terapêutica mínima, com elásticos, focada na ativação e blindagem dos ombros e cintura escapular. Corrige desequilíbrios, fortalece estabilizadores e eleva a eficiência articular. Pré-condição obrigatória para suportar os blocos subsequentes sem gerar lesões por sobrecarga.</p>
 
 ::: list-stylized
 - 2 x — Band Pull-Apart
@@ -94,7 +100,9 @@ update_date: 2025-04-30
 - 2 x — Band External Rotation
 :::
 
-### AMRAP (máximo de reps com máxima potência; 4+ min de descanso)
+### AMRAP (As Many Reps as Possible) — máximo de reps com máxima potência; 5 min de descanso
+
+<p class="subheading">Realize o máximo de repetições com potência máxima e forma perfeita dentro de um limite temporal ou até falha técnica. Este bloco mensura capacidade de trabalho, potência, eficiência sob fadiga e gera estresse adaptativo com altíssima densidade.</p>
 
 ::: list-stylized
 - 1 x — Deep Squat → Squat Jump
@@ -102,7 +110,8 @@ update_date: 2025-04-30
 - 1 x — Push-Up → Plyometric Push-Up
 :::
 
-### Metcon (20–25 min)
+### Metcon (Metabolic Conditioning) — 20–30 min
+<p class="subheading">Bloco de condicionamento cardiovascular e resistência muscular. Prioriza alta densidade de trabalho, mínima pausa e máxima intensidade relativa. Função: expandir limites cardiorrespiratórios, acelerar recuperação metabólica e fortalecer resiliência sob estresse fisiológico.</p>
 
 ::: list-stylized
 - _Exemplos_: Beat Swing, Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc.
@@ -110,54 +119,54 @@ update_date: 2025-04-30
 </section>
 
 <section>
-<hgroup>
-## Terça-Feira: Active Recovery [↩︎](#summary) {#active-recovery}
-<p class="subheading">Regeneração sistêmica</p>
-</hgroup>
+## Segunda-Feira: Active Recovery [↩︎](#summary) {#active-recovery}
 
-### Cardio Leve
+### LISS (Low-Intensity Steady State)
+<p class="subheading">Caminhada e corrida leve, com controle rigoroso de frequência cardíaca (50–70% MHR[^1]). Otimiza circulação, remove resíduos metabólicos, acelera reparação tecidual e mantém o metabolismo ativado sem acumular fadiga adicional.</p>
 
 ::: list-stylized
-- 5 min com 50–60% MHR[^5] — Caminhada
-- 20–25 min com 60–70% MHR — Caminhada → Corrida Leve
-- 5 min com 50–60% MHR — Caminhada
+- 10 min com 50–60% MHR — Caminhada
+- 30 min com 60–70% MHR — Caminhada → Corrida Leve
+- 10 min com 50–60% MHR — Caminhada
 :::
 </section>
 
 <section>
-<hgroup>
-## Quarta-Feira: Lower Chain [↩︎](#summary) {#lower-chain}
-<p class="subheading">Força e equilíbrio de membros inferiores</p>
-</hgroup>
+## Terça-Feira: Lower Chain [↩︎](#summary) {#lower-chain}
 
-### Ativação (30 s de isometria com máxima contração; 30 s de descanso)
+### Activation — 30 s de isometria com máxima contração; 30 s de descanso
+<p class="subheading">Isometrias ativas para quadris, joelhos e tornozelos, com foco em gerar máxima contração voluntária. Aumenta a prontidão neural, lubrifica articulações e estabelece estabilidade para os blocos de força.</p>
 
 ::: list-stylized
 - 2 x — Wall Sit → Static Squat Hold
 - 2 x — Glute Bridge Hold → Feet Elevated Glute Bridge Hold
 :::
 
-### Força Máxima (3–5 reps com 0–1 RIR; 3 min de descanso)
+### Max Strength — 3–5 reps com RIR 0–1; 3 min de descanso
+<p class="subheading">Núcleo do treino. Padrões fundamentais de empurrar e dobrar com membros inferiores (squat e hinge). Progressão desde exercícios bilaterais até unilaterais avançados, sempre em baixa faixa de reps (3–5) e RIR 0–1. Função: desenvolvimento direto de força máxima, controle motor e resiliência estrutural.</p>
 
 ::: list-stylized
 - 3 x — Air Squat → Deep Squat → Cossack Squat → Box Pistol Squat → Pistol Squat
 - 3 x — Tall Kneeling Hip Hinge → Tall Kneeling Good Morning → Band Assisted Nordic Hamstring Curl → Nordic Hamstring Curl
 :::
 
-### Assistência de Força (3–5 reps com 1–2 RIR; 2 min de descanso)
+### Strength Assist — 3–5 reps com RIR 1–2; 2 min de descanso
+<p class="subheading">Complementa o bloco principal. Foca na amplificação de padrões acessórios (extensão de joelhos, flexão de quadril e equilíbrio unilateral). Volume reduzido, reps moderadas, RIR 1–2. Função: reforçar pontos fracos, equilibrar cadeias musculares e sustentar progresso.</p>
 
 ::: list-stylized
 - 2 x — Assisted Sissy Squat → Sissy Squat → Reverse Nordic Curl
 - 2 x — Lunge → Bulgarian Split Squat → Shrimp Squat
 :::
 
-### Finalizador Opcional (máximo de reps com 1–2 RIR; 1 min de descanso)
+### Optional Finisher — máximo de reps com RIR 1–2; 1 min de descanso
+<p class="subheading">Estímulo localizado para cadeia posterior de tornozelos (panturrilha em isometria de agachamento profundo). Volume reduzido, alta densidade. Não interfere na recuperação, mas adiciona robustez articular.</p>
 
 ::: list-stylized
 - 2 x — Squat Hold Calf Raise
 :::
 
-### Prática Técnica (10–15 min)
+### Technical Practice — 10–15 min
+<p class="subheading">Desenvolvimento de habilidades dinâmicas — aterrissagens, saltos, transições espaciais e rolamentos. Objetivo: elevar controle motor, precisão, propriocepção e resiliência dinâmica.</p>
 
 ::: list-stylized
 - _Exemplos_: Rolls, Drop Landings, Precision Landing, Broad Jumps, Plyometric Jumps, Tic Tac, Wall Runs, Cat Leap, Vaults, Depth Jumps, Acrobatic Flips.
@@ -165,39 +174,41 @@ update_date: 2025-04-30
 </section>
 
 <section>
-<hgroup>
-## Quinta-Feira: Upper Pull & Core [↩︎](#summary) {#upper-pull-and-core}
-<p class="subheading">Força de tração de membros superiores com core integrado</p>
-</hgroup>
+## Quarta-Feira: Upper Pull & Core [↩︎](#summary) {#upper-pull-and-core}
 
-### Ativação (30 s de isometria com máxima contração; 30 s de descanso)
+### Activation — 30 s de isometria com máxima contração; 30 s de descanso
+<p class="subheading">Isometrias focadas em escápulas, dorsais e core. Aumenta prontidão neural e estabilidade da cadeia superior.</p>
 
 ::: list-stylized
 - 2 x — Passive Hang → Active Hang
 - 2 x — Boat Hold → Hollow Body Hold
 :::
 
-### Força Máxima (3–5 reps com 0–1 RIR; 3 min de descanso)
+### Max Strength — 3–5 reps com RIR 0–1; 3 min de descanso
+<p class="subheading">Trações verticais e anti-extensão de core (principalmente na barra e nos anéis). Progressão desde padrões assistidos até unilaterais e integrações de core avançadas. Faixa de 3–5 reps, RIR 0–1. Objetivo: máxima força de puxada e estabilidade central.</p>
 
 ::: list-stylized
 - 3 x — Pull-Up Negative → Pull-Up → Archer Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
 - 3 x — Kneeling Ab Ring Rollout Negative → Ab Ring Rollout → Band Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout
 :::
 
-### Assistência de Força (3–5 reps com 1–2 RIR; 2 min de descanso)
+### Strength Assist — 3–5 reps com RIR 1–2; 2 min de descanso
+<p class="subheading">Padrões horizontais de puxada (inverted rows) e elevações de membros inferiores (toes-to-bar e variantes). Função: expandir volume de tração, fortalecer dorsais, escápulas e cadeia abdominal.</p>
 
 ::: list-stylized
 - 2 x — Bent‑Knee Ring Inverted Row → Ring Inverted Row → Decline Ring Inverted Row
 - 2 x — Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar
 :::
 
-### Finalizador Opcional (máximo de reps com 1–2 RIR; 1 min de descanso)
+### Optional Finisher — máximo de reps com RIR 1–2; 1 min de descanso
+<p class="subheading">Estímulo específico para escápulas (scapular pull-up). Volume mínimo, intensidade controlada. Função: reforçar controle escapular, essencial para progressões avançadas de tração e suspensão.</p>
 
 ::: list-stylized
 - 2 x — Scapular Pull-Up
 :::
 
-### Prática Técnica (10–15 min)
+### Technical Practice — 10–15 min
+<p class="subheading">Desenvolvimento de habilidades avançadas de suspensão e core — levers, flags, muscle-ups, skin the cat, entre outros. Função: consolidar controle motor de alto nível e gerar transferências técnicas para força relativa extrema.</p>
 
 ::: list-stylized
 - _Exemplos_: Hanging L-Sit, Hanging Leg Raise Variations, Skin the Cat, Ice Cream Maker, Core Levers, Dragon Flag, Back Lever, Front Lever, Human Flag, Muscle-Up.
@@ -205,40 +216,41 @@ update_date: 2025-04-30
 </section>
 
 <section>
-<hgroup>
-## Sexta-Feira: Upper Push [↩︎](#summary) {#upper-push}
+## Quinta-Feira: Upper Push [↩︎](#summary) {#upper-push}
 
-<p class="subheading">Força de empurrão de membros superiores</p>
-</hgroup>
-
-### Ativação (30 s de isometria com máxima contração; 30 s de descanso)
+### Activation — 30 s de isometria com máxima contração; 30 s de descanso
+<p class="subheading">Isometrias para cintura escapular, braços e core em apoio (planche leans, ring support hold). Objetivo: gerar estabilidade máxima para suportar sobrecarga nos blocos principais.</p>
 
 ::: list-stylized
 - 2 x — Straight-Arm Plank → Planche Lean
 - 2 x — Feet Assisted Ring Support Hold → Ring Support Hold
 :::
 
-### Força Máxima (3–5 reps com 0–1 RIR; 3 min de descanso)
+### Max Strength — 3–5 reps com RIR 0–1; 3 min de descanso
+<p class="subheading">Empurradas horizontais e verticais — progressões de push-up e dip, até variações unilaterais e anéis. Faixa de 3–5 reps, RIR 0–1. Função: desenvolvimento de força máxima, controle escapular e estabilidade em compressão.</p>
 
 ::: list-stylized
 - 3 x — Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up
 - 3 x — Bent‑Knee Bench Dip → Feet Supported Ring Dip → Ring Dip → Straight Bar Dip
 :::
 
-### Assistência de Força (3–5 reps com 1–2 RIR; 2 min de descanso)
+### Strength Assist — 3–5 reps com RIR 1–2; 2 min de descanso
+<p class="subheading">Complementares focando em força de empurrada vertical (pike push-ups) e extensão de cotovelos (triceps extension, pseudo planche push-ups). Função: reforçar fraquezas, gerar transferência e aumentar robustez da cadeia anterior.</p>
 
 ::: list-stylized
 - 2 x — Incline Pike Push-Up → Pike Push-Up → Deficit Pike Push-Up
 - 2 x — Ring Triceps Extension → Reverse-Grip Push‑Up → Pseudo Planche Push‑Up
 :::
 
-### Finalizador Opcional (máximo de reps com 1–2 RIR; 1 min de descanso)
+### Optional Finisher — máximo de reps com RIR 1–2; 1 min de descanso
+<p class="subheading">Shrug escapular em posição de pike elevado — foco específico na cadeia escapular posterior. Volume mínimo, intensidade moderada, não interfere na recuperação.</p>
 
 ::: list-stylized
 - 2 x — Elevated Pike Shoulder Shrug
 :::
 
-### Prática Técnica (10–15 min)
+### Technical Practice — 10–15 min
+<p class="subheading">Desenvolvimento de habilidades avançadas de suporte, equilíbrio e compressão — handstand, planche, L-sit, levers e suas progressões. Função: maximizar controle corporal sob compressão e elevação da inteligência motora.</p>
 
 ::: list-stylized
 - _Exemplos_: Straight-Arm Plank Variations, Ring Support Hold, Frog Stand, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche.
@@ -246,12 +258,10 @@ update_date: 2025-04-30
 </section>
 
 <section>
-<hgroup>
-## Sábado e Domingo: Deep Rest [↩︎](#summary) {#deep-rest}
-<p class="subheading">Recuperação neuromuscular profunda</p>
-</hgroup>
+## Sexta-Feira e Sábado: Deep Recovery [↩︎](#summary) {#deep-rest}
 
-<p>Dias para atividades relaxantes livres.</p>
+### Rest
+<p class="subheading">Ausência total de treinamento estruturado. Permitidas apenas atividades espontâneas, relaxantes e regenerativas.</p>
 </section>
 
 <section>
@@ -262,14 +272,6 @@ update_date: 2025-04-30
 - [Calendário Solar Cronobiológico](/chronobiological-solar-calendar/)
 </section>
 
+[^1]: <sup>1</sup> _MHR (Maximum Heart Rate)_: Máxima frequência cardíaca estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
 
-[^1]: <sup>1</sup> _AMRAP (As Many Reps as Possible)_: Realize o máximo de reps com a forma perfeita dentro de um intervalo de tempo ou até falha técnica. Mensura capacidade de trabalho, resiliência muscular e eficiência sob fadiga.
-
-[^2]: <sup>2</sup> _Metcon (Metabolic Conditioning)_: Método de condicionamento metabólico que combina movimentos multiarticulares de alta demanda em blocos de máxima intensidade, mínima pausa e alta densidade de trabalho. Desenvolve simultaneamente capacidade cardiorrespiratória, resistência muscular local, potência, tolerância ao lactato e recuperação acelerada. Expande os limites da sua capacidade física e resiliência sob estresse fisiológico extremo.
-
-[^3]: <sup>3</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes da falha técnica — ou seja, como se você estivesse guardando o número de repetições que ainda conseguiria realizar com a forma perfeita se continuasse, para a próxima série. Por exemplo, 1–2 RIR significa encerrar a série com 1 ou 2 reps de reserva antes da falha. Mantenha 0–1 RIR apenas para movimentos com alto domínio técnico e baixa chance de colapso postural. Isso garante uma estimulação eficaz com mínima fadiga, promovendo consistência e domínio técnico.
-
-[^4]: <sup>4</sup> _Prehab (Preventive Rehabilitation)_: Exercícios terapêuticos focados na preparação de tecidos, articulações e cadeias musculares para demandas intensas. Fortalece estruturas frágeis, corrige desequilíbrios, aumenta a estabilidade articular e melhora a propriocepção. É a linha de defesa contra lesões crônicas ou agudas, mantendo a integridade estrutural e a eficiência neuromuscular ao longo de ciclos de treinamento intensos. Não é opcional — é seguro, eficiente e essencial para a longevidade atlética.
-
-[^5]: <sup>5</sup> _MHR (Maximum Heart Rate)_: Máxima frequência cardíaca estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
-
+[^2]: <sup>2</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes da falha técnica — ou seja, como se você estivesse guardando o número de repetições que ainda conseguiria realizar com a forma perfeita se continuasse, para a próxima série. Por exemplo, RIR 1–2 significa encerrar a série com 1 ou 2 reps de reserva antes da falha. Mantenha RIR 0–1 apenas para movimentos com alto domínio técnico e baixa chance de colapso postural. Isso garante uma estimulação eficaz com mínima fadiga, promovendo consistência e domínio técnico.
