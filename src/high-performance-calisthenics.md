@@ -1,6 +1,6 @@
 ---
-title: "Treinamento de Calistenia"
-description: "Programa de treinamento com progressões do nível iniciante ao avançado."
+title: "Calistenia de Alta Performance"
+description: "Plano de treino semanal com progressões do nível iniciante ao elite."
 image_filename: "majestic-lukas-1XBMr_vUwdU-unsplash"
 image_alt: "Imagem de capa"
 image_source: "Majestic Lukas / Unsplash"
@@ -21,7 +21,7 @@ update_date: 2025-04-30
 - [Terça-Feira: Lower Chain](#lower-chain)
 - [Quarta-Feira: Upper Pull & Core](#upper-pull-and-core)
 - [Quinta-Feira: Upper Push](#upper-push)
-- [Sexta-Feira e Sábado: Deep Rest](#deep-rest)
+- [Sexta-Feira e Sábado: Deep Recovery](#deep-recovery)
 - [Notas de Rodapé](#footnotes)
 </section>
 
@@ -92,7 +92,7 @@ update_date: 2025-04-30
 
 ### Prehab (Preventive Rehabilitation) — 12 reps com 2 s de isometria; 1 min de descanso
 
-<p class="subheading">Sequência terapêutica mínima, com elásticos, focada na ativação e blindagem dos ombros e cintura escapular. Corrige desequilíbrios, fortalece estabilizadores e eleva a eficiência articular. Pré-condição obrigatória para suportar os blocos subsequentes sem gerar lesões por sobrecarga.</p>
+<p class="subheading">Sequência terapêutica mínima, com faixas de resistência, focada na ativação e blindagem dos ombros e cintura escapular. Corrige desequilíbrios, fortalece estabilizadores e eleva a eficiência articular. Pré-condição obrigatória para suportar os blocos subsequentes sem gerar lesões por sobrecarga.</p>
 
 ::: list-stylized
 - 2 x — Band Pull-Apart
@@ -102,7 +102,7 @@ update_date: 2025-04-30
 
 ### AMRAP (As Many Reps as Possible) — máximo de reps com máxima potência; 5 min de descanso
 
-<p class="subheading">Realize o máximo de repetições com potência máxima e forma perfeita dentro de um limite temporal ou até falha técnica. Este bloco mensura capacidade de trabalho, potência, eficiência sob fadiga e gera estresse adaptativo com altíssima densidade.</p>
+<p class="subheading">Realize o máximo de repetições com potência máxima e forma perfeita dentro de um limite temporal ou até falha técnica. Este bloco mensura capacidade de trabalho, potência, eficiência sob fadiga e gera estresse adaptativo com alta densidade.</p>
 
 ::: list-stylized
 - 1 x — Deep Squat → Squat Jump
@@ -122,10 +122,10 @@ update_date: 2025-04-30
 ## Segunda-Feira: Active Recovery [↩︎](#summary) {#active-recovery}
 
 ### LISS (Low-Intensity Steady State)
-<p class="subheading">Caminhada e corrida leve, com controle rigoroso de frequência cardíaca (50–70% MHR[^2]). Otimiza circulação, remove resíduos metabólicos, acelera reparação tecidual e mantém o metabolismo ativado sem acumular fadiga adicional.</p>
+<p class="subheading">Caminhada e corrida leve, com controle de frequência cardíaca. Otimiza circulação, remove resíduos metabólicos, acelera reparação tecidual e mantém o metabolismo ativado sem acumular fadiga adicional.</p>
 
 ::: list-stylized
-- 10 min com 50–60% MHR — Caminhada
+- 10 min com 50–60% MHR[^2] — Caminhada
 - 30 min com 60–70% MHR — Caminhada → Corrida Leve
 - 10 min com 50–60% MHR — Caminhada
 :::
@@ -143,7 +143,7 @@ update_date: 2025-04-30
 :::
 
 ### Max Strength — 3–5 reps com RIR 0–1; 3 min de descanso
-<p class="subheading">Núcleo do treino. Padrões fundamentais de empurrar e dobrar com membros inferiores (squat e hinge). Progressão desde exercícios bilaterais até unilaterais avançados, sempre em baixa faixa de reps (3–5) e RIR 0–1. Função: desenvolvimento direto de força máxima, controle motor e resiliência estrutural.</p>
+<p class="subheading">Núcleo do treino. Padrões fundamentais de empurrar e dobrar com membros inferiores (squat e hinge). Progressão desde exercícios bilaterais até unilaterais avançados. Função: desenvolvimento direto de força máxima, controle motor e resiliência estrutural.</p>
 
 ::: list-stylized
 - 3 x — Air Squat → Deep Squat → Cossack Squat → Box Pistol Squat → Pistol Squat
@@ -151,7 +151,7 @@ update_date: 2025-04-30
 :::
 
 ### Strength Assist — 3–5 reps com RIR 1–2; 2 min de descanso
-<p class="subheading">Complementa o bloco principal. Foca na amplificação de padrões acessórios (extensão de joelhos, flexão de quadril e equilíbrio unilateral). Volume reduzido, reps moderadas, RIR 1–2. Função: reforçar pontos fracos, equilibrar cadeias musculares e sustentar progresso.</p>
+<p class="subheading">Complementa o bloco principal. Foca na amplificação de padrões acessórios (extensão de joelhos, flexão de quadril e equilíbrio unilateral). Função: reforçar pontos fracos, equilibrar cadeias musculares e sustentar progresso.</p>
 
 ::: list-stylized
 - 2 x — Assisted Sissy Squat → Sissy Squat → Reverse Nordic Curl
@@ -159,7 +159,7 @@ update_date: 2025-04-30
 :::
 
 ### Optional Finisher — máximo de reps com RIR 1–2; 1 min de descanso
-<p class="subheading">Estímulo localizado para cadeia posterior de tornozelos (panturrilha em isometria de agachamento profundo). Volume reduzido, alta densidade. Não interfere na recuperação, mas adiciona robustez articular.</p>
+<p class="subheading">Estímulo localizado para cadeia posterior de tornozelos (panturrilha em isometria de agachamento profundo). Não interfere na recuperação, mas adiciona robustez articular.</p>
 
 ::: list-stylized
 - 2 x — Squat Hold Calf Raise
@@ -185,7 +185,7 @@ update_date: 2025-04-30
 :::
 
 ### Max Strength — 3–5 reps com RIR 0–1; 3 min de descanso
-<p class="subheading">Trações verticais e anti-extensão de core (principalmente na barra e nos anéis). Progressão desde padrões assistidos até unilaterais e integrações de core avançadas. Faixa de 3–5 reps, RIR 0–1. Objetivo: máxima força de puxada e estabilidade central.</p>
+<p class="subheading">Trações verticais e anti-extensão de core (principalmente na barra e nas argolas). Progressão desde padrões assistidos até unilaterais e integrações de core avançadas. Objetivo: máxima força de puxada e estabilidade central.</p>
 
 ::: list-stylized
 - 3 x — Pull-Up Negative → Pull-Up → Archer Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
@@ -201,7 +201,7 @@ update_date: 2025-04-30
 :::
 
 ### Optional Finisher — máximo de reps com RIR 1–2; 1 min de descanso
-<p class="subheading">Estímulo específico para escápulas (scapular pull-up). Volume mínimo, intensidade controlada. Função: reforçar controle escapular, essencial para progressões avançadas de tração e suspensão.</p>
+<p class="subheading">Estímulo específico para escápulas. Função: reforçar controle escapular, essencial para progressões avançadas de tração e suspensão.</p>
 
 ::: list-stylized
 - 2 x — Scapular Pull-Up
@@ -219,7 +219,7 @@ update_date: 2025-04-30
 ## Quinta-Feira: Upper Push [↩︎](#summary) {#upper-push}
 
 ### Activation — 30 s de isometria com máxima contração; 30 s de descanso
-<p class="subheading">Isometrias para cintura escapular, braços e core em apoio (planche leans, ring support hold). Objetivo: gerar estabilidade máxima para suportar sobrecarga nos blocos principais.</p>
+<p class="subheading">Isometrias para cintura escapular, braços e core em apoio (planche lean, ring support hold). Objetivo: gerar estabilidade máxima para suportar sobrecarga nos blocos principais.</p>
 
 ::: list-stylized
 - 2 x — Straight-Arm Plank → Planche Lean
@@ -227,7 +227,7 @@ update_date: 2025-04-30
 :::
 
 ### Max Strength — 3–5 reps com RIR 0–1; 3 min de descanso
-<p class="subheading">Empurradas horizontais e verticais — progressões de push-up e dip, até variações unilaterais e anéis. Faixa de 3–5 reps, RIR 0–1. Função: desenvolvimento de força máxima, controle escapular e estabilidade em compressão.</p>
+<p class="subheading">Empurradas horizontais e verticais — progressões de push-up e dip, até variações unilaterais e anéis. Função: desenvolvimento de força máxima, controle escapular e estabilidade em compressão.</p>
 
 ::: list-stylized
 - 3 x — Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up
@@ -258,7 +258,7 @@ update_date: 2025-04-30
 </section>
 
 <section>
-## Sexta-Feira e Sábado: Deep Recovery [↩︎](#summary) {#deep-rest}
+## Sexta-Feira e Sábado: Deep Recovery [↩︎](#summary) {#deep-recovery}
 
 ### Rest
 <p class="subheading">Ausência total de treinamento estruturado. Permitidas apenas atividades espontâneas, relaxantes e regenerativas.</p>
