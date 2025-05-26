@@ -172,8 +172,8 @@ update_date: 2025-04-17
 
 <section>
 ## Veja também
-- [Treinamento de Calistenia](/calisthenics-training/)
-- [Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
+- [Calistenia de Alta Performance](/high-performance-calisthenics/)
+- [Cronograma de Alta Performance](/high-performance-schedule/)
 - [Poesia do Ritmo Solar](/poetry-of-solar-rhythm/)
 </section>
 

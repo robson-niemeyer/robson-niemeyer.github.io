@@ -49,8 +49,8 @@ Quem sincroniza, floresce —
 
 <section>
 ## Veja também
-- [Treinamento de Calistenia](/calisthenics-training/)
-- [Cronograma Diário de Alta Performance](/high-performance-daily-schedule/)
+- [Calistenia de Alta Performance](/high-performance-calisthenics/)
+- [Cronograma de Alta Performance](/high-performance-schedule/)
 - [Calendário Solar Cronobiológico](/chronobiological-solar-calendar/)
 </section>
 

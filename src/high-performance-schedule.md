@@ -1,6 +1,6 @@
 ---
-title: "Cronograma Diário de Alta Performance"
-description: "Rotina diária sincronizada com ritmos circadianos, ritmos ultradianos e checkpoints estratégicos."
+title: "Cronograma de Alta Performance"
+description: "Plano diário sincronizado com ritmos circadianos, ritmos ultradianos e checkpoints estratégicos."
 image_filename: "afshin-t2y-3_PVkGcXqgQ-unsplash"
 image_alt: "Imagem de capa"
 image_source: "Afshin T2Y / Unsplash"
@@ -138,7 +138,7 @@ Se quiser anotar, basta uma linha clara:
 <section>
 ## Veja também
 
-- [Treinamento de Calistenia](/calisthenics-training/)
+- [Calistenia de Alta Performance](/high-performance-calisthenics/)
 - [Poesia do Ritmo Solar](/poetry-of-solar-rhythm/)
 - [Calendário Solar Cronobiológico](/chronobiological-solar-calendar/)
 </section>
