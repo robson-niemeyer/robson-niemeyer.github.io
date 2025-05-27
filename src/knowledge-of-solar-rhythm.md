@@ -1,5 +1,5 @@
 ---
-title: "Poesia do Ritmo Solar"
+title: "Conhecimento do Ritmo Solar"
 description: "Teu corpo segue o sol. Tua mente floresce na luz."
 date: "2025-04-09"
 image_filename: "dave-hoefler-a3e7yEtQxJs-unsplash"
@@ -50,7 +50,7 @@ Quem sincroniza, floresce —
 <section>
 ## Veja também
 - [Calistenia Extrema](/extreme-calisthenics/)
-- [Cronograma de Alta Performance](/high-performance-schedule/)
+- [Cronograma Cronobiológico](/chronobiological-schedule/)
 - [Calendário Solar Natural](/natural-solar-calendar/)
 </section>
 

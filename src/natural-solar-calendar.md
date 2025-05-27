@@ -173,8 +173,8 @@ update_date: 2025-04-17
 <section>
 ## Veja também
 - [Calistenia Extrema](/extreme-calisthenics/)
-- [Cronograma de Alta Performance](/high-performance-schedule/)
-- [Poesia do Ritmo Solar](/poetry-of-solar-rhythm/)
+- [Cronograma Cronobiológico](/chronobiological-schedule/)
+- [Conhecimento do Ritmo Solar](/knowledge-of-solar-rhythm/)
 </section>
 
 [^1]: <sup>1</sup> _N_: Hemisfério Norte.

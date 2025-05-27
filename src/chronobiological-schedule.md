@@ -1,5 +1,5 @@
 ---
-title: "Cronograma de Alta Performance"
+title: "Cronograma Cronobiológico"
 description: "Plano diário sincronizado com ritmos circadianos, ritmos ultradianos e checkpoints estratégicos."
 image_filename: "afshin-t2y-3_PVkGcXqgQ-unsplash"
 image_alt: "Imagem de capa"
@@ -139,7 +139,7 @@ Se quiser anotar, basta uma linha clara:
 ## Veja também
 
 - [Calistenia Extrema](/extreme-calisthenics/)
-- [Poesia do Ritmo Solar](/poetry-of-solar-rhythm/)
+- [Conhecimento do Ritmo Solar](/knowledge-of-solar-rhythm/)
 - [Calendário Solar Natural](/natural-solar-calendar/)
 </section>
 
