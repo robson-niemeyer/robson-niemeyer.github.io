@@ -35,32 +35,6 @@ update_date: 2025-04-30
 <p>**Força, controle e potência** — para a máxima liberdade do seu corpo.</p>
 </section>
 
-
-<section>
-## Equipamento [↩︎](#summary) {#equipment}
-
-> Algumas praias, parques e praças têm academias ao ar livre.  
-> Você pode treinar de graça e fazer amigos.
-
-### Necessário
-
-::: list-stylized
-- Barra fixa \([Comprar](https://amzn.to/4duZjsI){target=\_blank}\)
-- Argolas de suspensão olímpicas \([Comprar](https://amzn.to/43nnOn7){target=\_blank}\)
-- Colchonete de ginástica \([Comprar](https://amzn.to/4jlNfvs){target=\_blank}\)
-- Faixas de resistência \([Comprar](https://amzn.to/4kwoNs2){target=\_blank}\)
-- Piso firme e espaço livre
-:::
-
-### Opcional
-
-::: list-stylized
-- Corda de pular \([Comprar](https://amzn.to/44QnEXP){target=\_blank}\)
-- Corda de batalha \([Comprar](https://amzn.to/4k5MFCZ){target=\_blank}\)
-- Tênis de corrida
-:::
-</section>
-
 <section>
 ## Cronograma de Treino [↩︎](#summary) {#training-schedule}
 
@@ -88,6 +62,31 @@ update_date: 2025-04-30
 ## Semana de Deload [↩︎](#summary) {#deload-week}
 
 <p>**A cada 3 semanas de treinamento contínuo, a quarta semana é de deload**. No domingo, elimine as fases de AMRAP e Metcon. De terça-feira a quinta-feira, reduza as séries de <em>Max Strength</em> de 3 para 2 e de <em>Strength Assist</em> de 2 para 1, ajustando a intensidade para RIR[^1] 1–2. Foco absoluto em mobilidade, domínio técnico, padrões respiratórios e alongamentos profundos — mantendo a estimulação neuromuscular, acelerando a recuperação tecidual e prevenindo fadiga neural crônica.</p>
+</section>
+
+<section>
+## Equipamento [↩︎](#summary) {#equipment}
+
+> Algumas praias, parques e praças têm academias ao ar livre.  
+> Você pode treinar de graça e fazer amigos.
+
+### Necessário
+
+::: list-stylized
+- Barra fixa \([Comprar](https://amzn.to/4duZjsI){target=\_blank}\)
+- Argolas de suspensão olímpicas \([Comprar](https://amzn.to/43nnOn7){target=\_blank}\)
+- Colchonete de ginástica \([Comprar](https://amzn.to/4jlNfvs){target=\_blank}\)
+- Faixas de resistência \([Comprar](https://amzn.to/4kwoNs2){target=\_blank}\)
+- Piso firme e espaço livre
+:::
+
+### Opcional
+
+::: list-stylized
+- Corda de pular \([Comprar](https://amzn.to/44QnEXP){target=\_blank}\)
+- Corda de batalha \([Comprar](https://amzn.to/4k5MFCZ){target=\_blank}\)
+- Tênis de corrida
+:::
 </section>
 
 <section>
