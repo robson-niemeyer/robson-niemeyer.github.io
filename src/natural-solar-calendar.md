@@ -172,7 +172,7 @@ update_date: 2025-04-17
 
 <section>
 ## Veja também
-- [Calistenia de Alta Performance](/high-performance-calisthenics/)
+- [Calistenia Extrema](/extreme-calisthenics/)
 - [Cronograma de Alta Performance](/high-performance-schedule/)
 - [Poesia do Ritmo Solar](/poetry-of-solar-rhythm/)
 </section>

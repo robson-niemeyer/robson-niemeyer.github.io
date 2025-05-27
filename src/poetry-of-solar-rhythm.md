@@ -49,7 +49,7 @@ Quem sincroniza, floresce —
 
 <section>
 ## Veja também
-- [Calistenia de Alta Performance](/high-performance-calisthenics/)
+- [Calistenia Extrema](/extreme-calisthenics/)
 - [Cronograma de Alta Performance](/high-performance-schedule/)
 - [Calendário Solar Natural](/natural-solar-calendar/)
 </section>

@@ -1,5 +1,5 @@
 ---
-title: "Calistenia de Alta Performance"
+title: "Calistenia Extrema"
 description: "Plano de treino semanal com progressões do nível iniciante ao elite."
 image_filename: "majestic-lukas-1XBMr_vUwdU-unsplash"
 image_alt: "Imagem de capa"

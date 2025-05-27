@@ -138,7 +138,7 @@ Se quiser anotar, basta uma linha clara:
 <section>
 ## Veja também
 
-- [Calistenia de Alta Performance](/high-performance-calisthenics/)
+- [Calistenia Extrema](/extreme-calisthenics/)
 - [Poesia do Ritmo Solar](/poetry-of-solar-rhythm/)
 - [Calendário Solar Natural](/natural-solar-calendar/)
 </section>
