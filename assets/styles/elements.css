@@ -33,12 +33,10 @@
   background-color: var(--color-link);
   border: 1px solid var(--color-link);
   color: var(--background-color-primary);
-  cursor: pointer;
   font-family: var(--font-family-body);
   font-weight: 600;
   letter-spacing: 1px;
   line-height: var(--line-height-heading);
-  padding: 0.25rem 0.5rem;
   transition: all var(--transition-duration) ease-out;
 }
 
