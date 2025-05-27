@@ -39,6 +39,9 @@ update_date: 2025-04-30
 <section>
 ## Equipamento [↩︎](#summary) {#equipment}
 
+> Algumas praças têm academias ao ar livre.  
+> Você pode treinar sem gastar dinheiro.
+
 ### Necessário
 
 ::: list-stylized
