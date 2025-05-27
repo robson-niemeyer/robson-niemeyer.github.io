@@ -12,10 +12,10 @@ update_date: 2025-04-30
 ## Sumário {#summary}
 
 - [Introdução](#introduction)
-- [Equipamento](#equipment)
 - [Cronograma de Treino](#training-schedule)
 - [Progressões Técnicas](#technical-progressions)
 - [Semana de Deload](#deload-week)
+- [Equipamento](#equipment)
 - [Domingo: Benchmark & Conditioning](#benchmark-and-conditioning)
 - [Segunda-Feira: Active Recovery](#active-recovery)
 - [Terça-Feira: Lower Chain](#lower-chain)
