@@ -39,8 +39,8 @@ update_date: 2025-04-30
 <section>
 ## Equipamento [↩︎](#summary) {#equipment}
 
-> Algumas praças, parques e praias têm academias ao ar livre.  
-> Você pode treinar sem gastar dinheiro.
+> Algumas praias, parques e praças têm academias ao ar livre.  
+> Você pode treinar de graça e fazer amigos.
 
 ### Necessário
 
