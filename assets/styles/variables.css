@@ -3,10 +3,10 @@
 
   --background-color-primary: lch(100% 6.25 270);
   --background-color-secondary: lch(87.5% 6.25 270);
-
   --color-primary: lch(18.75% 6.25 270);
   --color-secondary: lch(25% 6.25 270);
   --color-link: lch(50% 75 270);
+  --border-color: lch(75% 6.25 270);
 
   --font-size-h1: 2rem;
   --font-size-h2: 1.5rem;
@@ -22,7 +22,14 @@
 
   --font-family-monospace: monospace;
 
-  --border-color: lch(75% 6.25 270);
-
   --transition-duration: 330ms;
+}
+
+.dark-theme {
+  --background-color-primary: lch(12.5% 6.25 270);
+  --background-color-secondary: lch(6.25% 6.25 270);
+  --color-primary: lch(87.5% 6.25 270);
+  --color-secondary: lch(75% 6.25 270);
+  --color-link: lch(62.5% 75 270);
+  --border-color: lch(25% 6.25 270);
 }

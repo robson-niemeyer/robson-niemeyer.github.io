@@ -41,7 +41,7 @@ update_date: 2025-04-17
 
 ::: input-group
 <input type="time" id="start-time" />
-<button id="now-btn">Agora</button>
+<button id="now-btn" class="button">Agora</button>
 :::
 :::
 

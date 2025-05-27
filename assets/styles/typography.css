@@ -180,8 +180,12 @@ label {
   text-transform: uppercase;
 }
 
-.text-center-h {
+.text-center {
   text-align: center;
+}
+
+.text-right {
+  text-align: right;
 }
 
 .text-center-v {
