@@ -140,7 +140,7 @@ Se quiser anotar, basta uma linha clara:
 
 - [Calistenia de Alta Performance](/high-performance-calisthenics/)
 - [Poesia do Ritmo Solar](/poetry-of-solar-rhythm/)
-- [Calendário Solar Cronobiológico](/chronobiological-solar-calendar/)
+- [Calendário Solar Natural](/natural-solar-calendar/)
 </section>
 
 [^1]: <sup>1</sup> _T<sub>0</sub> (Tempo Zero)_: Instante em que os primeiros raios solares tocam diretamente o solo. Alinha o cronograma ao ritmo circadiano — baseado no ciclo solar local, não no relógio.

@@ -51,7 +51,7 @@ Quem sincroniza, floresce —
 ## Veja também
 - [Calistenia de Alta Performance](/high-performance-calisthenics/)
 - [Cronograma de Alta Performance](/high-performance-schedule/)
-- [Calendário Solar Cronobiológico](/chronobiological-solar-calendar/)
+- [Calendário Solar Natural](/natural-solar-calendar/)
 </section>
 
 [^1]: <sup>1</sup> _Zênite solar_: auge do sol ao meio-dia.

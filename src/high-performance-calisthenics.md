@@ -269,7 +269,7 @@ update_date: 2025-04-30
 
 - [Cronograma de Alta Performance](/high-performance-schedule/)
 - [Poesia do Ritmo Solar](/poetry-of-solar-rhythm/)
-- [Calendário Solar Cronobiológico](/chronobiological-solar-calendar/)
+- [Calendário Solar Natural](/natural-solar-calendar/)
 </section>
 
 

@@ -1,6 +1,6 @@
 ---
-title: "Calendário Solar Cronobiológico"
-description: "Dominar o tempo é forjar o destino."
+title: "Calendário Solar Natural"
+description: "Plano mensal baseado na declinação do Sol e nas diferenças entre os hemisférios da Terra."
 image_filename: "ivana-cajina-dQejX2ucPBs-unsplash"
 image_alt: "Imagem de capa"
 image_source: "Ivana Cajina / Unsplash"
