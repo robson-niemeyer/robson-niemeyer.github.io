@@ -148,7 +148,7 @@ update_date: 2025-04-30
 <p class="subheading">Núcleo do treino. Padrões fundamentais de empurrar e dobrar com membros inferiores (squat e hinge). Progressão desde exercícios bilaterais até unilaterais avançados. Função: desenvolvimento direto de força máxima, controle motor e resiliência estrutural.</p>
 
 ::: list-stylized
-- 3 x — Air Squat → Deep Squat → Cossack Squat → Box Pistol Squat → Pistol Squat
+- 3 x — Air Squat → Deep Squat → Cossack Squat → Assisted Pistol Squat → Pistol Squat
 - 3 x — Tall Kneeling Hip Hinge → Tall Kneeling Good Morning → Band Assisted Nordic Hamstring Curl → Nordic Hamstring Curl
 :::
 
@@ -157,7 +157,7 @@ update_date: 2025-04-30
 
 ::: list-stylized
 - 2 x — Assisted Sissy Squat → Sissy Squat → Reverse Nordic Curl
-- 2 x — Lunge → Bulgarian Split Squat → Shrimp Squat
+- 2 x — Lunge → Bulgarian Split Squat → Assisted Shrimp Squat → Shrimp Squat
 :::
 
 ### Optional Finisher — máximo de reps com RIR 1–2; 1 min de descanso
@@ -190,7 +190,7 @@ update_date: 2025-04-30
 <p class="subheading">Trações verticais e anti-extensão de core (principalmente na barra e nas argolas). Progressão desde padrões assistidos até unilaterais e integrações de core avançadas. Objetivo: máxima força de puxada e estabilidade central.</p>
 
 ::: list-stylized
-- 3 x — Pull-Up Negative → Pull-Up → Archer Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
+- 3 x — Pull-Up Negative → Pull-Up → Archer Pull-Up → Assisted One-Arm Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
 - 3 x — Kneeling Ab Ring Rollout Negative → Ab Ring Rollout → Band Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout
 :::
 
