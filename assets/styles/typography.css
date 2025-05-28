@@ -240,4 +240,5 @@ label {
 
 .font-monospace {
   font-family: var(--font-family-monospace);
+  font-size: var(--font-size-small);
 }
