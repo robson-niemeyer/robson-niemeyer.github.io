@@ -61,7 +61,7 @@ update_date: 2025-04-30
 <section>
 ## Semana de Deload [↩︎](#summary) {#deload-week}
 
-<p>**A cada 3 semanas de treinamento contínuo, a quarta semana é de deload**. No domingo, elimine as fases de AMRAP e Metcon. De terça-feira a quinta-feira, reduza as séries de <em>Max Strength</em> de 3 para 2 e de <em>Strength Assist</em> de 2 para 1, ajustando a intensidade para RIR[^1] 1–2. Foco absoluto em mobilidade, domínio técnico, padrões respiratórios e alongamentos profundos — mantendo a estimulação neuromuscular, acelerando a recuperação tecidual e prevenindo fadiga neural crônica.</p>
+<p>**A cada 3 semanas de treinamento contínuo, a quarta semana é de deload**. No domingo, elimine as fases de <em>AMRAP</em> e <em>Metcon</em>. De terça-feira a quinta-feira, reduza as séries de <em>Max Strength</em> de 3 para 2 e de <em>Strength Assist</em> de 2 para 1, ajustando a intensidade para RIR[^1] 1–2. Foco absoluto em mobilidade, domínio técnico, padrões respiratórios e alongamentos profundos — mantendo a estimulação neuromuscular, acelerando a recuperação tecidual e prevenindo fadiga neural crônica.</p>
 </section>
 
 <section>
