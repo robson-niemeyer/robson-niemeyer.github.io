@@ -14,13 +14,13 @@
   --font-size-body: 1rem;
   --font-size-small: 0.875rem;
 
-  --font-family-heading: "Inter Tight", "Inter", sans-serif;
+  --font-family-heading: "EB Garamond", serif;
   --line-height-heading: 1.3333;
 
   --font-family-body: "Inter", sans-serif;
   --line-height-body: 1.6667;
 
-  --font-family-monospace: monospace;
+  --font-family-monospace: "JetBrains Mono", monospace;
 
   --transition-duration: 330ms;
 }
