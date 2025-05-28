@@ -84,8 +84,8 @@ update_date: 2025-04-30
 
 ::: list-stylized
 - Banco reto fixo \([Comprar](https://amzn.to/4jmSpr2){target=\_blank}\)
-- Corda de pular \([Comprar](https://amzn.to/44QnEXP){target=\_blank}\)
-- Corda de batalha \([Comprar](https://amzn.to/4k5MFCZ){target=\_blank}\)
+- Corda de pular \([Comprar](https://amzn.to/3Helyaw){target=\_blank}\)
+- Corda de batalha \([Comprar](https://amzn.to/3Z3dNu5){target=\_blank}\)
 - Paralelas de chão \([Comprar](https://amzn.to/3Z5Z3ur){target=\_blank}\)
 :::
 </section>
