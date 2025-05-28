@@ -95,7 +95,7 @@ update_date: 2025-04-30
 
 ### Prehab (Preventive Rehabilitation) — 12 reps com 2 s de isometria; 1 min de descanso
 
-<p class="subheading">Blindagem articular. Corrige fraquezas, ativa estabilizadores e preserva a cintura escapular.</p>
+<p class="subheading">Blindagem articular. Correção de fraquezas, ativação de estabilizadores, integridade escapular. Pré-requisito absoluto.</p>
 
 ::: list-stylized
 - 2 x — Band Pull-Apart
@@ -105,7 +105,7 @@ update_date: 2025-04-30
 
 ### AMRAP (As Many Reps as Possible) — máximo de reps com máxima potência; 5 min de descanso
 
-<p class="subheading">Potência e resiliência. Repetições até falha técnica ou limite de tempo.</p>
+<p class="subheading">Explosão. Resiliência. Máximo de repetições perfeitas, máxima potência, até falha ou tempo limite.</p>
 
 ::: list-stylized
 - 1 x — Deep Squat → Squat Jump
@@ -114,7 +114,7 @@ update_date: 2025-04-30
 :::
 
 ### Metcon (Metabolic Conditioning) — 20–30 min
-<p class="subheading">Alta densidade. Trabalho contínuo, mínima pausa, intensidade constante.</p>
+<p class="subheading">Alta densidade. Sequências contínuas, mínima pausa, máxima intensidade. Condicionamento, recuperação, resiliência.</p>
 
 ::: list-stylized
 - Exemplos: Beat Swing, Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc.
@@ -125,7 +125,7 @@ update_date: 2025-04-30
 ## Segunda-Feira: Active Recovery [↩︎](#summary) {#active-recovery}
 
 ### LISS (Low-Intensity Steady State)
-<p class="subheading">Recuperação ativa. Circulação, drenagem metabólica e reparação, sem acúmulo de fadiga.</p>
+<p class="subheading">Recuperação ativa. Circulação, drenagem, reparação. Zero fadiga.</p>
 
 ::: list-stylized
 - 10 min com 50–60% MHR[^2] — Caminhada
@@ -138,7 +138,7 @@ update_date: 2025-04-30
 ## Terça-Feira: Lower Chain [↩︎](#summary) {#lower-chain}
 
 ### Activation — 30 s de isometria com máxima contração; 30 s de descanso
-<p class="subheading">Estabilidade e prontidão. Ativa quadris, joelhos e tornozelos.</p>
+<p class="subheading"> Ativação neural e articular. Máxima estabilidade, lubrificação, prontidão para força.</p>
 
 ::: list-stylized
 - 2 x — Wall Sit → Static Squat Hold
@@ -146,7 +146,7 @@ update_date: 2025-04-30
 :::
 
 ### Max Strength — 3–5 reps com RIR 0–1; 3 min de descanso
-<p class="subheading">Bloco central. Squat e hinge em progressões bilaterais e unilaterais. Máxima força, controle motor e integridade estrutural.</p>
+<p class="subheading">Bloco central. Squat e hinge em progressões bilaterais e unilaterais. Máxima força, controle motor, integridade estrutural.</p>
 
 ::: list-stylized
 - 3 x — Box Squat → Air Squat → Deep Squat → Cossack Squat → Box Pistol Squat → Assisted Pistol Squat → Pistol Squat
@@ -154,7 +154,7 @@ update_date: 2025-04-30
 :::
 
 ### Assistance — 3–5 reps com RIR 1–2; 2 min de descanso
-<p class="subheading">Refinamento estrutural. Extensão de joelhos, flexão de quadril e equilíbrio unilateral.</p>
+<p class="subheading">Complementar. Extensão de joelhos, flexão de quadril, equilíbrio unilateral. Correção, robustez, transferência.</p>
 
 ::: list-stylized
 - 2 x — Assisted Sissy Squat → Sissy Squat → Reverse Nordic Curl
@@ -162,14 +162,14 @@ update_date: 2025-04-30
 :::
 
 ### Finisher — máximo de reps com RIR 1–2; 1 min de descanso
-<p class="subheading">Blindagem dos tornozelos. Panturrilha em agachamento profundo isométrico.</p>
+<p class="subheading">Foco em tornozelos, agachamento profundo. Robustez articular. Zero impacto na recuperação.</p>
 
 ::: list-stylized
 - 2 x — Calf Raise → Single-Leg Calf Raise → Squat Hold Calf Raise
 :::
 
 ### Technical Practice — 10–20 min
-<p class="subheading">Controle motor dinâmico. Saltos, aterrissagens e transições espaciais.</p>
+<p class="subheading">Aterrissagens, saltos, rolamentos, transições. Controle motor, precisão, propriocepção, resiliência dinâmica.</p>
 
 ::: list-stylized
 - Exemplos: Rolls, Drop Landings, Precision Landing, Broad Jumps, Plyometric Jumps, Tic Tac, Wall Runs, Cat Leap, Vaults, Depth Jumps, Acrobatic Flips.
@@ -180,7 +180,7 @@ update_date: 2025-04-30
 ## Quarta-Feira: Upper Pull & Core [↩︎](#summary) {#upper-pull-and-core}
 
 ### Activation — 30 s de isometria com máxima contração; 30 s de descanso
-<p class="subheading">Ativa escápulas, dorsais e core. Estabilidade e prontidão neural.</p>
+<p class="subheading">Ativação neural e articular. Máxima estabilidade escapular, dorsal e central.</p>
 
 ::: list-stylized
 - 2 x — Feet-Supported Passive Hang → Passive Hang → Active Hang
@@ -188,7 +188,7 @@ update_date: 2025-04-30
 :::
 
 ### Max Strength — 3–5 reps com RIR 0–1; 3 min de descanso
-<p class="subheading">Bloco central. Trações verticais e antiextensão do core. Progressões assistidas para unilaterais e integrações avançadas. Máxima força e estabilidade do core.</p>
+<p class="subheading">Trações verticais, antiextensão. Barra, argolas, core suspenso. Máxima força de puxada, estabilidade central.</p>
 
 ::: list-stylized
 - 3 x — Pull-Up Negative → Pull-Up → Archer Pull-Up → Hollow Body Pull-Up → Assisted One-Arm Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
@@ -196,7 +196,7 @@ update_date: 2025-04-30
 :::
 
 ### Assistance — 3–5 reps com RIR 1–2; 2 min de descanso
-<p class="subheading">Volume de tração e fortalecimento do core. Horizontais, remadas, suspensões e antiextensão.</p>
+<p class="subheading">Trações horizontais e elevações de membros inferiores. Volume, controle escapular, robustez da cadeia dorsal e abdominal.</p>
 
 ::: [list-stylized](list-stylized)
 - 2 x — Bent‑Knee Ring Inverted Row → Ring Inverted Row → Decline Ring Inverted Row → Tuck Front Lever Row
@@ -204,14 +204,14 @@ update_date: 2025-04-30
 :::
 
 ### Finisher — máximo de reps com RIR 1–2; 1 min de descanso
-<p class="subheading">Escápulas. Controle e robustez estrutural para tração e suspensão.</p>
+<p class="subheading">Escápulas. Robustez, controle, transferência para suspensão e tração avançada.</p>
 
 ::: list-stylized
 - 2 x — Scapular Pull-Up
 :::
 
 ### Technical Practice — 10–20 min
-<p class="subheading">Habilidades avançadas de suspensão e core. Transferência técnica, controle motor e extrema força relativa.</p>
+<p class="subheading">Habilidades em suspensão, core e levers. Controle motor extremo, compressão, estabilidade, transferência técnica.</p>
 
 ::: list-stylized
 - Exemplos: Hanging L-Sit, Hanging Leg Raise Variations, Skin the Cat, Ice Cream Maker, Inverted Deadlift, Core Levers, Dragon Flag, Back Lever, Front Lever, Human Flag, Muscle-Up.
@@ -222,7 +222,7 @@ update_date: 2025-04-30
 ## Quinta-Feira: Upper Push [↩︎](#summary) {#upper-push}
 
 ### Activation — 30 s de isometria com máxima contração; 30 s de descanso
-<p class="subheading">Estabilidade articular e prontidão neural. Foco na compressão, suporte e controle escapular.</p>
+<p class="subheading">Ativação neural e articular. Máxima estabilidade escapular, compressão, equilíbrio em apoio.</p>
 
 ::: list-stylized
 - 2 x — Plank → Straight-Arm Plank → Planche Lean
@@ -230,7 +230,7 @@ update_date: 2025-04-30
 :::
 
 ### Max Strength — 3–5 reps com RIR 0–1; 3 min de descanso
-<p class="subheading">Empurradas horizontais, verticais e suporte. Máxima força, controle escapular e compressão.</p>
+<p class="subheading">Empurradas horizontais e verticais. Push-ups, dips, variações unilaterais e argolas. Máxima força, compressão, controle escapular.</p>
 
 ::: list-stylized
 - 3 x — Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up
@@ -238,7 +238,7 @@ update_date: 2025-04-30
 :::
 
 ### Assistance — 3–5 reps com RIR 1–2; 2 min de descanso
-<p class="subheading">Verticais, extensão de cotovelos e compressão. Amplifica a força, transfere e solidifica a estrutura.</p>
+<p class="subheading">Empurradas verticais e extensão de cotovelos. Correção, robustez, transferência.</p>
 
 ::: list-stylized
 - 2 x — Incline Pike Push-Up → Pike Push-Up → Feet-Elevated Pike Push-Up → Deficit Pike Push-Up → Deficit Handstand Push-Up
@@ -246,14 +246,14 @@ update_date: 2025-04-30
 :::
 
 ### Finisher — máximo de reps com RIR 1–2; 1 min de descanso
-<p class="subheading">Shrug escapular em pike elevado. Fortalece o suporte escapular sem sobrecarregar a recuperação.</p>
+<p class="subheading">Shrug escapular em pike elevado. Controle escapular, robustez estrutural, zero interferência na recuperação.</p>
 
 ::: list-stylized
 - 2 x — Elevated Pike Shoulder Shrug
 :::
 
 ### Technical Practice — 10–20 min
-<p class="subheading">Habilidades de suporte, equilíbrio e compressão. Controle motor absoluto sob carga corporal.</p>
+<p class="subheading">Habilidades de compressão, equilíbrio e suporte. Handstand, planche, L-sit, levers. Máximo controle corporal, inteligência motora.</p>
 
 ::: list-stylized
 - Exemplos: Straight-Arm Plank Variations, Ring Support Hold, Frog Stand, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche.
@@ -264,7 +264,7 @@ update_date: 2025-04-30
 ## Sexta-Feira e Sábado: Deep Recovery [↩︎](#summary) {#deep-recovery}
 
 ### Just Do It
-<p class="subheading">Descanso absoluto. Apenas movimento espontâneo, relaxamento e regeneração.</p>
+<p class="subheading">Recuperação total. Zero treino estruturado. Atividades livres, relaxamento, regeneração.</p>
 </section>
 
 <section>
