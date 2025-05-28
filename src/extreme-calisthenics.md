@@ -73,8 +73,8 @@ update_date: 2025-04-30
 ### Necessário
 
 ::: list-stylized
-- Barra fixa \([Comprar](https://amzn.to/4duZjsI){target=\_blank}\)
 - Argolas de suspensão olímpicas \([Comprar](https://amzn.to/43nnOn7){target=\_blank}\)
+- Barra fixa de porta \([Comprar](https://amzn.to/4duZjsI){target=\_blank}\) ou barra fixa de parede \([Comprar](https://amzn.to/44YlKo7){target=\_blank}\)
 - Colchonete de ginástica \([Comprar](https://amzn.to/4jlNfvs){target=\_blank}\)
 - Faixas de resistência \([Comprar](https://amzn.to/4kwoNs2){target=\_blank}\)
 - Piso firme e espaço livre
@@ -83,9 +83,10 @@ update_date: 2025-04-30
 ### Opcional
 
 ::: list-stylized
-- Corda de pular \([Comprar](https://amzn.to/44QnEXP){target=\_blank}\)
+- Banco reto fixo \([Comprar](https://amzn.to/4jmSpr2){target=\_blank}\)
 - Corda de batalha \([Comprar](https://amzn.to/4k5MFCZ){target=\_blank}\)
-- Tênis de corrida
+- Corda de pular \([Comprar](https://amzn.to/44QnEXP){target=\_blank}\)
+- Paralelas de chão \([Comprar](https://amzn.to/3Z5Z3ur){target=\_blank}\)
 :::
 </section>
 
