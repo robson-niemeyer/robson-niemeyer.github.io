@@ -138,7 +138,7 @@ update_date: 2025-04-30
 ## Terça-Feira: Lower Chain [↩︎](#summary) {#lower-chain}
 
 ### Activation — 30 s de isometria com máxima contração; 30 s de descanso
-<p class="subheading"> Ativação neural e articular. Máxima estabilidade, lubrificação, prontidão para força.</p>
+<p class="subheading">Ativação neural e articular. Máxima estabilidade, lubrificação, prontidão para força.</p>
 
 ::: list-stylized
 - 2 x — Wall Sit → Static Squat Hold
