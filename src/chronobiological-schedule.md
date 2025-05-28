@@ -115,7 +115,7 @@ update_date: 2025-04-17
 
 <section>
 <hgroup>
-## Checkpoint {#checkpoint}
+## Checkpoint [↩︎](#summary) {#checkpoint}
 <p class="subheading">Momentos estratégicos do dia para parar, sentir e ajustar corpo e mente.</p>
 </hgroup>
 
