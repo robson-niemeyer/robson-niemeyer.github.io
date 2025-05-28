@@ -116,7 +116,7 @@ update_date: 2025-04-30
 <p class="subheading">Bloco de condicionamento cardiovascular e resistência muscular. Prioriza alta densidade de trabalho, mínima pausa e máxima intensidade relativa. Função: expandir limites cardiorrespiratórios, acelerar recuperação metabólica e fortalecer resiliência sob estresse fisiológico.</p>
 
 ::: list-stylized
-- _Exemplos_: Beat Swing, Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc.
+- Exemplos: Beat Swing, Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc.
 :::
 </section>
 
@@ -141,15 +141,15 @@ update_date: 2025-04-30
 
 ::: list-stylized
 - 2 x — Wall Sit → Static Squat Hold
-- 2 x — Glute Bridge Hold → Feet Elevated Glute Bridge Hold
+- 2 x — Glute Bridge Hold → Feet-Elevated Glute Bridge Hold
 :::
 
 ### Max Strength — 3–5 reps com RIR 0–1; 3 min de descanso
 <p class="subheading">Núcleo do treino. Padrões fundamentais de empurrar e dobrar com membros inferiores (squat e hinge). Progressão desde exercícios bilaterais até unilaterais avançados. Função: desenvolvimento direto de força máxima, controle motor e resiliência estrutural.</p>
 
 ::: list-stylized
-- 3 x — Air Squat → Deep Squat → Cossack Squat → Assisted Pistol Squat → Pistol Squat
-- 3 x — Tall Kneeling Hip Hinge → Tall Kneeling Good Morning → Band Assisted Nordic Hamstring Curl → Nordic Hamstring Curl
+- 3 x — Box Squat → Air Squat → Deep Squat → Cossack Squat → Box Pistol Squat → Assisted Pistol Squat → Pistol Squat
+- 3 x — Tall-Kneeling Hip Hinge → Tall-Kneeling Good Morning → Band-Assisted Nordic Hamstring Curl → Nordic Hamstring Curl
 :::
 
 ### Strength Assist — 3–5 reps com RIR 1–2; 2 min de descanso
@@ -164,14 +164,14 @@ update_date: 2025-04-30
 <p class="subheading">Estímulo localizado para cadeia posterior de tornozelos (panturrilha em isometria de agachamento profundo). Não interfere na recuperação, mas adiciona robustez articular.</p>
 
 ::: list-stylized
-- 2 x — Squat Hold Calf Raise
+- 2 x — Calf Raise → Single-Leg Calf Raise → Squat Hold Calf Raise
 :::
 
 ### Technical Practice — 10–15 min
 <p class="subheading">Desenvolvimento de habilidades dinâmicas — aterrissagens, saltos, transições espaciais e rolamentos. Objetivo: elevar controle motor, precisão, propriocepção e resiliência dinâmica.</p>
 
 ::: list-stylized
-- _Exemplos_: Rolls, Drop Landings, Precision Landing, Broad Jumps, Plyometric Jumps, Tic Tac, Wall Runs, Cat Leap, Vaults, Depth Jumps, Acrobatic Flips.
+- Exemplos: Rolls, Drop Landings, Precision Landing, Broad Jumps, Plyometric Jumps, Tic Tac, Wall Runs, Cat Leap, Vaults, Depth Jumps, Acrobatic Flips.
 :::
 </section>
 
@@ -182,7 +182,7 @@ update_date: 2025-04-30
 <p class="subheading">Isometrias focadas em escápulas, dorsais e core. Aumenta prontidão neural e estabilidade da cadeia superior.</p>
 
 ::: list-stylized
-- 2 x — Passive Hang → Active Hang
+- 2 x — Feet-Supported Passive Hang → Passive Hang → Active Hang
 - 2 x — Boat Hold → Hollow Body Hold
 :::
 
@@ -190,15 +190,15 @@ update_date: 2025-04-30
 <p class="subheading">Trações verticais e anti-extensão de core (principalmente na barra e nas argolas). Progressão desde padrões assistidos até unilaterais e integrações de core avançadas. Objetivo: máxima força de puxada e estabilidade central.</p>
 
 ::: list-stylized
-- 3 x — Pull-Up Negative → Pull-Up → Archer Pull-Up → Assisted One-Arm Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
-- 3 x — Kneeling Ab Ring Rollout Negative → Ab Ring Rollout → Band Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout
+- 3 x — Pull-Up Negative → Pull-Up → Archer Pull-Up → Hollow Body Pull-Up → Assisted One-Arm Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
+- 3 x — Kneeling Ab Ring Rollout Negative → Kneeling Ab Ring Rollout → Band-Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout
 :::
 
 ### Strength Assist — 3–5 reps com RIR 1–2; 2 min de descanso
 <p class="subheading">Padrões horizontais de puxada (inverted rows) e elevações de membros inferiores (toes-to-bar e variantes). Função: expandir volume de tração, fortalecer dorsais, escápulas e cadeia abdominal.</p>
 
 ::: list-stylized
-- 2 x — Bent‑Knee Ring Inverted Row → Ring Inverted Row → Decline Ring Inverted Row
+- 2 x — Bent‑Knee Ring Inverted Row → Ring Inverted Row → Decline Ring Inverted Row → Tuck Front Lever Row
 - 2 x — Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar
 :::
 
@@ -213,7 +213,7 @@ update_date: 2025-04-30
 <p class="subheading">Desenvolvimento de habilidades avançadas de suspensão e core — levers, flags, muscle-ups, skin the cat, entre outros. Função: consolidar controle motor de alto nível e gerar transferências técnicas para força relativa extrema.</p>
 
 ::: list-stylized
-- _Exemplos_: Hanging L-Sit, Hanging Leg Raise Variations, Skin the Cat, Ice Cream Maker, Core Levers, Dragon Flag, Back Lever, Front Lever, Human Flag, Muscle-Up.
+- Exemplos: Hanging L-Sit, Hanging Leg Raise Variations, Skin the Cat, Ice Cream Maker, Core Levers, Dragon Flag, Back Lever, Front Lever, Human Flag, Muscle-Up.
 :::
 </section>
 
@@ -224,8 +224,8 @@ update_date: 2025-04-30
 <p class="subheading">Isometrias para cintura escapular, braços e core em apoio (planche lean, ring support hold). Objetivo: gerar estabilidade máxima para suportar sobrecarga nos blocos principais.</p>
 
 ::: list-stylized
-- 2 x — Straight-Arm Plank → Planche Lean
-- 2 x — Feet Assisted Ring Support Hold → Ring Support Hold
+- 2 x — Plank → Straight-Arm Plank → Planche Lean
+- 2 x — Pike Hold → Feet-Elevated Pike Hold → Chest-to-Wall Handstand Hold
 :::
 
 ### Max Strength — 3–5 reps com RIR 0–1; 3 min de descanso
@@ -233,15 +233,15 @@ update_date: 2025-04-30
 
 ::: list-stylized
 - 3 x — Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up
-- 3 x — Bent‑Knee Bench Dip → Feet Supported Ring Dip → Ring Dip → Straight Bar Dip
+- 3 x — Bent‑Knee Bench Dip → Feet-Supported Ring Dip → Ring Dip → Straight Bar Dip
 :::
 
 ### Strength Assist — 3–5 reps com RIR 1–2; 2 min de descanso
 <p class="subheading">Complementares focando em força de empurrada vertical (pike push-ups) e extensão de cotovelos (triceps extension, pseudo planche push-ups). Função: reforçar fraquezas, gerar transferência e aumentar robustez da cadeia anterior.</p>
 
 ::: list-stylized
-- 2 x — Incline Pike Push-Up → Pike Push-Up → Deficit Pike Push-Up
-- 2 x — Ring Triceps Extension → Reverse-Grip Push‑Up → Pseudo Planche Push‑Up
+- 2 x — Incline Pike Push-Up → Pike Push-Up → Feet-Elevated Pike Push-Up → Deficit Pike Push-Up → Deficit Handstand Push-Up
+- 2 x — Kneeling Diamond Push-Up → Diamond Push-Up → Ring Triceps Extension → Reverse-Grip Push‑Up → Pseudo Planche Push‑Up
 :::
 
 ### Optional Finisher — máximo de reps com RIR 1–2; 1 min de descanso
@@ -255,7 +255,7 @@ update_date: 2025-04-30
 <p class="subheading">Desenvolvimento de habilidades avançadas de suporte, equilíbrio e compressão — handstand, planche, L-sit, levers e suas progressões. Função: maximizar controle corporal sob compressão e elevação da inteligência motora.</p>
 
 ::: list-stylized
-- _Exemplos_: Straight-Arm Plank Variations, Ring Support Hold, Frog Stand, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche.
+- Exemplos: Straight-Arm Plank Variations, Ring Support Hold, Frog Stand, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche.
 :::
 </section>
 
