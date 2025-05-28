@@ -18,7 +18,7 @@ update_date: 2025-04-12
 
 <section>
 <hgroup>
-## Ritmo Biológico por Luz Solar {#main}
+## Ritmo Biológico por Luz Solar [↩︎](#summary) {#main}
 <p class="subheading">Ciclo diário da luz e suas funções no corpo e mente.</p>
 </hgroup>
 
