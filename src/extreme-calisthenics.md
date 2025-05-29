@@ -17,9 +17,9 @@ update_date: 2025-04-30
 - [Equipamento](#equipment)
 - [Domingo: Benchmark & Conditioning](#benchmark-and-conditioning)
 - [Segunda-Feira: Active Recovery](#active-recovery)
-- [Terça-Feira: Upper Push](#upper-push)
+- [Terça-Feira: Upper Pull & Core](#upper-pull-and-core)
 - [Quarta-Feira: Lower Chain](#lower-chain)
-- [Quinta-Feira: Upper Pull & Core](#upper-pull-and-core)
+- [Quinta-Feira: Upper Push](#upper-push)
 - [Sexta-Feira e Sábado: Deep Recovery](#deep-recovery)
 </section>
 
@@ -141,44 +141,44 @@ update_date: 2025-04-30
 </section>
 
 <section>
-## Terça-Feira: Upper Push [↩︎](#summary) {#upper-push}
+## Terça-Feira: Upper Pull & Core [↩︎](#summary) {#upper-pull-and-core}
 
-### Activation — 15–25 s de isometria com máxima contração; 30 s de descanso
-<p class="subheading">Estabilidade escapular, compressão, equilíbrio em apoio.</p>
+### Activation — 15–20 s de isometria com máxima contração; 30 s de descanso
+<p class="subheading">Máxima estabilidade escapular, dorsal e central.</p>
 
 ::: list-stylized
-- 2 x — Plank → Straight-Arm Plank → Planche Lean
-- 2 x — Pike Hold → Feet-Elevated Pike Hold → Chest-to-Wall Handstand Hold
+- 2 x — Feet-Supported Passive Hang → Passive Hang → Active Hang
+- 2 x — Boat Hold → Hollow Body Hold
 :::
 
 ### Max Strength — 3–5 reps com RIR 0; 3 min de descanso
-<p class="subheading">Empurradas horizontais e verticais. Push-ups, dips, unilaterais, argolas. Máxima força, compressão, controle.</p>
+<p class="subheading">Trações verticais, antiextensão. Barra, argolas, core suspenso. Máxima força, compressão, estabilidade.</p>
 
 ::: list-stylized
-- 3 x — Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up
-- 3 x — Bent‑Knee Bench Dip → Feet-Supported Ring Dip → Ring Dip → Straight Bar Dip
+- 3 x — Pull-Up Negative → Pull-Up → Archer Pull-Up → Hollow Body Pull-Up → Assisted One-Arm Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
+- 3 x — Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar
 :::
 
 ### Strength Assistance — 5–7 reps com RIR 1; 2 min de descanso
-<p class="subheading">Empurradas verticais, extensão de cotovelos. Robustez, correção, transferência.</p>
+<p class="subheading">Trações horizontais, elevação de membros. Volume, robustez dorsal e abdominal, controle escapular.</p>
 
-::: list-stylized
-- 2 x — Incline Pike Push-Up → Pike Push-Up → Feet-Elevated Pike Push-Up → Deficit Pike Push-Up → Deficit Handstand Push-Up
-- 2 x — Kneeling Diamond Push-Up → Diamond Push-Up → Ring Triceps Extension → Reverse-Grip Push‑Up → Pseudo Planche Push‑Up
+::: [list-stylized](list-stylized)
+- 2 x — Bent‑Knee Ring Inverted Row → Ring Inverted Row → Decline Ring Inverted Row → Tuck Front Lever Row
+- 2 x — Kneeling Ab Ring Rollout Negative → Kneeling Ab Ring Rollout → Band-Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout
 :::
 
 ### Finisher — máximo de reps com RIR 2; 1 min de descanso
-<p class="subheading">Shrug escapular em pike elevado. Controle, robustez. Zero interferência.</p>
+<p class="subheading">Escápulas. Controle, robustez, transferência.</p>
 
 ::: list-stylized
-- 2 x — Elevated Pike Shoulder Shrug
+- 2 x — Scapular Pull-Up
 :::
 
 ### Technical Practice — 10–20 min
-<p class="subheading">Suporte, equilíbrio, compressão. Handstand, planche, L-sit, levers. Máximo controle, inteligência motora.</p>
+<p class="subheading">Suspensão, levers, core. Controle extremo, compressão, estabilidade, transferência técnica.</p>
 
 ::: list-stylized
-- Exemplos: Straight-Arm Plank Variations, Ring Support Hold, Frog Stand, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche.
+- Exemplos: Hanging L-Sit, Hanging Leg Raise Variations, Skin the Cat, Ice Cream Maker, Inverted Deadlift, Core Levers, Dragon Flag, Back Lever, Front Lever, Human Flag, Muscle-Up.
 :::
 </section>
 
@@ -225,44 +225,44 @@ update_date: 2025-04-30
 </section>
 
 <section>
-## Quinta-Feira: Upper Pull & Core [↩︎](#summary) {#upper-pull-and-core}
+## Quinta-Feira: Upper Push [↩︎](#summary) {#upper-push}
 
-### Activation — 15–20 s de isometria com máxima contração; 30 s de descanso
-<p class="subheading">Máxima estabilidade escapular, dorsal e central.</p>
+### Activation — 15–25 s de isometria com máxima contração; 30 s de descanso
+<p class="subheading">Estabilidade escapular, compressão, equilíbrio em apoio.</p>
 
 ::: list-stylized
-- 2 x — Feet-Supported Passive Hang → Passive Hang → Active Hang
-- 2 x — Boat Hold → Hollow Body Hold
+- 2 x — Plank → Straight-Arm Plank → Planche Lean
+- 2 x — Pike Hold → Feet-Elevated Pike Hold → Chest-to-Wall Handstand Hold
 :::
 
 ### Max Strength — 3–5 reps com RIR 0; 3 min de descanso
-<p class="subheading">Trações verticais, antiextensão. Barra, argolas, core suspenso. Máxima força, compressão, estabilidade.</p>
+<p class="subheading">Empurradas horizontais e verticais. Push-ups, dips, unilaterais, argolas. Máxima força, compressão, controle.</p>
 
 ::: list-stylized
-- 3 x — Pull-Up Negative → Pull-Up → Archer Pull-Up → Hollow Body Pull-Up → Assisted One-Arm Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
-- 3 x — Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar
+- 3 x — Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up
+- 3 x — Bent‑Knee Bench Dip → Feet-Supported Ring Dip → Ring Dip → Straight Bar Dip
 :::
 
 ### Strength Assistance — 5–7 reps com RIR 1; 2 min de descanso
-<p class="subheading">Trações horizontais, elevação de membros. Volume, robustez dorsal e abdominal, controle escapular.</p>
+<p class="subheading">Empurradas verticais, extensão de cotovelos. Robustez, correção, transferência.</p>
 
-::: [list-stylized](list-stylized)
-- 2 x — Bent‑Knee Ring Inverted Row → Ring Inverted Row → Decline Ring Inverted Row → Tuck Front Lever Row
-- 2 x — Kneeling Ab Ring Rollout Negative → Kneeling Ab Ring Rollout → Band-Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout
+::: list-stylized
+- 2 x — Incline Pike Push-Up → Pike Push-Up → Feet-Elevated Pike Push-Up → Deficit Pike Push-Up → Deficit Handstand Push-Up
+- 2 x — Kneeling Diamond Push-Up → Diamond Push-Up → Ring Triceps Extension → Reverse-Grip Push‑Up → Pseudo Planche Push‑Up
 :::
 
 ### Finisher — máximo de reps com RIR 2; 1 min de descanso
-<p class="subheading">Escápulas. Controle, robustez, transferência.</p>
+<p class="subheading">Shrug escapular em pike elevado. Controle, robustez. Zero interferência.</p>
 
 ::: list-stylized
-- 2 x — Scapular Pull-Up
+- 2 x — Elevated Pike Shoulder Shrug
 :::
 
 ### Technical Practice — 10–20 min
-<p class="subheading">Suspensão, levers, core. Controle extremo, compressão, estabilidade, transferência técnica.</p>
+<p class="subheading">Suporte, equilíbrio, compressão. Handstand, planche, L-sit, levers. Máximo controle, inteligência motora.</p>
 
 ::: list-stylized
-- Exemplos: Hanging L-Sit, Hanging Leg Raise Variations, Skin the Cat, Ice Cream Maker, Inverted Deadlift, Core Levers, Dragon Flag, Back Lever, Front Lever, Human Flag, Muscle-Up.
+- Exemplos: Straight-Arm Plank Variations, Ring Support Hold, Frog Stand, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche.
 :::
 </section>
 
