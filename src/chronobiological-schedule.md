@@ -11,19 +11,17 @@ update_date: 2025-04-17
 <section>
 ## Sumário {#summary}
 
-- [Introdução](#introduction)
 - [Inicialização](#initialization)
 - [Foco Cognitivo](#cognitive-focus)
 - [Expressão Criativa](#creative-expression)
 - [Potência Física](#physical-power)
 - [Desligamento & Reinício](#shutdown-and-restart)
 - [Checkpoint](#checkpoint)
-- [Notas de Rodapé](#footnotes)
 </section>
 
 <section>
 <hgroup>
-## Introdução [↩︎](#summary) {#introduction}
+## Introdução
 <p class="subheading">Um ponto de partida sólido para deixar emergir seu estado de fluxo.</p>
 </hgroup>
 
@@ -138,9 +136,9 @@ Se quiser anotar, basta uma linha clara:
 <section>
 ## Veja também
 
-- [Calistenia Extrema](/extreme-calisthenics/)
-- [Conhecimento do Ritmo Solar](/knowledge-of-solar-rhythm/)
-- [Calendário Solar Natural](/natural-solar-calendar/)
+- [Sistema de Calistenia Extrema](/extreme-calisthenics/)
+- [Conhecimento do Ritmo Solar](/solar-rhythm/)
+- [Calendário Solar Natural](/solar-calendar/)
 </section>
 
 [^1]: <sup>1</sup> _T<sub>0</sub> (Tempo Zero)_: Instante em que os primeiros raios solares tocam diretamente o solo. Alinha o cronograma ao ritmo circadiano — baseado no ciclo solar local, não no relógio.

@@ -1,5 +1,5 @@
 ---
-title: "Calistenia Extrema"
+title: "Sistema de Calistenia Extrema"
 description: "Plano de treino semanal com progressões do nível iniciante ao elite."
 image_filename: "majestic-lukas-1XBMr_vUwdU-unsplash"
 image_alt: "Imagem de capa"
@@ -11,7 +11,6 @@ update_date: 2025-04-30
 <section>
 ## Sumário {#summary}
 
-- [Introdução](#introduction)
 - [Cronograma de Treino](#training-schedule)
 - [Progressões Técnicas](#technical-progressions)
 - [Semana de Deload](#deload-week)
@@ -22,28 +21,27 @@ update_date: 2025-04-30
 - [Quarta-Feira: Upper Pull & Core](#upper-pull-and-core)
 - [Quinta-Feira: Upper Push](#upper-push)
 - [Sexta-Feira e Sábado: Deep Recovery](#deep-recovery)
-- [Notas de Rodapé](#footnotes)
 </section>
 
 <section>
-## Introdução [↩︎](#summary) {#introduction}
+## Introdução
 
-<p>**Você não nasceu pra ser um hamster na esteira de uma academia**. Você quer potência, domínio físico e liberdade — treinando sozinho, em qualquer lugar. Este é o método que te leva do zero ao nível elite.</p>
+<p>**Você não nasceu pra ser hamster de academia.** Você quer potência, soberania física e autonomia — pra treinar onde quiser.</p>
 
-<p>**Um sistema de treinamento de alto desempenho baseado em calistenia pura** — zero cargas externas. Força máxima, habilidades ginásticas e condicionamento metabólico combinados em progressões biomecanicamente precisas, seguras e brutalmente eficientes. Nada aqui é aleatório. Cada sessão expande seus limites físicos, sua inteligência neuromotora e sua resiliência fisiológica.</p>
+<p>**Este é um sistema de treinamento de alto desempenho.** Peso corporal. Zero cargas externas. Força, controle e condicionamento, desenvolvidos em progressões biomecanicamente precisas, seguras e eficientes. Sem repetições inúteis. Sem volume vazio.</p>
 
-<p>**Força, controle e potência** — para a máxima liberdade do seu corpo.</p>
+<p>**Não é recreativo. Não é entretenimento. É engenharia física.** Método racional, orientado a resultado, para maximizar força, controle e potência — usando apenas seu corpo como ferramenta.</p>
 </section>
 
 <section>
 ## Cronograma de Treino [↩︎](#summary) {#training-schedule}
 
-> Este programa exige **comprometimento absoluto e constância inegociável**.  
+> Este programa exige **comprometimento absoluto e constância inegociável.**  
 > Se você não está disposto a sustentar isso, não continue.
 
-<p>**As sessões diárias duram de 45 a 60 minutos**. Sempre que possível, inclua de 10 a 15 minutos de mobilidade articular no início para ativação neuromuscular, lubrificação articular e prevenção de lesões; e de 10 a 15 minutos de alongamento no final para recuperação tecidual, alívio muscular e desenvolvimento de flexibilidade.</p>
+<p>**As sessões diárias duram de 45 a 60 minutos.** Sempre que possível, inclua de 10 a 20 minutos de mobilidade articular no início para ativação neuromuscular, lubrificação articular e prevenção de lesões; e de 10 a 20 minutos de alongamento no final para recuperação tecidual, alívio muscular e desenvolvimento de flexibilidade.</p>
 
-<p>**Realize as sessões na ordem proposta — domingo a quinta-feira**. Se preferir, reorganize para segunda-feira a sexta-feira, mantendo a sequência. Perdendo 1 dia, compense sacrificando 1 dia de descanso no fim de semana; perdendo 2 ou mais, pule os dias perdidos e siga adiante.</p>
+<p>**Realize as sessões na ordem proposta — domingo a quinta-feira.** Opcionalmente, reorganize para segunda-feira a sexta-feira, mantendo a sequência. Perdeu 1 dia? Sacrifique 1 dia de descanso no fim de semana. Perdeu 2 ou mais? Ignore os dias perdidos e siga adiante.</p>
 </section>
 
 <section>
@@ -53,22 +51,22 @@ update_date: 2025-04-30
 > Reduza açúcar refinado, farinha branca, soja e derivados.  
 > Não fume. Não beba álcool.
 
-<p>**Escolha seu nível para cada exercício (Nível 0 → Nível 1 → etc)**. Execute sempre com cadência controlada e forma perfeita — escápulas ativas, core rígido, alinhamento absoluto, sem colapso postural. Mais de 5 repetições ou mais de 30 segundos de isometria por 2 sessões consecutivas, avance para o próximo nível; menos de 3 repetições ou menos de 18 segundos de isometria, retroceda um nível.</p>
+<p>**Escolha seu nível para cada exercício (Nível 0 → Nível 1 → etc).** Sempre em cadência controlada, forma perfeita: escápulas ativas, core rígido, alinhamento absoluto, zero colapso postural. Mais de 5 repetições ou mais de 30 segundos de isometria por 2 sessões consecutivas, avance para o próximo nível; menos de 3 repetições ou menos de 18 segundos de isometria, retroceda um nível.</p>
 
-<p>**Os nomes dos exercícios estão em inglês por padronização internacional**. Isso permite que você encontre referências, imagens e vídeos com facilidade.</p>
+<p>**Os nomes dos exercícios estão em inglês por padronização internacional.** Isso permite que você encontre referências, imagens e vídeos com facilidade.</p>
 </section>
 
 <section>
 ## Semana de Deload [↩︎](#summary) {#deload-week}
 
-<p>**A cada 3 semanas de treinamento contínuo, a quarta semana é de deload**. No domingo, elimine as fases de <em>AMRAP</em> e <em>Metcon</em>. De terça-feira a quinta-feira, reduza as séries de <em>Max Strength</em> de 3 para 2 e de <em>Assistance</em> de 2 para 1, ajustando a intensidade para RIR[^1] 1–2. Foco absoluto em mobilidade, domínio técnico, padrões respiratórios e alongamentos profundos — mantendo a estimulação neuromuscular, acelerando a recuperação tecidual e prevenindo fadiga neural crônica.</p>
+<p>**A cada 3 semanas de treinamento contínuo, a quarta semana é de deload.** No domingo, elimine as fases de <em>AMRAP</em> e <em>Metcon</em>. De terça-feira a quinta-feira, reduza as séries de <em>Max Strength</em> de 3 para 2 e de <em>Assistance</em> de 2 para 1, ajustando a intensidade para RIR[^1] 1–2. Foco em domínio técnico, mobilidade, padrões respiratórios e alongamentos profundos — mantendo a estimulação neuromuscular, acelerando a recuperação tecidual e prevenindo fadiga neural crônica.</p>
 </section>
 
 <section>
 ## Equipamento [↩︎](#summary) {#equipment}
 
-> Algumas praias, parques e praças têm academias ao ar livre.  
-> Você pode treinar de graça e fazer amigos.
+> Use estruturas públicas.  
+> Zero custos. **Liberdade total**.
 
 ### Necessário
 
@@ -105,7 +103,7 @@ update_date: 2025-04-30
 
 ### AMRAP (As Many Reps as Possible) — máximo de reps com máxima potência; 5 min de descanso
 
-<p class="subheading">Explosão. Resiliência. Máximo de reps perfeitas, máxima potência, até falha ou tempo.</p>
+<p class="subheading">Explosão. Resiliência. Máximo de reps perfeitas, máxima potência, até falha ou até tempo.</p>
 
 ::: list-stylized
 - 1 x — Deep Squat → Squat Jump
@@ -129,7 +127,7 @@ update_date: 2025-04-30
 
 ::: list-stylized
 - 10 min com 50–60% MHR[^2] — Caminhada
-- 20–30 min com 60–70% MHR — Caminhada → Corrida Leve
+- 20–30 min com 60–70% MHR — Caminhada Acelerada → Corrida Leve
 - 10 min com 50–60% MHR — Caminhada
 :::
 </section>
@@ -263,7 +261,7 @@ update_date: 2025-04-30
 <section>
 ## Sexta-Feira e Sábado: Deep Recovery [↩︎](#summary) {#deep-recovery}
 
-### Just Do It
+### Regen
 <p class="subheading">Recuperação total. Zero treino estruturado. Atividades livres, relaxamento, regeneração.</p>
 </section>
 
@@ -271,8 +269,8 @@ update_date: 2025-04-30
 ## Veja também
 
 - [Cronograma Cronobiológico](/chronobiological-schedule/)
-- [Conhecimento do Ritmo Solar](/knowledge-of-solar-rhythm/)
-- [Calendário Solar Natural](/natural-solar-calendar/)
+- [Conhecimento do Ritmo Solar](/solar-rhythm/)
+- [Calendário Solar Natural](/solar-calendar/)
 </section>
 
 

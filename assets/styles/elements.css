@@ -9,15 +9,6 @@
   text-transform: uppercase;
 }
 
-#navbar a:any-link {
-  color: var(--color-secondary);
-  font-weight: 600;
-}
-
-#navbar a:hover {
-  color: var(--color-primary);
-}
-
 #navbar .container {
   align-items: center;
   display: flex;
@@ -25,9 +16,29 @@
   justify-content: space-between;
 }
 
+#navbar a:any-link {
+  color: var(--color-secondary);
+  font-weight: 600;
+}
+
+#navbar button {
+  color: var(--color-secondary);
+}
+
+#navbar a:hover,
+#navbar button:hover {
+  color: var(--color-primary);
+}
+
 /**
  * button
  */
+
+button {
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  transition: all var(--transition-duration) ease-out;
+}
 
 .button {
   background-color: var(--color-link);
@@ -37,7 +48,6 @@
   font-weight: 600;
   letter-spacing: 1px;
   line-height: var(--line-height-heading);
-  transition: all var(--transition-duration) ease-out;
 }
 
 .button:hover {

@@ -23,7 +23,6 @@ update_date: 2025-04-17
 - [Décimo Mês](#month-10)
 - [Décimo Primeiro Mês](#month-11)
 - [Décimo Segundo Mês](#month-12)
-- [Notas de Rodapé](#footnotes)
 </section>
 
 <section>
@@ -172,9 +171,9 @@ update_date: 2025-04-17
 
 <section>
 ## Veja também
-- [Calistenia Extrema](/extreme-calisthenics/)
+- [Sistema de Calistenia Extrema](/extreme-calisthenics/)
 - [Cronograma Cronobiológico](/chronobiological-schedule/)
-- [Conhecimento do Ritmo Solar](/knowledge-of-solar-rhythm/)
+- [Conhecimento do Ritmo Solar](/solar-rhythm/)
 </section>
 
 [^1]: <sup>1</sup> _N_: Hemisfério Norte.

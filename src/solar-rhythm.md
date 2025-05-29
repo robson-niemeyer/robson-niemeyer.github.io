@@ -10,15 +10,8 @@ update_date: 2025-04-12
 ---
 
 <section>
-## Sumário
-
-- [Ritmo Biológico por Luz Solar](#main)
-- [Notas de Rodapé](#footnotes)
-</section>
-
-<section>
 <hgroup>
-## Ritmo Biológico por Luz Solar [↩︎](#summary) {#main}
+## Ritmo Biológico por Luz Solar
 <p class="subheading">Ciclo diário da luz e suas funções no corpo e mente.</p>
 </hgroup>
 
@@ -49,9 +42,9 @@ Quem sincroniza, floresce —
 
 <section>
 ## Veja também
-- [Calistenia Extrema](/extreme-calisthenics/)
+- [Sistema de Calistenia Extrema](/extreme-calisthenics/)
 - [Cronograma Cronobiológico](/chronobiological-schedule/)
-- [Calendário Solar Natural](/natural-solar-calendar/)
+- [Calendário Solar Natural](/solar-calendar/)
 </section>
 
 [^1]: <sup>1</sup> _Zênite solar_: auge do sol ao meio-dia.
