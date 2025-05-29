@@ -39,7 +39,7 @@ update_date: 2025-04-30
 > Este programa exige **comprometimento absoluto e constância inegociável.**  
 > Se você não está disposto a sustentar isso, não continue.
 
-<p>**As sessões diárias duram de 45 a 60 minutos.** Sempre que possível, inclua de 10 a 20 minutos de mobilidade articular no início para ativação neuromuscular, lubrificação articular e prevenção de lesões; e de 10 a 20 minutos de alongamento no final para recuperação tecidual, alívio muscular e desenvolvimento de flexibilidade.</p>
+<p>**As sessões diárias duram cerca de 60 minutos.** Sempre que possível, inclua de 10 a 20 minutos de mobilidade articular no início para ativação neuromuscular, lubrificação articular e prevenção de lesões; e de 10 a 20 minutos de alongamento no final para recuperação tecidual, alívio muscular e desenvolvimento de flexibilidade.</p>
 
 <p>**Realize as sessões na ordem proposta — domingo a quinta-feira.** Opcionalmente, reorganize para segunda-feira a sexta-feira, mantendo a sequência. Perdeu 1 dia? Sacrifique 1 dia de descanso no fim de semana. Perdeu 2 ou mais? Ignore os dias perdidos e siga adiante.</p>
 </section>
