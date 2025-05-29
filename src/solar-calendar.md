@@ -26,7 +26,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Primeiro Mês [↩︎](#summary) {#month-1}
+## Primeiro Mês[↩︎](#summary) {#month-1}
 
 ::: list-stylized
 - **Declinação solar**:  -1 (solstício do inverno)
@@ -38,7 +38,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Segundo Mês [↩︎](#summary) {#month-2}
+## Segundo Mês[↩︎](#summary) {#month-2}
 
 ::: list-stylized
 - **Declinação solar**: −<sup>2</sup>/<sub>3</sub>
@@ -50,7 +50,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Terceiro Mês [↩︎](#summary) {#month-3}
+## Terceiro Mês[↩︎](#summary) {#month-3}
 
 ::: list-stylized
 - **Declinação solar**: −<sup>1</sup>/<sub>3</sub>
@@ -62,7 +62,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Quarto Mês [↩︎](#summary) {#month-4}
+## Quarto Mês[↩︎](#summary) {#month-4}
 
 ::: list-stylized
 - **Declinação solar**: 0 (equinócio da primavera)
@@ -74,7 +74,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Quinto Mês [↩︎](#summary) {#month-5}
+## Quinto Mês[↩︎](#summary) {#month-5}
 
 ::: list-stylized
 - **Declinação solar**: <sup>1</sup>/<sub>3</sub>
@@ -86,7 +86,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Sexto Mês [↩︎](#summary) {#month-6}
+## Sexto Mês[↩︎](#summary) {#month-6}
 
 ::: list-stylized
 - **Declinação solar**: <sup>2</sup>/<sub>3</sub>
@@ -98,7 +98,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Sétimo Mês [↩︎](#summary) {#month-7}
+## Sétimo Mês[↩︎](#summary) {#month-7}
 
 ::: list-stylized
 - **Declinação solar**: 1 (solstício de verão)
@@ -110,7 +110,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Oitavo Mês [↩︎](#summary) {#month-8}
+## Oitavo Mês[↩︎](#summary) {#month-8}
 
 ::: list-stylized
 - **Declinação solar**: <sup>2</sup>/<sub>3</sub>
@@ -122,7 +122,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Nono Mês [↩︎](#summary) {#month-9}
+## Nono Mês[↩︎](#summary) {#month-9}
 
 ::: list-stylized
 - **Declinação solar**: <sup>1</sup>/<sub>3</sub>
@@ -134,7 +134,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Décimo Mês [↩︎](#summary) {#month-10}
+## Décimo Mês[↩︎](#summary) {#month-10}
 
 ::: list-stylized
 - **Declinação solar**: 0 (equinócio do outono)
@@ -146,7 +146,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Décimo Primeiro Mês [↩︎](#summary) {#month-11}
+## Décimo Primeiro Mês[↩︎](#summary) {#month-11}
 
 ::: list-stylized
 - **Declinação solar**: −<sup>1</sup>/<sub>3</sub>
@@ -158,7 +158,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Décimo Segundo Mês [↩︎](#summary) {#month-12}
+## Décimo Segundo Mês[↩︎](#summary) {#month-12}
 
 ::: list-stylized
 - **Declinação solar**: −<sup>2</sup>/<sub>3</sub>

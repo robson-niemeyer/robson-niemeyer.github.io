@@ -17,8 +17,8 @@ update_date: 2025-04-30
 - [Equipamento](#equipment)
 - [Domingo: Benchmark & Conditioning](#benchmark-and-conditioning)
 - [Segunda-Feira: Active Recovery](#active-recovery)
-- [Terça-Feira: Upper Pull & Core](#upper-pull-and-core)
-- [Quarta-Feira: Lower Chain](#lower-chain)
+- [Terça-Feira: Lower Chain](#lower-chain)
+- [Quarta-Feira: Upper Pull & Core](#upper-pull-and-core)
 - [Quinta-Feira: Upper Push](#upper-push)
 - [Sexta-Feira e Sábado: Deep Recovery](#deep-recovery)
 </section>
@@ -34,7 +34,7 @@ update_date: 2025-04-30
 </section>
 
 <section>
-## Cronograma de Treino [↩︎](#summary) {#training-schedule}
+## Cronograma de Treino[↩︎](#summary) {#training-schedule}
 
 > Este programa exige <strong>comprometimento absoluto e constância inegociável.</strong>  
 > Se você não está disposto a sustentar isso, não continue.
@@ -45,7 +45,7 @@ update_date: 2025-04-30
 </section>
 
 <section>
-## Progressões Técnicas [↩︎](#summary) {#technical-progressions}
+## Progressões Técnicas[↩︎](#summary) {#technical-progressions}
 
 > Consuma diariamente <strong>1,5 a 2 g de proteína por kg</strong> de peso corporal.  
 > Reduza açúcar refinado, farinha branca, soja e derivados.  
@@ -57,7 +57,7 @@ update_date: 2025-04-30
 </section>
 
 <section>
-## Semana de Deload [↩︎](#summary) {#deload-week}
+## Semana de Deload[↩︎](#summary) {#deload-week}
 
 <p><strong>A cada 3 semanas de treinamento contínuo, a quarta semana é de deload.</strong> No domingo, elimine as fases de AMRAP e Metcon. De terça-feira a quinta-feira, reajuste as sessões para:
 
@@ -71,7 +71,7 @@ update_date: 2025-04-30
 </section>
 
 <section>
-## Equipamento [↩︎](#summary) {#equipment}
+## Equipamento[↩︎](#summary) {#equipment}
 
 > Use estruturas públicas.  
 > Zero custos. <strong>Liberdade total</strong>.
@@ -97,7 +97,7 @@ update_date: 2025-04-30
 </section>
 
 <section>
-## Domingo: Benchmark & Conditioning [↩︎](#summary) {#benchmark-and-conditioning}
+## Domingo: Benchmark & Conditioning[↩︎](#summary) {#benchmark-and-conditioning}
 
 ### Prehab (Preventive Rehabilitation) — 12 reps com 2 s de isometria; 1 min de descanso
 
@@ -128,7 +128,7 @@ update_date: 2025-04-30
 </section>
 
 <section>
-## Segunda-Feira: Active Recovery [↩︎](#summary) {#active-recovery}
+## Segunda-Feira: Active Recovery[↩︎](#summary) {#active-recovery}
 
 ### LISS (Low-Intensity Steady State)
 <p class="subheading">Recuperação ativa. Circulação, drenagem, reparação. Sem acúmulo de fadiga.</p>
@@ -141,49 +141,7 @@ update_date: 2025-04-30
 </section>
 
 <section>
-## Terça-Feira: Upper Pull & Core [↩︎](#summary) {#upper-pull-and-core}
-
-### Activation — 15–20 s de isometria com máxima contração; 30 s de descanso
-<p class="subheading">Máxima estabilidade escapular, dorsal e central.</p>
-
-::: list-stylized
-- 2 x — Feet-Supported Passive Hang → Passive Hang → Active Hang
-- 2 x — Boat Hold → Hollow Body Hold
-:::
-
-### Max Strength — 3–5 reps com RIR 0; 3 min de descanso
-<p class="subheading">Trações verticais, antiextensão. Barra, argolas, core suspenso. Máxima força, compressão, estabilidade.</p>
-
-::: list-stylized
-- 3 x — Pull-Up Negative → Pull-Up → Archer Pull-Up → Hollow Body Pull-Up → Assisted One-Arm Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
-- 3 x — Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar
-:::
-
-### Strength Assistance — 5–7 reps com RIR 1; 2 min de descanso
-<p class="subheading">Trações horizontais, elevação de membros. Volume, robustez dorsal e abdominal, controle escapular.</p>
-
-::: [list-stylized](list-stylized)
-- 2 x — Bent‑Knee Ring Inverted Row → Ring Inverted Row → Decline Ring Inverted Row → Tuck Front Lever Row
-- 2 x — Kneeling Ab Ring Rollout Negative → Kneeling Ab Ring Rollout → Band-Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout
-:::
-
-### Finisher — máximo de reps com RIR 2; 1 min de descanso
-<p class="subheading">Escápulas. Controle, robustez, transferência.</p>
-
-::: list-stylized
-- 2 x — Scapular Pull-Up
-:::
-
-### Technical Practice — 10–20 min
-<p class="subheading">Suspensão, levers, core. Controle extremo, compressão, estabilidade, transferência técnica.</p>
-
-::: list-stylized
-- Exemplos: Hanging L-Sit, Hanging Leg Raise Variations, Skin the Cat, Ice Cream Maker, Inverted Deadlift, Core Levers, Dragon Flag, Back Lever, Front Lever, Human Flag, Muscle-Up.
-:::
-</section>
-
-<section>
-## Quarta-Feira: Lower Chain [↩︎](#summary) {#lower-chain}
+## Terça-Feira: Lower Chain[↩︎](#summary) {#lower-chain}
 
 ### Activation — 15–20 s de isometria com máxima contração; 30 s de descanso
 <p class="subheading">Máxima estabilidade, lubrificação, prontidão neural.</p>
@@ -225,9 +183,51 @@ update_date: 2025-04-30
 </section>
 
 <section>
-## Quinta-Feira: Upper Push [↩︎](#summary) {#upper-push}
+## Quarta-Feira: Upper Pull & Core[↩︎](#summary) {#upper-pull-and-core}
 
-### Activation — 15–25 s de isometria com máxima contração; 30 s de descanso
+### Activation — 15–20 s de isometria com máxima contração; 30 s de descanso
+<p class="subheading">Máxima estabilidade escapular, dorsal e central.</p>
+
+::: list-stylized
+- 2 x — Feet-Supported Passive Hang → Passive Hang → Active Hang
+- 2 x — Boat Hold → Hollow Body Hold
+:::
+
+### Max Strength — 3–5 reps com RIR 0; 3 min de descanso
+<p class="subheading">Trações verticais, antiextensão. Barra, argolas, core suspenso. Máxima força, compressão, estabilidade.</p>
+
+::: list-stylized
+- 3 x — Pull-Up Negative → Pull-Up → Archer Pull-Up → Hollow Body Pull-Up → Assisted One-Arm Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
+- 3 x — Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar
+:::
+
+### Strength Assistance — 5–7 reps com RIR 1; 2 min de descanso
+<p class="subheading">Trações horizontais, elevação de membros. Volume, robustez dorsal e abdominal, controle escapular.</p>
+
+::: [list-stylized](list-stylized)
+- 2 x — Bent‑Knee Ring Inverted Row → Ring Inverted Row → Decline Ring Inverted Row → Tuck Front Lever Row
+- 2 x — Kneeling Ab Ring Rollout Negative → Kneeling Ab Ring Rollout → Band-Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout
+:::
+
+### Finisher — máximo de reps com RIR 2; 1 min de descanso
+<p class="subheading">Escápulas. Controle, robustez, transferência.</p>
+
+::: list-stylized
+- 2 x — Scapular Pull-Up
+:::
+
+### Technical Practice — 10–20 min
+<p class="subheading">Suspensão, levers, core. Controle extremo, compressão, estabilidade, transferência técnica.</p>
+
+::: list-stylized
+- Exemplos: Hanging L-Sit, Hanging Leg Raise Variations, Skin the Cat, Ice Cream Maker, Inverted Deadlift, Core Levers, Dragon Flag, Back Lever, Front Lever, Human Flag, Muscle-Up.
+:::
+</section>
+
+<section>
+## Quinta-Feira: Upper Push[↩︎](#summary) {#upper-push}
+
+### Activation — 15–20 s de isometria com máxima contração; 30 s de descanso
 <p class="subheading">Estabilidade escapular, compressão, equilíbrio em apoio.</p>
 
 ::: list-stylized
@@ -267,7 +267,7 @@ update_date: 2025-04-30
 </section>
 
 <section>
-## Sexta-Feira e Sábado: Deep Recovery [↩︎](#summary) {#deep-recovery}
+## Sexta-Feira e Sábado: Deep Recovery[↩︎](#summary) {#deep-recovery}
 
 ### Regen
 <p class="subheading">Recuperação total. Zero treino estruturado. Atividades livres, relaxamento, regeneração.</p>

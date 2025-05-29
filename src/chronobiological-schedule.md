@@ -30,7 +30,7 @@ update_date: 2025-04-17
 
 <section>
 <hgroup>
-## Inicialização [↩︎](#summary) {#initialization}
+## Inicialização[↩︎](#summary) {#initialization}
 <p class="subheading">Sincronização circadiana e ativação da mente e do corpo.</p>
 </hgroup>
 
@@ -53,7 +53,7 @@ update_date: 2025-04-17
 
 <section>
 <hgroup>
-## Foco Cognitivo [↩︎](#summary) {#cognitive-focus}
+## Foco Cognitivo[↩︎](#summary) {#cognitive-focus}
 <p class="subheading">Os dois modos de pensamento: focado e difuso.</p>
 </hgroup>
 
@@ -69,7 +69,7 @@ update_date: 2025-04-17
 
 <section>
 <hgroup>
-## Expressão Criativa [↩︎](#summary) {#creative-expression}
+## Expressão Criativa[↩︎](#summary) {#creative-expression}
 <p class="subheading">Imaginação dirigida, revisão e fluxo criativo.</p>
 </hgroup>
 
@@ -83,7 +83,7 @@ update_date: 2025-04-17
 
 <section>
 <hgroup>
-## Potência Física [↩︎](#summary) {#physical-power}
+## Potência Física[↩︎](#summary) {#physical-power}
 <p class="subheading">Treinamento físico focado na superação de si mesmo.</p>
 </hgroup>
 
@@ -100,7 +100,7 @@ update_date: 2025-04-17
 
 <section>
 <hgroup>
-## Desligamento & Reinício [↩︎](#summary) {#shutdown-and-restart}
+## Desligamento & Reinício[↩︎](#summary) {#shutdown-and-restart}
 <p class="subheading">Desaceleração sensorial e regeneração da mente e do corpo.</p>
 </hgroup>
 
@@ -113,7 +113,7 @@ update_date: 2025-04-17
 
 <section>
 <hgroup>
-## Checkpoint [↩︎](#summary) {#checkpoint}
+## Checkpoint[↩︎](#summary) {#checkpoint}
 <p class="subheading">Momentos estratégicos do dia para parar, sentir e ajustar corpo e mente.</p>
 </hgroup>
 
