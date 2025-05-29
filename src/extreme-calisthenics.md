@@ -190,7 +190,7 @@ update_date: 2025-04-30
 
 ::: list-stylized
 - 3 x — Pull-Up Negative → Pull-Up → Archer Pull-Up → Hollow Body Pull-Up → Assisted One-Arm Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
-- 3 x — Reverse Crunch → Lying Leg Raise → Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar
+- 3 x — Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar
 :::
 
 ### Assistance — 3–5 reps com RIR 1–2; 2 min de descanso
