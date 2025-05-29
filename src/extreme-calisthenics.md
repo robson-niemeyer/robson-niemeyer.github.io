@@ -26,47 +26,55 @@ update_date: 2025-04-30
 <section>
 ## Introdução
 
-<p>**Você não nasceu pra ser hamster de academia.** Você quer potência, soberania física e autonomia — pra treinar onde quiser.</p>
+<p><strong>Você não nasceu pra ser hamster de academia.</strong> Você quer potência, soberania física e autonomia — pra treinar onde quiser.</p>
 
-<p>**Este é um sistema de treinamento de alto desempenho.** Peso corporal. Zero cargas externas. Força, controle e condicionamento, desenvolvidos em progressões biomecanicamente precisas, seguras e eficientes. Sem repetições inúteis. Sem volume vazio.</p>
+<p><strong>Este é um sistema de treinamento de alto desempenho.</strong> Peso corporal. Zero cargas externas. Força, controle e condicionamento, desenvolvidos em progressões biomecanicamente precisas, seguras e eficientes. Sem repetições inúteis. Sem volume vazio.</p>
 
-<p>**Não é recreativo. Não é entretenimento. É engenharia física.** Método racional, orientado a resultado, para maximizar força, controle e potência — usando apenas seu corpo como ferramenta.</p>
+<p><strong>Não é recreativo. Não é entretenimento. É engenharia física.</strong> Método racional, orientado a resultado, para maximizar força, controle e potência — usando apenas seu corpo como ferramenta.</p>
 </section>
 
 <section>
 ## Cronograma de Treino [↩︎](#summary) {#training-schedule}
 
-> Este programa exige **comprometimento absoluto e constância inegociável.**  
+> Este programa exige <strong>comprometimento absoluto e constância inegociável.</strong>  
 > Se você não está disposto a sustentar isso, não continue.
 
-<p>**As sessões diárias duram cerca de 60 minutos.** Sempre que possível, inclua de 10 a 20 minutos de mobilidade articular no início para ativação neuromuscular, lubrificação articular e prevenção de lesões; e de 10 a 20 minutos de alongamento no final para recuperação tecidual, alívio muscular e desenvolvimento de flexibilidade.</p>
+<p><strong>As sessões diárias duram cerca de 60 minutos.</strong> Sempre que possível, inclua de 10 a 20 minutos de mobilidade articular no início para ativação neuromuscular, lubrificação articular e prevenção de lesões; e de 10 a 20 minutos de alongamento no final para recuperação tecidual, alívio muscular e desenvolvimento de flexibilidade.</p>
 
-<p>**Realize as sessões na ordem proposta — domingo a quinta-feira.** Opcionalmente, reorganize para segunda-feira a sexta-feira, mantendo a sequência. Perdeu 1 dia? Sacrifique 1 dia de descanso no fim de semana. Perdeu 2 ou mais? Ignore os dias perdidos e siga adiante.</p>
+<p><strong>Realize as sessões na ordem proposta — domingo a quinta-feira.</strong> Opcionalmente, reorganize para segunda-feira a sexta-feira, mantendo a sequência. Perdeu 1 dia? Sacrifique 1 dia de descanso no fim de semana. Perdeu 2 ou mais? Ignore os dias perdidos e siga adiante.</p>
 </section>
 
 <section>
 ## Progressões Técnicas [↩︎](#summary) {#technical-progressions}
 
-> Consuma diariamente **1,5 a 2 g de proteína por kg** de peso corporal.  
+> Consuma diariamente <strong>1,5 a 2 g de proteína por kg</strong> de peso corporal.  
 > Reduza açúcar refinado, farinha branca, soja e derivados.  
 > Não fume. Não beba álcool.
 
-<p>**Escolha seu nível para cada exercício (Nível 0 → Nível 1 → etc).** Sempre em cadência controlada, forma perfeita: escápulas ativas, core rígido, alinhamento absoluto, zero colapso postural. Mais de 5 repetições ou mais de 30 segundos de isometria por 2 sessões consecutivas, avance para o próximo nível; menos de 3 repetições ou menos de 18 segundos de isometria, retroceda um nível.</p>
+<p><strong>Escolha seu nível para cada exercício (Nível 0 → Nível 1 → etc).</strong> Sempre em cadência controlada, forma perfeita: escápulas ativas, core rígido, alinhamento absoluto, zero colapso postural. Fez mais do que o intervalo de tempo ou de repetições recomendado para qualquer série daquele exercício por 2 semanas consecutivas? Avance para o próximo nível. Fez menos? Retroceda um nível.</p>
 
-<p>**Os nomes dos exercícios estão em inglês por padronização internacional.** Isso permite que você encontre referências, imagens e vídeos com facilidade.</p>
+<p><strong>Os nomes dos exercícios estão em inglês por padronização internacional.</strong> Isso permite que você encontre referências, imagens e vídeos com facilidade.</p>
 </section>
 
 <section>
 ## Semana de Deload [↩︎](#summary) {#deload-week}
 
-<p>**A cada 3 semanas de treinamento contínuo, a quarta semana é de deload.** No domingo, elimine as fases de <em>AMRAP</em> e <em>Metcon</em>. De terça-feira a quinta-feira, reduza as séries de <em>Max Strength</em> de 3 para 2 e de <em>Assistance</em> de 2 para 1, ajustando a intensidade para RIR[^1] 1–2. Foco em domínio técnico, mobilidade, padrões respiratórios e alongamentos profundos — mantendo a estimulação neuromuscular, acelerando a recuperação tecidual e prevenindo fadiga neural crônica.</p>
+<p><strong>A cada 3 semanas de treinamento contínuo, a quarta semana é de deload.</strong> No domingo, elimine as fases de AMRAP e Metcon. De terça-feira a quinta-feira, reajuste as sessões para:
+
+::: list-stylized
+- Max Strength: 2 x 1–3 reps
+- Strength Assistance: 1 x 2–5 reps
+- Finisher: 50% das reps habituais
+:::
+
+<strong>Ignore o RIR[^1] para todos os exercícios.</strong> O foco é domínio técnico absoluto, controle motor, mobilidade, padrões respiratórios e alongamentos profundos — mantendo estimulação neuromuscular, sem gerar fadiga.</p>
 </section>
 
 <section>
 ## Equipamento [↩︎](#summary) {#equipment}
 
 > Use estruturas públicas.  
-> Zero custos. **Liberdade total**.
+> Zero custos. <strong>Liberdade total</strong>.
 
 ### Necessário
 
@@ -135,7 +143,7 @@ update_date: 2025-04-30
 <section>
 ## Terça-Feira: Lower Chain [↩︎](#summary) {#lower-chain}
 
-### Activation — 30 s de isometria com máxima contração; 30 s de descanso
+### Activation — 15–20 s de isometria com máxima contração; 30 s de descanso
 <p class="subheading">Máxima estabilidade, lubrificação, prontidão neural.</p>
 
 ::: list-stylized
@@ -143,7 +151,7 @@ update_date: 2025-04-30
 - 2 x — Glute Bridge Hold → Feet-Elevated Glute Bridge Hold
 :::
 
-### Max Strength — 3–5 reps com RIR 0–1; 3 min de descanso
+### Max Strength — 3–5 reps com RIR 0; 3 min de descanso
 <p class="subheading">Squat e hinge. Bilateral, unilateral. Máxima força, controle, integridade estrutural.</p>
 
 ::: list-stylized
@@ -151,7 +159,7 @@ update_date: 2025-04-30
 - 3 x — Tall-Kneeling Hip Hinge → Tall-Kneeling Good Morning → Band-Assisted Nordic Hamstring Curl → Nordic Hamstring Curl
 :::
 
-### Assistance — 3–5 reps com RIR 1–2; 2 min de descanso
+### Strength Assistance — 5–7 reps com RIR 1; 2 min de descanso
 <p class="subheading">Extensão, flexão, equilíbrio. Correção, robustez, transferência.</p>
 
 ::: list-stylized
@@ -159,7 +167,7 @@ update_date: 2025-04-30
 - 2 x — Lunge → Bulgarian Split Squat → Assisted Shrimp Squat → Shrimp Squat
 :::
 
-### Finisher — máximo de reps com RIR 1–2; 1 min de descanso
+### Finisher — máximo de reps com RIR 2; 1 min de descanso
 <p class="subheading">Tornozelos. Robustez articular. Zero impacto na recuperação.</p>
 
 ::: list-stylized
@@ -177,7 +185,7 @@ update_date: 2025-04-30
 <section>
 ## Quarta-Feira: Upper Pull & Core [↩︎](#summary) {#upper-pull-and-core}
 
-### Activation — 30 s de isometria com máxima contração; 30 s de descanso
+### Activation — 15–20 s de isometria com máxima contração; 30 s de descanso
 <p class="subheading">Máxima estabilidade escapular, dorsal e central.</p>
 
 ::: list-stylized
@@ -185,7 +193,7 @@ update_date: 2025-04-30
 - 2 x — Boat Hold → Hollow Body Hold
 :::
 
-### Max Strength — 3–5 reps com RIR 0–1; 3 min de descanso
+### Max Strength — 3–5 reps com RIR 0; 3 min de descanso
 <p class="subheading">Trações verticais, antiextensão. Barra, argolas, core suspenso. Máxima força, compressão, estabilidade.</p>
 
 ::: list-stylized
@@ -193,7 +201,7 @@ update_date: 2025-04-30
 - 3 x — Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar
 :::
 
-### Assistance — 3–5 reps com RIR 1–2; 2 min de descanso
+### Strength Assistance — 5–7 reps com RIR 1; 2 min de descanso
 <p class="subheading">Trações horizontais, elevação de membros. Volume, robustez dorsal e abdominal, controle escapular.</p>
 
 ::: [list-stylized](list-stylized)
@@ -201,7 +209,7 @@ update_date: 2025-04-30
 - 2 x — Kneeling Ab Ring Rollout Negative → Kneeling Ab Ring Rollout → Band-Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout
 :::
 
-### Finisher — máximo de reps com RIR 1–2; 1 min de descanso
+### Finisher — máximo de reps com RIR 2; 1 min de descanso
 <p class="subheading">Escápulas. Controle, robustez, transferência.</p>
 
 ::: list-stylized
@@ -219,7 +227,7 @@ update_date: 2025-04-30
 <section>
 ## Quinta-Feira: Upper Push [↩︎](#summary) {#upper-push}
 
-### Activation — 30 s de isometria com máxima contração; 30 s de descanso
+### Activation — 15–25 s de isometria com máxima contração; 30 s de descanso
 <p class="subheading">Estabilidade escapular, compressão, equilíbrio em apoio.</p>
 
 ::: list-stylized
@@ -227,7 +235,7 @@ update_date: 2025-04-30
 - 2 x — Pike Hold → Feet-Elevated Pike Hold → Chest-to-Wall Handstand Hold
 :::
 
-### Max Strength — 3–5 reps com RIR 0–1; 3 min de descanso
+### Max Strength — 3–5 reps com RIR 0; 3 min de descanso
 <p class="subheading">Empurradas horizontais e verticais. Push-ups, dips, unilaterais, argolas. Máxima força, compressão, controle.</p>
 
 ::: list-stylized
@@ -235,7 +243,7 @@ update_date: 2025-04-30
 - 3 x — Bent‑Knee Bench Dip → Feet-Supported Ring Dip → Ring Dip → Straight Bar Dip
 :::
 
-### Assistance — 3–5 reps com RIR 1–2; 2 min de descanso
+### Strength Assistance — 5–7 reps com RIR 1; 2 min de descanso
 <p class="subheading">Empurradas verticais, extensão de cotovelos. Robustez, correção, transferência.</p>
 
 ::: list-stylized
@@ -243,7 +251,7 @@ update_date: 2025-04-30
 - 2 x — Kneeling Diamond Push-Up → Diamond Push-Up → Ring Triceps Extension → Reverse-Grip Push‑Up → Pseudo Planche Push‑Up
 :::
 
-### Finisher — máximo de reps com RIR 1–2; 1 min de descanso
+### Finisher — máximo de reps com RIR 2; 1 min de descanso
 <p class="subheading">Shrug escapular em pike elevado. Controle, robustez. Zero interferência.</p>
 
 ::: list-stylized
@@ -274,6 +282,6 @@ update_date: 2025-04-30
 </section>
 
 
-[^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de reps de reserva antes da falha técnica — ou seja, como se você estivesse guardando o número de repetições que ainda conseguiria realizar com a forma perfeita se continuasse, para a próxima série. Por exemplo, RIR 1–2 significa encerrar a série com 1 ou 2 reps de reserva antes da falha. Mantenha RIR 0–1 apenas para movimentos com alto domínio técnico e baixa chance de colapso postural. Isso garante uma estimulação eficaz com mínima fadiga, promovendo consistência e domínio técnico.
+[^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de repetições de reserva antes da falha técnica — ou seja, como se você estivesse guardando o número de repetições que ainda conseguiria realizar com a forma perfeita se continuasse, para a próxima série. Por exemplo, RIR 1 significa encerrar a série com 1 repetição de reserva antes da falha. Mantenha RIR 0 apenas para movimentos com alto domínio técnico e baixa chance de colapso postural. Isso garante uma estimulação eficaz com mínima fadiga, promovendo consistência e domínio técnico.
 
 [^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Máxima frequência cardíaca estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
