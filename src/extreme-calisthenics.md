@@ -28,7 +28,7 @@ update_date: 2025-04-30
 
 <p><strong>Você não nasceu pra ser hamster de academia.</strong> Você quer potência, soberania física e autonomia — pra treinar onde quiser.</p>
 
-<p><strong>Este é um sistema de treinamento de alto desempenho.</strong> Peso corporal. Zero cargas externas. Força, controle e condicionamento, desenvolvidos em progressões biomecanicamente precisas, seguras e eficientes. Sem repetições inúteis. Sem volume vazio.</p>
+<p><strong>Este é um sistema de treinamento de alta performance.</strong> Peso corporal. Zero cargas externas. Força, controle e condicionamento, desenvolvidos em progressões biomecanicamente precisas, seguras e eficientes. Sem repetições inúteis. Sem volume vazio.</p>
 
 <p><strong>Não é recreativo. Não é entretenimento. É engenharia física.</strong> Método racional, orientado a resultado, para maximizar força, controle e potência — usando apenas seu corpo como ferramenta.</p>
 </section>
@@ -284,4 +284,4 @@ update_date: 2025-04-30
 
 [^1]: <sup>1</sup> _RIR (Reps in Reserve)_: Termine a série com um número definido de repetições de reserva antes da falha técnica — ou seja, como se você estivesse guardando o número de repetições que ainda conseguiria realizar com a forma perfeita se continuasse, para a próxima série. Por exemplo, RIR 1 significa encerrar a série com 1 repetição de reserva antes da falha. Mantenha RIR 0 apenas para movimentos com alto domínio técnico e baixa chance de colapso postural. Isso garante uma estimulação eficaz com mínima fadiga, promovendo consistência e domínio técnico.
 
-[^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Máxima frequência cardíaca estimada: 220 menos a sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
+[^2]: <sup>2</sup> _MHR (Maximum Heart Rate)_: Máxima frequência cardíaca estimada: 220 menos sua idade. Define zonas de esforço em treinos cardiovasculares. Quando não houver monitor cardíaco, use a Escala de Borg para classificação da percepção subjetiva do esforço (RPE).
