@@ -163,7 +163,7 @@ update_date: 2025-04-30
 <p class="subheading">Extensão, flexão, equilíbrio. Correção, robustez, transferência.</p>
 
 ::: list-stylized
-- 2 x — Assisted Sissy Squat → Sissy Squat → Reverse Nordic Curl
+- 2 x — Assisted Sissy Squat → Sissy Squat → Assisted Reverse Nordic Curl → Reverse Nordic Curl
 - 2 x — Lunge → Bulgarian Split Squat → Assisted Shrimp Squat → Shrimp Squat
 :::
 
