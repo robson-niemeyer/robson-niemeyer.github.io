@@ -236,7 +236,7 @@ update_date: 2025-04-30
 :::
 
 ### Max Strength — 3–5 reps com RIR 0; 3 min de descanso
-<p class="subheading">Empurradas horizontais e verticais. Push-ups, dips, unilaterais, argolas. Máxima força, compressão, controle.</p>
+<p class="subheading">Empurradas horizontais e verticais. Push-ups, unilaterais. Máxima força, compressão, controle.</p>
 
 ::: list-stylized
 - 3 x — Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up
@@ -244,7 +244,7 @@ update_date: 2025-04-30
 :::
 
 ### Strength Assistance — 5–7 reps com RIR 1; 2 min de descanso
-<p class="subheading">Empurradas verticais, extensão de cotovelos. Robustez, correção, transferência.</p>
+<p class="subheading">Empurradas verticais, extensão de cotovelos. Argolas, robustez, correção, transferência.</p>
 
 ::: list-stylized
 - 2 x — Bent‑Knee Bench Dip → Feet-Supported Ring Dip → Ring Dip → Straight Bar Dip
