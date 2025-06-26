@@ -155,7 +155,7 @@ update_date: 2025-04-30
 <p class="subheading">Squat e hinge. Bilateral, unilateral. Máxima força, controle, integridade estrutural.</p>
 
 ::: list-stylized
-- 3 x — Box Squat → Air Squat → Deep Squat → Cossack Squat → Box Pistol Squat → Assisted Pistol Squat → Pistol Squat
+- 3 x — Box Squat → Air Squat → Deep Squat → Archer Squat → Box Pistol Squat → Assisted Pistol Squat → Pistol Squat
 - 3 x — Tall-Kneeling Hip Hinge → Tall-Kneeling Good Morning → Band-Assisted Nordic Hamstring Curl → Nordic Hamstring Curl
 :::
 
@@ -240,14 +240,14 @@ update_date: 2025-04-30
 
 ::: list-stylized
 - 3 x — Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up
-- 3 x — Bent‑Knee Bench Dip → Feet-Supported Ring Dip → Ring Dip → Straight Bar Dip
+- 3 x — Incline Pike Push-Up → Pike Push-Up → Feet-Elevated Pike Push-Up → Deficit Pike Push-Up → Deficit Handstand Push-Up
 :::
 
 ### Strength Assistance — 5–7 reps com RIR 1; 2 min de descanso
 <p class="subheading">Empurradas verticais, extensão de cotovelos. Robustez, correção, transferência.</p>
 
 ::: list-stylized
-- 2 x — Incline Pike Push-Up → Pike Push-Up → Feet-Elevated Pike Push-Up → Deficit Pike Push-Up → Deficit Handstand Push-Up
+- 2 x — Bent‑Knee Bench Dip → Feet-Supported Ring Dip → Ring Dip → Straight Bar Dip
 - 2 x — Kneeling Diamond Push-Up → Diamond Push-Up → Ring Triceps Extension → Reverse-Grip Push‑Up → Pseudo Planche Push‑Up
 :::
 

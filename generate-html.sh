@@ -26,15 +26,3 @@ for filepath in "$@"; do
     fi
   fi
 done
-
-# Generate compiled and minified CSS
-cleancss -o assets/styles/style.min.css $(echo -n assets/styles/{reset,variables,typography,layout,elements}.css)
-
-for file in *.jpg *.png; do
-  if [[ -e "$file" ]]; then
-    cwebp -q 80 "$file" -o "${file%.*}".webp
-    rm assets/images/"$file"
-  fi
-done
-
-exit 1
