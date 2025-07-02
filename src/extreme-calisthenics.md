@@ -168,9 +168,7 @@ update_date: 2025-04-30
 <section>
 ## Sexta-Feira e Sábado: Deep Recovery[↩︎](#summary) {#deep-recovery}
 
-::: list-stylized
-- <strong>Regen</strong>: Recuperação total. Zero treino estruturado. Atividades livres, relaxamento, regeneração.
-:::
+<p><strong>Recuperação total.</strong> Zero treino estruturado. Atividades livres, relaxamento, regeneração.</p>
 </section>
 
 <section>
