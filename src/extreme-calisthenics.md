@@ -280,7 +280,7 @@ update_date: 2025-04-30
 <p class="subheading">2 séries de repetições máximas; RIR 2; descanso de 1 min</p>
 
 ::: list-stylized
-- Scapular Pull-Up
+- <em>Progressão:</em> Incline Scapular Pull-Up → Scapular Pull-Up → Decline Scapular Pull-Up
 :::
 
 ### Technical Practice
