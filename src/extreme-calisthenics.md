@@ -62,8 +62,8 @@ update_date: 2025-04-30
 <p><strong>A cada 3 semanas de treinamento contínuo, a quarta semana é de deload.</strong> No domingo, elimine as fases de AMRAP e Metcon. De terça-feira a quinta-feira, reajuste as sessões para:
 
 ::: list-stylized
-- Max Strength: 2 x 1–3 reps
-- Strength Assistance: 1 x 2–5 reps
+- Max Strength: 2 × 1–3 reps
+- Strength Assistance: 1 × 2–5 reps
 - Finisher: 50% das reps habituais
 :::
 
@@ -99,178 +99,78 @@ update_date: 2025-04-30
 <section>
 ## Domingo: Benchmark & Conditioning[↩︎](#summary) {#benchmark-and-conditioning}
 
-### Prehab (Preventive Rehabilitation) — 12 reps com 2 s de isometria; 1 min de descanso
-
-<p class="subheading">Blindagem articular. Correção, ativação, integridade. Pré-requisito absoluto.</p>
-
 ::: list-stylized
-- 2 x — Band Pull-Apart
-- 2 x — Band Face Pull
-- 2 x — Band External Rotation
-:::
-
-### AMRAP (As Many Reps as Possible) — máximo de reps com máxima potência; 5 min de descanso
-
-<p class="subheading">Explosão. Resiliência. Máximo de reps perfeitas, máxima potência, até falha ou até tempo.</p>
-
-::: list-stylized
-- 1 x — Deep Squat → Squat Jump
-- 1 x — Pull-Up → Chest-to-Bar Pull-Up → Bar Pullover → Muscle-Up
-- 1 x — Push-Up → Plyometric Push-Up
-:::
-
-### Metcon (Metabolic Conditioning) — 20–30 min
-<p class="subheading">Alta densidade. Sequências contínuas, mínima pausa, máxima intensidade. Condicionamento, recuperação, resiliência.</p>
-
-::: list-stylized
-- Exemplos: Beat Swing, Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc.
+- <strong>Preventive Rehabilitation (Prehab)</strong>: Band Pull-Apart (2 × 12 reps com 2 s de isometria; 1 min de descanso)
+- <strong>Preventive Rehabilitation (Prehab)</strong>: Band Face Pull (2 × 12 reps com 2 s de isometria; 1 min de descanso)
+- <strong>Preventive Rehabilitation (Prehab)</strong>: Band External Rotation (2 × 12 reps com 2 s de isometria; 1 min de descanso)
+- <strong>As Many Reps as Possible (AMRAP)</strong>: Deep Squat → Squat Jump (1 × máximo de reps com máxima potência; 5 min de descanso)
+- <strong>As Many Reps as Possible (AMRAP)</strong>: Pull-Up → Chest-to-Bar Pull-Up → Bar Pullover → Muscle-Up (1 × máximo de reps com máxima potência; 5 min de descanso)
+- <strong>As Many Reps as Possible (AMRAP)</strong>: Push-Up → Plyometric Push-Up (1 × máximo de reps com máxima potência; 5 min de descanso)
+- <strong>Metabolic Conditioning (Metcon)</strong>: Beat Swing, Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc.
 :::
 </section>
 
 <section>
 ## Segunda-Feira: Active Recovery[↩︎](#summary) {#active-recovery}
 
-### LISS (Low-Intensity Steady State)
-<p class="subheading">Recuperação ativa. Circulação, drenagem, reparação. Sem acúmulo de fadiga.</p>
-
 ::: list-stylized
-- 10 min com 50–60% MHR[^2] — Caminhada
-- 20–30 min com 60–70% MHR — Caminhada Acelerada → Corrida Leve
-- 10 min com 50–60% MHR — Caminhada
+- <strong>Warm-Up</strong>: Caminhada (10 min com 50–60% MHR[^2])
+- <strong>Low-Intensity Steady State (LISS)</strong>: Caminhada Acelerada → Corrida Leve (20–30 min com 60–70% MHR)
+- <strong>Cool-Down</strong>: Caminhada (10 min com 50–60% MHR)
 :::
 </section>
 
 <section>
 ## Terça-Feira: Lower Chain[↩︎](#summary) {#lower-chain}
 
-### Activation — 15–20 s de isometria com máxima contração; 30 s de descanso
-<p class="subheading">Máxima estabilidade, lubrificação, prontidão neural.</p>
-
 ::: list-stylized
-- 2 x — Wall Sit → Static Squat Hold
-- 2 x — Glute Bridge Hold → Feet-Elevated Glute Bridge Hold
-:::
-
-### Max Strength — 3–5 reps com RIR 0; 3 min de descanso
-<p class="subheading">Squat e hinge. Bilateral, unilateral. Máxima força, controle, integridade estrutural.</p>
-
-::: list-stylized
-- 3 x — Box Squat → Air Squat → Deep Squat → Archer Squat → Box Pistol Squat → Assisted Pistol Squat → Pistol Squat
-- 3 x — Tall-Kneeling Hip Hinge → Tall-Kneeling Good Morning → Band-Assisted Nordic Hamstring Curl → Nordic Hamstring Curl
-:::
-
-### Strength Assistance — 5–7 reps com RIR 1; 2 min de descanso
-<p class="subheading">Extensão, flexão, equilíbrio. Correção, robustez, transferência.</p>
-
-::: list-stylized
-- 2 x — Assisted Sissy Squat → Sissy Squat → Assisted Reverse Nordic Curl → Reverse Nordic Curl
-- 2 x — Lunge → Bulgarian Split Squat → Assisted Shrimp Squat → Shrimp Squat
-:::
-
-### Finisher — máximo de reps com RIR 2; 1 min de descanso
-<p class="subheading">Tornozelos. Robustez articular. Zero impacto na recuperação.</p>
-
-::: list-stylized
-- 2 x — Calf Raise → Single-Leg Calf Raise → Squat Hold Calf Raise
-:::
-
-### Technical Practice — 10–20 min
-<p class="subheading">Aterrissagens, saltos, rolamentos. Controle, precisão, propriocepção, resiliência.</p>
-
-::: list-stylized
-- Exemplos: Rolls, Drop Landings, Precision Landing, Broad Jumps, Plyometric Jumps, Tic Tac, Wall Runs, Cat Leap, Vaults, Depth Jumps, Acrobatic Flips.
+- <strong>Activation</strong>: Wall Sit → Static Squat Hold (2 × 15–20 s de isometria com máxima contração; 30 s de descanso)
+- <strong>Max Strength</strong>: Box Squat → Air Squat → Deep Squat → Archer Squat → Box Pistol Squat → Assisted Pistol Squat → Pistol Squat (3 × 3–5 reps com RIR 0; 3 min de descanso)
+- <strong>Strength Assistance</strong>: Assisted Sissy Squat → Sissy Squat → Assisted Reverse Nordic Curl → Reverse Nordic Curl (2 × 5–7 reps com RIR 1; 2 min de descanso)
+- <strong>Activation</strong>: Glute Bridge Hold → Feet-Elevated Glute Bridge Hold (2 × 15–20 s de isometria com máxima contração; 30 s de descanso)
+- <strong>Max Strength</strong>: Tall-Kneeling Hip Hinge → Tall-Kneeling Good Morning → Band-Assisted Nordic Hamstring Curl → Nordic Hamstring Curl (3 × 3–5 reps com RIR 0; 3 min de descanso)
+- <strong>Strength Assistance</strong>: Lunge → Bulgarian Split Squat → Assisted Shrimp Squat → Shrimp Squat (2 × 5–7 reps com RIR 1; 2 min de descanso)
+- <strong>Finisher</strong>: Calf Raise → Single-Leg Calf Raise → Squat Hold Calf Raise (2 × máximo de reps com RIR 2; 1 min de descanso)
+- <strong>Technical Practice</strong>: Rolls, Drop Landings, Precision Landing, Broad Jumps, Plyometric Jumps, Tic Tac, Wall Runs, Cat Leap, Vaults, Depth Jumps, Acrobatic Flips (10–20 min)
 :::
 </section>
 
 <section>
 ## Quarta-Feira: Upper Pull & Core[↩︎](#summary) {#upper-pull-and-core}
 
-### Activation — 15–20 s de isometria com máxima contração; 30 s de descanso
-<p class="subheading">Máxima estabilidade escapular, dorsal e central.</p>
-
 ::: list-stylized
-- 2 x — Feet-Supported Passive Hang → Passive Hang → Active Hang
-- 2 x — Boat Hold → Hollow Body Hold
-:::
-
-### Max Strength — 3–5 reps com RIR 0; 3 min de descanso
-<p class="subheading">Trações verticais, antiextensão. Barra, argolas, core suspenso. Máxima força, compressão, estabilidade.</p>
-
-::: list-stylized
-- 3 x — Pull-Up Negative → Pull-Up → Archer Pull-Up → Hollow Body Pull-Up → Assisted One-Arm Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
-- 3 x — Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar
-:::
-
-### Strength Assistance — 5–7 reps com RIR 1; 2 min de descanso
-<p class="subheading">Trações horizontais, elevação de membros. Volume, robustez dorsal e abdominal, controle escapular.</p>
-
-::: [list-stylized](list-stylized)
-- 2 x — Bent‑Knee Ring Inverted Row → Ring Inverted Row → Decline Ring Inverted Row → Tuck Front Lever Row
-- 2 x — Kneeling Ab Ring Rollout Negative → Kneeling Ab Ring Rollout → Band-Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout
-:::
-
-### Finisher — máximo de reps com RIR 2; 1 min de descanso
-<p class="subheading">Escápulas. Controle, robustez, transferência.</p>
-
-::: list-stylized
-- 2 x — Scapular Pull-Up
-:::
-
-### Technical Practice — 10–20 min
-<p class="subheading">Suspensão, levers, core. Controle extremo, compressão, estabilidade, transferência técnica.</p>
-
-::: list-stylized
-- Exemplos: Hanging L-Sit, Hanging Leg Raise Variations, Skin the Cat, Ice Cream Maker, Inverted Deadlift, Core Levers, Dragon Flag, Back Lever, Front Lever, Human Flag, Muscle-Up.
+- <strong>Activation</strong>: Feet-Supported Passive Hang → Passive Hang → Active Hang (2 × 15–20 s de isometria com máxima contração; 30 s de descanso)
+- <strong>Max Strength</strong>: Pull-Up Negative → Pull-Up → Archer Pull-Up → Hollow Body Pull-Up → Assisted One-Arm Pull-Up → Uneven Pull-Up → One-Arm Pull-Up (3 × 3–5 reps com RIR 0; 3 min de descanso)
+- <strong>Strength Assistance</strong>: Bent‑Knee Ring Inverted Row → Ring Inverted Row → Decline Ring Inverted Row → Tuck Front Lever Row (2 × 5–7 reps com RIR 1; 2 min de descanso)
+- <strong>Activation</strong>: Boat Hold → Hollow Body Hold (2 × 15–20 s de isometria com máxima contração; 30 s de descanso)
+- <strong>Max Strength</strong>: Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar (3 × 3–5 reps com RIR 0; 3 min de descanso)
+- <strong>Strength Assistance</strong>: Kneeling Ab Ring Rollout Negative → Kneeling Ab Ring Rollout → Band-Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout (2 × 5–7 reps com RIR 1; 2 min de descanso)
+- <strong>Finisher</strong>: Scapular Pull-Up (2 × máximo de reps com RIR 2; 1 min de descanso)
+- <strong>Technical Practice</strong>: Hanging L-Sit, Hanging Leg Raise Variations, Skin the Cat, Ice Cream Maker, Inverted Deadlift, Core Levers, Dragon Flag, Back Lever, Front Lever, Human Flag, Muscle-Up (10–20 min)
 :::
 </section>
 
 <section>
 ## Quinta-Feira: Upper Push[↩︎](#summary) {#upper-push}
 
-### Activation — 15–20 s de isometria com máxima contração; 30 s de descanso
-<p class="subheading">Estabilidade escapular, compressão, equilíbrio em apoio.</p>
-
 ::: list-stylized
-- 2 x — Plank → Straight-Arm Plank → Planche Lean
-- 2 x — Pike Hold → Feet-Elevated Pike Hold → Chest-to-Wall Handstand Hold
-:::
-
-### Max Strength — 3–5 reps com RIR 0; 3 min de descanso
-<p class="subheading">Empurradas horizontais e verticais. Push-ups, unilaterais. Máxima força, compressão, controle.</p>
-
-::: list-stylized
-- 3 x — Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up
-- 3 x — Incline Pike Push-Up → Pike Push-Up → Feet-Elevated Pike Push-Up → Deficit Pike Push-Up → Deficit Handstand Push-Up
-:::
-
-### Strength Assistance — 5–7 reps com RIR 1; 2 min de descanso
-<p class="subheading">Empurradas verticais, extensão de cotovelos. Argolas, robustez, correção, transferência.</p>
-
-::: list-stylized
-- 2 x — Bent‑Knee Bench Dip → Feet-Supported Ring Dip → Ring Dip → Straight Bar Dip
-- 2 x — Kneeling Diamond Push-Up → Diamond Push-Up → Ring Triceps Extension → Reverse-Grip Push‑Up → Pseudo Planche Push‑Up
-:::
-
-### Finisher — máximo de reps com RIR 2; 1 min de descanso
-<p class="subheading">Shrug escapular em pike elevado. Controle, robustez. Zero interferência.</p>
-
-::: list-stylized
-- 2 x — Elevated Pike Shoulder Shrug
-:::
-
-### Technical Practice — 10–20 min
-<p class="subheading">Suporte, equilíbrio, compressão. Handstand, planche, L-sit, levers. Máximo controle, inteligência motora.</p>
-
-::: list-stylized
-- Exemplos: Straight-Arm Plank Variations, Ring Support Hold, Frog Stand, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche.
+- <strong>Activation</strong>: Plank → Straight-Arm Plank → Planche Lean (2 × 15–20 s de isometria com máxima contração; 30 s de descanso)
+- <strong>Max Strength</strong>: Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up (3 × 3–5 reps com RIR 0; 3 min de descanso)
+- <strong>Strength Assistance</strong>: Bent‑Knee Bench Dip → Feet-Supported Ring Dip → Ring Dip → Straight Bar Dip (2 × 5–7 reps com RIR 1; 2 min de descanso)
+- <strong>Activation</strong>: Pike Hold → Feet-Elevated Pike Hold → Chest-to-Wall Handstand Hold (2 × 15–20 s de isometria com máxima contração; 30 s de descanso)
+- <strong>Max Strength</strong>: Incline Pike Push-Up → Pike Push-Up → Feet-Elevated Pike Push-Up → Deficit Pike Push-Up → Deficit Handstand Push-Up (3 × 3–5 reps com RIR 0; 3 min de descanso)
+- <strong>Strength Assistance</strong>: Kneeling Diamond Push-Up → Diamond Push-Up → Ring Triceps Extension → Reverse-Grip Push‑Up → Pseudo Planche Push‑Up (2 × 5–7 reps com RIR 1; 2 min de descanso)
+- <strong>Finisher</strong>: Elevated Pike Shoulder Shrug (2 × máximo de reps com RIR 2; 1 min de descanso)
+- <strong>Technical Practice</strong>: Straight-Arm Plank Variations, Ring Support Hold, Frog Stand, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche (10–20 min)
 :::
 </section>
 
 <section>
 ## Sexta-Feira e Sábado: Deep Recovery[↩︎](#summary) {#deep-recovery}
 
-### Regen
-<p class="subheading">Recuperação total. Zero treino estruturado. Atividades livres, relaxamento, regeneração.</p>
+::: list-stylized
+- <strong>Regen</strong>: Recuperação total. Zero treino estruturado. Atividades livres, relaxamento, regeneração.
+:::
 </section>
 
 <section>
