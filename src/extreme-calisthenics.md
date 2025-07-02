@@ -106,7 +106,7 @@ update_date: 2025-04-30
 - <strong>As Many Reps as Possible (AMRAP)</strong>: Deep Squat → Squat Jump (1 × máximo de reps com máxima potência; 5 min de descanso)
 - <strong>As Many Reps as Possible (AMRAP)</strong>: Pull-Up → Chest-to-Bar Pull-Up → Bar Pullover → Muscle-Up (1 × máximo de reps com máxima potência; 5 min de descanso)
 - <strong>As Many Reps as Possible (AMRAP)</strong>: Push-Up → Plyometric Push-Up (1 × máximo de reps com máxima potência; 5 min de descanso)
-- <strong>Metabolic Conditioning (Metcon)</strong>: Beat Swing, Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc (20–30 min)
+- <strong>Metabolic Conditioning (Metcon)</strong>: Beat Swing, Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, High-Intensity Interval Training (HIIT), Every Minute On the Minute (EMOM), etc (20–30 min)
 :::
 </section>
 
