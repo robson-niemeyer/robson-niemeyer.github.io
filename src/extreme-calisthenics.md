@@ -133,7 +133,7 @@ update_date: 2025-04-30
 
 ### 1. Warm-Up
 
-<p class="subheading">5–10 min de mobilidade contínua; MHR[^2] 50–60%; descanso livre</p>
+<p class="subheading">5–10 min de locomoção contínua; MHR[^2] 50–60%; descanso livre</p>
 
 ::: list-stylized
 - Caminhada
@@ -141,7 +141,7 @@ update_date: 2025-04-30
 
 ### 2. LISS (Low-Intensity Steady State)
 
-<p class="subheading">20–30 min de mobilidade contínua; MHR 60–70%; descanso livre</p>
+<p class="subheading">20–30 min de locomoção contínua; MHR 60–70%; descanso livre</p>
 
 ::: list-stylized
 - <em>Progressão:</em> Caminhada Acelerada — Corrida Leve
@@ -149,7 +149,7 @@ update_date: 2025-04-30
 
 ### 3. Cool-Down
 
-<p class="subheading">5–10 min de mobilidade contínua; MHR 50–60%; descanso livre</p>
+<p class="subheading">5–10 min de locomoção contínua; MHR 50–60%; descanso livre</p>
 
 ::: list-stylized
 - Caminhada
@@ -217,7 +217,7 @@ update_date: 2025-04-30
 
 ### 8. Technical Practice
 
-<p class="subheading">10–20 min de domínio de habilidades com máximo controle; descanso livre</p>
+<p class="subheading">10–20 min de habilidades criativas com máximo controle; descanso livre</p>
 
 ::: list-stylized
 - <em>Exemplos:</em> Rolls, Drop Landings, Precision Landing, Broad Jumps, Plyometric Jumps, Tic Tac, Wall Runs, Cat Leap, Vaults, Depth Jumps, Acrobatic Flips, etc.
@@ -285,7 +285,7 @@ update_date: 2025-04-30
 
 ### 8. Technical Practice
 
-<p class="subheading">10–20 min de domínio de habilidades com máximo controle; descanso livre</p>
+<p class="subheading">10–20 min de habilidades criativas com máximo controle; descanso livre</p>
 
 ::: list-stylized
 - <em>Exemplos:</em> Hanging L-Sit, Hanging Leg Raise Variations, Skin the Cat, Ice Cream Maker, Inverted Deadlift, Core Levers, Dragon Flag, Back Lever, Front Lever, Human Flag, Muscle-Up, etc.
@@ -353,7 +353,7 @@ update_date: 2025-04-30
 
 ### 8. Technical Practice
 
-<p class="subheading">10–20 min de domínio de habilidades com máximo controle; descanso livre</p>
+<p class="subheading">10–20 min de habilidades criativas com máximo controle; descanso livre</p>
 
 ::: list-stylized
 - <em>Exemplos:</em> Straight-Arm Plank Variations, Ring Support Hold, Frog Stand, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche, etc.
