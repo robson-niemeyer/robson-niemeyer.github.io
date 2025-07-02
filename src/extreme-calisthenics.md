@@ -217,7 +217,7 @@ update_date: 2025-04-30
 
 ### 8. Technical Practice
 
-<p class="subheading">10–20 min de exploração livre com máximo controle; descanso livre</p>
+<p class="subheading">10–20 min de domínio de habilidades com máximo controle; descanso livre</p>
 
 ::: list-stylized
 - <em>Exemplos:</em> Rolls, Drop Landings, Precision Landing, Broad Jumps, Plyometric Jumps, Tic Tac, Wall Runs, Cat Leap, Vaults, Depth Jumps, Acrobatic Flips, etc.
@@ -285,7 +285,7 @@ update_date: 2025-04-30
 
 ### 8. Technical Practice
 
-<p class="subheading">10–20 min de exploração livre com máximo controle; descanso livre</p>
+<p class="subheading">10–20 min de domínio de habilidades com máximo controle; descanso livre</p>
 
 ::: list-stylized
 - <em>Exemplos:</em> Hanging L-Sit, Hanging Leg Raise Variations, Skin the Cat, Ice Cream Maker, Inverted Deadlift, Core Levers, Dragon Flag, Back Lever, Front Lever, Human Flag, Muscle-Up, etc.
@@ -353,7 +353,7 @@ update_date: 2025-04-30
 
 ### 8. Technical Practice
 
-<p class="subheading">10–20 min de exploração livre com máximo controle; descanso livre</p>
+<p class="subheading">10–20 min de domínio de habilidades com máximo controle; descanso livre</p>
 
 ::: list-stylized
 - <em>Exemplos:</em> Straight-Arm Plank Variations, Ring Support Hold, Frog Stand, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche, etc.
