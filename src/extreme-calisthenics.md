@@ -62,9 +62,9 @@ update_date: 2025-04-30
 <p><strong>A cada 3 semanas de treinamento contínuo, a quarta semana é de deload.</strong> No domingo, elimine as fases de AMRAP e Metcon. De terça-feira a quinta-feira, reajuste as sessões para:
 
 ::: list-stylized
-- Max Strength: 2 × 1–3 reps
-- Strength Assistance: 1 × 2–5 reps
-- Finisher: 50% das reps habituais
+- <strong>Max Strength</strong>: 2 × 1–3 reps
+- <strong>Strength Assistance</strong>: 1 × 2–5 reps
+- <strong>Finisher</strong>: 50% das reps habituais
 :::
 
 <strong>Ignore o RIR[^1] para todos os exercícios.</strong> O foco é domínio técnico absoluto, controle motor, mobilidade, padrões respiratórios e alongamentos profundos — mantendo estimulação neuromuscular, sem gerar fadiga.</p>
@@ -106,7 +106,7 @@ update_date: 2025-04-30
 - <strong>As Many Reps as Possible (AMRAP)</strong>: Deep Squat → Squat Jump (1 × máximo de reps com máxima potência; 5 min de descanso)
 - <strong>As Many Reps as Possible (AMRAP)</strong>: Pull-Up → Chest-to-Bar Pull-Up → Bar Pullover → Muscle-Up (1 × máximo de reps com máxima potência; 5 min de descanso)
 - <strong>As Many Reps as Possible (AMRAP)</strong>: Push-Up → Plyometric Push-Up (1 × máximo de reps com máxima potência; 5 min de descanso)
-- <strong>Metabolic Conditioning (Metcon)</strong>: Beat Swing, Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc.
+- <strong>Metabolic Conditioning (Metcon)</strong>: Beat Swing, Jump Rope, Double Unders, Battle Rope, Cross-Body Mountain Climber, Threshold Run, HIIT, EMOM, etc (20–30 min)
 :::
 </section>
 
@@ -131,7 +131,7 @@ update_date: 2025-04-30
 - <strong>Max Strength</strong>: Tall-Kneeling Hip Hinge → Tall-Kneeling Good Morning → Band-Assisted Nordic Hamstring Curl → Nordic Hamstring Curl (3 × 3–5 reps com RIR 0; 3 min de descanso)
 - <strong>Strength Assistance</strong>: Lunge → Bulgarian Split Squat → Assisted Shrimp Squat → Shrimp Squat (2 × 5–7 reps com RIR 1; 2 min de descanso)
 - <strong>Finisher</strong>: Calf Raise → Single-Leg Calf Raise → Squat Hold Calf Raise (2 × máximo de reps com RIR 2; 1 min de descanso)
-- <strong>Technical Practice</strong>: Rolls, Drop Landings, Precision Landing, Broad Jumps, Plyometric Jumps, Tic Tac, Wall Runs, Cat Leap, Vaults, Depth Jumps, Acrobatic Flips (10–20 min)
+- <strong>Technical Practice</strong>: Rolls, Drop Landings, Precision Landing, Broad Jumps, Plyometric Jumps, Tic Tac, Wall Runs, Cat Leap, Vaults, Depth Jumps, Acrobatic Flips, etc (10–20 min)
 :::
 </section>
 
@@ -146,7 +146,7 @@ update_date: 2025-04-30
 - <strong>Max Strength</strong>: Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar (3 × 3–5 reps com RIR 0; 3 min de descanso)
 - <strong>Strength Assistance</strong>: Kneeling Ab Ring Rollout Negative → Kneeling Ab Ring Rollout → Band-Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout (2 × 5–7 reps com RIR 1; 2 min de descanso)
 - <strong>Finisher</strong>: Scapular Pull-Up (2 × máximo de reps com RIR 2; 1 min de descanso)
-- <strong>Technical Practice</strong>: Hanging L-Sit, Hanging Leg Raise Variations, Skin the Cat, Ice Cream Maker, Inverted Deadlift, Core Levers, Dragon Flag, Back Lever, Front Lever, Human Flag, Muscle-Up (10–20 min)
+- <strong>Technical Practice</strong>: Hanging L-Sit, Hanging Leg Raise Variations, Skin the Cat, Ice Cream Maker, Inverted Deadlift, Core Levers, Dragon Flag, Back Lever, Front Lever, Human Flag, Muscle-Up, etc (10–20 min)
 :::
 </section>
 
@@ -161,7 +161,7 @@ update_date: 2025-04-30
 - <strong>Max Strength</strong>: Incline Pike Push-Up → Pike Push-Up → Feet-Elevated Pike Push-Up → Deficit Pike Push-Up → Deficit Handstand Push-Up (3 × 3–5 reps com RIR 0; 3 min de descanso)
 - <strong>Strength Assistance</strong>: Kneeling Diamond Push-Up → Diamond Push-Up → Ring Triceps Extension → Reverse-Grip Push‑Up → Pseudo Planche Push‑Up (2 × 5–7 reps com RIR 1; 2 min de descanso)
 - <strong>Finisher</strong>: Elevated Pike Shoulder Shrug (2 × máximo de reps com RIR 2; 1 min de descanso)
-- <strong>Technical Practice</strong>: Straight-Arm Plank Variations, Ring Support Hold, Frog Stand, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche (10–20 min)
+- <strong>Technical Practice</strong>: Straight-Arm Plank Variations, Ring Support Hold, Frog Stand, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche, etc (10–20 min)
 :::
 </section>
 
