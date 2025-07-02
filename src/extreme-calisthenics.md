@@ -99,7 +99,7 @@ update_date: 2025-04-30
 <section>
 ## Domingo: Benchmark & Conditioning[↩︎](#summary) {#benchmark-and-conditioning}
 
-### Prehab (Preventive Rehabilitation)
+### 1. Prehab (Preventive Rehabilitation)
 
 <p class="subheading">2 × 12 repetições com 2 s de isometria; 1 min de descanso</p>
 
@@ -109,7 +109,7 @@ update_date: 2025-04-30
 - Band External Rotation
 :::
 
-### AMRAP (As Many Reps as Possible)
+### 2. AMRAP (As Many Reps as Possible)
 
 <p class="subheading">1 × repetições máximas com máxima potência; 5 min de descanso</p>
 
@@ -119,7 +119,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Push-Up → Plyometric Push-Up
 :::
 
-### Metcon (Metabolic Conditioning)
+### 3. Metcon (Metabolic Conditioning)
 
 <p class="subheading">20–30 min de sequências contínuas com máxima intensidade; mínimo descanso</p>
 
@@ -131,7 +131,7 @@ update_date: 2025-04-30
 <section>
 ## Segunda-Feira: Active Recovery[↩︎](#summary) {#active-recovery}
 
-### Warm-Up
+### 1. Warm-Up
 
 <p class="subheading">5–10 min de mobilidade contínua com 50–60% MHR[^2]; sem descanso</p>
 
@@ -139,7 +139,7 @@ update_date: 2025-04-30
 - Caminhada
 :::
 
-### LISS (Low-Intensity Steady State)
+### 2. LISS (Low-Intensity Steady State)
 
 <p class="subheading">20–30 min de mobilidade contínua com 60–70% MHR; sem descanso</p>
 
@@ -147,7 +147,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Caminhada Acelerada → Corrida Leve
 :::
 
-### Cool-Down
+### 3. Cool-Down
 
 <p class="subheading">5–10 min de mobilidade contínua com 50–60% MHR; sem descanso</p>
 
@@ -159,7 +159,7 @@ update_date: 2025-04-30
 <section>
 ## Terça-Feira: Lower Chain[↩︎](#summary) {#lower-chain}
 
-### Activation
+### 1. Activation I
 
 <p class="subheading">2 × 15–20 s de isometria com máxima contração; 30 s de descanso</p>
 
@@ -167,7 +167,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Wall Sit → Static Squat Hold
 :::
 
-### Max Strength
+### 2. Max Strength I
 
 <p class="subheading">3 × 3–5 repetições com 0 RIR; 2–3 s de excêntrico na 1<sup>a</sup> repetição de cada série; 3 min de descanso</p>
 
@@ -175,7 +175,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Box Squat → Air Squat → Deep Squat → Archer Squat → Box Pistol Squat → Assisted Pistol Squat → Pistol Squat
 :::
 
-### Strength Assistance
+### 3. Strength Assistance I
 
 <p class="subheading">2 × 5–7 repetições com 0–1 RIR; 2 min de descanso</p>
 
@@ -183,7 +183,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Assisted Sissy Squat → Sissy Squat → Assisted Reverse Nordic Curl → Reverse Nordic Curl
 :::
 
-### Activation
+### 4. Activation II
 
 <p class="subheading">2 × 15–20 s de isometria com máxima contração; 30 s de descanso</p>
 
@@ -191,7 +191,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Glute Bridge Hold → Feet-Elevated Glute Bridge Hold
 :::
 
-### Max Strength
+### 5. Max Strength II
 
 <p class="subheading">3 × 3–5 repetições com 0 RIR; 2–3 s de excêntrico na 1<sup>a</sup> repetição de cada série; 3 min de descanso</p>
 
@@ -199,7 +199,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Tall-Kneeling Hip Hinge → Tall-Kneeling Good Morning → Band-Assisted Nordic Hamstring Curl → Nordic Hamstring Curl
 :::
 
-### Strength Assistance
+### 6. Strength Assistance II
 
 <p class="subheading">2 × 5–7 repetições com 0–1 RIR; 2 min de descanso</p>
 
@@ -207,7 +207,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Lunge → Bulgarian Split Squat → Assisted Shrimp Squat → Shrimp Squat
 :::
 
-### Finisher
+### 7. Finisher
 
 <p class="subheading">2 × repetições máximas com 1–2 RIR; 1 min de descanso</p>
 
@@ -215,7 +215,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Calf Raise → Single-Leg Calf Raise → Squat Hold Calf Raise
 :::
 
-### Technical Practice
+### 8. Technical Practice
 
 <p class="subheading">10–20 min de exploração livre com máximo controle</p>
 
@@ -227,7 +227,7 @@ update_date: 2025-04-30
 <section>
 ## Quarta-Feira: Upper Pull & Core[↩︎](#summary) {#upper-pull-and-core}
 
-### Activation
+### 1. Activation I
 
 <p class="subheading">2 × 15–20 s de isometria com máxima contração; 30 s de descanso</p>
 
@@ -235,7 +235,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Feet-Supported Passive Hang → Passive Hang → Active Hang
 :::
 
-### Max Strength
+### 2. Max Strength I
 
 <p class="subheading">3 × 3–5 repetições com 0 RIR; 2–3 s de excêntrico na 1<sup>a</sup> repetição de cada série; 3 min de descanso</p>
 
@@ -243,7 +243,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Pull-Up Negative → Pull-Up → Archer Pull-Up → Hollow Body Pull-Up → Assisted One-Arm Pull-Up → Uneven Pull-Up → One-Arm Pull-Up
 :::
 
-### Strength Assistance
+### 3. Strength Assistance I
 
 <p class="subheading">2 × 5–7 repetições com 0–1 RIR; 2 min de descanso</p>
 
@@ -251,7 +251,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Bent‑Knee Ring Inverted Row → Ring Inverted Row → Decline Ring Inverted Row → Tuck Front Lever Row
 :::
 
-### Activation
+### 4. Activation II
 
 <p class="subheading">2 × 15–20 s de isometria com máxima contração; 30 s de descanso</p>
 
@@ -259,7 +259,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Boat Hold → Hollow Body Hold
 :::
 
-### Max Strength
+### 5. Max Strength II
 
 <p class="subheading">3 × 3–5 repetições com 0 RIR; 2–3 s de excêntrico na 1<sup>a</sup> repetição de cada série; 3 min de descanso</p>
 
@@ -267,7 +267,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Hanging Knee Raise → Hanging Leg Raise → Toes-to-Bar
 :::
 
-### Strength Assistance
+### 6. Strength Assistance II
 
 <p class="subheading">2 × 5–7 repetições com 0–1 RIR; 2 min de descanso</p>
 
@@ -275,7 +275,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Kneeling Ab Ring Rollout Negative → Kneeling Ab Ring Rollout → Band-Assisted Standing Ab Ring Rollout → Standing Ab Ring Rollout
 :::
 
-### Finisher
+### 7. Finisher
 
 <p class="subheading">2 × repetições máximas com 1–2 RIR; 1 min de descanso</p>
 
@@ -283,7 +283,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Incline Scapular Pull-Up → Scapular Pull-Up → Decline Scapular Pull-Up
 :::
 
-### Technical Practice
+### 8. Technical Practice
 
 <p class="subheading">10–20 min de exploração livre com máximo controle</p>
 
@@ -295,7 +295,7 @@ update_date: 2025-04-30
 <section>
 ## Quinta-Feira: Upper Push[↩︎](#summary) {#upper-push}
 
-### Activation
+### 1. Activation I
 
 <p class="subheading">2 × 15–20 s de isometria com máxima contração; 30 s de descanso</p>
 
@@ -303,7 +303,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Plank → Straight-Arm Plank → Planche Lean
 :::
 
-### Max Strength
+### 2. Max Strength I
 
 <p class="subheading">3 × 3–5 repetições com 0 RIR; 2–3 s de excêntrico na 1<sup>a</sup> repetição de cada série; 3 min de descanso</p>
 
@@ -311,7 +311,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Kneeling Push-Up → Push-Up → Archer Push-Up → Assisted One-Arm Push-Up → One-Arm Push-Up
 :::
 
-### Strength Assistance
+### 3. Strength Assistance I
 
 <p class="subheading">2 × 5–7 repetições com 0–1 RIR; 2 min de descanso</p>
 
@@ -319,7 +319,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Bent‑Knee Bench Dip → Feet-Supported Ring Dip → Ring Dip → Straight Bar Dip
 :::
 
-### Activation
+### 4. Activation II
 
 <p class="subheading">2 × 15–20 s de isometria com máxima contração; 30 s de descanso</p>
 
@@ -327,7 +327,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Pike Hold → Feet-Elevated Pike Hold → Chest-to-Wall Handstand Hold
 :::
 
-### Max Strength
+### 5. Max Strength II
 
 <p class="subheading">3 × 3–5 repetições com 0 RIR; 2–3 s de excêntrico na 1<sup>a</sup> repetição de cada série; 3 min de descanso</p>
 
@@ -335,7 +335,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Incline Pike Push-Up → Pike Push-Up → Feet-Elevated Pike Push-Up → Deficit Pike Push-Up → Deficit Handstand Push-Up
 :::
 
-### Strength Assistance
+### 6. Strength Assistance II
 
 <p class="subheading">2 × 5–7 repetições com 0–1 RIR; 2 min de descanso</p>
 
@@ -343,7 +343,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Kneeling Diamond Push-Up → Diamond Push-Up → Ring Triceps Extension → Reverse-Grip Push‑Up → Pseudo Planche Push‑Up
 :::
 
-### Finisher
+### 7. Finisher
 
 <p class="subheading">2 × repetições máximas com 1–2 RIR; 1 min de descanso</p>
 
@@ -351,7 +351,7 @@ update_date: 2025-04-30
 - <em>Progressão:</em> Pike Shoulder Shrug → Elevated Pike Shoulder Shrug → Handstand Shoulder Shrug
 :::
 
-### Technical Practice
+### 8. Technical Practice
 
 <p class="subheading">10–20 min de exploração livre com máximo controle</p>
 
