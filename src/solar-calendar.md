@@ -29,52 +29,16 @@ update_date: 2025-04-17
 ## Primeiro Mês[↩︎](#summary) {#month-1}
 
 ::: list-stylized
-- **Declinação solar**:  -1 (solstício do inverno)
-- **Movimento solar**: Ascendente
-- **Data estimada N[^1]**: 21 de dezembro
-- **Data estimada S[^2]**: 21 de junho
-- **Hora simbólica**: 00:00
-:::
-</section>
-
-<section>
-## Segundo Mês[↩︎](#summary) {#month-2}
-
-::: list-stylized
-- **Declinação solar**: −<sup>2</sup>/<sub>3</sub>
-- **Movimento solar**: Ascendente
-- **Data estimada N**: 06 de fevereiro
-- **Data estimada S**: 09 de agosto
-- **Hora simbólica**: 02:00
-:::
-</section>
-
-<section>
-## Terceiro Mês[↩︎](#summary) {#month-3}
-
-::: list-stylized
-- **Declinação solar**: −<sup>1</sup>/<sub>3</sub>
-- **Movimento solar**: Ascendente
-- **Data estimada N**: 28 de fevereiro
-- **Data estimada S**: 02 de setembro
-- **Hora simbólica**: 04:00
-:::
-</section>
-
-<section>
-## Quarto Mês[↩︎](#summary) {#month-4}
-
-::: list-stylized
 - **Declinação solar**: 0 (equinócio da primavera)
 - **Movimento solar**: Ascendente
-- **Data estimada N**: 20 de março
-- **Data estimada S**: 23 de setembro
+- **Data estimada N[^1]**: 20 de março
+- **Data estimada S[^2]**: 23 de setembro
 - **Hora simbólica**: 06:00
 :::
 </section>
 
 <section>
-## Quinto Mês[↩︎](#summary) {#month-5}
+## Segundo Mês[↩︎](#summary) {#month-2}
 
 ::: list-stylized
 - **Declinação solar**: <sup>1</sup>/<sub>3</sub>
@@ -86,7 +50,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Sexto Mês[↩︎](#summary) {#month-6}
+## Terceiro Mês[↩︎](#summary) {#month-3}
 
 ::: list-stylized
 - **Declinação solar**: <sup>2</sup>/<sub>3</sub>
@@ -98,7 +62,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Sétimo Mês[↩︎](#summary) {#month-7}
+## Quarto Mês[↩︎](#summary) {#month-4}
 
 ::: list-stylized
 - **Declinação solar**: 1 (solstício de verão)
@@ -110,7 +74,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Oitavo Mês[↩︎](#summary) {#month-8}
+## Quinto Mês[↩︎](#summary) {#month-5}
 
 ::: list-stylized
 - **Declinação solar**: <sup>2</sup>/<sub>3</sub>
@@ -122,7 +86,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Nono Mês[↩︎](#summary) {#month-9}
+## Sexto Mês[↩︎](#summary) {#month-6}
 
 ::: list-stylized
 - **Declinação solar**: <sup>1</sup>/<sub>3</sub>
@@ -134,7 +98,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Décimo Mês[↩︎](#summary) {#month-10}
+## Sétimo Mês[↩︎](#summary) {#month-7}
 
 ::: list-stylized
 - **Declinação solar**: 0 (equinócio do outono)
@@ -146,7 +110,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Décimo Primeiro Mês[↩︎](#summary) {#month-11}
+## Oitavo Mês[↩︎](#summary) {#month-8}
 
 ::: list-stylized
 - **Declinação solar**: −<sup>1</sup>/<sub>3</sub>
@@ -158,7 +122,7 @@ update_date: 2025-04-17
 </section>
 
 <section>
-## Décimo Segundo Mês[↩︎](#summary) {#month-12}
+## Nono Mês[↩︎](#summary) {#month-9}
 
 ::: list-stylized
 - **Declinação solar**: −<sup>2</sup>/<sub>3</sub>
@@ -168,6 +132,43 @@ update_date: 2025-04-17
 - **Hora simbólica**: 22:00
 :::
 </section>
+
+<section>
+## Décimo Mês[↩︎](#summary) {#month-10}
+
+::: list-stylized
+- **Declinação solar**:  -1 (solstício do inverno)
+- **Movimento solar**: Ascendente
+- **Data estimada N**: 21 de dezembro
+- **Data estimada S**: 21 de junho
+- **Hora simbólica**: 00:00
+:::
+</section>
+
+<section>
+## Décimo Primeiro Mês[↩︎](#summary) {#month-11}
+
+::: list-stylized
+- **Declinação solar**: −<sup>2</sup>/<sub>3</sub>
+- **Movimento solar**: Ascendente
+- **Data estimada N**: 06 de fevereiro
+- **Data estimada S**: 09 de agosto
+- **Hora simbólica**: 02:00
+:::
+</section>
+
+<section>
+## Décimo Segundo Mês[↩︎](#summary) {#month-12}
+
+::: list-stylized
+- **Declinação solar**: −<sup>1</sup>/<sub>3</sub>
+- **Movimento solar**: Ascendente
+- **Data estimada N**: 28 de fevereiro
+- **Data estimada S**: 02 de setembro
+- **Hora simbólica**: 04:00
+:::
+</section>
+
 
 <section>
 ## Veja também
