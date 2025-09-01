@@ -115,7 +115,7 @@ update_date: 2025-04-30
 
 ::: list-stylized
 - <em>Progressão:</em> Deep Squat — Squat Jump
-- <em>Progressão:</em> Pull-Up — Chest-to-Bar Pull-Up — Bar Pullover — Muscle-Up
+- <em>Progressão:</em> Pull-Up — Chest-to-Bar Pull-Up — Plyometric Pull-Up
 - <em>Progressão:</em> Push-Up — Plyometric Push-Up
 :::
 
@@ -124,7 +124,7 @@ update_date: 2025-04-30
 <p class="subheading">20–30 min de sequências contínuas com intensidade máxima; descanso mínimo</p>
 
 ::: list-stylized
-- <em>Exemplos:</em> Beat Swing, Jump Rope, Double Unders, Battle Ropes, Cross-Body Mountain Climbers, Threshold Runs, High-Intensity Interval Training (HIIT), Every Minute On the Minute (EMOM), etc.
+- <em>Exemplos:</em> Beat Swing, Jump Rope, Double Unders, Battle Ropes, Burpees, Cross-Body Mountain Climbers, Threshold Runs, High-Intensity Interval Training (HIIT), Every Minute On the Minute (EMOM), etc.
 :::
 </section>
 
