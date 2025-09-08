@@ -133,7 +133,7 @@ update_date: 2025-04-30
 
 ### 1. Warm-Up
 
-<p class="subheading">5–10 min de locomoção contínua; MHR[^2] 50–60%/p>
+<p class="subheading">5–10 min de locomoção contínua; MHR[^2] 50–60%</p>
 
 ::: list-stylized
 - Caminhada
@@ -141,7 +141,7 @@ update_date: 2025-04-30
 
 ### 2. LISS (Low-Intensity Steady State)
 
-<p class="subheading">20–30 min de locomoção contínua; MHR 60–70%/p>
+<p class="subheading">20–30 min de locomoção contínua; MHR 60–70%</p>
 
 ::: list-stylized
 - <em>Progressão:</em> Caminhada Acelerada — Corrida Leve
@@ -149,7 +149,7 @@ update_date: 2025-04-30
 
 ### 3. Cool-Down
 
-<p class="subheading">5–10 min de locomoção contínua; MHR 50–60%/p>
+<p class="subheading">5–10 min de locomoção contínua; MHR 50–60%</p>
 
 ::: list-stylized
 - Caminhada
