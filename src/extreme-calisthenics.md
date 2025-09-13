@@ -124,7 +124,7 @@ update_date: 2025-04-30
 <p class="subheading">20–30 min de sequências contínuas com intensidade máxima; descanso mínimo</p>
 
 ::: list-stylized
-- <em>Exemplos:</em> Beat Swing, Jump Rope, Double Unders, Battle Ropes, Burpees, Cross-Body Mountain Climbers, Box Jumps, Threshold Runs, High-Intensity Interval Training (HIIT), Every Minute On the Minute (EMOM), etc.
+- <em>Exemplos:</em> Animal Flow, Beat Swing, Jump Rope, Double Unders, Battle Ropes, Burpees, Cross-Body Mountain Climbers, Box Jumps, Threshold Runs, High-Intensity Interval Training (HIIT), Every Minute On the Minute (EMOM), etc.
 :::
 </section>
 
@@ -356,7 +356,7 @@ update_date: 2025-04-30
 <p class="subheading">10–20 min de habilidades criativas com máximo controle; descanso mínimo</p>
 
 ::: list-stylized
-- <em>Exemplos:</em> Straight-Arm Plank Variations, Ring Support Hold, Animal Flow Variations, Frog Stand, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche, etc.
+- <em>Exemplos:</em> Straight-Arm Plank Variations, Ring Support Hold, Quadrupedal Movement Variations, Frog Stand, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche, etc.
 :::
 </section>
 
