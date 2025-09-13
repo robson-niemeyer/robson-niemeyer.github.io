@@ -288,7 +288,7 @@ update_date: 2025-04-30
 <p class="subheading">10–20 min de habilidades criativas com máximo controle; descanso mínimo</p>
 
 ::: list-stylized
-- <em>Exemplos:</em> Hanging L-Sit, Hanging Leg Raise Variations, Skin the Cat, Ice Cream Maker, Inverted Deadlift, Core Levers, Dragon Flag, Back Lever, Front Lever, Human Flag, Muscle-Up, etc.
+- <em>Exemplos:</em> Hanging L-Sit, Hanging Leg Raise Variations, Bar Pullover, Skin the Cat, Ice Cream Maker, Inverted Deadlift, Core Levers, Dragon Flag, Back Lever, Front Lever, Human Flag, Muscle-Up, etc.
 :::
 </section>
 
@@ -356,7 +356,7 @@ update_date: 2025-04-30
 <p class="subheading">10–20 min de habilidades criativas com máximo controle; descanso mínimo</p>
 
 ::: list-stylized
-- <em>Exemplos:</em> Straight-Arm Plank Variations, Ring Support Hold, Frog Stand, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche, etc.
+- <em>Exemplos:</em> Straight-Arm Plank Variations, Ring Support Hold, Animal Flow Variations, Frog Stand, Crow Pose, Elbow Lever, L-Sit, Handstand, Planche, etc.
 :::
 </section>
 
