@@ -85,6 +85,7 @@ p:last-child {
 
 a {
   color: #fff;
+  overflow-wrap: break-word;
 }
 
 .small {
