@@ -74,6 +74,11 @@ h2 {
   letter-spacing: 1px;
 }
 
+h3 {
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
 p {
   letter-spacing: 1px;
 }
