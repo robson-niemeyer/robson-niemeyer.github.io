@@ -163,11 +163,11 @@ a {
 
 svg {
   fill: currentColor;
-  height: 1rem;
+  height: 1.25rem;
   width: auto;
   transition: all 250ms ease-out;
 }
 
 svg:hover {
-  transform: scale(1.5);
+  transform: scale(1.25);
 }
