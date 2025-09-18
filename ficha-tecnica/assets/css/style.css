@@ -34,7 +34,6 @@ body {
 
 .template {
   display: grid;
-  gap: 1rem;
   grid-template-areas:
     "header"
     "main"
@@ -47,44 +46,7 @@ body {
 
 @media only screen and (min-width: 768px) {
   .template {
-    padding: 2rem;
-  }
-}
-
-header {
-  background-color: var(--header-color);
-  border: 2px solid var(--border-color);
-  border-radius: 4px;
-  grid-area: header;
-  margin: 1rem;
-  padding: 1rem;
-}
-
-.sidebar {
-  grid-area: sidebar;
-  padding: 1rem;
-}
-
-main {
-  background: url("../images/foto.png") no-repeat 33.3333% center / auto 87.5%;
-  grid-area: main;
-  padding: 1rem;
-}
-
-section {
-  display: grid;
-  gap: 1rem;
-  padding: 2rem 0;
-}
-
-section > div {
-  border-left: 2px solid var(--border-color);
-  padding-left: 1rem;
-}
-
-@media only screen and (min-width: 768px) {
-  section {
-    grid-template-columns: 1fr 1fr;
+    padding: 1rem;
   }
 }
 
@@ -116,14 +78,6 @@ p {
   letter-spacing: 1px;
 }
 
-main p { 
-  margin-bottom: 1rem;
-}
-
-main p:last-child {
-  margin-bottom: 0;
-}
-
 .subtitle {
   font-size: 1.125rem;
 }
@@ -143,6 +97,46 @@ ul {
 
 ul:last-child {
   margin-bottom: 0;
+}
+
+header {
+  background-color: var(--header-color);
+  border: 2px solid var(--border-color);
+  border-radius: 4px;
+  grid-area: header;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+main {
+  background: url("../images/foto.png") no-repeat 33.3333% center / auto 87.5%;
+  grid-area: main;
+}
+
+main p { 
+  margin-bottom: 1rem;
+}
+
+main p:last-child {
+  margin-bottom: 0;
+}
+
+section {
+  display: grid;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+section > div {
+  border-left: 2px solid var(--border-color);
+  padding-left: 1rem;
+}
+
+@media only screen and (min-width: 768px) {
+  section {
+    grid-template-columns: repeat(2, 1fr);
+    padding: 1rem;
+  }
 }
 
 footer {
