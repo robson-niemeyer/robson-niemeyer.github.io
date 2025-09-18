@@ -165,4 +165,9 @@ svg {
   fill: currentColor;
   height: 1rem;
   width: auto;
+  transition: all 250ms ease-out;
+}
+
+svg:hover {
+  transform: scale(1.5);
 }
