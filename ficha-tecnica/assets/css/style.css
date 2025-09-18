@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Special+Elite&display=swap');
+
+:root {
+  --background-color: hsl(240 9.375% 9.375%);
+  --text-color: hsl(225 9.375% 93.75%);
+  --link-color: hsl(90 56.25% 56.25%);
+  --border-color: hsl(240 9.375% 28.125%);
+  --header-color: hsl(225 9.375% 18.75%);
+  --sidebar-color: hsl(225 9.375% 18.75%);
+  --main-color: hsl(225 9.375% 18.75%);
+  --footer-color: hsl(225 9.375% 18.75%);
+}
+
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  border-width: 0;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--background-color); 
+  color: var(--text-color);
+  display: grid;
+  font-family: "Special Elite", system-ui, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  gap: 1rem;
+  grid-template-areas:
+    "header"
+    "main"
+    "footer";
+  grid-template-rows: auto 1fr auto;
+  line-height: 1.5;
+  min-height: 100vh;
+  padding: 2rem;
+}
+
+header {
+  background-color: var(--header-color);
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  grid-area: header;
+  padding: 1rem;
+}
+
+.sidebar {
+  grid-area: sidebar;
+  padding: 1rem;
+}
+
+main {
+  grid-area: main;
+  padding: 1rem;
+}
+
+section {
+  display: grid;
+  gap: 1rem;
+  padding: 2rem;
+}
+
+@media only screen and (min-width: 768px) {
+  section {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+footer {
+  background-color: var(--footer-color);
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  grid-area: footer;
+  padding: 1rem;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+h1 {
+  font-family: "Black Ops One", system-ui, sans-serif;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: "Black Ops One", system-ui, sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+}
+
+p {
+  letter-spacing: 1px;
+}
+
+.subtitle {
+  font-size: 1.125rem;
+}
+
+main p {
+  margin-bottom: 1rem;
+}
+
+main p:last-child {
+  margin-bottom: 0;
+}
+
+.small {
+  font-size: 0.75em;
+}
+
+.text-center {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+.icon-group {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 0.5rem;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+svg {
+  fill: currentColor;
+  height: 1rem;
+  width: auto;
+}
