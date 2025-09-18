@@ -82,14 +82,6 @@ section {
   }
 }
 
-footer {
-  background-color: var(--footer-color);
-  border: 1px solid var(--border-color);
-  border-radius: 4px;
-  grid-area: footer;
-  padding: 1rem;
-}
-
 hgroup {
   display: flex;
   flex-direction: column;
@@ -118,16 +110,16 @@ p {
   letter-spacing: 1px;
 }
 
-.subtitle {
-  font-size: 1.125rem;
-}
-
-main p {
+main p { 
   margin-bottom: 1rem;
 }
 
 main p:last-child {
   margin-bottom: 0;
+}
+
+.subtitle {
+  font-size: 1.125rem;
 }
 
 .small {
@@ -140,13 +132,26 @@ main p:last-child {
 
 ul {
   list-style: none;
+  margin-bottom: 1rem;
+}
+
+ul:last-child {
+  margin-bottom: 0;
+}
+
+footer {
+  background-color: var(--footer-color);
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  grid-area: footer;
+  padding: 1rem;
 }
 
 .icon-group {
   display: flex;
   gap: 0.5rem;
   justify-content: center;
-  margin-bottom: 0.5rem;
+  margin: 0.5rem 0;
 }
 
 a {
