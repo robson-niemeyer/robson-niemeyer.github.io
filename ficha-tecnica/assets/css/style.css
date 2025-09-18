@@ -44,12 +44,6 @@ body {
   min-height: 100vh;
 }
 
-@media only screen and (min-width: 768px) {
-  .template {
-    padding: 1rem;
-  }
-}
-
 hgroup {
   display: flex;
   flex-direction: column;
@@ -137,13 +131,6 @@ section > div {
   padding-left: 1rem;
 }
 
-@media only screen and (min-width: 768px) {
-  section {
-    grid-template-columns: repeat(2, 1fr);
-    padding: 1rem;
-  }
-}
-
 footer {
   background-color: var(--footer-color);
   border: 2px solid var(--border-color);
@@ -172,6 +159,17 @@ svg {
   transition: all 250ms ease-out;
 }
 
-svg:hover {
-  transform: scale(1.25);
+@media only screen and (min-width: 768px) {
+  .template {
+    padding: 1rem;
+  }
+
+  section {
+    grid-template-columns: repeat(2, 1fr);
+    padding: 1rem;
+  }
+
+  svg:hover {
+    transform: scale(1.25);
+  }
 }
