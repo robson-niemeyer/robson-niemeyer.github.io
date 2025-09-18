@@ -43,7 +43,6 @@ body {
   margin: 0 auto;
   max-width: 1200px;
   min-height: 100vh;
-  padding: 1rem;
 }
 
 @media only screen and (min-width: 768px) {
@@ -57,6 +56,7 @@ header {
   border: 1px solid var(--border-color);
   border-radius: 4px;
   grid-area: header;
+  margin: 1rem;
   padding: 1rem;
 }
 
@@ -145,6 +145,7 @@ footer {
   border: 1px solid var(--border-color);
   border-radius: 4px;
   grid-area: footer;
+  margin: 1rem;
   padding: 1rem;
 }
 
