@@ -66,6 +66,7 @@ header {
 }
 
 main {
+  background: url("../images/foto.png") no-repeat 33.3333% center / auto 87.5%;
   grid-area: main;
   padding: 1rem;
 }
