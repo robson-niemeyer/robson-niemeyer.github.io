@@ -26,23 +26,28 @@
 body {
   background-color: var(--background-color); 
   color: var(--text-color);
-  display: grid;
   font-family: "Special Elite", system-ui, sans-serif;
   font-size: 1rem;
   font-weight: 400;
+  line-height: 1.5;
+}
+
+.template {
+  display: grid;
   gap: 1rem;
   grid-template-areas:
     "header"
     "main"
     "footer";
   grid-template-rows: auto 1fr auto;
-  line-height: 1.5;
+  margin: 0 auto;
+  max-width: 1200px;
   min-height: 100vh;
   padding: 1rem;
 }
 
 @media only screen and (min-width: 768px) {
-  body {
+  .template {
     padding: 2rem;
   }
 }
@@ -85,11 +90,16 @@ footer {
   padding: 1rem;
 }
 
+hgroup {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
 h1,
-h2,
-h3 {
+h2 {
   font-weight: 700;
-  line-height: 1.25;
+  line-height: 1.125;
 }
 
 h1 {
