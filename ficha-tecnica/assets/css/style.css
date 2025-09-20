@@ -1,4 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Special+Elite&display=swap');
+@font-face {
+  font-family: "Black Ops One";
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local("Black Ops One"),
+    local("Black Ops One Regular"),
+    local("BlackOpsOne-Regular"),
+    url("../fonts/BlackOpsOne-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Special Elite";
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local("Special Elite"),
+    local("Special Elite Regular"),
+    local("SpecialElite-Regular"),
+    url("../fonts/SpecialElite-Regular.ttf") format("truetype");
+}
 
 :root {
   --background-color: hsl(240 9.375% 9.375%);
@@ -32,7 +52,7 @@ body {
   line-height: 1.5;
 }
 
-.template {
+.page-structure {
   display: grid;
   grid-template-areas:
     "header"
@@ -169,7 +189,7 @@ svg {
 }
 
 @media only screen and (min-width: 768px) {
-  .template {
+  .page-structure {
     padding: 1rem;
   }
 
