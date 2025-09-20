@@ -171,7 +171,7 @@ footer {
 
 .icon-group {
   display: flex;
-  gap: 0.5rem;
+  gap: 1rem;
   justify-content: center;
   margin: 0.5rem 0;
 }
