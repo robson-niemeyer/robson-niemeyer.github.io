@@ -1,0 +1,2 @@
+all:
+	./minify-css.sh
