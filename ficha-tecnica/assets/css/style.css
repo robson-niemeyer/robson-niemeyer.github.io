@@ -112,9 +112,16 @@ main {
   grid-area: main;
 }
 
-main p,
-main li { 
+main ul {
+  list-style: inside;
+}
+
+main p { 
   margin-bottom: 1rem;
+}
+
+main li { 
+  margin-bottom: 0.5rem;
 }
 
 main p:last-child,
