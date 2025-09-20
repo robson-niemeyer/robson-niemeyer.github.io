@@ -1,2 +1,2 @@
 all:
-	./minify-css.sh
+	./minify-css.sh ./assets/css/style.css
