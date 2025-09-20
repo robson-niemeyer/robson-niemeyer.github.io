@@ -112,11 +112,13 @@ main {
   grid-area: main;
 }
 
-main p { 
+main p,
+main li { 
   margin-bottom: 1rem;
 }
 
-main p:last-child {
+main p:last-child,
+main li:last-child {
   margin-bottom: 0;
 }
 
