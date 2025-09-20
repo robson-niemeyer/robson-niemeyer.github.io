@@ -130,7 +130,7 @@ header {
 }
 
 main {
-  background: url("../images/foto.png") no-repeat 33.3333% center / auto 87.5%;
+  background: url("../images/photo.webp") no-repeat 33.3333% center / auto 87.5%;
   grid-area: main;
 }
 
