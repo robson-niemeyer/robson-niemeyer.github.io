@@ -164,7 +164,7 @@ update_date: 2025-04-30
 <p class="subheading">2 × 15–20 s de isometria com contração máxima; 30 s de descanso</p>
 
 ::: list-stylized
-- <em>Progressão:</em> Wall Sit — Static Squat Hold
+- <em>Progressão:</em> Glute Bridge Hold — Feet-Elevated Glute Bridge Hold
 :::
 
 ### 2. Max Strength I
@@ -172,7 +172,7 @@ update_date: 2025-04-30
 <p class="subheading">3 × 3–5 reps com excêntrico controlado (2–3 s na 1<sup>a</sup> rep de cada série); RIR 0; 3 min de descanso</p>
 
 ::: list-stylized
-- <em>Progressão:</em> Box Squat — Air Squat — Deep Squat — Archer Squat — Box Pistol Squat — Assisted Pistol Squat — Pistol Squat
+- <em>Progressão:</em> Tall-Kneeling Hip Hinge — Tall-Kneeling Good Morning — Band-Assisted Nordic Hamstring Curl — Nordic Hamstring Curl
 :::
 
 ### 3. Strength Assistance I
@@ -180,7 +180,7 @@ update_date: 2025-04-30
 <p class="subheading">2 × 5–7 reps com excêntrico controlado; RIR 0–1; 2 min de descanso</p>
 
 ::: list-stylized
-- <em>Progressão:</em> Assisted Sissy Squat — Sissy Squat — Assisted Reverse Nordic Curl — Reverse Nordic Curl
+- <em>Progressão:</em> Lunge — Bulgarian Split Squat — Assisted Shrimp Squat — Shrimp Squat
 :::
 
 ### 4. Activation II
@@ -188,7 +188,7 @@ update_date: 2025-04-30
 <p class="subheading">2 × 15–20 s de isometria com contração máxima; 30 s de descanso</p>
 
 ::: list-stylized
-- <em>Progressão:</em> Glute Bridge Hold — Feet-Elevated Glute Bridge Hold
+- <em>Progressão:</em> Wall Sit — Static Squat Hold
 :::
 
 ### 5. Max Strength II
@@ -196,7 +196,7 @@ update_date: 2025-04-30
 <p class="subheading">3 × 3–5 reps com excêntrico controlado (2–3 s na 1<sup>a</sup> rep de cada série); RIR 0; 3 min de descanso</p>
 
 ::: list-stylized
-- <em>Progressão:</em> Tall-Kneeling Hip Hinge — Tall-Kneeling Good Morning — Band-Assisted Nordic Hamstring Curl — Nordic Hamstring Curl
+- <em>Progressão:</em> Box Squat — Air Squat — Deep Squat — Archer Squat — Box Pistol Squat — Assisted Pistol Squat — Pistol Squat
 :::
 
 ### 6. Strength Assistance II
@@ -204,7 +204,7 @@ update_date: 2025-04-30
 <p class="subheading">2 × 5–7 reps com excêntrico controlado; RIR 0–1; 2 min de descanso</p>
 
 ::: list-stylized
-- <em>Progressão:</em> Lunge — Bulgarian Split Squat — Assisted Shrimp Squat — Shrimp Squat
+- <em>Progressão:</em> Assisted Sissy Squat — Sissy Squat — Assisted Reverse Nordic Curl — Reverse Nordic Curl
 :::
 
 ### 7. Finisher
@@ -232,7 +232,7 @@ update_date: 2025-04-30
 <p class="subheading">2 × 15–20 s de isometria com contração máxima; 30 s de descanso</p>
 
 ::: list-stylized
-- <em>Progressão:</em> Feet-Supported Passive Hang — Passive Hang — Active Hang
+- <em>Progressão:</em> Boat Hold — Hollow Body Hold
 :::
 
 ### 2. Max Strength I
@@ -240,7 +240,7 @@ update_date: 2025-04-30
 <p class="subheading">3 × 3–5 reps com excêntrico controlado (2–3 s na 1<sup>a</sup> rep de cada série); RIR 0; 3 min de descanso</p>
 
 ::: list-stylized
-- <em>Progressão:</em> Pull-Up Negative — Pull-Up — Archer Pull-Up — Hollow Body Pull-Up — Assisted One-Arm Pull-Up — Uneven Pull-Up — One-Arm Pull-Up
+- <em>Progressão:</em> Hanging Knee Raise — Hanging Leg Raise — Toes-to-Bar
 :::
 
 ### 3. Strength Assistance I
@@ -248,7 +248,7 @@ update_date: 2025-04-30
 <p class="subheading">2 × 5–7 reps com excêntrico controlado; RIR 0–1; 2 min de descanso</p>
 
 ::: list-stylized
-- <em>Progressão:</em> Bent‑Knee Ring Inverted Row — Ring Inverted Row — Decline Ring Inverted Row — Tuck Front Lever Row
+- <em>Progressão:</em> Kneeling Ab Ring Rollout Negative — Kneeling Ab Ring Rollout — Band-Assisted Standing Ab Ring Rollout — Standing Ab Ring Rollout
 :::
 
 ### 4. Activation II
@@ -256,7 +256,7 @@ update_date: 2025-04-30
 <p class="subheading">2 × 15–20 s de isometria com contração máxima; 30 s de descanso</p>
 
 ::: list-stylized
-- <em>Progressão:</em> Boat Hold — Hollow Body Hold
+- <em>Progressão:</em> Feet-Supported Passive Hang — Passive Hang — Active Hang
 :::
 
 ### 5. Max Strength II
@@ -264,7 +264,7 @@ update_date: 2025-04-30
 <p class="subheading">3 × 3–5 reps com excêntrico controlado (2–3 s na 1<sup>a</sup> rep de cada série); RIR 0; 3 min de descanso</p>
 
 ::: list-stylized
-- <em>Progressão:</em> Hanging Knee Raise — Hanging Leg Raise — Toes-to-Bar
+- <em>Progressão:</em> Pull-Up Negative — Pull-Up — Archer Pull-Up — Hollow Body Pull-Up — Assisted One-Arm Pull-Up — Uneven Pull-Up — One-Arm Pull-Up
 :::
 
 ### 6. Strength Assistance II
@@ -272,7 +272,7 @@ update_date: 2025-04-30
 <p class="subheading">2 × 5–7 reps com excêntrico controlado; RIR 0–1; 2 min de descanso</p>
 
 ::: list-stylized
-- <em>Progressão:</em> Kneeling Ab Ring Rollout Negative — Kneeling Ab Ring Rollout — Band-Assisted Standing Ab Ring Rollout — Standing Ab Ring Rollout
+- <em>Progressão:</em> Bent‑Knee Ring Inverted Row — Ring Inverted Row — Decline Ring Inverted Row — Tuck Front Lever Row
 :::
 
 ### 7. Finisher
