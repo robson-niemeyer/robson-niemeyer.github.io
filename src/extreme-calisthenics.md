@@ -280,7 +280,7 @@ update_date: 2025-04-30
 <p class="subheading">2 × reps máximas com ritmo constante; RIR 1–2; 1 min de descanso</p>
 
 ::: list-stylized
-- <em>Progressão:</em> Incline Scapular Pull-Up — Scapular Pull-Up — Decline Scapular Pull-Up
+- <em>Progressão:</em> Assisted Scapular Pull-Up — Scapular Pull-Up — Hollow Body Scapular Pull-Up
 :::
 
 ### 8. Technical Practice
